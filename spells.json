@@ -1,0 +1,2542 @@
+[
+  {
+    "name": "Magic Arrow",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Magic_Arrow",
+    "iconUrl": "https://heroes.thelazy.net/images/f/f5/Magic_Arrow_small.png",
+    "school": {
+      "name": "All"
+    },
+    "level": 1,
+    "cost": {
+      "display": "5/4",
+      "values": [
+        5,
+        4
+      ]
+    },
+    "damage": {
+      "equation": "10/20/30 + (power × 10)",
+      "aoe": "1",
+      "atPower": {
+        "1": {
+          "damage": "40",
+          "damagePerSpellPoint": "10"
+        },
+        "10": {
+          "damage": "130",
+          "damagePerSpellPoint": "32.5"
+        },
+        "25": {
+          "damage": "280",
+          "damagePerSpellPoint": "70"
+        }
+      }
+    },
+    "creatureCasters": [
+      {
+        "name": "Faerie Dragon",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
+        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+      }
+    ]
+  },
+  {
+    "name": "Lightning Bolt",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Lightning_Bolt",
+    "iconUrl": "https://heroes.thelazy.net/images/8/8d/Lightning_Bolt_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "10/8",
+      "values": [
+        10,
+        8
+      ]
+    },
+    "damage": {
+      "equation": "10/20/50 + (power × 25)",
+      "aoe": "1",
+      "atPower": {
+        "1": {
+          "damage": "75",
+          "damagePerSpellPoint": "9.38"
+        },
+        "10": {
+          "damage": "300",
+          "damagePerSpellPoint": "37.5"
+        },
+        "25": {
+          "damage": "675",
+          "damagePerSpellPoint": "84.38"
+        }
+      }
+    },
+    "creatureCasters": [
+      {
+        "name": "Faerie Dragon",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
+        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+      },
+      {
+        "name": "Thunderbird",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Thunderbird",
+        "iconUrl": "https://heroes.thelazy.net/images/7/7b/Mini_Portrait_Thunderbird.png"
+      }
+    ]
+  },
+  {
+    "name": "Destroy Undead",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Destroy_Undead",
+    "iconUrl": "https://heroes.thelazy.net/images/6/6a/Destroy_Undead_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "15/12",
+      "values": [
+        15,
+        12
+      ]
+    },
+    "damage": {
+      "equation": "10/20/50 + (power × 10)",
+      "aoe": "*",
+      "atPower": {
+        "1": {
+          "damage": "60*",
+          "damagePerSpellPoint": "5*"
+        },
+        "10": {
+          "damage": "150*",
+          "damagePerSpellPoint": "12.5*"
+        },
+        "25": {
+          "damage": "300*",
+          "damagePerSpellPoint": "25*"
+        }
+      },
+      "notes": "Damages all undead troops",
+      "noteLinks": [
+        {
+          "name": "Undead",
+          "pageUrl": "https://heroes.thelazy.net/index.php/Undead"
+        }
+      ]
+    },
+    "creatureCasters": []
+  },
+  {
+    "name": "Chain Lightning",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Chain_Lightning",
+    "iconUrl": "https://heroes.thelazy.net/images/7/7e/Chain_Lightning_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "24/20",
+      "values": [
+        24,
+        20
+      ]
+    },
+    "damage": {
+      "equation": "25/50/100 + (power × 40)",
+      "aoe": "*",
+      "atPower": {
+        "1": {
+          "damage": "140*",
+          "damagePerSpellPoint": "7*"
+        },
+        "10": {
+          "damage": "500*",
+          "damagePerSpellPoint": "25*"
+        },
+        "25": {
+          "damage": "1100*",
+          "damagePerSpellPoint": "55*"
+        }
+      },
+      "notes": "Strikes up to 5 troops"
+    },
+    "creatureCasters": [
+      {
+        "name": "Faerie Dragon",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
+        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+      }
+    ]
+  },
+  {
+    "name": "Titan's Lightning Bolt",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Lightning_Bolt",
+    "iconUrl": "https://heroes.thelazy.net/images/8/87/Titan%27s_Lightning_Bolt_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 5,
+    "cost": {
+      "display": "0",
+      "values": [
+        0
+      ]
+    },
+    "damage": {
+      "equation": "600",
+      "aoe": "1",
+      "atPower": {
+        "1": {
+          "damage": "600",
+          "damagePerSpellPoint": "inf"
+        },
+        "10": {
+          "damage": "600",
+          "damagePerSpellPoint": "inf"
+        },
+        "25": {
+          "damage": "600",
+          "damagePerSpellPoint": "inf"
+        }
+      },
+      "notes": "Requires Titan's Thunder",
+      "noteLinks": [
+        {
+          "name": "Titan's Thunder",
+          "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Thunder"
+        }
+      ]
+    },
+    "creatureCasters": []
+  },
+  {
+    "name": "Death Ripple",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Death_Ripple",
+    "iconUrl": "https://heroes.thelazy.net/images/f/fe/Death_Ripple_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "10/8",
+      "values": [
+        10,
+        8
+      ]
+    },
+    "damage": {
+      "equation": "10/20/30 + (power × 5)",
+      "aoe": "*",
+      "atPower": {
+        "1": {
+          "damage": "35*",
+          "damagePerSpellPoint": "4.375*"
+        },
+        "10": {
+          "damage": "80*",
+          "damagePerSpellPoint": "10*"
+        },
+        "25": {
+          "damage": "155*",
+          "damagePerSpellPoint": "19.38*"
+        }
+      },
+      "notes": "Damages all living troops",
+      "noteLinks": [
+        {
+          "name": "Living",
+          "pageUrl": "https://heroes.thelazy.net/index.php/Living"
+        }
+      ]
+    },
+    "creatureCasters": []
+  },
+  {
+    "name": "Meteor Shower",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Meteor_Shower",
+    "iconUrl": "https://heroes.thelazy.net/images/5/58/Meteor_Shower_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "16/12",
+      "values": [
+        16,
+        12
+      ]
+    },
+    "damage": {
+      "equation": "25/50/100 + (power × 25)",
+      "aoe": "3-wide (7-hex)",
+      "atPower": {
+        "1": {
+          "damage": "125*",
+          "damagePerSpellPoint": "10.42*"
+        },
+        "10": {
+          "damage": "350*",
+          "damagePerSpellPoint": "29.17*"
+        },
+        "25": {
+          "damage": "725*",
+          "damagePerSpellPoint": "60.42*"
+        }
+      }
+    },
+    "creatureCasters": [
+      {
+        "name": "Faerie Dragon",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
+        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+      }
+    ]
+  },
+  {
+    "name": "Implosion",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Implosion",
+    "iconUrl": "https://heroes.thelazy.net/images/5/56/Implosion_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 5,
+    "cost": {
+      "display": "30/25",
+      "values": [
+        30,
+        25
+      ]
+    },
+    "damage": {
+      "equation": "100/200/300 + (power × 75)",
+      "aoe": "1",
+      "atPower": {
+        "1": {
+          "damage": "375",
+          "damagePerSpellPoint": "18.75"
+        },
+        "10": {
+          "damage": "1050",
+          "damagePerSpellPoint": "52.5"
+        },
+        "25": {
+          "damage": "2175",
+          "damagePerSpellPoint": "108.75"
+        }
+      }
+    },
+    "creatureCasters": []
+  },
+  {
+    "name": "Fire Wall",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Fire_Wall",
+    "iconUrl": "https://heroes.thelazy.net/images/c/cc/Fire_Wall_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "8/6",
+      "values": [
+        8,
+        6
+      ]
+    },
+    "damage": {
+      "equation": "10/20/50 + (power × 15) 10/20/50 + (power × 10)",
+      "aoe": "2/3-hex",
+      "atPower": {
+        "1": {
+          "damage": "65* 60*",
+          "damagePerSpellPoint": "10.83* 10*"
+        },
+        "10": {
+          "damage": "200* 150*",
+          "damagePerSpellPoint": "33.33* 25*"
+        },
+        "25": {
+          "damage": "425* 300*",
+          "damagePerSpellPoint": "70.83* 50*"
+        }
+      },
+      "notes": "Damages all units passing through hexes"
+    },
+    "creatureCasters": []
+  },
+  {
+    "name": "Fireball",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Fireball",
+    "iconUrl": "https://heroes.thelazy.net/images/f/f0/Fireball_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "15/12",
+      "values": [
+        15,
+        12
+      ]
+    },
+    "damage": {
+      "equation": "15/30/60 + (power × 10)",
+      "aoe": "3-wide (7-hex)",
+      "atPower": {
+        "1": {
+          "damage": "70*",
+          "damagePerSpellPoint": "5.83*"
+        },
+        "10": {
+          "damage": "160*",
+          "damagePerSpellPoint": "13.34*"
+        },
+        "25": {
+          "damage": "310*",
+          "damagePerSpellPoint": "25.83*"
+        }
+      }
+    },
+    "creatureCasters": [
+      {
+        "name": "Faerie Dragon",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
+        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+      }
+    ]
+  },
+  {
+    "name": "Land Mine",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Land_Mine",
+    "iconUrl": "https://heroes.thelazy.net/images/6/68/Land_Mine_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "18/15",
+      "values": [
+        18,
+        15
+      ]
+    },
+    "damage": {
+      "equation": "25/50/100 + (power × 10)",
+      "aoe": "4/6/8-hex",
+      "atPower": {
+        "1": {
+          "damage": "110*",
+          "damagePerSpellPoint": "7.33*"
+        },
+        "10": {
+          "damage": "200*",
+          "damagePerSpellPoint": "13.34*"
+        },
+        "25": {
+          "damage": "350*",
+          "damagePerSpellPoint": "23.33*"
+        }
+      },
+      "notes": "Damages first unit passing through each hex"
+    },
+    "creatureCasters": []
+  },
+  {
+    "name": "Armageddon",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Armageddon",
+    "iconUrl": "https://heroes.thelazy.net/images/1/1a/Armageddon_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "24/20",
+      "values": [
+        24,
+        20
+      ]
+    },
+    "damage": {
+      "equation": "30/60/120 + (power × 40) 30/60/120 + (power × 50)",
+      "aoe": "*",
+      "atPower": {
+        "1": {
+          "damage": "160* 170*",
+          "damagePerSpellPoint": "8* 8.5*"
+        },
+        "10": {
+          "damage": "520* 620*",
+          "damagePerSpellPoint": "26* 31*"
+        },
+        "25": {
+          "damage": "1120* 1370*",
+          "damagePerSpellPoint": "56* 68.5*"
+        }
+      },
+      "notes": "Damages all troops"
+    },
+    "creatureCasters": []
+  },
+  {
+    "name": "Inferno",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Inferno_(spell)",
+    "iconUrl": "https://heroes.thelazy.net/images/6/62/Inferno_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "16/12",
+      "values": [
+        16,
+        12
+      ]
+    },
+    "damage": {
+      "equation": "20/40/80 + (power × 10)",
+      "aoe": "5-wide (19-hex)",
+      "atPower": {
+        "1": {
+          "damage": "90*",
+          "damagePerSpellPoint": "7.5*"
+        },
+        "10": {
+          "damage": "180*",
+          "damagePerSpellPoint": "15*"
+        },
+        "25": {
+          "damage": "330*",
+          "damagePerSpellPoint": "27.5*"
+        }
+      }
+    },
+    "creatureCasters": [
+      {
+        "name": "Faerie Dragon",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
+        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+      }
+    ]
+  },
+  {
+    "name": "Ice Bolt",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ice_Bolt",
+    "iconUrl": "https://heroes.thelazy.net/images/a/a3/Ice_Bolt_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "8/6",
+      "values": [
+        8,
+        6
+      ]
+    },
+    "damage": {
+      "equation": "10/20/50 + (power × 20)",
+      "aoe": "1",
+      "atPower": {
+        "1": {
+          "damage": "70",
+          "damagePerSpellPoint": "11.67"
+        },
+        "10": {
+          "damage": "250",
+          "damagePerSpellPoint": "41.67"
+        },
+        "25": {
+          "damage": "550",
+          "damagePerSpellPoint": "91.67"
+        }
+      }
+    },
+    "creatureCasters": [
+      {
+        "name": "Faerie Dragon",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
+        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+      }
+    ]
+  },
+  {
+    "name": "Frost Ring",
+    "category": "Combat Damage Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Frost_Ring",
+    "iconUrl": "https://heroes.thelazy.net/images/f/f6/Frost_Ring_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "12/9",
+      "values": [
+        12,
+        9
+      ]
+    },
+    "damage": {
+      "equation": "15/30/60 + (power × 10)",
+      "aoe": "3-wide (6-hex)",
+      "atPower": {
+        "1": {
+          "damage": "70*",
+          "damagePerSpellPoint": "7.78*"
+        },
+        "10": {
+          "damage": "160*",
+          "damagePerSpellPoint": "17.78*"
+        },
+        "25": {
+          "damage": "310*",
+          "damagePerSpellPoint": "34.4*"
+        }
+      },
+      "notes": "Does not damage center hex."
+    },
+    "creatureCasters": [
+      {
+        "name": "Faerie Dragon",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
+        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+      }
+    ]
+  },
+  {
+    "name": "Haste",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Haste",
+    "iconUrl": "https://heroes.thelazy.net/images/b/b6/Haste_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "6/5",
+      "values": [
+        6,
+        5
+      ]
+    },
+    "type": "Buff",
+    "effect": "Increases the speed of the selected/all friendly unit(s) by 3/5.",
+    "effectLinks": [
+      {
+        "name": "Speed",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Speed"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      },
+      {
+        "name": "Enchanter",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
+        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+      }
+    ],
+    "artifactCasters": [
+      {
+        "name": "Ironfist of the Ogre",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre",
+        "iconUrl": "https://heroes.thelazy.net/images/4/4f/Ironfist_of_the_Ogre_am-artif.gif"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+      }
+    ]
+  },
+  {
+    "name": "Disrupting Ray",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Disrupting_Ray",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d2/Disrupting_Ray_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "10/8",
+      "values": [
+        10,
+        8
+      ]
+    },
+    "type": "Debuff",
+    "effect": "Reduces the defense of the selected unit by 3/4/5.",
+    "effectLinks": [
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Sea Witch",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Witch_and_Sorceress",
+        "iconUrl": "https://heroes.thelazy.net/images/5/5d/Mini_Portrait_Sea_Witch.png"
+      },
+      {
+        "name": "Sorceress",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Witch_and_Sorceress",
+        "iconUrl": "https://heroes.thelazy.net/images/e/e2/Mini_Portrait_Sorceress.png"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Fortune",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Fortune",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d3/Fortune_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "7/5",
+      "values": [
+        7,
+        5
+      ]
+    },
+    "type": "Buff",
+    "effect": "Increases the luck of the selected/all friendly unit(s) by 1/2.",
+    "effectLinks": [
+      {
+        "name": "Luck",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Luck"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      },
+      {
+        "name": "Leprechaun",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Leprechaun",
+        "iconUrl": "https://heroes.thelazy.net/images/5/52/Mini_Portrait_Leprechaun.png"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Precision",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Precision",
+    "iconUrl": "https://heroes.thelazy.net/images/a/a7/Precision_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "8/6",
+      "values": [
+        8,
+        6
+      ]
+    },
+    "type": "Buff",
+    "effect": "Increases the ranged attack of the selected/all friendly unit(s) by 3/6.",
+    "effectLinks": [
+      {
+        "name": "Ranged attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ranged_attack"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Protection from Air",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Protection_from_Air",
+    "iconUrl": "https://heroes.thelazy.net/images/1/11/Protection_from_Air_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "7/5",
+      "values": [
+        7,
+        5
+      ]
+    },
+    "type": "Buff",
+    "effect": "Reduces the damage received from Air Spells by the selected/all friendly unit(s) by 50%/75% 30%/50% .",
+    "effectLinks": [
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      },
+      {
+        "name": "Storm Elemental",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Storm_Elemental",
+        "iconUrl": "https://heroes.thelazy.net/images/0/00/Mini_Portrait_Storm_Elemental.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Air Shield",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Air_Shield",
+    "iconUrl": "https://heroes.thelazy.net/images/e/e1/Air_Shield_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "12/9",
+      "values": [
+        12,
+        9
+      ]
+    },
+    "type": "Buff",
+    "effect": "Reduces the damage received from ranged attacks by the selected/all friendly unit(s) by 25%/50%.",
+    "effectLinks": [
+      {
+        "name": "Ranged attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ranged_attack"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      },
+      {
+        "name": "Shaman",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shaman_and_Great_Shaman",
+        "iconUrl": "https://heroes.thelazy.net/images/3/39/Mini_Portrait_Shaman.png"
+      },
+      {
+        "name": "Great Shaman",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shaman_and_Great_Shaman",
+        "iconUrl": "https://heroes.thelazy.net/images/a/a7/Mini_Portrait_Great_Shaman.png"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+      },
+      {
+        "name": "Enchanter",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
+        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Hypnotize",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Hypnotize",
+    "iconUrl": "https://heroes.thelazy.net/images/7/75/Hypnotize_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "18/15",
+      "values": [
+        18,
+        15
+      ]
+    },
+    "type": "Debuff",
+    "effect": "Target enemy troop of less than (10/20/50 + (power × 25)) health is put under your control.",
+    "creatureCasters": [
+      {
+        "name": "Fangarm",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Fangarm",
+        "iconUrl": "https://heroes.thelazy.net/images/3/3d/Mini_Portrait_Fangarm.png"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Counterstrike",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Counterstrike",
+    "iconUrl": "https://heroes.thelazy.net/images/5/53/Counterstrike_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "24/20",
+      "values": [
+        24,
+        20
+      ]
+    },
+    "type": "Buff",
+    "effect": "Target/All allied troop(s) can retaliate against 1/2 additional attacks per round.",
+    "effectLinks": [
+      {
+        "name": "Retaliation",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Retaliation"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      }
+    ],
+    "artifactCasters": [
+      {
+        "name": "Ironfist of the Ogre",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre",
+        "iconUrl": "https://heroes.thelazy.net/images/4/4f/Ironfist_of_the_Ogre_am-artif.gif"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+      }
+    ]
+  },
+  {
+    "name": "Magic Mirror",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Magic_Mirror",
+    "iconUrl": "https://heroes.thelazy.net/images/1/10/Magic_Mirror_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 5,
+    "cost": {
+      "display": "25/20",
+      "values": [
+        25,
+        20
+      ]
+    },
+    "type": "Buff",
+    "effect": "Target allied troop has a 20%/30%40% chance of being reflecting enemy spells to a random enemy troop.",
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Summon Air Elemental",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Summon_Air_Elemental",
+    "iconUrl": "https://heroes.thelazy.net/images/a/a8/Summon_Air_Elemental_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 5,
+    "cost": {
+      "display": "25/20",
+      "values": [
+        25,
+        20
+      ]
+    },
+    "type": "Utility",
+    "effect": "Summons a troop of (power × 2/3/4) Air Elementals.",
+    "effectLinks": [
+      {
+        "name": "Air Elemental",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Air_Elemental"
+      }
+    ],
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Shield",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Shield",
+    "iconUrl": "https://heroes.thelazy.net/images/b/b0/Shield_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "5/4",
+      "values": [
+        5,
+        4
+      ]
+    },
+    "type": "Buff",
+    "effect": "Reduces the damage received from hand-to-hand attacks by the selected/all friendly unit(s) by 15%/30%.",
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Slow",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Slow",
+    "iconUrl": "https://heroes.thelazy.net/images/2/2e/Slow_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "6/5",
+      "values": [
+        6,
+        5
+      ]
+    },
+    "type": "Debuff",
+    "effect": "Reduces the speed of the selected/all enemy unit(s) by 75%/(50% + 1) 75%/50% .",
+    "effectLinks": [
+      {
+        "name": "Speed",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Speed"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Enchanter",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
+        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+      }
+    ],
+    "artifactCasters": [
+      {
+        "name": "Armor of the Damned",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned",
+        "iconUrl": "https://heroes.thelazy.net/images/c/c4/Armor_of_the_Damned_am-artif.gif"
+      }
+    ]
+  },
+  {
+    "name": "Stone Skin",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Stone_Skin",
+    "iconUrl": "https://heroes.thelazy.net/images/5/55/Stone_Skin_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "5/4",
+      "values": [
+        5,
+        4
+      ]
+    },
+    "type": "Buff",
+    "effect": "Increases the defense of the selected/all friendly unit(s) by 3/6.",
+    "effectLinks": [
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      },
+      {
+        "name": "Enchanter",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
+        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Quicksand",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Quicksand",
+    "iconUrl": "https://heroes.thelazy.net/images/3/32/Quicksand_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "8/6",
+      "values": [
+        8,
+        6
+      ]
+    },
+    "type": "Utility",
+    "effect": "Quicksand pits are placed in 4/6/8 random hexes.",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Animate Dead",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Animate_Dead",
+    "iconUrl": "https://heroes.thelazy.net/images/5/55/Animate_Dead_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "15/12",
+      "values": [
+        15,
+        12
+      ]
+    },
+    "type": "Utility",
+    "effect": "Reanimates (30/60/160 + (power × 50)) HP of killed friendly undead creatures permanently.",
+    "effectLinks": [
+      {
+        "name": "Undead",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Undead"
+      }
+    ],
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Anti-Magic",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Anti-Magic",
+    "iconUrl": "https://heroes.thelazy.net/images/c/cd/Anti-Magic_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "15/12",
+      "values": [
+        15,
+        12
+      ]
+    },
+    "type": "Buff",
+    "effect": "Target, allied troop becomes immune to spells with max level 3/4/5.",
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Earthquake",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Earthquake",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d5/Earthquake_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "20/17",
+      "values": [
+        20,
+        17
+      ]
+    },
+    "type": "Utility",
+    "effect": "Does one point of damage to 2/3/4 random castle walls during siege combat.",
+    "effectLinks": [
+      {
+        "name": "Siege",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Siege"
+      }
+    ],
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Force Field",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Force_Field",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d3/Force_Field_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "12/9",
+      "values": [
+        12,
+        9
+      ]
+    },
+    "type": "Utility",
+    "effect": "A 2/3-hex wide force wall is created at target hex. Movement through these hexes is blocked.",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Protection from Earth",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Protection_from_Earth",
+    "iconUrl": "https://heroes.thelazy.net/images/9/97/Protection_from_Earth_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "12/9",
+      "values": [
+        12,
+        9
+      ]
+    },
+    "type": "Buff",
+    "effect": "Reduces the damage received from Earth Spells by the selected/all friendly unit(s) by 50%/75% 30%/50% .",
+    "effectLinks": [
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      },
+      {
+        "name": "Magma Elemental",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Magma_Elemental",
+        "iconUrl": "https://heroes.thelazy.net/images/b/bc/Mini_Portrait_Magma_Elemental.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Resurrection",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Resurrection",
+    "iconUrl": "https://heroes.thelazy.net/images/a/aa/Resurrection_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "20/16",
+      "values": [
+        20,
+        16
+      ]
+    },
+    "type": "Utility",
+    "effect": "Reanimates (40/80/160 + (power × 50)) HP of killed friendly living creatures for the current battle/permanently.",
+    "effectLinks": [
+      {
+        "name": "Living",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Living"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Archangel",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Archangel",
+        "iconUrl": "https://heroes.thelazy.net/images/c/c2/Mini_Portrait_Archangel.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Sorrow",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sorrow",
+    "iconUrl": "https://heroes.thelazy.net/images/f/f0/Sorrow_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "16/12",
+      "values": [
+        16,
+        12
+      ]
+    },
+    "type": "Debuff",
+    "effect": "Reduces the morale of the selected/all enemy unit(s) by 1/2.",
+    "effectLinks": [
+      {
+        "name": "Morale",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morale"
+      }
+    ],
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Summon Earth Elemental",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Summon_Earth_Elemental",
+    "iconUrl": "https://heroes.thelazy.net/images/6/6e/Summon_Earth_Elemental_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 5,
+    "cost": {
+      "display": "25/20",
+      "values": [
+        25,
+        20
+      ]
+    },
+    "type": "Utility",
+    "effect": "Summons a troop of (power × 2/2.5/3 2/3/4 ) Earth Elementals.",
+    "effectLinks": [
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      },
+      {
+        "name": "Earth Elemental",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Earth_Elemental"
+      }
+    ],
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Bloodlust",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Bloodlust",
+    "iconUrl": "https://heroes.thelazy.net/images/2/21/Bloodlust_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "5/4",
+      "values": [
+        5,
+        4
+      ]
+    },
+    "type": "Buff",
+    "effect": "Increases the attack strength for hand-to-hand attacks of the selected/all friendly unit(s) by 3/6.",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      },
+      {
+        "name": "Ogre Mage",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ogre_Mage",
+        "iconUrl": "https://heroes.thelazy.net/images/c/c1/Mini_Portrait_Ogre_Mage.png"
+      },
+      {
+        "name": "Enchanter",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
+        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+      }
+    ],
+    "artifactCasters": [
+      {
+        "name": "Ironfist of the Ogre",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre",
+        "iconUrl": "https://heroes.thelazy.net/images/4/4f/Ironfist_of_the_Ogre_am-artif.gif"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+      }
+    ]
+  },
+  {
+    "name": "Curse",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Curse",
+    "iconUrl": "https://heroes.thelazy.net/images/c/ca/Curse_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "6/5",
+      "values": [
+        6,
+        5
+      ]
+    },
+    "type": "Debuff",
+    "effect": "Causes the selected/all enemy unit(s) to inflict minimum damage/(minimum damage - 1) when attacking.",
+    "creatureCasters": [
+      {
+        "name": "Black Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Black_Knight",
+        "iconUrl": "https://heroes.thelazy.net/images/8/84/Mini_Portrait_Black_Knight.png"
+      },
+      {
+        "name": "Dread Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Dread_Knight",
+        "iconUrl": "https://heroes.thelazy.net/images/d/d1/Mini_Portrait_Dread_Knight.png"
+      },
+      {
+        "name": "Mummy",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Mummy",
+        "iconUrl": "https://heroes.thelazy.net/images/e/e6/Mini_Portrait_Mummy.png"
+      }
+    ],
+    "artifactCasters": [
+      {
+        "name": "Armor of the Damned",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned",
+        "iconUrl": "https://heroes.thelazy.net/images/c/c4/Armor_of_the_Damned_am-artif.gif"
+      }
+    ]
+  },
+  {
+    "name": "Protection from Fire",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Protection_from_Fire",
+    "iconUrl": "https://heroes.thelazy.net/images/f/fe/Protection_from_Fire_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "5/4",
+      "values": [
+        5,
+        4
+      ]
+    },
+    "type": "Buff",
+    "effect": "Reduces the damage received from Fire Spells by the selected/all friendly unit(s) by 50%/75% 30%/50% .",
+    "effectLinks": [
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      },
+      {
+        "name": "Energy Elemental",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Energy_Elemental",
+        "iconUrl": "https://heroes.thelazy.net/images/7/7a/Mini_Portrait_Energy_Elemental.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Blind",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Blind",
+    "iconUrl": "https://heroes.thelazy.net/images/c/c4/Blind_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "10/8",
+      "values": [
+        10,
+        8
+      ]
+    },
+    "type": "Debuff",
+    "effect": "Selected enemy unit cannot act until attacked, dispelled or effect wears off. Retaliates at 50%/25%/0% strength.",
+    "effectLinks": [
+      {
+        "name": "Retaliation",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Retaliation"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Unicorn",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Unicorn",
+        "iconUrl": "https://heroes.thelazy.net/images/f/f1/Mini_Portrait_Unicorn.png"
+      },
+      {
+        "name": "War Unicorn",
+        "pageUrl": "https://heroes.thelazy.net/index.php/War_Unicorn",
+        "iconUrl": "https://heroes.thelazy.net/images/9/95/Mini_Portrait_War_Unicorn.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Misfortune",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Misfortune",
+    "iconUrl": "https://heroes.thelazy.net/images/8/8d/Misfortune_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "12/9",
+      "values": [
+        12,
+        9
+      ]
+    },
+    "type": "Debuff",
+    "effect": "Reduces the luck of the selected/all enemy unit(s) by 1/2.",
+    "effectLinks": [
+      {
+        "name": "Luck",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Luck"
+      }
+    ],
+    "creatureCasters": [],
+    "artifactCasters": [
+      {
+        "name": "Armor of the Damned",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned",
+        "iconUrl": "https://heroes.thelazy.net/images/c/c4/Armor_of_the_Damned_am-artif.gif"
+      }
+    ]
+  },
+  {
+    "name": "Berserk",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Berserk",
+    "iconUrl": "https://heroes.thelazy.net/images/0/04/Berserk_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "20/16",
+      "values": [
+        20,
+        16
+      ]
+    },
+    "type": "Debuff",
+    "effect": "Target attacks nearest troop. All creatures in a 1/2/3 hex radius affected.",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Fire Shield",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Fire_Shield",
+    "iconUrl": "https://heroes.thelazy.net/images/e/e0/Fire_Shield_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "16/12",
+      "values": [
+        16,
+        12
+      ]
+    },
+    "type": "Buff",
+    "effect": "20%/25%/30% of hand-to-hand damage inflicted on target, allied troop is counter-inflicted on attackers of the troop.",
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      }
+    ],
+    "artifactCasters": [
+      {
+        "name": "Ironfist of the Ogre",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre",
+        "iconUrl": "https://heroes.thelazy.net/images/4/4f/Ironfist_of_the_Ogre_am-artif.gif"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+      }
+    ]
+  },
+  {
+    "name": "Frenzy",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Frenzy",
+    "iconUrl": "https://heroes.thelazy.net/images/4/4b/Frenzy_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "16/12",
+      "values": [
+        16,
+        12
+      ]
+    },
+    "type": "Buff",
+    "effect": "Friendly troop's attack is increased by 100%/150%/200% of its defense and its defense is reduced to 0.",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Slayer",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Slayer",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d5/Slayer_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "16/12",
+      "values": [
+        16,
+        12
+      ]
+    },
+    "type": "Buff",
+    "effect": "Target allied troop's attack is increased by 8 against (Bsc) behemoths, dragons, ; and hydras, firebirds, sea serpents, and couatls /(Adv) devils and angels/(Exp) giants and dreadnoughts .",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Sacrifice",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sacrifice",
+    "iconUrl": "https://heroes.thelazy.net/images/7/70/Sacrifice_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 5,
+    "cost": {
+      "display": "25/20",
+      "values": [
+        25,
+        20
+      ]
+    },
+    "type": "Utility",
+    "effect": "Target, non-undead friendly troop is sacrificed.; Reanimates (power + sac'd troop's base HP + 3/6/10) × # sac'd) HP of non-undead friendly creatures permanently.",
+    "effectLinks": [
+      {
+        "name": "Undead",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Undead"
+      }
+    ],
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Summon Fire Elemental",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Summon_Fire_Elemental",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d8/Summon_Fire_Elemental_small.png",
+    "school": {
+      "name": "Fire",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+    },
+    "level": 5,
+    "cost": {
+      "display": "25/20",
+      "values": [
+        25,
+        20
+      ]
+    },
+    "type": "Utility",
+    "effect": "Summons a troop of (power × 2/2.5/3 2/3/4 ) Fire Elementals Fire Elementals.",
+    "effectLinks": [
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      },
+      {
+        "name": "Fire Elemental",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Fire_Elemental"
+      }
+    ],
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Bless",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Bless",
+    "iconUrl": "https://heroes.thelazy.net/images/4/4e/Bless_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "5/4",
+      "values": [
+        5,
+        4
+      ]
+    },
+    "type": "Buff",
+    "effect": "Causes the selected/all friendly unit(s) to inflict maximum damage/(maximum damage + 1) when attacking.",
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      },
+      {
+        "name": "Enchanter",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
+        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Cure",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Cure",
+    "iconUrl": "https://heroes.thelazy.net/images/4/4f/Cure_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "6/5",
+      "values": [
+        6,
+        5
+      ]
+    },
+    "type": "Utility",
+    "effect": "Removes all negative spell effects from the selected/all friendly unit(s) and heals for (10/20/30 + (power x 5)) HP",
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      },
+      {
+        "name": "Enchanter",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
+        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Dispel",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Dispel",
+    "iconUrl": "https://heroes.thelazy.net/images/3/3d/Dispel_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "5/4",
+      "values": [
+        5,
+        4
+      ]
+    },
+    "type": "Utility",
+    "effect": "Removes all spell effects from the (Bsc) selected friendly/(Adv) selected enemy/(Exp) all unit(s).",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Protection from Water",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Protection_from_Water",
+    "iconUrl": "https://heroes.thelazy.net/images/4/45/Protection_from_Water_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "5/4",
+      "values": [
+        5,
+        4
+      ]
+    },
+    "type": "Buff",
+    "effect": "Reduces the damage received from Water Spells by the selected/all friendly unit(s) by 50%/75% 30%/50% .",
+    "effectLinks": [
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      },
+      {
+        "name": "Ice Elemental",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ice_Elemental",
+        "iconUrl": "https://heroes.thelazy.net/images/5/56/Mini_Portrait_Ice_Elemental.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Remove Obstacle",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Remove_Obstacle",
+    "iconUrl": "https://heroes.thelazy.net/images/0/00/Remove_Obstacle_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "7/5",
+      "values": [
+        7,
+        5
+      ]
+    },
+    "type": "Utility",
+    "effect": "Removes a (Bsc) non-magic obstacle/(Adv) Fire Wall/(Exp) magical obstacle from the battlefield.; Integrated obstacles (such as cliffs) are not affected.",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Weakness",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Weakness",
+    "iconUrl": "https://heroes.thelazy.net/images/2/2a/Weakness_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "8/6",
+      "values": [
+        8,
+        6
+      ]
+    },
+    "type": "Debuff",
+    "effect": "Reduces the attack of the selected/all enemy unit(s) by 3/6.",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Sea Witch",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Witch_and_Sorceress",
+        "iconUrl": "https://heroes.thelazy.net/images/5/5d/Mini_Portrait_Sea_Witch.png"
+      },
+      {
+        "name": "Sorceress",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Witch_and_Sorceress",
+        "iconUrl": "https://heroes.thelazy.net/images/e/e2/Mini_Portrait_Sorceress.png"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+      },
+      {
+        "name": "Enchanter",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
+        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+      }
+    ],
+    "artifactCasters": [
+      {
+        "name": "Armor of the Damned",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned",
+        "iconUrl": "https://heroes.thelazy.net/images/c/c4/Armor_of_the_Damned_am-artif.gif"
+      }
+    ]
+  },
+  {
+    "name": "Forgetfulness",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Forgetfulness",
+    "iconUrl": "https://heroes.thelazy.net/images/4/4c/Forgetfulness_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "12/9",
+      "values": [
+        12,
+        9
+      ]
+    },
+    "type": "Debuff",
+    "effect": "Targets a selected/all enemy ranged troop(s).; (Bsc) Half/(Adv) All the creatures cannot shoot. Half the creatures cannot melee attack.",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Mirth",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Mirth",
+    "iconUrl": "https://heroes.thelazy.net/images/6/63/Mirth_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "12/9",
+      "values": [
+        12,
+        9
+      ]
+    },
+    "type": "Buff",
+    "effect": "Increases the morale of the selected/all friendly unit(s) by 1/2.",
+    "effectLinks": [
+      {
+        "name": "Morale",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morale"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      },
+      {
+        "name": "Satyr",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Satyr",
+        "iconUrl": "https://heroes.thelazy.net/images/6/6f/Mini_Portrait_Satyr.png"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Teleport",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Teleport",
+    "iconUrl": "https://heroes.thelazy.net/images/9/9b/Teleport_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 3,
+    "cost": {
+      "display": "15/12/6/3",
+      "values": [
+        15,
+        12,
+        6,
+        3
+      ]
+    },
+    "type": "Utility",
+    "effect": "Target allied troop instantly moves to an unoccupied target hex.; (Bsc) Except over walls or moats. (Adv) Except over moats. (Exp) No restrictions.",
+    "creatureCasters": [
+      {
+        "name": "Jotunn",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Jotunn_and_Jotunn_Warlord",
+        "iconUrl": "https://heroes.thelazy.net/images/4/4b/Mini_Portrait_Jotunn.png"
+      },
+      {
+        "name": "Jotunn Warlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Jotunn_and_Jotunn_Warlord",
+        "iconUrl": "https://heroes.thelazy.net/images/8/8e/Mini_Portrait_Jotunn_Warlord.png"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+      }
+    ],
+    "artifactCasters": []
+  },
+  {
+    "name": "Clone",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Clone",
+    "iconUrl": "https://heroes.thelazy.net/images/a/a0/Clone_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "24/20",
+      "values": [
+        24,
+        20
+      ]
+    },
+    "type": "Utility",
+    "effect": "Creates a duplicate of target, friendly troop with max level 5/6/7. The duplicate is dispelled if it receives any damage.",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Prayer",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Prayer",
+    "iconUrl": "https://heroes.thelazy.net/images/f/f7/Prayer_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "16/12",
+      "values": [
+        16,
+        12
+      ]
+    },
+    "type": "Buff",
+    "effect": "Increases the attack, defense, and speed of the selected/all friendly unit(s) by 2/4.",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Speed",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Speed"
+      }
+    ],
+    "creatureCasters": [
+      {
+        "name": "Master Genie",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+      }
+    ],
+    "artifactCasters": [
+      {
+        "name": "Angelic Alliance",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Angelic_Alliance",
+        "iconUrl": "https://heroes.thelazy.net/images/c/c3/Angelic_Alliance_am-artif.gif"
+      }
+    ]
+  },
+  {
+    "name": "Summon Water Elemental",
+    "category": "Combat Utility Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Summon_Water_Elemental",
+    "iconUrl": "https://heroes.thelazy.net/images/c/cf/Summon_Water_Elemental_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 5,
+    "cost": {
+      "display": "25/20",
+      "values": [
+        25,
+        20
+      ]
+    },
+    "type": "Utility",
+    "effect": "Summons a troop of (power × 2/3/4) Water Elementals.",
+    "effectLinks": [
+      {
+        "name": "Water Elemental",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Water_Elemental"
+      }
+    ],
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Visions",
+    "category": "Adventure Map Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Visions",
+    "iconUrl": "https://heroes.thelazy.net/images/b/b6/Visions_small.png",
+    "school": {
+      "name": "All"
+    },
+    "level": 2,
+    "cost": {
+      "display": "4/2",
+      "values": [
+        4,
+        2
+      ]
+    },
+    "effect": "(Bas) Increases information shown in scouting reports about wandering creatures. Range = SP; (Adv) Additionally reveals the information about enemy heroes. Range is increased to SP×2; (Exp) Additionally reveals the information about enemy towns. Range is increased to SP×3",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "View Air",
+    "category": "Adventure Map Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/View_Air",
+    "iconUrl": "https://heroes.thelazy.net/images/c/cd/View_Air_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "2/1",
+      "values": [
+        2,
+        1
+      ]
+    },
+    "effect": "(Bas) Displays the location of all artifacts on the view world screen.; (Adv) Displays the location of all artifacts and heroes on the view world screen.; (Exp) Displays the location of all artifacts, heroes, and towns on the view world screen.",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Disguise",
+    "category": "Adventure Map Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Disguise",
+    "iconUrl": "https://heroes.thelazy.net/images/a/ab/Disguise_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "4/2",
+      "values": [
+        4,
+        2
+      ]
+    },
+    "effect": "(Bas) Shows to enemies all the units in the caster's army as the most powerful unit.; (Adv) Hides the numbers of creatures in each stack.; (Exp) Shows all the units in the caster's army as the most powerful unit affiliated to the starting town.",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Dimension Door",
+    "category": "Adventure Map Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Dimension_Door",
+    "iconUrl": "https://heroes.thelazy.net/images/9/96/Dimension_Door_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 5,
+    "cost": {
+      "display": "25/20",
+      "values": [
+        25,
+        20
+      ]
+    },
+    "effect": "Teleports hero to a selected location on the adventure map.; The spell may be cast 1/2/3/4 times per day.; Reduces the hero's movement by 300 (bas)/200 (exp) movement points.",
+    "effectLinks": [
+      {
+        "name": "Movement points",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Movement_points"
+      }
+    ],
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Fly",
+    "category": "Adventure Map Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Fly",
+    "iconUrl": "https://heroes.thelazy.net/images/9/97/Fly_small.png",
+    "school": {
+      "name": "Air",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+    },
+    "level": 5,
+    "cost": {
+      "display": "20/15",
+      "values": [
+        20,
+        15
+      ]
+    },
+    "effect": "Allows the hero to move over water/obstacles with 40%/20%/0% penalty.",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "View Earth",
+    "category": "Adventure Map Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/View_Earth",
+    "iconUrl": "https://heroes.thelazy.net/images/c/c2/View_Earth_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "2/1",
+      "values": [
+        2,
+        1
+      ]
+    },
+    "effect": "(Bas) Displays the location of all resources on the view world screen.; (Adv) Displays the location of all resources and mines on the view world screen.; (Exp) Displays the location of all resources, mines and terrain on the view world screen.",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Town Portal",
+    "category": "Adventure Map Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Town_Portal",
+    "iconUrl": "https://heroes.thelazy.net/images/0/0f/Town_Portal_small.png",
+    "school": {
+      "name": "Earth",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "16/12",
+      "values": [
+        16,
+        12
+      ]
+    },
+    "effect": "Hero is teleported to the nearest (bas) or any (adv) allied unoccupied town.; Reduces the hero's movement by 300 (bas)/200 (exp) movement points.",
+    "effectLinks": [
+      {
+        "name": "Movement",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Movement"
+      },
+      {
+        "name": "Movement points",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Movement_points"
+      }
+    ],
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Summon Boat",
+    "category": "Adventure Map Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Summon_Boat",
+    "iconUrl": "https://heroes.thelazy.net/images/3/36/Summon_Boat_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 1,
+    "cost": {
+      "display": "8/7",
+      "values": [
+        8,
+        7
+      ]
+    },
+    "effect": "50%/75%/100% chance to summon the closest unoccupied boat to the hero's location.; Can summon player/neutral owned (bas) or enemy's (adv) boats.; (Adv) Creates a boat if no eligible boats exist.",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Scuttle Boat",
+    "category": "Adventure Map Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Scuttle_Boat",
+    "iconUrl": "https://heroes.thelazy.net/images/a/a0/Scuttle_Boat_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 2,
+    "cost": {
+      "display": "8/6",
+      "values": [
+        8,
+        6
+      ]
+    },
+    "effect": "50%/75%/100% chance to destroy an unoccupied boat in the visibility zone.",
+    "creatureCasters": [],
+    "artifactCasters": []
+  },
+  {
+    "name": "Water Walk",
+    "category": "Adventure Map Spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Water_Walk",
+    "iconUrl": "https://heroes.thelazy.net/images/f/f2/Water_Walk_small.png",
+    "school": {
+      "name": "Water",
+      "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+    },
+    "level": 4,
+    "cost": {
+      "display": "12/8",
+      "values": [
+        12,
+        8
+      ]
+    },
+    "effect": "Allows the hero to move over water with 40%/20%/0% movement cost penalty.",
+    "creatureCasters": [],
+    "artifactCasters": []
+  }
+]

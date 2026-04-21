@@ -1,0 +1,4694 @@
+[
+  {
+    "name": "Centaur's Axe",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Weapon",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2000
+    },
+    "effect": "+2 Attack skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Centaur%27s_Axe",
+    "iconUrl": "https://heroes.thelazy.net/images/3/36/Artifact_Centaur%27s_Axe.gif"
+  },
+  {
+    "name": "Blackshard of the Dead Knight",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Weapon",
+    "class": "Minor",
+    "cost": {
+      "gold": 3000
+    },
+    "effect": "+3 Attack skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      }
+    ],
+    "combination": "Part of Armor of the Damned",
+    "combinationLinks": [
+      {
+        "name": "Armor of the Damned",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Blackshard_of_the_Dead_Knight",
+    "iconUrl": "https://heroes.thelazy.net/images/a/aa/Artifact_Blackshard_of_the_Dead_Knight.gif"
+  },
+  {
+    "name": "Greater Gnoll's Flail",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Weapon",
+    "class": "Minor",
+    "cost": {
+      "gold": 4000
+    },
+    "effect": "+4 Attack skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Greater_Gnoll%27s_Flail",
+    "iconUrl": "https://heroes.thelazy.net/images/f/f9/Artifact_Greater_Gnoll%27s_Flail.gif"
+  },
+  {
+    "name": "Ogre's Club of Havoc",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Weapon",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+5 Attack skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      }
+    ],
+    "combination": "Part of Ironfist of the Ogre",
+    "combinationLinks": [
+      {
+        "name": "Ironfist of the Ogre",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ogre%27s_Club_of_Havoc",
+    "iconUrl": "https://heroes.thelazy.net/images/0/0d/Artifact_Ogre%27s_Club_of_Havoc.gif"
+  },
+  {
+    "name": "Sword of Hellfire",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Weapon",
+    "class": "Major",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+6 Attack skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sword_of_Hellfire",
+    "iconUrl": "https://heroes.thelazy.net/images/5/53/Artifact_Sword_of_Hellfire.gif"
+  },
+  {
+    "name": "Trident of Dominion",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Weapon",
+    "class": "Major",
+    "cost": {
+      "gold": 7000
+    },
+    "effect": "+7 Attack skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Trident_of_Dominion",
+    "iconUrl": "https://heroes.thelazy.net/images/3/3b/Artifact_Trident_of_Dominion.gif"
+  },
+  {
+    "name": "Red Dragon Flame Tongue",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Weapon",
+    "class": "Minor",
+    "cost": {
+      "gold": 4000
+    },
+    "effect": "+2 Attack skill, +2 Defense skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "combination": "Part of Power of the Dragon Father",
+    "combinationLinks": [
+      {
+        "name": "Power of the Dragon Father",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power_of_the_Dragon_Father"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Red_Dragon_Flame_Tongue",
+    "iconUrl": "https://heroes.thelazy.net/images/c/c9/Artifact_Red_Dragon_Flame_Tongue.gif"
+  },
+  {
+    "name": "Titan's Gladius",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Weapon",
+    "class": "Relic",
+    "cost": {
+      "gold": 10000
+    },
+    "effect": "+12 Attack skill, -3 Defense skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "combination": "Part of Titan's Thunder",
+    "combinationLinks": [
+      {
+        "name": "Titan's Thunder",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Thunder"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Gladius",
+    "iconUrl": "https://heroes.thelazy.net/images/e/e5/Artifact_Titan%27s_Gladius.gif"
+  },
+  {
+    "name": "Sword of Judgement",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Weapon",
+    "class": "Relic",
+    "cost": {
+      "gold": 20000
+    },
+    "effect": "+5 Attack skill, +5 Defense skill, ; +5 Power skill, +5 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Angelic Alliance",
+    "combinationLinks": [
+      {
+        "name": "Angelic Alliance",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Angelic_Alliance"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sword_of_Judgement",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d6/Artifact_Sword_of_Judgement.gif"
+  },
+  {
+    "name": "Armageddon's Blade",
+    "source": {
+      "order": 2,
+      "name": "Armageddon's Blade",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Armageddon%27s_Blade",
+      "iconUrl": "https://heroes.thelazy.net/images/c/ca/Armageddon%27s_Blade_map_icon.png"
+    },
+    "slot": "Weapon",
+    "class": "Relic",
+    "cost": {
+      "gold": 50000
+    },
+    "effect": "+3 Attack skill, +3 Defense skill, ; +6 Power skill, +3 Knowledge skill; ; Expert Armageddon; ; Immunity to Armageddon",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      },
+      {
+        "name": "Armageddon",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Armageddon"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Armageddon%27s_Blade",
+    "iconUrl": "https://heroes.thelazy.net/images/4/4d/Artifact_Armageddon%27s_Blade.gif"
+  },
+  {
+    "name": "Ironfist of the Ogre",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 20000
+    },
+    "effect": "+5 Attack skill, +5 Defense skill, ; +4 Power skill, +4 Knowledge skill; ; Casts Expert Bloodlust, ; Counterstrike, Fire Shield, ; and Haste on all allies for 50 rounds",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      },
+      {
+        "name": "Bloodlust",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Bloodlust"
+      },
+      {
+        "name": "Counterstrike",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Counterstrike"
+      },
+      {
+        "name": "Fire Shield",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Fire_Shield"
+      },
+      {
+        "name": "Haste",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Haste"
+      }
+    ],
+    "combination": "Weapon/Shield/Helm/Torso",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre",
+    "iconUrl": "https://heroes.thelazy.net/images/a/ae/Artifact_Ironfist_of_the_Ogre.gif"
+  },
+  {
+    "name": "Titan's Thunder",
+    "source": {
+      "order": 3,
+      "name": "Shadow of Death",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
+      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 40000
+    },
+    "effect": "+9 Attack skill, +9 Defense skill, ; +8 Power skill, +8 Knowledge skill; ; Expert Titan's Lightning Bolt; ; Adds a permanent Spell Book",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      },
+      {
+        "name": "Titan's Lightning Bolt",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Lightning_Bolt"
+      },
+      {
+        "name": "Spell Book",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spell_Book"
+      }
+    ],
+    "combination": "Weapon/Helm/Torso/Shield",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Thunder",
+    "iconUrl": "https://heroes.thelazy.net/images/6/64/Artifact_Titan%27s_Thunder.gif"
+  },
+  {
+    "name": "Angelic Alliance",
+    "source": {
+      "order": 3,
+      "name": "Shadow of Death",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
+      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 84000
+    },
+    "effect": "+21 Attack skill, +21 Defense skill, ; +21 Power skill, +21 Knowledge skill; ; Casts Expert Prayer on all allies for 10 rounds; ; No alignment penalty for mixing creatures from good and neutral towns (except for Conflux)",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      },
+      {
+        "name": "Prayer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Prayer"
+      },
+      {
+        "name": "Alignment",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Alignment"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Conflux",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Conflux"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      }
+    ],
+    "combination": "Weapon/Torso/Necklace/Helm/Shield/Feet",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Angelic_Alliance",
+    "iconUrl": "https://heroes.thelazy.net/images/9/98/Artifact_Angelic_Alliance.gif"
+  },
+  {
+    "name": "Shield of the Dwarven Lords",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Shield",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2000
+    },
+    "effect": "+2 Defense skill",
+    "effectLinks": [
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Shield_of_the_Dwarven_Lords",
+    "iconUrl": "https://heroes.thelazy.net/images/4/4c/Artifact_Shield_of_the_Dwarven_Lords.gif"
+  },
+  {
+    "name": "Shield of the Yawning Dead",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Shield",
+    "class": "Minor",
+    "cost": {
+      "gold": 3000
+    },
+    "effect": "+3 Defense skill",
+    "effectLinks": [
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "combination": "Part of Armor of the Damned",
+    "combinationLinks": [
+      {
+        "name": "Armor of the Damned",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Shield_of_the_Yawning_Dead",
+    "iconUrl": "https://heroes.thelazy.net/images/8/80/Artifact_Shield_of_the_Yawning_Dead.gif"
+  },
+  {
+    "name": "Buckler of the Gnoll King",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Shield",
+    "class": "Minor",
+    "cost": {
+      "gold": 4000
+    },
+    "effect": "+4 Defense skill",
+    "effectLinks": [
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Buckler_of_the_Gnoll_King",
+    "iconUrl": "https://heroes.thelazy.net/images/e/eb/Artifact_Buckler_of_the_Gnoll_King.gif"
+  },
+  {
+    "name": "Targ of the Rampaging Ogre",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Shield",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+5 Defense skill",
+    "effectLinks": [
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "combination": "Part of Ironfist of the Ogre",
+    "combinationLinks": [
+      {
+        "name": "Ironfist of the Ogre",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Targ_of_the_Rampaging_Ogre",
+    "iconUrl": "https://heroes.thelazy.net/images/b/b7/Artifact_Targ_of_the_Rampaging_Ogre.gif"
+  },
+  {
+    "name": "Shield of the Damned",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Shield",
+    "class": "Major",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+6 Defense skill",
+    "effectLinks": [
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Shield_of_the_Damned",
+    "iconUrl": "https://heroes.thelazy.net/images/b/b3/Artifact_Shield_of_the_Damned.gif"
+  },
+  {
+    "name": "Shield of Naval Glory",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Shield",
+    "class": "Major",
+    "cost": {
+      "gold": 7000
+    },
+    "effect": "+7 Defense skill",
+    "effectLinks": [
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Shield_of_Naval_Glory",
+    "iconUrl": "https://heroes.thelazy.net/images/b/b7/Artifact_Shield_of_Naval_Glory.gif"
+  },
+  {
+    "name": "Dragon Scale Shield",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Shield",
+    "class": "Major",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+3 Attack skill, +3 Defense skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "combination": "Part of Power of the Dragon Father",
+    "combinationLinks": [
+      {
+        "name": "Power of the Dragon Father",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power_of_the_Dragon_Father"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Dragon_Scale_Shield",
+    "iconUrl": "https://heroes.thelazy.net/images/9/97/Artifact_Dragon_Scale_Shield.gif"
+  },
+  {
+    "name": "Lion's Shield of Courage",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Shield",
+    "class": "Relic",
+    "cost": {
+      "gold": 16000
+    },
+    "effect": "+4 Attack skill, +4 Defense skill, ; +4 Power skill, +4 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Angelic Alliance",
+    "combinationLinks": [
+      {
+        "name": "Angelic Alliance",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Angelic_Alliance"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Lion%27s_Shield_of_Courage",
+    "iconUrl": "https://heroes.thelazy.net/images/3/31/Artifact_Lion%27s_Shield_of_Courage.gif"
+  },
+  {
+    "name": "Sentinel's Shield",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Shield",
+    "class": "Relic",
+    "cost": {
+      "gold": 10000
+    },
+    "effect": "-3 Attack skill, +12 Defense skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "combination": "Part of Titan's Thunder",
+    "combinationLinks": [
+      {
+        "name": "Titan's Thunder",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Thunder"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sentinel%27s_Shield",
+    "iconUrl": "https://heroes.thelazy.net/images/c/c0/Artifact_Sentinel%27s_Shield.gif"
+  },
+  {
+    "name": "Breastplate of Petrified Wood",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Torso",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "+1 Power skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Breastplate_of_Petrified_Wood",
+    "iconUrl": "https://heroes.thelazy.net/images/0/0d/Artifact_Breastplate_of_Petrified_Wood.gif"
+  },
+  {
+    "name": "Rib Cage",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Torso",
+    "class": "Minor",
+    "cost": {
+      "gold": 3000
+    },
+    "effect": "+2 Power skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      }
+    ],
+    "combination": "Part of Armor of the Damned",
+    "combinationLinks": [
+      {
+        "name": "Armor of the Damned",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Rib_Cage",
+    "iconUrl": "https://heroes.thelazy.net/images/2/2f/Artifact_Rib_Cage.gif"
+  },
+  {
+    "name": "Scales of the Greater Basilisk",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Torso",
+    "class": "Minor",
+    "cost": {
+      "gold": 4000
+    },
+    "effect": "+3 Power skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Scales_of_the_Greater_Basilisk",
+    "iconUrl": "https://heroes.thelazy.net/images/0/0e/Artifact_Scales_of_the_Greater_Basilisk.gif"
+  },
+  {
+    "name": "Tunic of the Cyclops King",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Torso",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+4 Power skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      }
+    ],
+    "combination": "Part of Ironfist of the Ogre",
+    "combinationLinks": [
+      {
+        "name": "Ironfist of the Ogre",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Tunic_of_the_Cyclops_King",
+    "iconUrl": "https://heroes.thelazy.net/images/a/a4/Artifact_Tunic_of_the_Cyclops_King.gif"
+  },
+  {
+    "name": "Breastplate of Brimstone",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Torso",
+    "class": "Major",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+5 Power skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Breastplate_of_Brimstone",
+    "iconUrl": "https://heroes.thelazy.net/images/f/fb/Artifact_Breastplate_of_Brimstone.gif"
+  },
+  {
+    "name": "Royal Armor of Nix",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Torso",
+    "class": "Major",
+    "cost": {
+      "gold": 7000
+    },
+    "effect": "+6 Power skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Royal_Armor_of_Nix",
+    "iconUrl": "https://heroes.thelazy.net/images/5/54/Artifact_Royal_Armor_of_Nix.gif"
+  },
+  {
+    "name": "Armor of Wonder",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Torso",
+    "class": "Minor",
+    "cost": {
+      "gold": 4000
+    },
+    "effect": "+1 Attack skill, +1 Defense skill, ; +1 Power skill, +1 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Angelic Alliance",
+    "combinationLinks": [
+      {
+        "name": "Angelic Alliance",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Angelic_Alliance"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_Wonder",
+    "iconUrl": "https://heroes.thelazy.net/images/a/ab/Artifact_Armor_of_Wonder.gif"
+  },
+  {
+    "name": "Plate of Dying Light",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Torso",
+    "class": "Relic",
+    "cost": {
+      "gold": 10000
+    },
+    "effect": "-25% enemy Power skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Plate_of_Dying_Light",
+    "iconUrl": "https://heroes.thelazy.net/images/5/5b/Artifact_Plate_of_Dying_Light.gif"
+  },
+  {
+    "name": "Dragon Scale Armor",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Torso",
+    "class": "Relic",
+    "cost": {
+      "gold": 8000
+    },
+    "effect": "+4 Attack skill, +4 Defense skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "combination": "Part of Power of the Dragon Father",
+    "combinationLinks": [
+      {
+        "name": "Power of the Dragon Father",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power_of_the_Dragon_Father"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Dragon_Scale_Armor",
+    "iconUrl": "https://heroes.thelazy.net/images/b/b9/Artifact_Dragon_Scale_Armor.gif"
+  },
+  {
+    "name": "Titan's Cuirass",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Torso",
+    "class": "Relic",
+    "cost": {
+      "gold": 10000
+    },
+    "effect": "+10 Power skill, -2 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Titan's Thunder",
+    "combinationLinks": [
+      {
+        "name": "Titan's Thunder",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Thunder"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Cuirass",
+    "iconUrl": "https://heroes.thelazy.net/images/4/48/Artifact_Titan%27s_Cuirass.gif"
+  },
+  {
+    "name": "Armor of the Damned",
+    "source": {
+      "order": 3,
+      "name": "Shadow of Death",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
+      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 12000
+    },
+    "effect": "+3 Attack skill, +3 Defense skill, ; +2 Power skill, +2 Knowledge skill; ; Casts Expert Curse, Misfortune, Slow, and Weakness on all enemies for 50 rounds",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      },
+      {
+        "name": "Curse",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Curse"
+      },
+      {
+        "name": "Misfortune",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Misfortune"
+      },
+      {
+        "name": "Slow",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Slow"
+      },
+      {
+        "name": "Weakness",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Weakness"
+      }
+    ],
+    "combination": "Torso/Weapon/Shield/Helmet",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned",
+    "iconUrl": "https://heroes.thelazy.net/images/1/1e/Artifact_Armor_of_the_Damned.gif"
+  },
+  {
+    "name": "Power of the Dragon Father",
+    "source": {
+      "order": 3,
+      "name": "Shadow of Death",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
+      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 42000
+    },
+    "effect": "+16 Attack skill, +16 Defense skill, ; +16 Power skill, +16 Knowledge skill; +1 Luck, +1 Morale; ; Immunity to lvl 1-4 spells",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      },
+      {
+        "name": "Luck",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Luck"
+      },
+      {
+        "name": "Morale",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morale"
+      },
+      {
+        "name": "Spells",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spells"
+      }
+    ],
+    "combination": "Torso/All non-miscellaneous slots",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Power_of_the_Dragon_Father",
+    "iconUrl": "https://heroes.thelazy.net/images/c/c3/Artifact_Power_of_the_Dragon_Father.gif"
+  },
+  {
+    "name": "Helm of the Alabaster Unicorn",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Helmet",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "+1 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Helm_of_the_Alabaster_Unicorn",
+    "iconUrl": "https://heroes.thelazy.net/images/8/87/Artifact_Helm_of_the_Alabaster_Unicorn.gif"
+  },
+  {
+    "name": "Skull Helmet",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Helmet",
+    "class": "Treasure",
+    "cost": {
+      "gold": 3000
+    },
+    "effect": "+2 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Armor of the Damned",
+    "combinationLinks": [
+      {
+        "name": "Armor of the Damned",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Skull_Helmet",
+    "iconUrl": "https://heroes.thelazy.net/images/8/8d/Artifact_Skull_Helmet.gif"
+  },
+  {
+    "name": "Helm of Chaos",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Helmet",
+    "class": "Minor",
+    "cost": {
+      "gold": 4000
+    },
+    "effect": "+3 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Helm_of_Chaos",
+    "iconUrl": "https://heroes.thelazy.net/images/0/0c/Artifact_Helm_of_Chaos.gif"
+  },
+  {
+    "name": "Crown of the Supreme Magi",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Helmet",
+    "class": "Minor",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+4 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Ironfist of the Ogre",
+    "combinationLinks": [
+      {
+        "name": "Ironfist of the Ogre",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Crown_of_the_Supreme_Magi",
+    "iconUrl": "https://heroes.thelazy.net/images/a/a3/Artifact_Crown_of_the_Supreme_Magi.gif"
+  },
+  {
+    "name": "Hellstorm Helmet",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Helmet",
+    "class": "Major",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+5 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Hellstorm_Helmet",
+    "iconUrl": "https://heroes.thelazy.net/images/c/c1/Artifact_Hellstorm_Helmet.gif"
+  },
+  {
+    "name": "Crown of the Five Seas",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Helmet",
+    "class": "Major",
+    "cost": {
+      "gold": 7000
+    },
+    "effect": "+6 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Crown_of_the_Five_Seas",
+    "iconUrl": "https://heroes.thelazy.net/images/d/da/Artifact_Crown_of_the_Five_Seas.gif"
+  },
+  {
+    "name": "Crown of Dragontooth",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Helmet",
+    "class": "Relic",
+    "cost": {
+      "gold": 8000
+    },
+    "effect": "+4 Power skill, +4 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Power of the Dragon Father",
+    "combinationLinks": [
+      {
+        "name": "Power of the Dragon Father",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power_of_the_Dragon_Father"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Crown_of_Dragontooth",
+    "iconUrl": "https://heroes.thelazy.net/images/b/b7/Artifact_Crown_of_Dragontooth.gif"
+  },
+  {
+    "name": "Thunder Helmet",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Helmet",
+    "class": "Relic",
+    "cost": {
+      "gold": 10000
+    },
+    "effect": "-2 Power skill, +10 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Titan's Thunder",
+    "combinationLinks": [
+      {
+        "name": "Titan's Thunder",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Thunder"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Thunder_Helmet",
+    "iconUrl": "https://heroes.thelazy.net/images/2/24/Artifact_Thunder_Helmet.gif"
+  },
+  {
+    "name": "Sea Captain's Hat",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Helmet",
+    "class": "Relic",
+    "cost": {
+      "gold": 15000
+    },
+    "effect": "+500 Movement points at sea; ; Summon Boat; ; Scuttle Boat; ; Protects army from whirlpools",
+    "effectLinks": [
+      {
+        "name": "Movement",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Movement"
+      },
+      {
+        "name": "Summon Boat",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Summon_Boat"
+      },
+      {
+        "name": "Scuttle Boat",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Scuttle_Boat"
+      },
+      {
+        "name": "Whirlpool",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Whirlpool"
+      }
+    ],
+    "combination": "Part of Admiral's Hat",
+    "combinationLinks": [
+      {
+        "name": "Admiral's Hat",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Admiral%27s_Hat"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Captain%27s_Hat",
+    "iconUrl": "https://heroes.thelazy.net/images/1/1e/Artifact_Sea_Captain%27s_Hat.gif"
+  },
+  {
+    "name": "Helm of Heavenly Enlightenment",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Helmet",
+    "class": "Relic",
+    "cost": {
+      "gold": 24000
+    },
+    "effect": "+6 Attack skill, +6 Defense skill, ; +6 Power skill, +6 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Angelic Alliance",
+    "combinationLinks": [
+      {
+        "name": "Angelic Alliance",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Angelic_Alliance"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Helm_of_Heavenly_Enlightenment",
+    "iconUrl": "https://heroes.thelazy.net/images/a/a2/Artifact_Helm_of_Heavenly_Enlightenment.gif"
+  },
+  {
+    "name": "Spellbinder's Hat",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Helmet",
+    "class": "Relic",
+    "cost": {
+      "gold": 30000
+    },
+    "effect": "All lvl 5 Spells",
+    "effectLinks": [
+      {
+        "name": "Spells",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spells"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Spellbinder%27s_Hat",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d1/Artifact_Spellbinder%27s_Hat.gif"
+  },
+  {
+    "name": "Admiral's Hat",
+    "source": {
+      "order": 3,
+      "name": "Shadow of Death",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
+      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 25000
+    },
+    "effect": "+1500 Movement points at sea; ; Summon Boat; ; Scuttle Boat; ; Protects army from whirlpools; ; No penalty for boarding/disembarking Boats; (Movement converted between land and sea)",
+    "effectLinks": [
+      {
+        "name": "Movement",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Movement"
+      },
+      {
+        "name": "Summon Boat",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Summon_Boat"
+      },
+      {
+        "name": "Scuttle Boat",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Scuttle_Boat"
+      },
+      {
+        "name": "Whirlpool",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Whirlpool"
+      },
+      {
+        "name": "Boat",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Boat"
+      }
+    ],
+    "combination": "Helmet/Necklace",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Admiral%27s_Hat",
+    "iconUrl": "https://heroes.thelazy.net/images/6/66/Artifact_Admiral%27s_Hat.gif"
+  },
+  {
+    "name": "Dragonbone Greaves",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Feet",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2000
+    },
+    "effect": "+1 Power skill, +1 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Power of the Dragon Father",
+    "combinationLinks": [
+      {
+        "name": "Power of the Dragon Father",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power_of_the_Dragon_Father"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Dragonbone_Greaves",
+    "iconUrl": "https://heroes.thelazy.net/images/f/fa/Artifact_Dragonbone_Greaves.gif"
+  },
+  {
+    "name": "Sandals of the Saint",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Feet",
+    "class": "Relic",
+    "cost": {
+      "gold": 8000
+    },
+    "effect": "+2 Attack skill, +2 Defense skill, ; +2 Power skill, +2 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Angelic Alliance",
+    "combinationLinks": [
+      {
+        "name": "Angelic Alliance",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Angelic_Alliance"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sandals_of_the_Saint",
+    "iconUrl": "https://heroes.thelazy.net/images/7/78/Artifact_Sandals_of_the_Saint.gif"
+  },
+  {
+    "name": "Boots of Speed",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Feet",
+    "class": "Minor",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+400 600 Movement points",
+    "effectLinks": [
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      },
+      {
+        "name": "Movement",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Movement"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Boots_of_Speed",
+    "iconUrl": "https://heroes.thelazy.net/images/7/72/Artifact_Boots_of_Speed.gif"
+  },
+  {
+    "name": "Wayfarer's Boots",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Feet",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "No movement penalty over rough terrain",
+    "effectLinks": [
+      {
+        "name": "Movement penalty",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Movement_penalty"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Wayfarer%27s_Boots",
+    "iconUrl": "https://heroes.thelazy.net/images/9/9f/Artifact_Wayfarer%27s_Boots.gif"
+  },
+  {
+    "name": "Dead Man's Boots",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Feet",
+    "class": "Major",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+7.5% 15% Necromancy",
+    "effectLinks": [
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      },
+      {
+        "name": "Necromancy",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Necromancy"
+      }
+    ],
+    "combination": "Part of Cloak of the Undead King",
+    "combinationLinks": [
+      {
+        "name": "Cloak of the Undead King",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Cloak_of_the_Undead_King"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Dead_Man%27s_Boots",
+    "iconUrl": "https://heroes.thelazy.net/images/4/4d/Artifact_Dead_Man%27s_Boots.gif"
+  },
+  {
+    "name": "Boots of Polarity",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Feet",
+    "class": "Relic",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+15% Magic Resistance",
+    "effectLinks": [
+      {
+        "name": "Resistance",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Resistance"
+      }
+    ],
+    "combination": "Part of Pendant of Reflection",
+    "combinationLinks": [
+      {
+        "name": "Pendant of Reflection",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Reflection"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Boots_of_Polarity",
+    "iconUrl": "https://heroes.thelazy.net/images/7/71/Artifact_Boots_of_Polarity.gif"
+  },
+  {
+    "name": "Boots of Levitation",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Feet",
+    "class": "Relic",
+    "cost": {
+      "gold": 10000
+    },
+    "effect": "Permanent Water Walk",
+    "effectLinks": [
+      {
+        "name": "Water Walk",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Water_Walk"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Boots_of_Levitation",
+    "iconUrl": "https://heroes.thelazy.net/images/5/50/Artifact_Boots_of_Levitation.gif"
+  },
+  {
+    "name": "Dragon Wing Tabard",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Cape",
+    "class": "Minor",
+    "cost": {
+      "gold": 4000
+    },
+    "effect": "+2 Power skill, +2 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Power of the Dragon Father",
+    "combinationLinks": [
+      {
+        "name": "Power of the Dragon Father",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power_of_the_Dragon_Father"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Dragon_Wing_Tabard",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d1/Artifact_Dragon_Wing_Tabard.gif"
+  },
+  {
+    "name": "Cape of Conjuring",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Cape",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1500
+    },
+    "effect": "+3 Spell duration",
+    "effectLinks": [
+      {
+        "name": "Spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spell"
+      }
+    ],
+    "combination": "Part of Ring of the Magi",
+    "combinationLinks": [
+      {
+        "name": "Ring of the Magi",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_the_Magi"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Cape_of_Conjuring",
+    "iconUrl": "https://heroes.thelazy.net/images/f/fe/Artifact_Cape_of_Conjuring.gif"
+  },
+  {
+    "name": "Vampire's Cowl",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Cape",
+    "class": "Minor",
+    "cost": {
+      "gold": 4000
+    },
+    "effect": "+5% 10% Necromancy",
+    "effectLinks": [
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      },
+      {
+        "name": "Necromancy",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Necromancy"
+      }
+    ],
+    "combination": "Part of Cloak of the Undead King",
+    "combinationLinks": [
+      {
+        "name": "Cloak of the Undead King",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Cloak_of_the_Undead_King"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Vampire%27s_Cowl",
+    "iconUrl": "https://heroes.thelazy.net/images/b/b3/Artifact_Vampire%27s_Cowl.gif"
+  },
+  {
+    "name": "Surcoat of Counterpoise",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Cape",
+    "class": "Major",
+    "cost": {
+      "gold": 4000
+    },
+    "effect": "+10% Magic Resistance",
+    "effectLinks": [
+      {
+        "name": "Resistance",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Resistance"
+      }
+    ],
+    "combination": "Part of Pendant of Reflection",
+    "combinationLinks": [
+      {
+        "name": "Pendant of Reflection",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Reflection"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Surcoat_of_Counterpoise",
+    "iconUrl": "https://heroes.thelazy.net/images/b/b0/Artifact_Surcoat_of_Counterpoise.gif"
+  },
+  {
+    "name": "Ambassador's Sash",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Cape",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "-10% surrender cost",
+    "effectLinks": [
+      {
+        "name": "Surrender",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Surrender"
+      }
+    ],
+    "combination": "Part of Diplomat's Cloak",
+    "combinationLinks": [
+      {
+        "name": "Diplomat's Cloak",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Diplomat%27s_Cloak"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ambassador%27s_Sash",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d0/Artifact_Ambassador%27s_Sash.gif"
+  },
+  {
+    "name": "Everflowing Crystal Cloak",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Cape",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+1 Crystal /day",
+    "effectLinks": [
+      {
+        "name": "Crystal",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Crystal"
+      }
+    ],
+    "combination": "Part of Cornucopia",
+    "combinationLinks": [
+      {
+        "name": "Cornucopia",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Cornucopia"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Everflowing_Crystal_Cloak",
+    "iconUrl": "https://heroes.thelazy.net/images/2/21/Artifact_Everflowing_Crystal_Cloak.gif"
+  },
+  {
+    "name": "Recanter's Cloak",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Cape",
+    "class": "Major",
+    "cost": {
+      "gold": 8000
+    },
+    "effect": "Prevents casting lvl 3+ spells",
+    "effectLinks": [
+      {
+        "name": "Spells",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spells"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Recanter%27s_Cloak",
+    "iconUrl": "https://heroes.thelazy.net/images/3/36/Artifact_Recanter%27s_Cloak.gif"
+  },
+  {
+    "name": "Cape of Velocity",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Cape",
+    "class": "Major",
+    "cost": {
+      "gold": 10000
+    },
+    "effect": "+2 Unit speed",
+    "effectLinks": [
+      {
+        "name": "Speed",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Speed"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Cape_of_Velocity",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d2/Artifact_Cape_of_Velocity.gif"
+  },
+  {
+    "name": "Cape of Silence",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Cape",
+    "class": "Major",
+    "cost": {
+      "gold": 7500
+    },
+    "effect": "Prevents casting lvl 1-2 spells",
+    "effectLinks": [],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Cape_of_Silence",
+    "iconUrl": "https://heroes.thelazy.net/images/e/ec/Artifact_Cape_of_Silence.gif"
+  },
+  {
+    "name": "Angel Wings",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Cape",
+    "class": "Relic",
+    "cost": {
+      "gold": 20000
+    },
+    "effect": "Permanent Fly",
+    "effectLinks": [
+      {
+        "name": "Fly",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Fly"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Angel_Wings",
+    "iconUrl": "https://heroes.thelazy.net/images/3/3d/Artifact_Angel_Wings.gif"
+  },
+  {
+    "name": "Cloak of the Undead King",
+    "source": {
+      "order": 3,
+      "name": "Shadow of Death",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
+      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 12000
+    },
+    "effect": "+15% 30% Necromancy; ; Raise Skeletons/Walking Dead/Wights/Liches based on Necromancy level",
+    "effectLinks": [
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      },
+      {
+        "name": "Necromancy",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Necromancy"
+      },
+      {
+        "name": "Skeleton",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Skeleton"
+      },
+      {
+        "name": "Walking Dead",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Walking_Dead"
+      },
+      {
+        "name": "Wight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Wight"
+      },
+      {
+        "name": "Lich",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Lich"
+      }
+    ],
+    "combination": "Cape/Necklace/Feet",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Cloak_of_the_Undead_King",
+    "iconUrl": "https://heroes.thelazy.net/images/c/c4/Artifact_Cloak_of_the_Undead_King.gif"
+  },
+  {
+    "name": "Diplomat's Cloak",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 15000
+    },
+    "effect": "-30% surrender cost; ; Allows retreat and surrender when battling neutral monsters or defending a town; ; 3x diplomatic army strength",
+    "effectLinks": [
+      {
+        "name": "Surrender",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Surrender"
+      },
+      {
+        "name": "Retreat",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Retreat"
+      },
+      {
+        "name": "Army strength",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Army_strength"
+      }
+    ],
+    "combination": "Cape/Necklace/Ring",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Diplomat%27s_Cloak",
+    "iconUrl": "https://heroes.thelazy.net/images/b/bf/Artifact_Diplomat%27s_Cloak.gif"
+  },
+  {
+    "name": "Necklace of Dragonteeth",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Major",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+3 Power skill, +3 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Power of the Dragon Father",
+    "combinationLinks": [
+      {
+        "name": "Power of the Dragon Father",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power_of_the_Dragon_Father"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Necklace_of_Dragonteeth",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d9/Artifact_Necklace_of_Dragonteeth.gif"
+  },
+  {
+    "name": "Celestial Necklace of Bliss",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Relic",
+    "cost": {
+      "gold": 12000
+    },
+    "effect": "+3 Attack skill, +3 Defense skill, ; +3 Power skill, +3 Knowledge skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      },
+      {
+        "name": "Knowledge",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Knowledge"
+      }
+    ],
+    "combination": "Part of Angelic Alliance",
+    "combinationLinks": [
+      {
+        "name": "Angelic Alliance",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Angelic_Alliance"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Celestial_Necklace_of_Bliss",
+    "iconUrl": "https://heroes.thelazy.net/images/2/2d/Artifact_Celestial_Necklace_of_Bliss.gif"
+  },
+  {
+    "name": "Collar of Conjuring",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Treasure",
+    "cost": {
+      "gold": 500
+    },
+    "effect": "+1 spell duration",
+    "effectLinks": [
+      {
+        "name": "Spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spell"
+      }
+    ],
+    "combination": "Part of Ring of the Magi",
+    "combinationLinks": [
+      {
+        "name": "Ring of the Magi",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_the_Magi"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Collar_of_Conjuring",
+    "iconUrl": "https://heroes.thelazy.net/images/5/56/Artifact_Collar_of_Conjuring.gif"
+  },
+  {
+    "name": "Pendant of Dispassion",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "Immune to Berserk",
+    "effectLinks": [
+      {
+        "name": "Berserk",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Berserk"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Dispassion",
+    "iconUrl": "https://heroes.thelazy.net/images/6/6e/Artifact_Pendant_of_Dispassion.gif"
+  },
+  {
+    "name": "Pendant of Free Will",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "Immune to Hypnotize",
+    "effectLinks": [
+      {
+        "name": "Hypnotize",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Hypnotize"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Free_Will",
+    "iconUrl": "https://heroes.thelazy.net/images/6/69/Artifact_Pendant_of_Free_Will.gif"
+  },
+  {
+    "name": "Pendant of Holiness",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "Immune to Curse",
+    "effectLinks": [
+      {
+        "name": "Curse",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Curse"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Holiness",
+    "iconUrl": "https://heroes.thelazy.net/images/1/1f/Artifact_Pendant_of_Holiness.gif"
+  },
+  {
+    "name": "Amulet of the Undertaker",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2000
+    },
+    "effect": "+2.5% 5% Necromancy",
+    "effectLinks": [
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      },
+      {
+        "name": "Necromancy",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Necromancy"
+      }
+    ],
+    "combination": "Part of Cloak of the Undead King",
+    "combinationLinks": [
+      {
+        "name": "Cloak of the Undead King",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Cloak_of_the_Undead_King"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Amulet_of_the_Undertaker",
+    "iconUrl": "https://heroes.thelazy.net/images/3/3f/Artifact_Amulet_of_the_Undertaker.gif"
+  },
+  {
+    "name": "Pendant of Life",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2500
+    },
+    "effect": "Immune to Death Ripple",
+    "effectLinks": [
+      {
+        "name": "Death Ripple",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Death_Ripple"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Life",
+    "iconUrl": "https://heroes.thelazy.net/images/d/dc/Artifact_Pendant_of_Life.gif"
+  },
+  {
+    "name": "Pendant of Death",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2500
+    },
+    "effect": "Immune to Destroy Undead",
+    "effectLinks": [
+      {
+        "name": "Destroy Undead",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Destroy_Undead"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Death",
+    "iconUrl": "https://heroes.thelazy.net/images/2/26/Artifact_Pendant_of_Death.gif"
+  },
+  {
+    "name": "Pendant of Total Recall",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Treasure",
+    "cost": {
+      "gold": 3000
+    },
+    "effect": "Immune to Forgetfulness",
+    "effectLinks": [
+      {
+        "name": "Forgetfulness",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Forgetfulness"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Total_Recall",
+    "iconUrl": "https://heroes.thelazy.net/images/1/11/Artifact_Pendant_of_Total_Recall.gif"
+  },
+  {
+    "name": "Garniture of Interference",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Major",
+    "cost": {
+      "gold": 2000
+    },
+    "effect": "+5% Magic resistance",
+    "effectLinks": [
+      {
+        "name": "Resistance",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Resistance"
+      }
+    ],
+    "combination": "Part of Pendant of Reflection",
+    "combinationLinks": [
+      {
+        "name": "Pendant of Reflection",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Reflection"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Garniture_of_Interference",
+    "iconUrl": "https://heroes.thelazy.net/images/3/39/Artifact_Garniture_of_Interference.gif"
+  },
+  {
+    "name": "Pendant of Second Sight",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "Immune to Blind",
+    "effectLinks": [
+      {
+        "name": "Blind",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Blind"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Second_Sight",
+    "iconUrl": "https://heroes.thelazy.net/images/c/cf/Artifact_Pendant_of_Second_Sight.gif"
+  },
+  {
+    "name": "Pendant of Negativity",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "Immune to Lightning Bolt; Immune to Chain Lightning",
+    "effectLinks": [
+      {
+        "name": "Lightning Bolt",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Lightning_Bolt"
+      },
+      {
+        "name": "Chain Lightning",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Chain_Lightning"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Negativity",
+    "iconUrl": "https://heroes.thelazy.net/images/a/a5/Artifact_Pendant_of_Negativity.gif"
+  },
+  {
+    "name": "Statesman's Medal",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "-10% surrender cost",
+    "effectLinks": [
+      {
+        "name": "Surrender",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Surrender"
+      }
+    ],
+    "combination": "Part of Diplomat's Cloak",
+    "combinationLinks": [
+      {
+        "name": "Diplomat's Cloak",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Diplomat%27s_Cloak"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Statesman%27s_Medal",
+    "iconUrl": "https://heroes.thelazy.net/images/9/99/Artifact_Statesman%27s_Medal.gif"
+  },
+  {
+    "name": "Necklace of Swiftness",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Treasure",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+1 Unit speed",
+    "effectLinks": [
+      {
+        "name": "Speed",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Speed"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Necklace_of_Swiftness",
+    "iconUrl": "https://heroes.thelazy.net/images/1/11/Artifact_Necklace_of_Swiftness.gif"
+  },
+  {
+    "name": "Pendant of Courage",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Major",
+    "cost": {
+      "gold": 7000
+    },
+    "effect": "+3 Luck, +3 Morale",
+    "effectLinks": [
+      {
+        "name": "Luck",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Luck"
+      },
+      {
+        "name": "Morale",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morale"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Courage",
+    "iconUrl": "https://heroes.thelazy.net/images/2/25/Artifact_Pendant_of_Courage.gif"
+  },
+  {
+    "name": "Pendant of Downfall",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Major",
+    "cost": {
+      "gold": 7000
+    },
+    "effect": "-2 enemy Morale",
+    "effectLinks": [
+      {
+        "name": "Morale",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morale"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Downfall",
+    "iconUrl": "https://heroes.thelazy.net/images/f/f1/Artifact_Pendant_of_Downfall.gif"
+  },
+  {
+    "name": "Necklace of Ocean Guidance",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Necklace",
+    "class": "Major",
+    "cost": {
+      "gold": 10000
+    },
+    "effect": "+1000 Movement points at sea",
+    "effectLinks": [
+      {
+        "name": "Movement",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Movement"
+      }
+    ],
+    "combination": "Part of Admiral's Hat",
+    "combinationLinks": [
+      {
+        "name": "Admiral's Hat",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Admiral%27s_Hat"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Necklace_of_Ocean_Guidance",
+    "iconUrl": "https://heroes.thelazy.net/images/d/db/Artifact_Necklace_of_Ocean_Guidance.gif"
+  },
+  {
+    "name": "Pendant of Reflection",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 12000
+    },
+    "effect": "+50% Magic Resistance",
+    "effectLinks": [
+      {
+        "name": "Resistance",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Resistance"
+      }
+    ],
+    "combination": "Necklace/Cape/Feet",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Reflection",
+    "iconUrl": "https://heroes.thelazy.net/images/a/ab/Artifact_Pendant_of_Reflection.gif"
+  },
+  {
+    "name": "Still Eye of the Dragon",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Ring",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2000
+    },
+    "effect": "+1 Luck, +1 Morale",
+    "effectLinks": [
+      {
+        "name": "Luck",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Luck"
+      },
+      {
+        "name": "Morale",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morale"
+      }
+    ],
+    "combination": "Part of Power of the Dragon Father",
+    "combinationLinks": [
+      {
+        "name": "Power of the Dragon Father",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power_of_the_Dragon_Father"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Still_Eye_of_the_Dragon",
+    "iconUrl": "https://heroes.thelazy.net/images/8/85/Artifact_Still_Eye_of_the_Dragon.gif"
+  },
+  {
+    "name": "Quiet Eye of the Dragon",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Ring",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2000
+    },
+    "effect": "+1 Attack skill, +1 Defense skill",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      }
+    ],
+    "combination": "Part of Power of the Dragon Father",
+    "combinationLinks": [
+      {
+        "name": "Power of the Dragon Father",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power_of_the_Dragon_Father"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Quiet_Eye_of_the_Dragon",
+    "iconUrl": "https://heroes.thelazy.net/images/8/86/Artifact_Quiet_Eye_of_the_Dragon.gif"
+  },
+  {
+    "name": "Ring of Conjuring",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Ring",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "+2 spell duration",
+    "effectLinks": [
+      {
+        "name": "Spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spell"
+      }
+    ],
+    "combination": "Part of Ring of the Magi",
+    "combinationLinks": [
+      {
+        "name": "Ring of the Magi",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_the_Magi"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_Conjuring",
+    "iconUrl": "https://heroes.thelazy.net/images/c/c4/Artifact_Ring_of_Conjuring.gif"
+  },
+  {
+    "name": "Ring of Suppression",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Ring",
+    "class": "Treasure",
+    "cost": {
+      "gold": 4000
+    },
+    "effect": "-1 enemy Morale",
+    "effectLinks": [
+      {
+        "name": "Morale",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morale"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_Suppression",
+    "iconUrl": "https://heroes.thelazy.net/images/1/16/Artifact_Ring_of_Suppression.gif"
+  },
+  {
+    "name": "Equestrian's Gloves",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Ring",
+    "class": "Minor",
+    "cost": {
+      "gold": 3000
+    },
+    "effect": "+200 300 Movement points",
+    "effectLinks": [
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      },
+      {
+        "name": "Movement",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Movement"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Equestrian%27s_Gloves",
+    "iconUrl": "https://heroes.thelazy.net/images/8/89/Artifact_Equestrian%27s_Gloves.gif"
+  },
+  {
+    "name": "Seal of Sunset",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Ring",
+    "class": "Minor",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "-10% enemy Power skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Seal_of_Sunset",
+    "iconUrl": "https://heroes.thelazy.net/images/b/bf/Artifact_Seal_of_Sunset.gif"
+  },
+  {
+    "name": "Diplomat's Ring",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Ring",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "-10% surrender cost",
+    "effectLinks": [
+      {
+        "name": "Surrender",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Surrender"
+      }
+    ],
+    "combination": "Part of Diplomat's Cloak",
+    "combinationLinks": [
+      {
+        "name": "Diplomat's Cloak",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Diplomat%27s_Cloak"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Diplomat%27s_Ring",
+    "iconUrl": "https://heroes.thelazy.net/images/c/c5/Artifact_Diplomat%27s_Ring.gif"
+  },
+  {
+    "name": "Ring of the Wayfarer",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Ring",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+1 Unit speed",
+    "effectLinks": [
+      {
+        "name": "Speed",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Speed"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_the_Wayfarer",
+    "iconUrl": "https://heroes.thelazy.net/images/f/fd/Artifact_Ring_of_the_Wayfarer.gif"
+  },
+  {
+    "name": "Ring of Vitality",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Ring",
+    "class": "Treasure",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+1 Unit health",
+    "effectLinks": [
+      {
+        "name": "Health",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Health"
+      }
+    ],
+    "combination": "Part of Elixir of Life",
+    "combinationLinks": [
+      {
+        "name": "Elixir of Life",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Elixir_of_Life"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_Vitality",
+    "iconUrl": "https://heroes.thelazy.net/images/0/08/Artifact_Ring_of_Vitality.gif"
+  },
+  {
+    "name": "Ring of Life",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Ring",
+    "class": "Minor",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+1 Unit health",
+    "effectLinks": [
+      {
+        "name": "Health",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Health"
+      }
+    ],
+    "combination": "Part of Elixir of Life",
+    "combinationLinks": [
+      {
+        "name": "Elixir of Life",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Elixir_of_Life"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_Life",
+    "iconUrl": "https://heroes.thelazy.net/images/9/94/Artifact_Ring_of_Life.gif"
+  },
+  {
+    "name": "Ring of Infinite Gems",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Ring",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+1 Gems /day",
+    "effectLinks": [
+      {
+        "name": "Gems",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gems"
+      },
+      {
+        "name": "Gem",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gem_(resource)"
+      }
+    ],
+    "combination": "Part of Cornucopia",
+    "combinationLinks": [
+      {
+        "name": "Cornucopia",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Cornucopia"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_Infinite_Gems",
+    "iconUrl": "https://heroes.thelazy.net/images/e/e4/Artifact_Ring_of_Infinite_Gems.gif"
+  },
+  {
+    "name": "Eversmoking Ring of Sulfur",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Ring",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+1 Sulfur /day",
+    "effectLinks": [
+      {
+        "name": "Sulfur",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sulfur"
+      }
+    ],
+    "combination": "Part of Cornucopia",
+    "combinationLinks": [
+      {
+        "name": "Cornucopia",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Cornucopia"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Eversmoking_Ring_of_Sulfur",
+    "iconUrl": "https://heroes.thelazy.net/images/f/fd/Artifact_Eversmoking_Ring_of_Sulfur.gif"
+  },
+  {
+    "name": "Ring of Oblivion",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Ring",
+    "class": "Major",
+    "cost": {
+      "gold": 7500
+    },
+    "effect": "All losses in combat are irrevocable",
+    "effectLinks": [],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_Oblivion",
+    "iconUrl": "https://heroes.thelazy.net/images/4/47/Artifact_Ring_of_Oblivion.gif"
+  },
+  {
+    "name": "Ring of the Magi",
+    "source": {
+      "order": 3,
+      "name": "Shadow of Death",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
+      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 3000
+    },
+    "effect": "+56 spell duration",
+    "effectLinks": [
+      {
+        "name": "Spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spell"
+      }
+    ],
+    "combination": "Ring/Necklace/Cape",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_the_Magi",
+    "iconUrl": "https://heroes.thelazy.net/images/e/e7/Artifact_Ring_of_the_Magi.gif"
+  },
+  {
+    "name": "Charm of Eclipse",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Minor",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "-10% enemy Power skill",
+    "effectLinks": [
+      {
+        "name": "Power",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Power"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Charm_of_Eclipse",
+    "iconUrl": "https://heroes.thelazy.net/images/7/75/Artifact_Charm_of_Eclipse.gif"
+  },
+  {
+    "name": "Charm of Mana",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 500
+    },
+    "effect": "+1 Spell points/day",
+    "effectLinks": [
+      {
+        "name": "Spell point",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spell_point"
+      }
+    ],
+    "combination": "Part of Wizard's Well",
+    "combinationLinks": [
+      {
+        "name": "Wizard's Well",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Wizard%27s_Well"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Charm_of_Mana",
+    "iconUrl": "https://heroes.thelazy.net/images/0/04/Artifact_Charm_of_Mana.gif"
+  },
+  {
+    "name": "Talisman of Mana",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "+2 Spell points/day",
+    "effectLinks": [
+      {
+        "name": "Spell point",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spell_point"
+      }
+    ],
+    "combination": "Part of Wizard's Well",
+    "combinationLinks": [
+      {
+        "name": "Wizard's Well",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Wizard%27s_Well"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Talisman_of_Mana",
+    "iconUrl": "https://heroes.thelazy.net/images/9/98/Artifact_Talisman_of_Mana.gif"
+  },
+  {
+    "name": "Mystic Orb of Mana",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1500
+    },
+    "effect": "+3 Spell points/day",
+    "effectLinks": [
+      {
+        "name": "Spell point",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spell_point"
+      }
+    ],
+    "combination": "Part of Wizard's Well",
+    "combinationLinks": [
+      {
+        "name": "Wizard's Well",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Wizard%27s_Well"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Mystic_Orb_of_Mana",
+    "iconUrl": "https://heroes.thelazy.net/images/f/fd/Artifact_Mystic_Orb_of_Mana.gif"
+  },
+  {
+    "name": "Wizard's Well",
+    "source": {
+      "order": 3,
+      "name": "Shadow of Death",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
+      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 3000
+    },
+    "effect": "Recover all spell points every day",
+    "effectLinks": [
+      {
+        "name": "Spell point",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spell_point"
+      }
+    ],
+    "combination": "Misc/Misc/Misc",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Wizard%27s_Well",
+    "iconUrl": "https://heroes.thelazy.net/images/5/5e/Artifact_Wizard%27s_Well.gif"
+  },
+  {
+    "name": "Orb of Silt",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+50% Earth spell damage",
+    "effectLinks": [
+      {
+        "name": "Earth spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Earth_spell"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Orb_of_Silt",
+    "iconUrl": "https://heroes.thelazy.net/images/5/52/Artifact_Orb_of_Silt.gif"
+  },
+  {
+    "name": "Orb of the Firmament",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+50% Air spell damage",
+    "effectLinks": [
+      {
+        "name": "Air spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Air_spell"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Orb_of_the_Firmament",
+    "iconUrl": "https://heroes.thelazy.net/images/1/1f/Artifact_Orb_of_the_Firmament.gif"
+  },
+  {
+    "name": "Orb of Driving Rain",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+50% Water spell damage",
+    "effectLinks": [
+      {
+        "name": "Water spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Water_spell"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Orb_of_Driving_Rain",
+    "iconUrl": "https://heroes.thelazy.net/images/c/c4/Artifact_Orb_of_Driving_Rain.gif"
+  },
+  {
+    "name": "Orb of Tempestuous Fire",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+50% Fire spell damage",
+    "effectLinks": [
+      {
+        "name": "Fire spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Fire_spell"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Orb_of_Tempestuous_Fire",
+    "iconUrl": "https://heroes.thelazy.net/images/3/3a/Artifact_Orb_of_Tempestuous_Fire.gif"
+  },
+  {
+    "name": "Tome of Earth",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Relic",
+    "cost": {
+      "gold": 20000
+    },
+    "effect": "All Earth spells",
+    "effectLinks": [
+      {
+        "name": "Earth spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Earth_spell"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Tome_of_Earth",
+    "iconUrl": "https://heroes.thelazy.net/images/2/23/Artifact_Tome_of_Earth_Magic.gif"
+  },
+  {
+    "name": "Tome of Air",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Relic",
+    "cost": {
+      "gold": 20000
+    },
+    "effect": "All Air spells",
+    "effectLinks": [
+      {
+        "name": "Air spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Air_spell"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Tome_of_Air",
+    "iconUrl": "https://heroes.thelazy.net/images/c/cc/Artifact_Tome_of_Air_Magic.gif"
+  },
+  {
+    "name": "Tome of Water",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Relic",
+    "cost": {
+      "gold": 20000
+    },
+    "effect": "All Water spells",
+    "effectLinks": [
+      {
+        "name": "Water spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Water_spell"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Tome_of_Water",
+    "iconUrl": "https://heroes.thelazy.net/images/b/b6/Artifact_Tome_of_Water_Magic.gif"
+  },
+  {
+    "name": "Tome of Fire",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Relic",
+    "cost": {
+      "gold": 20000
+    },
+    "effect": "All Fire spells",
+    "effectLinks": [
+      {
+        "name": "Fire spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Fire_spell"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Tome_of_Fire",
+    "iconUrl": "https://heroes.thelazy.net/images/2/21/Artifact_Tome_of_Fire_Magic.gif"
+  },
+  {
+    "name": "Sphere of Permanence",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 7500
+    },
+    "effect": "Immune to Dispel",
+    "effectLinks": [
+      {
+        "name": "Dispel",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Dispel"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sphere_of_Permanence",
+    "iconUrl": "https://heroes.thelazy.net/images/0/00/Artifact_Sphere_of_Permanence.gif"
+  },
+  {
+    "name": "Orb of Inhibition",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Relic",
+    "cost": {
+      "gold": 20000
+    },
+    "effect": "Prevents casting all spells",
+    "effectLinks": [
+      {
+        "name": "Spells",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spells"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Orb_of_Inhibition",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d6/Artifact_Orb_of_Inhibition.gif"
+  },
+  {
+    "name": "Orb of Vulnerability",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Relic",
+    "cost": {
+      "gold": 25000
+    },
+    "effect": "Negate creatures' spell immunity",
+    "effectLinks": [
+      {
+        "name": "Spell immunity",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spell_immunity"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Orb_of_Vulnerability",
+    "iconUrl": "https://heroes.thelazy.net/images/b/ba/Artifact_Orb_of_Vulnerability.gif"
+  },
+  {
+    "name": "Bird of Perception",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "+5% Eagle Eye",
+    "effectLinks": [
+      {
+        "name": "Eagle Eye",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Eagle_Eye"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Bird_of_Perception",
+    "iconUrl": "https://heroes.thelazy.net/images/6/68/Artifact_Bird_of_Perception.gif"
+  },
+  {
+    "name": "Stoic Watchman",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2000
+    },
+    "effect": "+10% Eagle Eye",
+    "effectLinks": [
+      {
+        "name": "Eagle Eye",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Eagle_Eye"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Stoic_Watchman",
+    "iconUrl": "https://heroes.thelazy.net/images/9/9f/Artifact_Stoic_Watchman.gif"
+  },
+  {
+    "name": "Emblem of Cognizance",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Minor",
+    "cost": {
+      "gold": 3000
+    },
+    "effect": "+15% Eagle Eye",
+    "effectLinks": [
+      {
+        "name": "Eagle Eye",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Eagle_Eye"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Emblem_of_Cognizance",
+    "iconUrl": "https://heroes.thelazy.net/images/a/ac/Artifact_Emblem_of_Cognizance.gif"
+  },
+  {
+    "name": "Clover of Fortune",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "+1 Luck",
+    "effectLinks": [
+      {
+        "name": "Luck",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Luck"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Clover_of_Fortune",
+    "iconUrl": "https://heroes.thelazy.net/images/5/5f/Artifact_Clover_of_Fortune.gif"
+  },
+  {
+    "name": "Ladybird of Luck",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "+1 Luck",
+    "effectLinks": [
+      {
+        "name": "Luck",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Luck"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ladybird_of_Luck",
+    "iconUrl": "https://heroes.thelazy.net/images/4/43/Artifact_Ladybird_of_Luck.gif"
+  },
+  {
+    "name": "Cards of Prophecy",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "+1 Luck",
+    "effectLinks": [
+      {
+        "name": "Luck",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Luck"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Cards_of_Prophecy",
+    "iconUrl": "https://heroes.thelazy.net/images/5/5d/Artifact_Cards_of_Prophecy.gif"
+  },
+  {
+    "name": "Hourglass of the Evil Hour",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2000
+    },
+    "effect": "Negates positive Luck",
+    "effectLinks": [
+      {
+        "name": "Luck",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Luck"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Hourglass_of_the_Evil_Hour",
+    "iconUrl": "https://heroes.thelazy.net/images/7/70/Artifact_Hourglass_of_the_Evil_Hour.gif"
+  },
+  {
+    "name": "Runes of Imminency",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2000
+    },
+    "effect": "-1 enemy Luck",
+    "effectLinks": [
+      {
+        "name": "Luck",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Luck"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Runes_of_Imminency",
+    "iconUrl": "https://heroes.thelazy.net/images/8/8a/Artifact_Runes_of_Imminency.gif"
+  },
+  {
+    "name": "Demon's Horseshoe",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2000
+    },
+    "effect": "-1 enemy Luck",
+    "effectLinks": [
+      {
+        "name": "Luck",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Luck"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Demon%27s_Horseshoe",
+    "iconUrl": "https://heroes.thelazy.net/images/e/e7/Artifact_Demon%27s_Horseshoe.gif"
+  },
+  {
+    "name": "Shaman's Puppet",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Minor",
+    "cost": {
+      "gold": 4000
+    },
+    "effect": "-2 enemy Luck",
+    "effectLinks": [
+      {
+        "name": "Luck",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Luck"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Shaman%27s_Puppet",
+    "iconUrl": "https://heroes.thelazy.net/images/9/9e/Artifact_Shaman%27s_Puppet.gif"
+  },
+  {
+    "name": "Glyph of Gallantry",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "+1 Morale",
+    "effectLinks": [
+      {
+        "name": "Morale",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morale"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Glyph_of_Gallantry",
+    "iconUrl": "https://heroes.thelazy.net/images/4/41/Artifact_Glyph_of_Gallantry.gif"
+  },
+  {
+    "name": "Crest of Valor",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "+1 Morale",
+    "effectLinks": [
+      {
+        "name": "Morale",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morale"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Crest_of_Valor",
+    "iconUrl": "https://heroes.thelazy.net/images/5/5a/Artifact_Crest_of_Valor.gif"
+  },
+  {
+    "name": "Badge of Courage",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "+1 Morale; Bug: immunity to Mind spells (fixed in Horn of the Abyss)",
+    "effectLinks": [
+      {
+        "name": "Morale",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morale"
+      },
+      {
+        "name": "Mind spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Mind_spell"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      },
+      {
+        "name": "Shadow of Death",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Badge_of_Courage",
+    "iconUrl": "https://heroes.thelazy.net/images/1/15/Artifact_Badge_of_Courage.gif"
+  },
+  {
+    "name": "Spirit of Oppression",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2000
+    },
+    "effect": "Negates positive Morale",
+    "effectLinks": [
+      {
+        "name": "Morale",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morale"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Spirit_of_Oppression",
+    "iconUrl": "https://heroes.thelazy.net/images/d/d4/Artifact_Spirit_of_Oppression.gif"
+  },
+  {
+    "name": "Hideous Mask",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Minor",
+    "cost": {
+      "gold": 4000
+    },
+    "effect": "-1 enemy Morale",
+    "effectLinks": [
+      {
+        "name": "Morale",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morale"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Hideous_Mask",
+    "iconUrl": "https://heroes.thelazy.net/images/9/98/Artifact_Hideous_Mask.gif"
+  },
+  {
+    "name": "Spyglass",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "+1 Scouting radius",
+    "effectLinks": [
+      {
+        "name": "Scouting radius",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Scouting_radius"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Spyglass",
+    "iconUrl": "https://heroes.thelazy.net/images/5/51/Artifact_Spyglass.gif"
+  },
+  {
+    "name": "Speculum",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 1000
+    },
+    "effect": "+1 Scouting radius",
+    "effectLinks": [
+      {
+        "name": "Scouting radius",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Scouting_radius"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Speculum",
+    "iconUrl": "https://heroes.thelazy.net/images/0/0a/Artifact_Speculum.gif"
+  },
+  {
+    "name": "Golden Bow",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 8000
+    },
+    "effect": "No range and obstacle penalty",
+    "effectLinks": [
+      {
+        "name": "Range penalty",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Range_penalty"
+      },
+      {
+        "name": "Obstacle penalty",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Obstacle_penalty"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Golden_Bow",
+    "iconUrl": "https://heroes.thelazy.net/images/5/54/Artifact_Golden_Bow.gif"
+  },
+  {
+    "name": "Bow of Elven Cherrywood",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 2000
+    },
+    "effect": "+5% Archery",
+    "effectLinks": [
+      {
+        "name": "Archery",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Archery"
+      }
+    ],
+    "combination": "Part of Bow of the Sharpshooter",
+    "combinationLinks": [
+      {
+        "name": "Bow of the Sharpshooter",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Bow_of_the_Sharpshooter"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Bow_of_Elven_Cherrywood",
+    "iconUrl": "https://heroes.thelazy.net/images/2/2f/Artifact_Bow_of_Elven_Cherrywood.gif"
+  },
+  {
+    "name": "Bowstring of the Unicorn's Mane",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Minor",
+    "cost": {
+      "gold": 4000
+    },
+    "effect": "+10% Archery",
+    "effectLinks": [
+      {
+        "name": "Archery",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Archery"
+      }
+    ],
+    "combination": "Part of Bow of the Sharpshooter",
+    "combinationLinks": [
+      {
+        "name": "Bow of the Sharpshooter",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Bow_of_the_Sharpshooter"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Bowstring_of_the_Unicorn%27s_Mane",
+    "iconUrl": "https://heroes.thelazy.net/images/2/24/Artifact_Bowstring_of_the_Unicorn%27s_Mane.gif"
+  },
+  {
+    "name": "Angel Feather Arrows",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 6000
+    },
+    "effect": "+15% Archery",
+    "effectLinks": [
+      {
+        "name": "Archery",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Archery"
+      }
+    ],
+    "combination": "Part of Bow of the Sharpshooter",
+    "combinationLinks": [
+      {
+        "name": "Bow of the Sharpshooter",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Bow_of_the_Sharpshooter"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Angel_Feather_Arrows",
+    "iconUrl": "https://heroes.thelazy.net/images/6/61/Artifact_Angel_Feather_Arrows.gif"
+  },
+  {
+    "name": "Bow of the Sharpshooter",
+    "source": {
+      "order": 3,
+      "name": "Shadow of Death",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
+      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 12000
+    },
+    "effect": "+30% Archery; ; No range and obstacle penalty; ; Allied shooters may shoot while adjacent to enemies",
+    "effectLinks": [
+      {
+        "name": "Archery",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Archery"
+      },
+      {
+        "name": "Range penalty",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Range_penalty"
+      },
+      {
+        "name": "Obstacle penalty",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Obstacle_penalty"
+      }
+    ],
+    "combination": "Misc/Misc/Misc",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Bow_of_the_Sharpshooter",
+    "iconUrl": "https://heroes.thelazy.net/images/a/ac/Artifact_Bow_of_the_Sharpshooter.gif"
+  },
+  {
+    "name": "Vial of Lifeblood",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 10000
+    },
+    "effect": "+2 Unit health",
+    "effectLinks": [
+      {
+        "name": "Health",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Health"
+      }
+    ],
+    "combination": "Part of Elixir of Life",
+    "combinationLinks": [
+      {
+        "name": "Elixir of Life",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Elixir_of_Life"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Vial_of_Lifeblood",
+    "iconUrl": "https://heroes.thelazy.net/images/4/45/Artifact_Vial_of_Lifeblood.gif"
+  },
+  {
+    "name": "Elixir of Life",
+    "source": {
+      "order": 3,
+      "name": "Shadow of Death",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
+      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 20000
+    },
+    "effect": "+4 Unit health; ; +25% Unit health; ; Allied units gain Regeneration",
+    "effectLinks": [
+      {
+        "name": "Health",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Health"
+      },
+      {
+        "name": "Regeneration",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Regeneration"
+      }
+    ],
+    "combination": "Misc/Ring/Ring",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Elixir_of_Life",
+    "iconUrl": "https://heroes.thelazy.net/images/9/91/Artifact_Elixir_of_Life.gif"
+  },
+  {
+    "name": "Endless Purse of Gold",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+500 Gold/day",
+    "effectLinks": [
+      {
+        "name": "Gold",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gold"
+      }
+    ],
+    "combination": "Part of Golden Goose",
+    "combinationLinks": [
+      {
+        "name": "Golden Goose",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Golden_Goose"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Endless_Purse_of_Gold",
+    "iconUrl": "https://heroes.thelazy.net/images/3/3e/Artifact_Endless_Purse_of_Gold.gif"
+  },
+  {
+    "name": "Endless Bag of Gold",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 7500
+    },
+    "effect": "+750 Gold/day",
+    "effectLinks": [
+      {
+        "name": "Gold",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gold"
+      }
+    ],
+    "combination": "Part of Golden Goose",
+    "combinationLinks": [
+      {
+        "name": "Golden Goose",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Golden_Goose"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Endless_Bag_of_Gold",
+    "iconUrl": "https://heroes.thelazy.net/images/c/c1/Artifact_Endless_Bag_of_Gold.gif"
+  },
+  {
+    "name": "Endless Sack of Gold",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Relic",
+    "cost": {
+      "gold": 10000
+    },
+    "effect": "+1000 Gold/day",
+    "effectLinks": [
+      {
+        "name": "Gold",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gold"
+      }
+    ],
+    "combination": "Part of Golden Goose",
+    "combinationLinks": [
+      {
+        "name": "Golden Goose",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Golden_Goose"
+      },
+      {
+        "name": "Horn of the Abyss",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Endless_Sack_of_Gold",
+    "iconUrl": "https://heroes.thelazy.net/images/3/35/Artifact_Endless_Sack_of_Gold.gif"
+  },
+  {
+    "name": "Golden Goose",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 22500
+    },
+    "effect": "+7000 Gold/day",
+    "effectLinks": [
+      {
+        "name": "Gold",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gold"
+      }
+    ],
+    "combination": "Misc/Misc/Misc",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Golden_Goose",
+    "iconUrl": "https://heroes.thelazy.net/images/8/8e/Artifact_Golden_Goose.gif"
+  },
+  {
+    "name": "Inexhaustible Cart of Lumber",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Minor",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+1 Wood/day",
+    "effectLinks": [
+      {
+        "name": "Wood",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Wood"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Inexhaustible_Cart_of_Lumber",
+    "iconUrl": "https://heroes.thelazy.net/images/6/6a/Artifact_Inexhaustible_Cart_of_Lumber.gif"
+  },
+  {
+    "name": "Inexhaustible Cart of Ore",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Minor",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+1 Ore/day",
+    "effectLinks": [
+      {
+        "name": "Ore",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ore"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Inexhaustible_Cart_of_Ore",
+    "iconUrl": "https://heroes.thelazy.net/images/b/ba/Artifact_Inexhaustible_Cart_of_Ore.gif"
+  },
+  {
+    "name": "Everpouring Vial of Mercury",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+1 Mercury/day",
+    "effectLinks": [
+      {
+        "name": "Mercury",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Mercury"
+      }
+    ],
+    "combination": "Part of Cornucopia",
+    "combinationLinks": [
+      {
+        "name": "Cornucopia",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Cornucopia"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Everpouring_Vial_of_Mercury",
+    "iconUrl": "https://heroes.thelazy.net/images/1/1f/Artifact_Everpouring_Vial_of_Mercury.gif"
+  },
+  {
+    "name": "Cornucopia",
+    "source": {
+      "order": 3,
+      "name": "Shadow of Death",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
+      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 20000
+    },
+    "effect": "+5 Mercury, Sulfur, Crystal, and Gems/day",
+    "effectLinks": [
+      {
+        "name": "Mercury",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Mercury"
+      },
+      {
+        "name": "Sulfur",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sulfur"
+      },
+      {
+        "name": "Crystal",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Crystal"
+      },
+      {
+        "name": "Gem",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gem_(resource)"
+      },
+      {
+        "name": "Gems",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gems"
+      }
+    ],
+    "combination": "Misc/Cape/Ring/Ring",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Cornucopia",
+    "iconUrl": "https://heroes.thelazy.net/images/6/6a/Artifact_Cornucopia.gif"
+  },
+  {
+    "name": "Legs of Legion",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Treasure",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+5 level 2 Creature growth/week",
+    "effectLinks": [
+      {
+        "name": "Creature",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Creature"
+      }
+    ],
+    "combination": "Part of Statue of Legion",
+    "combinationLinks": [
+      {
+        "name": "Statue of Legion",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Statue_of_Legion"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Legs_of_Legion",
+    "iconUrl": "https://heroes.thelazy.net/images/f/fa/Artifact_Legs_of_Legion.gif"
+  },
+  {
+    "name": "Loins of Legion",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Minor",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+4 level 3 Creature growth/week",
+    "effectLinks": [
+      {
+        "name": "Creature",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Creature"
+      }
+    ],
+    "combination": "Part of Statue of Legion",
+    "combinationLinks": [
+      {
+        "name": "Statue of Legion",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Statue_of_Legion"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Loins_of_Legion",
+    "iconUrl": "https://heroes.thelazy.net/images/1/1a/Artifact_Loins_of_Legion.gif"
+  },
+  {
+    "name": "Torso of Legion",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Minor",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+3 level 4 Creature growth/week",
+    "effectLinks": [
+      {
+        "name": "Creature",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Creature"
+      }
+    ],
+    "combination": "Part of Statue of Legion",
+    "combinationLinks": [
+      {
+        "name": "Statue of Legion",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Statue_of_Legion"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Torso_of_Legion",
+    "iconUrl": "https://heroes.thelazy.net/images/8/8f/Artifact_Torso_of_Legion.gif"
+  },
+  {
+    "name": "Arms of Legion",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+2 level 5 Creature growth/week",
+    "effectLinks": [
+      {
+        "name": "Creature",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Creature"
+      }
+    ],
+    "combination": "Part of Statue of Legion",
+    "combinationLinks": [
+      {
+        "name": "Statue of Legion",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Statue_of_Legion"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Arms_of_Legion",
+    "iconUrl": "https://heroes.thelazy.net/images/3/32/Artifact_Arms_of_Legion.gif"
+  },
+  {
+    "name": "Head of Legion",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "+1 level 6 Creature growth/week",
+    "effectLinks": [
+      {
+        "name": "Creature",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Creature"
+      }
+    ],
+    "combination": "Part of Statue of Legion",
+    "combinationLinks": [
+      {
+        "name": "Statue of Legion",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Statue_of_Legion"
+      }
+    ],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Head_of_Legion",
+    "iconUrl": "https://heroes.thelazy.net/images/6/68/Artifact_Head_of_Legion.gif"
+  },
+  {
+    "name": "Statue of Legion",
+    "source": {
+      "order": 3,
+      "name": "Shadow of Death",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
+      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+    },
+    "slot": "Combo",
+    "class": "Relic",
+    "cost": {
+      "gold": 25000
+    },
+    "effect": "+50% Creature growth/week; ; Gain component effects while the equipped hero is in town",
+    "effectLinks": [
+      {
+        "name": "Creature",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Creature"
+      }
+    ],
+    "combination": "Misc/Misc/Misc/Misc/Misc",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Statue_of_Legion",
+    "iconUrl": "https://heroes.thelazy.net/images/6/66/Artifact_Statue_of_Legion.gif"
+  },
+  {
+    "name": "Shackles of War",
+    "source": {
+      "order": 1,
+      "name": "Restoration of Erathia",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
+      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Major",
+    "cost": {
+      "gold": 5000
+    },
+    "effect": "Prevents retreat and surrender",
+    "effectLinks": [
+      {
+        "name": "Retreat",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Retreat"
+      },
+      {
+        "name": "Surrender",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Surrender"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Shackles_of_War",
+    "iconUrl": "https://heroes.thelazy.net/images/2/2a/Artifact_Shackles_of_War.gif"
+  },
+  {
+    "name": "Vial of Dragon Blood",
+    "source": {
+      "order": 2,
+      "name": "Armageddon's Blade",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Armageddon%27s_Blade",
+      "iconUrl": "https://heroes.thelazy.net/images/c/ca/Armageddon%27s_Blade_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Relic",
+    "cost": {
+      "gold": 20000
+    },
+    "effect": "+5 Attack skill, +5 Defense skill to allied Dragons",
+    "effectLinks": [
+      {
+        "name": "Attack",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Attack"
+      },
+      {
+        "name": "Defense",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Defense"
+      },
+      {
+        "name": "Dragons",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Dragons"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Vial_of_Dragon_Blood",
+    "iconUrl": "https://heroes.thelazy.net/images/5/5e/Artifact_Vial_of_Dragon_Blood.gif"
+  },
+  {
+    "name": "Sleepkeeper",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Relic",
+    "cost": {
+      "gold": 50000
+    },
+    "effect": "Immunity to Mind spells",
+    "effectLinks": [
+      {
+        "name": "Mind spell",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Mind_spell"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sleepkeeper",
+    "iconUrl": "https://heroes.thelazy.net/images/3/39/Artifact_Sleepkeeper.gif"
+  },
+  {
+    "name": "Horn of the Abyss (artifact)",
+    "source": {
+      "order": 5,
+      "name": "Horn of the Abyss",
+      "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
+      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+    },
+    "slot": "Misc",
+    "class": "Relic",
+    "cost": {
+      "gold": 50000
+    },
+    "effect": "Raises Fangarms from slain stacks of living creatures",
+    "effectLinks": [
+      {
+        "name": "Fangarm",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Fangarm"
+      }
+    ],
+    "combination": "",
+    "combinationLinks": [],
+    "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss_(artifact)",
+    "iconUrl": "https://heroes.thelazy.net/images/8/89/Artifact_Horn_of_the_Abyss.gif"
+  }
+]

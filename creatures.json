@@ -1,0 +1,4396 @@
+[
+  {
+    "name": "Pikeman",
+    "town": "Castle",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 4,
+    "defense": 5,
+    "damage": {
+      "min": 1,
+      "max": 3
+    },
+    "health": 10,
+    "speed": 4,
+    "growth": 14,
+    "aiValue": 80,
+    "cost": {
+      "gold": 60
+    },
+    "special": "Immune to Jousting",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pikeman",
+    "portraitUrl": "https://heroes.thelazy.net/images/9/95/Mini_Portrait_Pikeman_%28HotA%29.png"
+  },
+  {
+    "name": "Halberdier",
+    "town": "Castle",
+    "level": 1,
+    "levelDisplay": "1+",
+    "upgraded": true,
+    "attack": 6,
+    "defense": 5,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 10,
+    "speed": 5,
+    "growth": 14,
+    "aiValue": 115,
+    "cost": {
+      "gold": 75
+    },
+    "special": "Immune to Jousting",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Halberdier",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/31/Mini_Portrait_Halberdier_%28HotA%29.png"
+  },
+  {
+    "name": "Archer",
+    "town": "Castle",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 6,
+    "defense": 3,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 10,
+    "speed": 4,
+    "growth": 9,
+    "aiValue": 126,
+    "cost": {
+      "gold": 100
+    },
+    "special": "Ranged (12 shots)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Archer",
+    "portraitUrl": "https://heroes.thelazy.net/images/0/04/Mini_Portrait_Archer.png"
+  },
+  {
+    "name": "Marksman",
+    "town": "Castle",
+    "level": 2,
+    "levelDisplay": "2+",
+    "upgraded": true,
+    "attack": 6,
+    "defense": 3,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 10,
+    "speed": 6,
+    "growth": 9,
+    "aiValue": 184,
+    "cost": {
+      "gold": 150
+    },
+    "special": "Ranged (24 shots), Double attack",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Marksman",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/83/Mini_Portrait_Marksman.png"
+  },
+  {
+    "name": "Griffin",
+    "town": "Castle",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 8,
+    "defense": 8,
+    "damage": {
+      "min": 3,
+      "max": 6
+    },
+    "health": 25,
+    "speed": 6,
+    "growth": 7,
+    "aiValue": 351,
+    "cost": {
+      "gold": 200
+    },
+    "special": "Flying, Two retaliations",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Griffin",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/34/Mini_Portrait_Griffin_%28HotA%29.png"
+  },
+  {
+    "name": "Royal Griffin",
+    "town": "Castle",
+    "level": 3,
+    "levelDisplay": "3+",
+    "upgraded": true,
+    "attack": 9,
+    "defense": 9,
+    "damage": {
+      "min": 3,
+      "max": 6
+    },
+    "health": 25,
+    "speed": 9,
+    "growth": 7,
+    "aiValue": 448,
+    "cost": {
+      "gold": 240
+    },
+    "special": "Flying, Unlimited retaliations",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Royal_Griffin",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/6f/Mini_Portrait_Royal_Griffin_%28HotA%29.png"
+  },
+  {
+    "name": "Swordsman",
+    "town": "Castle",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 10,
+    "defense": 12,
+    "damage": {
+      "min": 6,
+      "max": 9
+    },
+    "health": 35,
+    "speed": 5,
+    "growth": 4,
+    "aiValue": 445,
+    "cost": {
+      "gold": 300
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Swordsman",
+    "portraitUrl": "https://heroes.thelazy.net/images/4/4b/Mini_Portrait_Swordsman.png"
+  },
+  {
+    "name": "Crusader",
+    "town": "Castle",
+    "level": 4,
+    "levelDisplay": "4+",
+    "upgraded": true,
+    "attack": 12,
+    "defense": 12,
+    "damage": {
+      "min": 7,
+      "max": 10
+    },
+    "health": 35,
+    "speed": 6,
+    "growth": 4,
+    "aiValue": 588,
+    "cost": {
+      "gold": 400
+    },
+    "special": "Double attack",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Crusader",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/73/Mini_Portrait_Crusader.png"
+  },
+  {
+    "name": "Monk",
+    "town": "Castle",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 12,
+    "defense": 7,
+    "damage": {
+      "min": 10,
+      "max": 12
+    },
+    "health": 30,
+    "speed": 5,
+    "growth": 3,
+    "aiValue": 582,
+    "cost": {
+      "gold": 400
+    },
+    "special": "Ranged (12 shots)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Monk",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/fc/Mini_Portrait_Monk.png"
+  },
+  {
+    "name": "Zealot",
+    "town": "Castle",
+    "level": 5,
+    "levelDisplay": "5+",
+    "upgraded": true,
+    "attack": 12,
+    "defense": 10,
+    "damage": {
+      "min": 10,
+      "max": 12
+    },
+    "health": 30,
+    "speed": 7,
+    "growth": 3,
+    "aiValue": 750,
+    "cost": {
+      "gold": 450
+    },
+    "special": "Ranged (24 shots), No melee penalty",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Zealot",
+    "portraitUrl": "https://heroes.thelazy.net/images/5/50/Mini_Portrait_Zealot.png"
+  },
+  {
+    "name": "Cavalier",
+    "town": "Castle",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 15,
+    "defense": 15,
+    "damage": {
+      "min": 15,
+      "max": 25
+    },
+    "health": 100,
+    "speed": 7,
+    "growth": 2,
+    "aiValue": 1946,
+    "cost": {
+      "gold": 1000
+    },
+    "special": "Jousting",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Cavalier",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/f1/Mini_Portrait_Cavalier.png"
+  },
+  {
+    "name": "Champion",
+    "town": "Castle",
+    "level": 6,
+    "levelDisplay": "6+",
+    "upgraded": true,
+    "attack": 16,
+    "defense": 16,
+    "damage": {
+      "min": 20,
+      "max": 25
+    },
+    "health": 100,
+    "speed": 9,
+    "growth": 2,
+    "aiValue": 2100,
+    "cost": {
+      "gold": 1200
+    },
+    "special": "Jousting",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Champion",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/f7/Mini_Portrait_Champion.png"
+  },
+  {
+    "name": "Angel",
+    "town": "Castle",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 20,
+    "defense": 20,
+    "damage": {
+      "min": 50,
+      "max": 50
+    },
+    "health": 200,
+    "speed": 12,
+    "growth": 1,
+    "aiValue": 5019,
+    "cost": {
+      "gold": 3000,
+      "gem": 1
+    },
+    "special": "Flying, Hates Devils , Morale +1",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Angel",
+    "portraitUrl": "https://heroes.thelazy.net/images/2/29/Mini_Portrait_Angel.png"
+  },
+  {
+    "name": "Archangel",
+    "town": "Castle",
+    "level": 7,
+    "levelDisplay": "7+",
+    "upgraded": true,
+    "attack": 30,
+    "defense": 30,
+    "damage": {
+      "min": 50,
+      "max": 50
+    },
+    "health": 250,
+    "speed": 18,
+    "growth": 1,
+    "aiValue": 8776,
+    "cost": {
+      "gold": 5000,
+      "gem": 3
+    },
+    "special": "Flying, Hates Devils, Resurrection, Morale +1",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Archangel",
+    "portraitUrl": "https://heroes.thelazy.net/images/c/c2/Mini_Portrait_Archangel.png"
+  },
+  {
+    "name": "Centaur",
+    "town": "Rampart",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 5,
+    "defense": 3,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 8,
+    "speed": 6,
+    "growth": 14,
+    "aiValue": 100,
+    "cost": {
+      "gold": 70
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Centaur",
+    "portraitUrl": "https://heroes.thelazy.net/images/5/53/Mini_Portrait_Centaur.png"
+  },
+  {
+    "name": "Centaur Captain",
+    "town": "Rampart",
+    "level": 1,
+    "levelDisplay": "1+",
+    "upgraded": true,
+    "attack": 6,
+    "defense": 3,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 10,
+    "speed": 8,
+    "growth": 14,
+    "aiValue": 138,
+    "cost": {
+      "gold": 90
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Centaur_Captain",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/75/Mini_Portrait_Centaur_Captain.png"
+  },
+  {
+    "name": "Dwarf",
+    "town": "Rampart",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 6,
+    "defense": 7,
+    "damage": {
+      "min": 2,
+      "max": 4
+    },
+    "health": 20,
+    "speed": 3,
+    "growth": 8,
+    "aiValue": 138,
+    "cost": {
+      "gold": 120
+    },
+    "special": "Resistance (+20%)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Dwarf",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/80/Mini_Portrait_Dwarf.png"
+  },
+  {
+    "name": "Battle Dwarf",
+    "town": "Rampart",
+    "level": 2,
+    "levelDisplay": "2+",
+    "upgraded": true,
+    "attack": 7,
+    "defense": 7,
+    "damage": {
+      "min": 2,
+      "max": 4
+    },
+    "health": 20,
+    "speed": 5,
+    "growth": 8,
+    "aiValue": 209,
+    "cost": {
+      "gold": 150
+    },
+    "special": "Resistance (+40%)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Battle_Dwarf",
+    "portraitUrl": "https://heroes.thelazy.net/images/b/b2/Mini_Portrait_Battle_Dwarf.png"
+  },
+  {
+    "name": "Wood Elf",
+    "town": "Rampart",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 9,
+    "defense": 5,
+    "damage": {
+      "min": 3,
+      "max": 5
+    },
+    "health": 15,
+    "speed": 6,
+    "growth": 7,
+    "aiValue": 234,
+    "cost": {
+      "gold": 200
+    },
+    "special": "Ranged (24 shots)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Wood_Elf",
+    "portraitUrl": "https://heroes.thelazy.net/images/e/e4/Mini_Portrait_Wood_Elf.png"
+  },
+  {
+    "name": "Grand Elf",
+    "town": "Rampart",
+    "level": 3,
+    "levelDisplay": "3+",
+    "upgraded": true,
+    "attack": 9,
+    "defense": 5,
+    "damage": {
+      "min": 3,
+      "max": 5
+    },
+    "health": 15,
+    "speed": 7,
+    "growth": 7,
+    "aiValue": 331,
+    "cost": {
+      "gold": 225
+    },
+    "special": "Ranged (24 shots), Double attack",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Grand_Elf",
+    "portraitUrl": "https://heroes.thelazy.net/images/a/a7/Mini_Portrait_Grand_Elf.png"
+  },
+  {
+    "name": "Pegasus",
+    "town": "Rampart",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 9,
+    "defense": 8,
+    "damage": {
+      "min": 5,
+      "max": 9
+    },
+    "health": 30,
+    "speed": 8,
+    "growth": 5,
+    "aiValue": 518,
+    "cost": {
+      "gold": 250
+    },
+    "special": "Flying, Magic damper",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pegasus",
+    "portraitUrl": "https://heroes.thelazy.net/images/e/ef/Mini_Portrait_Pegasus.png"
+  },
+  {
+    "name": "Silver Pegasus",
+    "town": "Rampart",
+    "level": 4,
+    "levelDisplay": "4+",
+    "upgraded": true,
+    "attack": 9,
+    "defense": 10,
+    "damage": {
+      "min": 5,
+      "max": 9
+    },
+    "health": 30,
+    "speed": 12,
+    "growth": 5,
+    "aiValue": 532,
+    "cost": {
+      "gold": 275
+    },
+    "special": "Flying, Magic damper",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Silver_Pegasus",
+    "portraitUrl": "https://heroes.thelazy.net/images/0/0e/Mini_Portrait_Silver_Pegasus.png"
+  },
+  {
+    "name": "Dendroid Guard",
+    "town": "Rampart",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 9,
+    "defense": 12,
+    "damage": {
+      "min": 10,
+      "max": 14
+    },
+    "health": 55,
+    "speed": 3,
+    "growth": 3,
+    "aiValue": 517,
+    "cost": {
+      "gold": 350
+    },
+    "special": "Binding",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Dendroid_Guard",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/6d/Mini_Portrait_Dendroid_Guard.png"
+  },
+  {
+    "name": "Dendroid Soldier",
+    "town": "Rampart",
+    "level": 5,
+    "levelDisplay": "5+",
+    "upgraded": true,
+    "attack": 9,
+    "defense": 12,
+    "damage": {
+      "min": 10,
+      "max": 14
+    },
+    "health": 65,
+    "speed": 4,
+    "growth": 3,
+    "aiValue": 803,
+    "cost": {
+      "gold": 425
+    },
+    "special": "Binding",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Dendroid_Soldier",
+    "portraitUrl": "https://heroes.thelazy.net/images/b/b3/Mini_Portrait_Dendroid_Soldier_%28HotA%29.png"
+  },
+  {
+    "name": "Unicorn",
+    "town": "Rampart",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 15,
+    "defense": 14,
+    "damage": {
+      "min": 18,
+      "max": 22
+    },
+    "health": 90,
+    "speed": 7,
+    "growth": 2,
+    "aiValue": 1806,
+    "cost": {
+      "gold": 850
+    },
+    "special": "Blinding attack, Aura of Resistance (+20%)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Unicorn",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/f1/Mini_Portrait_Unicorn.png"
+  },
+  {
+    "name": "War Unicorn",
+    "town": "Rampart",
+    "level": 6,
+    "levelDisplay": "6+",
+    "upgraded": true,
+    "attack": 15,
+    "defense": 14,
+    "damage": {
+      "min": 18,
+      "max": 22
+    },
+    "health": 110,
+    "speed": 9,
+    "growth": 2,
+    "aiValue": 2030,
+    "cost": {
+      "gold": 950
+    },
+    "special": "Blinding attack, Aura of Resistance (+20%)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/War_Unicorn",
+    "portraitUrl": "https://heroes.thelazy.net/images/9/95/Mini_Portrait_War_Unicorn.png"
+  },
+  {
+    "name": "Green Dragon",
+    "town": "Rampart",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 18,
+    "defense": 18,
+    "damage": {
+      "min": 40,
+      "max": 50
+    },
+    "health": 180,
+    "speed": 10,
+    "growth": 1,
+    "aiValue": 4872,
+    "cost": {
+      "gold": 2400,
+      "crystal": 1
+    },
+    "special": "Dragon, Flying, Breath attack, 1-3 lvl spells immunity",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Green_Dragon",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/f4/Mini_Portrait_Green_Dragon.png"
+  },
+  {
+    "name": "Gold Dragon",
+    "town": "Rampart",
+    "level": 7,
+    "levelDisplay": "7+",
+    "upgraded": true,
+    "attack": 27,
+    "defense": 27,
+    "damage": {
+      "min": 40,
+      "max": 50
+    },
+    "health": 250,
+    "speed": 16,
+    "growth": 1,
+    "aiValue": 8613,
+    "cost": {
+      "gold": 4000,
+      "crystal": 2
+    },
+    "special": "Dragon, Flying, Breath attack, 1-4 lvl spells immunity",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Gold_Dragon",
+    "portraitUrl": "https://heroes.thelazy.net/images/a/ad/Mini_Portrait_Gold_Dragon.png"
+  },
+  {
+    "name": "Gremlin",
+    "town": "Tower",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 3,
+    "defense": 3,
+    "damage": {
+      "min": 1,
+      "max": 2
+    },
+    "health": 4,
+    "speed": 4,
+    "growth": 16,
+    "aiValue": 44,
+    "cost": {
+      "gold": 30
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Gremlin",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/67/Mini_Portrait_Gremlin.png"
+  },
+  {
+    "name": "Master Gremlin",
+    "town": "Tower",
+    "level": 1,
+    "levelDisplay": "1+",
+    "upgraded": true,
+    "attack": 4,
+    "defense": 4,
+    "damage": {
+      "min": 1,
+      "max": 2
+    },
+    "health": 4,
+    "speed": 5,
+    "growth": 16,
+    "aiValue": 66,
+    "cost": {
+      "gold": 40
+    },
+    "special": "Ranged (8 shots)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Master_Gremlin",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/fa/Mini_Portrait_Master_Gremlin.png"
+  },
+  {
+    "name": "Stone Gargoyle",
+    "town": "Tower",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 6,
+    "defense": 6,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 16,
+    "speed": 6,
+    "growth": 9,
+    "aiValue": 165,
+    "cost": {
+      "gold": 130
+    },
+    "special": "Bloodless Unliving , Flying",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Stone_Gargoyle",
+    "portraitUrl": "https://heroes.thelazy.net/images/2/21/Mini_Portrait_Stone_Gargoyle.png"
+  },
+  {
+    "name": "Obsidian Gargoyle",
+    "town": "Tower",
+    "level": 2,
+    "levelDisplay": "2+",
+    "upgraded": true,
+    "attack": 7,
+    "defense": 7,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 16,
+    "speed": 9,
+    "growth": 9,
+    "aiValue": 201,
+    "cost": {
+      "gold": 160
+    },
+    "special": "Bloodless Unliving , Flying",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Obsidian_Gargoyle",
+    "portraitUrl": "https://heroes.thelazy.net/images/4/4e/Mini_Portrait_Obsidian_Gargoyle_%28HotA%29.png"
+  },
+  {
+    "name": "Stone Golem",
+    "town": "Tower",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 7,
+    "defense": 10,
+    "damage": {
+      "min": 4,
+      "max": 5
+    },
+    "health": 30,
+    "speed": 3,
+    "growth": 6,
+    "aiValue": 250,
+    "cost": {
+      "gold": 150
+    },
+    "special": "Unliving, Spell damage resistance +50%",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Stone_Golem",
+    "portraitUrl": "https://heroes.thelazy.net/images/b/bc/Mini_Portrait_Stone_Golem.png"
+  },
+  {
+    "name": "Iron Golem",
+    "town": "Tower",
+    "level": 3,
+    "levelDisplay": "3+",
+    "upgraded": true,
+    "attack": 9,
+    "defense": 10,
+    "damage": {
+      "min": 4,
+      "max": 5
+    },
+    "health": 35,
+    "speed": 5,
+    "growth": 6,
+    "aiValue": 412,
+    "cost": {
+      "gold": 200
+    },
+    "special": "Unliving, Spell damage resistance +75%",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Iron_Golem",
+    "portraitUrl": "https://heroes.thelazy.net/images/b/b5/Mini_Portrait_Iron_Golem.png"
+  },
+  {
+    "name": "Mage",
+    "town": "Tower",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 11,
+    "defense": 8,
+    "damage": {
+      "min": 7,
+      "max": 9
+    },
+    "health": 25,
+    "speed": 5,
+    "growth": 4,
+    "aiValue": 570,
+    "cost": {
+      "gold": 350
+    },
+    "special": "Ranged (24 shots), No melee penalty, No obstacle penalty, Magic channeler",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Mage",
+    "portraitUrl": "https://heroes.thelazy.net/images/c/c6/Mini_Portrait_Mage.png"
+  },
+  {
+    "name": "Arch Mage",
+    "town": "Tower",
+    "level": 4,
+    "levelDisplay": "4+",
+    "upgraded": true,
+    "attack": 12,
+    "defense": 9,
+    "damage": {
+      "min": 7,
+      "max": 9
+    },
+    "health": 30,
+    "speed": 7,
+    "growth": 4,
+    "aiValue": 680,
+    "cost": {
+      "gold": 450
+    },
+    "special": "Ranged (24 shots), No melee penalty, No obstacle penalty, Magic channeler",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Arch_Mage",
+    "portraitUrl": "https://heroes.thelazy.net/images/5/53/Mini_Portrait_Arch_Mage.png"
+  },
+  {
+    "name": "Genie",
+    "town": "Tower",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 12,
+    "defense": 12,
+    "damage": {
+      "min": 13,
+      "max": 16
+    },
+    "health": 40,
+    "speed": 7,
+    "growth": 3,
+    "aiValue": 884,
+    "cost": {
+      "gold": 550
+    },
+    "special": "Flying, Hates Efreet and Efreet Sultans",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Genie",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/60/Mini_Portrait_Genie.png"
+  },
+  {
+    "name": "Master Genie",
+    "town": "Tower",
+    "level": 5,
+    "levelDisplay": "5+",
+    "upgraded": true,
+    "attack": 12,
+    "defense": 12,
+    "damage": {
+      "min": 13,
+      "max": 16
+    },
+    "health": 40,
+    "speed": 11,
+    "growth": 3,
+    "aiValue": 942,
+    "cost": {
+      "gold": 600
+    },
+    "special": "Flying, Spellcaster, Hates Efreet and Efreet Sultans",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+  },
+  {
+    "name": "Naga",
+    "town": "Tower",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 16,
+    "defense": 13,
+    "damage": {
+      "min": 20,
+      "max": 20
+    },
+    "health": 110,
+    "speed": 5,
+    "growth": 2,
+    "aiValue": 2016,
+    "cost": {
+      "gold": 1100
+    },
+    "special": "No enemy retaliation",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Naga",
+    "portraitUrl": "https://heroes.thelazy.net/images/b/b1/Mini_Portrait_Naga.png"
+  },
+  {
+    "name": "Naga Queen",
+    "town": "Tower",
+    "level": 6,
+    "levelDisplay": "6+",
+    "upgraded": true,
+    "attack": 16,
+    "defense": 13,
+    "damage": {
+      "min": 30,
+      "max": 30
+    },
+    "health": 110,
+    "speed": 7,
+    "growth": 2,
+    "aiValue": 2840,
+    "cost": {
+      "gold": 1600
+    },
+    "special": "No enemy retaliation",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Naga_Queen",
+    "portraitUrl": "https://heroes.thelazy.net/images/1/1f/Mini_Portrait_Naga_Queen.png"
+  },
+  {
+    "name": "Giant",
+    "town": "Tower",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 19,
+    "defense": 16,
+    "damage": {
+      "min": 40,
+      "max": 60
+    },
+    "health": 150,
+    "speed": 7,
+    "growth": 1,
+    "aiValue": 3718,
+    "cost": {
+      "gold": 2000,
+      "gem": 1
+    },
+    "special": "Mind spells immunity",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Giant",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/89/Mini_Portrait_Giant.png"
+  },
+  {
+    "name": "Titan",
+    "town": "Tower",
+    "level": 7,
+    "levelDisplay": "7+",
+    "upgraded": true,
+    "attack": 24,
+    "defense": 24,
+    "damage": {
+      "min": 40,
+      "max": 60
+    },
+    "health": 300,
+    "speed": 11,
+    "growth": 1,
+    "aiValue": 7500,
+    "cost": {
+      "gold": 5000,
+      "gem": 2
+    },
+    "special": "Ranged (24 shots), No melee penalty, Mind spells immunity, Hates Black Dragons",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Titan",
+    "portraitUrl": "https://heroes.thelazy.net/images/1/18/Mini_Portrait_Titan.png"
+  },
+  {
+    "name": "Imp",
+    "town": "Inferno",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 2,
+    "defense": 3,
+    "damage": {
+      "min": 1,
+      "max": 2
+    },
+    "health": 4,
+    "speed": 5,
+    "growth": 15,
+    "aiValue": 50,
+    "cost": {
+      "gold": 50
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Imp",
+    "portraitUrl": "https://heroes.thelazy.net/images/c/cf/Mini_Portrait_Imp.png"
+  },
+  {
+    "name": "Familiar",
+    "town": "Inferno",
+    "level": 1,
+    "levelDisplay": "1+",
+    "upgraded": true,
+    "attack": 4,
+    "defense": 4,
+    "damage": {
+      "min": 1,
+      "max": 2
+    },
+    "health": 4,
+    "speed": 7,
+    "growth": 15,
+    "aiValue": 60,
+    "cost": {
+      "gold": 60
+    },
+    "special": "Magic channel",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Familiar",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/7c/Mini_Portrait_Familiar.png"
+  },
+  {
+    "name": "Gog",
+    "town": "Inferno",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 6,
+    "defense": 4,
+    "damage": {
+      "min": 2,
+      "max": 4
+    },
+    "health": 13,
+    "speed": 4,
+    "growth": 8,
+    "aiValue": 159,
+    "cost": {
+      "gold": 125
+    },
+    "special": "Ranged (12 shots)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Gog",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/65/Mini_Portrait_Gog.png"
+  },
+  {
+    "name": "Magog",
+    "town": "Inferno",
+    "level": 2,
+    "levelDisplay": "2+",
+    "upgraded": true,
+    "attack": 7,
+    "defense": 4,
+    "damage": {
+      "min": 2,
+      "max": 4
+    },
+    "health": 13,
+    "speed": 6,
+    "growth": 8,
+    "aiValue": 240,
+    "cost": {
+      "gold": 175
+    },
+    "special": "Ranged (24 shots), Fireball attack",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Magog",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/38/Mini_Portrait_Magog.png"
+  },
+  {
+    "name": "Hell Hound",
+    "town": "Inferno",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 10,
+    "defense": 6,
+    "damage": {
+      "min": 2,
+      "max": 7
+    },
+    "health": 25,
+    "speed": 7,
+    "growth": 5,
+    "aiValue": 357,
+    "cost": {
+      "gold": 200
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Hell_Hound",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/60/Mini_Portrait_Hell_Hound.png"
+  },
+  {
+    "name": "Cerberus",
+    "town": "Inferno",
+    "level": 3,
+    "levelDisplay": "3+",
+    "upgraded": true,
+    "attack": 10,
+    "defense": 8,
+    "damage": {
+      "min": 2,
+      "max": 7
+    },
+    "health": 25,
+    "speed": 8,
+    "growth": 5,
+    "aiValue": 392,
+    "cost": {
+      "gold": 250
+    },
+    "special": "No enemy retaliation, 3-headed attack",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Cerberus",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/7b/Mini_Portrait_Cerberus.png"
+  },
+  {
+    "name": "Demon",
+    "town": "Inferno",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 10,
+    "defense": 10,
+    "damage": {
+      "min": 7,
+      "max": 9
+    },
+    "health": 35,
+    "speed": 5,
+    "growth": 4,
+    "aiValue": 445,
+    "cost": {
+      "gold": 250
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Demon",
+    "portraitUrl": "https://heroes.thelazy.net/images/0/0b/Mini_Portrait_Demon.png"
+  },
+  {
+    "name": "Horned Demon",
+    "town": "Inferno",
+    "level": 4,
+    "levelDisplay": "4+",
+    "upgraded": true,
+    "attack": 10,
+    "defense": 10,
+    "damage": {
+      "min": 7,
+      "max": 9
+    },
+    "health": 40,
+    "speed": 6,
+    "growth": 4,
+    "aiValue": 480,
+    "cost": {
+      "gold": 270
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Horned_Demon",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/8b/Mini_Portrait_Horned_Demon.png"
+  },
+  {
+    "name": "Pit Fiend",
+    "town": "Inferno",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 13,
+    "defense": 13,
+    "damage": {
+      "min": 13,
+      "max": 17
+    },
+    "health": 45,
+    "speed": 6,
+    "growth": 3,
+    "aiValue": 765,
+    "cost": {
+      "gold": 500
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pit_Fiend",
+    "portraitUrl": "https://heroes.thelazy.net/images/2/23/Mini_Portrait_Pit_Fiend.png"
+  },
+  {
+    "name": "Pit Lord",
+    "town": "Inferno",
+    "level": 5,
+    "levelDisplay": "5+",
+    "upgraded": true,
+    "attack": 13,
+    "defense": 13,
+    "damage": {
+      "min": 13,
+      "max": 17
+    },
+    "health": 45,
+    "speed": 7,
+    "growth": 3,
+    "aiValue": 1224,
+    "cost": {
+      "gold": 700
+    },
+    "special": "Summon demons",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pit_Lord",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/80/Mini_Portrait_Pit_Lord.png"
+  },
+  {
+    "name": "Efreeti",
+    "town": "Inferno",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 16,
+    "defense": 12,
+    "damage": {
+      "min": 16,
+      "max": 24
+    },
+    "health": 90,
+    "speed": 9,
+    "growth": 2,
+    "aiValue": 1670,
+    "cost": {
+      "gold": 900
+    },
+    "special": "Flying, Fire immunity, Hates Genies",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Efreeti",
+    "portraitUrl": "https://heroes.thelazy.net/images/9/9b/Mini_Portrait_Efreeti.png"
+  },
+  {
+    "name": "Efreet Sultan",
+    "town": "Inferno",
+    "level": 6,
+    "levelDisplay": "6+",
+    "upgraded": true,
+    "attack": 16,
+    "defense": 14,
+    "damage": {
+      "min": 16,
+      "max": 24
+    },
+    "health": 90,
+    "speed": 13,
+    "growth": 2,
+    "aiValue": 2343,
+    "cost": {
+      "gold": 1100
+    },
+    "special": "Flying, Natural Fire Shield, Fire immunity, Hates Genies",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Efreet_Sultan",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/8b/Mini_Portrait_Efreet_Sultan.png"
+  },
+  {
+    "name": "Devil",
+    "town": "Inferno",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 19,
+    "defense": 21,
+    "damage": {
+      "min": 30,
+      "max": 40
+    },
+    "health": 160,
+    "speed": 11,
+    "growth": 1,
+    "aiValue": 5101,
+    "cost": {
+      "gold": 2700,
+      "mercury": 1
+    },
+    "special": "Teleporting, No enemy retaliation, Luck -1, Hates Angels",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Devil",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/75/Mini_Portrait_Devil.png"
+  },
+  {
+    "name": "Arch Devil",
+    "town": "Inferno",
+    "level": 7,
+    "levelDisplay": "7+",
+    "upgraded": true,
+    "attack": 26,
+    "defense": 28,
+    "damage": {
+      "min": 30,
+      "max": 40
+    },
+    "health": 200,
+    "speed": 17,
+    "growth": 1,
+    "aiValue": 7115,
+    "cost": {
+      "gold": 4500,
+      "mercury": 2
+    },
+    "special": "Teleporting, No enemy retaliation, Luck -2 1 , Hates Angels",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Arch_Devil",
+    "portraitUrl": "https://heroes.thelazy.net/images/d/dd/Mini_Portrait_Arch_Devil.png"
+  },
+  {
+    "name": "Skeleton",
+    "town": "Necropolis",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 5,
+    "defense": 4,
+    "damage": {
+      "min": 1,
+      "max": 3
+    },
+    "health": 6,
+    "speed": 4,
+    "growth": 12,
+    "aiValue": 60,
+    "cost": {
+      "gold": 60
+    },
+    "special": "Undead",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Skeleton",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/f8/Mini_Portrait_Skeleton.png"
+  },
+  {
+    "name": "Skeleton Warrior",
+    "town": "Necropolis",
+    "level": 1,
+    "levelDisplay": "1+",
+    "upgraded": true,
+    "attack": 6,
+    "defense": 6,
+    "damage": {
+      "min": 1,
+      "max": 3
+    },
+    "health": 6,
+    "speed": 5,
+    "growth": 12,
+    "aiValue": 85,
+    "cost": {
+      "gold": 70
+    },
+    "special": "Undead",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Skeleton_Warrior",
+    "portraitUrl": "https://heroes.thelazy.net/images/0/0e/Mini_Portrait_Skeleton_Warrior.png"
+  },
+  {
+    "name": "Walking Dead",
+    "town": "Necropolis",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 5,
+    "defense": 5,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 15,
+    "speed": 3,
+    "growth": 8,
+    "aiValue": 98,
+    "cost": {
+      "gold": 100
+    },
+    "special": "Undead",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Walking_Dead",
+    "portraitUrl": "https://heroes.thelazy.net/images/9/9f/Mini_Portrait_Walking_Dead.png"
+  },
+  {
+    "name": "Zombie",
+    "town": "Necropolis",
+    "level": 2,
+    "levelDisplay": "2+",
+    "upgraded": true,
+    "attack": 5,
+    "defense": 5,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 20,
+    "speed": 4,
+    "growth": 8,
+    "aiValue": 128,
+    "cost": {
+      "gold": 125
+    },
+    "special": "Undead, Disease",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Zombie",
+    "portraitUrl": "https://heroes.thelazy.net/images/5/59/Mini_Portrait_Zombie.png"
+  },
+  {
+    "name": "Wight",
+    "town": "Necropolis",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 7,
+    "defense": 7,
+    "damage": {
+      "min": 3,
+      "max": 5
+    },
+    "health": 18,
+    "speed": 5,
+    "growth": 7,
+    "aiValue": 252,
+    "cost": {
+      "gold": 200
+    },
+    "special": "Undead, Flying, Regeneration",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Wight",
+    "portraitUrl": "https://heroes.thelazy.net/images/9/92/Mini_Portrait_Wight.png"
+  },
+  {
+    "name": "Wraith",
+    "town": "Necropolis",
+    "level": 3,
+    "levelDisplay": "3+",
+    "upgraded": true,
+    "attack": 7,
+    "defense": 7,
+    "damage": {
+      "min": 3,
+      "max": 5
+    },
+    "health": 18,
+    "speed": 7,
+    "growth": 7,
+    "aiValue": 315,
+    "cost": {
+      "gold": 230
+    },
+    "special": "Undead, Flying, Regeneration, Mana drain",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Wraith",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/30/Mini_Portrait_Wraith.png"
+  },
+  {
+    "name": "Vampire",
+    "town": "Necropolis",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 10,
+    "defense": 9,
+    "damage": {
+      "min": 5,
+      "max": 8
+    },
+    "health": 30,
+    "speed": 6,
+    "growth": 4,
+    "aiValue": 555,
+    "cost": {
+      "gold": 360
+    },
+    "special": "Undead, Flying, No enemy retaliation",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Vampire",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/3d/Mini_Portrait_Vampire.png"
+  },
+  {
+    "name": "Vampire Lord",
+    "town": "Necropolis",
+    "level": 4,
+    "levelDisplay": "4+",
+    "upgraded": true,
+    "attack": 10,
+    "defense": 10,
+    "damage": {
+      "min": 5,
+      "max": 8
+    },
+    "health": 40,
+    "speed": 9,
+    "growth": 4,
+    "aiValue": 783,
+    "cost": {
+      "gold": 500
+    },
+    "special": "Undead, Flying, No enemy retaliation, Life drain",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Vampire_Lord",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/3a/Mini_Portrait_Vampire_Lord.png"
+  },
+  {
+    "name": "Lich",
+    "town": "Necropolis",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 13,
+    "defense": 10,
+    "damage": {
+      "min": 11,
+      "max": 13
+    },
+    "health": 30,
+    "speed": 6,
+    "growth": 3,
+    "aiValue": 848,
+    "cost": {
+      "gold": 550
+    },
+    "special": "Ranged (12 shots), Undead, Death cloud",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Lich",
+    "portraitUrl": "https://heroes.thelazy.net/images/b/b6/Mini_Portrait_Lich.png"
+  },
+  {
+    "name": "Power Lich",
+    "town": "Necropolis",
+    "level": 5,
+    "levelDisplay": "5+",
+    "upgraded": true,
+    "attack": 13,
+    "defense": 10,
+    "damage": {
+      "min": 11,
+      "max": 15
+    },
+    "health": 40,
+    "speed": 7,
+    "growth": 3,
+    "aiValue": 1079,
+    "cost": {
+      "gold": 600
+    },
+    "special": "Ranged (24 shots), Undead, Death cloud",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Power_Lich",
+    "portraitUrl": "https://heroes.thelazy.net/images/d/d9/Mini_Portrait_Power_Lich.png"
+  },
+  {
+    "name": "Black Knight",
+    "town": "Necropolis",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 16,
+    "defense": 16,
+    "damage": {
+      "min": 15,
+      "max": 30
+    },
+    "health": 120,
+    "speed": 7,
+    "growth": 2,
+    "aiValue": 2087,
+    "cost": {
+      "gold": 1200
+    },
+    "special": "Undead, Curse",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Black_Knight",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/84/Mini_Portrait_Black_Knight.png"
+  },
+  {
+    "name": "Dread Knight",
+    "town": "Necropolis",
+    "level": 6,
+    "levelDisplay": "6+",
+    "upgraded": true,
+    "attack": 18,
+    "defense": 18,
+    "damage": {
+      "min": 15,
+      "max": 30
+    },
+    "health": 120,
+    "speed": 9,
+    "growth": 2,
+    "aiValue": 2382,
+    "cost": {
+      "gold": 1500
+    },
+    "special": "Undead, Curse, Death blow",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Dread_Knight",
+    "portraitUrl": "https://heroes.thelazy.net/images/d/d1/Mini_Portrait_Dread_Knight.png"
+  },
+  {
+    "name": "Bone Dragon",
+    "town": "Necropolis",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 17,
+    "defense": 15,
+    "damage": {
+      "min": 25,
+      "max": 50
+    },
+    "health": 150,
+    "speed": 9,
+    "growth": 1,
+    "aiValue": 3388,
+    "cost": {
+      "gold": 1800
+    },
+    "special": "Dragon, Undead, Flying, Morale -1",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Bone_Dragon",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/fd/Mini_Portrait_Bone_Dragon.png"
+  },
+  {
+    "name": "Ghost Dragon",
+    "town": "Necropolis",
+    "level": 7,
+    "levelDisplay": "7+",
+    "upgraded": true,
+    "attack": 19,
+    "defense": 17,
+    "damage": {
+      "min": 25,
+      "max": 50
+    },
+    "health": 200,
+    "speed": 14,
+    "growth": 1,
+    "aiValue": 4696,
+    "cost": {
+      "gold": 3000,
+      "mercury": 1
+    },
+    "special": "Dragon, Undead, Flying, Morale -1, Aging",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ghost_Dragon",
+    "portraitUrl": "https://heroes.thelazy.net/images/2/24/Mini_Portrait_Ghost_Dragon.png"
+  },
+  {
+    "name": "Troglodyte",
+    "town": "Dungeon",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 4,
+    "defense": 3,
+    "damage": {
+      "min": 1,
+      "max": 3
+    },
+    "health": 5,
+    "speed": 4,
+    "growth": 14,
+    "aiValue": 59,
+    "cost": {
+      "gold": 50
+    },
+    "special": "Immune to Blinding and Stone gaze",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Troglodyte",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/fa/Mini_Portrait_Troglodyte.png"
+  },
+  {
+    "name": "Infernal Troglodyte",
+    "town": "Dungeon",
+    "level": 1,
+    "levelDisplay": "1+",
+    "upgraded": true,
+    "attack": 5,
+    "defense": 4,
+    "damage": {
+      "min": 1,
+      "max": 3
+    },
+    "health": 6,
+    "speed": 5,
+    "growth": 14,
+    "aiValue": 84,
+    "cost": {
+      "gold": 65
+    },
+    "special": "Immune to Blinding and Stone gaze",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Infernal_Troglodyte",
+    "portraitUrl": "https://heroes.thelazy.net/images/2/2d/Mini_Portrait_Infernal_Troglodyte.png"
+  },
+  {
+    "name": "Harpy",
+    "town": "Dungeon",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 6,
+    "defense": 5,
+    "damage": {
+      "min": 1,
+      "max": 4
+    },
+    "health": 14,
+    "speed": 6,
+    "growth": 8,
+    "aiValue": 154,
+    "cost": {
+      "gold": 130
+    },
+    "special": "Flying, Strike and return",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Harpy",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/8a/Mini_Portrait_Harpy.png"
+  },
+  {
+    "name": "Harpy Hag",
+    "town": "Dungeon",
+    "level": 2,
+    "levelDisplay": "2+",
+    "upgraded": true,
+    "attack": 6,
+    "defense": 6,
+    "damage": {
+      "min": 1,
+      "max": 4
+    },
+    "health": 14,
+    "speed": 9,
+    "growth": 8,
+    "aiValue": 238,
+    "cost": {
+      "gold": 170
+    },
+    "special": "Flying, Strike and return, No enemy retaliation",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Harpy_Hag",
+    "portraitUrl": "https://heroes.thelazy.net/images/2/21/Mini_Portrait_Harpy_Hag.png"
+  },
+  {
+    "name": "Beholder",
+    "town": "Dungeon",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 9,
+    "defense": 7,
+    "damage": {
+      "min": 3,
+      "max": 5
+    },
+    "health": 22,
+    "speed": 5,
+    "growth": 7,
+    "aiValue": 336,
+    "cost": {
+      "gold": 250
+    },
+    "special": "Ranged (12 shots), No melee penalty",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Beholder",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/82/Mini_Portrait_Beholder.png"
+  },
+  {
+    "name": "Evil Eye",
+    "town": "Dungeon",
+    "level": 3,
+    "levelDisplay": "3+",
+    "upgraded": true,
+    "attack": 10,
+    "defense": 8,
+    "damage": {
+      "min": 3,
+      "max": 5
+    },
+    "health": 22,
+    "speed": 7,
+    "growth": 7,
+    "aiValue": 367,
+    "cost": {
+      "gold": 280
+    },
+    "special": "Ranged (24 shots), No melee penalty",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Evil_Eye",
+    "portraitUrl": "https://heroes.thelazy.net/images/9/92/Mini_Portrait_Evil_Eye.png"
+  },
+  {
+    "name": "Medusa",
+    "town": "Dungeon",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 9,
+    "defense": 9,
+    "damage": {
+      "min": 6,
+      "max": 8
+    },
+    "health": 25,
+    "speed": 5,
+    "growth": 4,
+    "aiValue": 517,
+    "cost": {
+      "gold": 300
+    },
+    "special": "Ranged (4 shots), No melee penalty, Petrifying attack",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Medusa",
+    "portraitUrl": "https://heroes.thelazy.net/images/a/a5/Mini_Portrait_Medusa.png"
+  },
+  {
+    "name": "Medusa Queen",
+    "town": "Dungeon",
+    "level": 4,
+    "levelDisplay": "4+",
+    "upgraded": true,
+    "attack": 10,
+    "defense": 10,
+    "damage": {
+      "min": 6,
+      "max": 8
+    },
+    "health": 30,
+    "speed": 6,
+    "growth": 4,
+    "aiValue": 577,
+    "cost": {
+      "gold": 330
+    },
+    "special": "Ranged (8 shots), No melee penalty, Petrifying attack",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Medusa_Queen",
+    "portraitUrl": "https://heroes.thelazy.net/images/4/4c/Mini_Portrait_Medusa_Queen.png"
+  },
+  {
+    "name": "Minotaur",
+    "town": "Dungeon",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 14,
+    "defense": 12,
+    "damage": {
+      "min": 12,
+      "max": 20
+    },
+    "health": 50,
+    "speed": 6,
+    "growth": 3,
+    "aiValue": 835,
+    "cost": {
+      "gold": 500
+    },
+    "special": "Positive Morale",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Minotaur",
+    "portraitUrl": "https://heroes.thelazy.net/images/0/0b/Mini_Portrait_Minotaur.png"
+  },
+  {
+    "name": "Minotaur King",
+    "town": "Dungeon",
+    "level": 5,
+    "levelDisplay": "5+",
+    "upgraded": true,
+    "attack": 15,
+    "defense": 15,
+    "damage": {
+      "min": 12,
+      "max": 20
+    },
+    "health": 50,
+    "speed": 8,
+    "growth": 3,
+    "aiValue": 1068,
+    "cost": {
+      "gold": 575
+    },
+    "special": "Positive Morale",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Minotaur_King",
+    "portraitUrl": "https://heroes.thelazy.net/images/c/ce/Mini_Portrait_Minotaur_King.png"
+  },
+  {
+    "name": "Manticore",
+    "town": "Dungeon",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 15,
+    "defense": 13,
+    "damage": {
+      "min": 14,
+      "max": 20
+    },
+    "health": 80,
+    "speed": 7,
+    "growth": 2,
+    "aiValue": 1547,
+    "cost": {
+      "gold": 850
+    },
+    "special": "Flying",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Manticore",
+    "portraitUrl": "https://heroes.thelazy.net/images/5/5d/Mini_Portrait_Manticore.png"
+  },
+  {
+    "name": "Scorpicore",
+    "town": "Dungeon",
+    "level": 6,
+    "levelDisplay": "6+",
+    "upgraded": true,
+    "attack": 16,
+    "defense": 14,
+    "damage": {
+      "min": 14,
+      "max": 20
+    },
+    "health": 80,
+    "speed": 11,
+    "growth": 2,
+    "aiValue": 1589,
+    "cost": {
+      "gold": 1050
+    },
+    "special": "Flying, Paralyzing venom",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Scorpicore",
+    "portraitUrl": "https://heroes.thelazy.net/images/4/43/Mini_Portrait_Scorpicore.png"
+  },
+  {
+    "name": "Red Dragon",
+    "town": "Dungeon",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 19,
+    "defense": 19,
+    "damage": {
+      "min": 40,
+      "max": 50
+    },
+    "health": 180,
+    "speed": 11,
+    "growth": 1,
+    "aiValue": 4702,
+    "cost": {
+      "gold": 2500,
+      "sulfur": 1
+    },
+    "special": "Dragon, Flying, Breath attack, 1-3 lvl spells immunity",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Red_Dragon",
+    "portraitUrl": "https://heroes.thelazy.net/images/1/16/Mini_Portrait_Red_Dragon.png"
+  },
+  {
+    "name": "Black Dragon",
+    "town": "Dungeon",
+    "level": 7,
+    "levelDisplay": "7+",
+    "upgraded": true,
+    "attack": 25,
+    "defense": 25,
+    "damage": {
+      "min": 40,
+      "max": 50
+    },
+    "health": 300,
+    "speed": 15,
+    "growth": 1,
+    "aiValue": 8721,
+    "cost": {
+      "gold": 4000,
+      "sulfur": 2
+    },
+    "special": "Dragon, Flying, Breath attack, Magic immunity, Hates Titans",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Black_Dragon",
+    "portraitUrl": "https://heroes.thelazy.net/images/5/5a/Mini_Portrait_Black_Dragon.png"
+  },
+  {
+    "name": "Goblin",
+    "town": "Stronghold",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 4,
+    "defense": 2,
+    "damage": {
+      "min": 1,
+      "max": 2
+    },
+    "health": 5,
+    "speed": 5,
+    "growth": 15,
+    "aiValue": 60,
+    "cost": {
+      "gold": 40
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Goblin",
+    "portraitUrl": "https://heroes.thelazy.net/images/c/ce/Mini_Portrait_Goblin.png"
+  },
+  {
+    "name": "Hobgoblin",
+    "town": "Stronghold",
+    "level": 1,
+    "levelDisplay": "1+",
+    "upgraded": true,
+    "attack": 5,
+    "defense": 3,
+    "damage": {
+      "min": 1,
+      "max": 2
+    },
+    "health": 5,
+    "speed": 7,
+    "growth": 15,
+    "aiValue": 78,
+    "cost": {
+      "gold": 50
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Hobgoblin",
+    "portraitUrl": "https://heroes.thelazy.net/images/4/46/Mini_Portrait_Hobgoblin.png"
+  },
+  {
+    "name": "Wolf Rider",
+    "town": "Stronghold",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 7,
+    "defense": 5,
+    "damage": {
+      "min": 2,
+      "max": 4
+    },
+    "health": 10,
+    "speed": 6,
+    "growth": 9,
+    "aiValue": 130,
+    "cost": {
+      "gold": 100
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Wolf_Rider",
+    "portraitUrl": "https://heroes.thelazy.net/images/2/29/Mini_Portrait_Wolf_Rider.png"
+  },
+  {
+    "name": "Wolf Raider",
+    "town": "Stronghold",
+    "level": 2,
+    "levelDisplay": "2+",
+    "upgraded": true,
+    "attack": 8,
+    "defense": 5,
+    "damage": {
+      "min": 3,
+      "max": 4
+    },
+    "health": 10,
+    "speed": 8,
+    "growth": 9,
+    "aiValue": 203,
+    "cost": {
+      "gold": 140
+    },
+    "special": "Double attack",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Wolf_Raider",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/6c/Mini_Portrait_Wolf_Raider.png"
+  },
+  {
+    "name": "Orc",
+    "town": "Stronghold",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 8,
+    "defense": 4,
+    "damage": {
+      "min": 2,
+      "max": 5
+    },
+    "health": 15,
+    "speed": 4,
+    "growth": 7,
+    "aiValue": 192,
+    "cost": {
+      "gold": 150
+    },
+    "special": "Ranged (12 shots)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Orc",
+    "portraitUrl": "https://heroes.thelazy.net/images/c/c8/Mini_Portrait_Orc_%28HotA%29.png"
+  },
+  {
+    "name": "Orc Chieftain",
+    "town": "Stronghold",
+    "level": 3,
+    "levelDisplay": "3+",
+    "upgraded": true,
+    "attack": 8,
+    "defense": 4,
+    "damage": {
+      "min": 2,
+      "max": 5
+    },
+    "health": 20,
+    "speed": 5,
+    "growth": 7,
+    "aiValue": 240,
+    "cost": {
+      "gold": 165
+    },
+    "special": "Ranged (24 shots)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Orc_Chieftain",
+    "portraitUrl": "https://heroes.thelazy.net/images/a/a5/Mini_Portrait_Orc_Chieftain_%28HotA%29.png"
+  },
+  {
+    "name": "Ogre",
+    "town": "Stronghold",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 13,
+    "defense": 7,
+    "damage": {
+      "min": 6,
+      "max": 12
+    },
+    "health": 40,
+    "speed": 4,
+    "growth": 4,
+    "aiValue": 416,
+    "cost": {
+      "gold": 300
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ogre",
+    "portraitUrl": "https://heroes.thelazy.net/images/a/a2/Mini_Portrait_Ogre.png"
+  },
+  {
+    "name": "Ogre Mage",
+    "town": "Stronghold",
+    "level": 4,
+    "levelDisplay": "4+",
+    "upgraded": true,
+    "attack": 13,
+    "defense": 7,
+    "damage": {
+      "min": 6,
+      "max": 12
+    },
+    "health": 60,
+    "speed": 5,
+    "growth": 4,
+    "aiValue": 672,
+    "cost": {
+      "gold": 400
+    },
+    "special": "Spellcaster (Bloodlust)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ogre_Mage",
+    "portraitUrl": "https://heroes.thelazy.net/images/c/c1/Mini_Portrait_Ogre_Mage.png"
+  },
+  {
+    "name": "Roc",
+    "town": "Stronghold",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 13,
+    "defense": 11,
+    "damage": {
+      "min": 11,
+      "max": 15
+    },
+    "health": 60,
+    "speed": 7,
+    "growth": 3,
+    "aiValue": 1027,
+    "cost": {
+      "gold": 600
+    },
+    "special": "Flying",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Roc",
+    "portraitUrl": "https://heroes.thelazy.net/images/c/cc/Mini_Portrait_Roc.png"
+  },
+  {
+    "name": "Thunderbird",
+    "town": "Stronghold",
+    "level": 5,
+    "levelDisplay": "5+",
+    "upgraded": true,
+    "attack": 13,
+    "defense": 11,
+    "damage": {
+      "min": 11,
+      "max": 15
+    },
+    "health": 60,
+    "speed": 11,
+    "growth": 3,
+    "aiValue": 1106,
+    "cost": {
+      "gold": 700
+    },
+    "special": "Flying, Lightning strike",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Thunderbird",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/7b/Mini_Portrait_Thunderbird.png"
+  },
+  {
+    "name": "Cyclops",
+    "town": "Stronghold",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 15,
+    "defense": 12,
+    "damage": {
+      "min": 16,
+      "max": 20
+    },
+    "health": 70,
+    "speed": 6,
+    "growth": 2,
+    "aiValue": 1266,
+    "cost": {
+      "gold": 750
+    },
+    "special": "Ranged (16 shots), Can attack siege walls",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Cyclops",
+    "portraitUrl": "https://heroes.thelazy.net/images/0/06/Mini_Portrait_Cyclops.png"
+  },
+  {
+    "name": "Cyclops King",
+    "town": "Stronghold",
+    "level": 6,
+    "levelDisplay": "6+",
+    "upgraded": true,
+    "attack": 17,
+    "defense": 13,
+    "damage": {
+      "min": 16,
+      "max": 20
+    },
+    "health": 70,
+    "speed": 8,
+    "growth": 2,
+    "aiValue": 1443,
+    "cost": {
+      "gold": 1100
+    },
+    "special": "Ranged (24 shots), Can attack siege walls",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Cyclops_King",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/6e/Mini_Portrait_Cyclops_King.png"
+  },
+  {
+    "name": "Behemoth",
+    "town": "Stronghold",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 17,
+    "defense": 17,
+    "damage": {
+      "min": 30,
+      "max": 50
+    },
+    "health": 160,
+    "speed": 6,
+    "growth": 1,
+    "aiValue": 3162,
+    "cost": {
+      "gold": 1500
+    },
+    "special": "Ignores 40% of enemy defense value",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Behemoth",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/35/Mini_Portrait_Behemoth.png"
+  },
+  {
+    "name": "Ancient Behemoth",
+    "town": "Stronghold",
+    "level": 7,
+    "levelDisplay": "7+",
+    "upgraded": true,
+    "attack": 19,
+    "defense": 19,
+    "damage": {
+      "min": 30,
+      "max": 50
+    },
+    "health": 300,
+    "speed": 9,
+    "growth": 1,
+    "aiValue": 6168,
+    "cost": {
+      "gold": 3000,
+      "crystal": 1
+    },
+    "special": "Ignores 80% of enemy defense value",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ancient_Behemoth",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/34/Mini_Portrait_Ancient_Behemoth.png"
+  },
+  {
+    "name": "Gnoll",
+    "town": "Fortress",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 3,
+    "defense": 5,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 6,
+    "speed": 4,
+    "growth": 12,
+    "aiValue": 56,
+    "cost": {
+      "gold": 50
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Gnoll",
+    "portraitUrl": "https://heroes.thelazy.net/images/4/49/Mini_Portrait_Gnoll.png"
+  },
+  {
+    "name": "Gnoll Marauder",
+    "town": "Fortress",
+    "level": 1,
+    "levelDisplay": "1+",
+    "upgraded": true,
+    "attack": 4,
+    "defense": 6,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 6,
+    "speed": 5,
+    "growth": 12,
+    "aiValue": 90,
+    "cost": {
+      "gold": 70
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Gnoll_Marauder",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/71/Mini_Portrait_Gnoll_Marauder.png"
+  },
+  {
+    "name": "Lizardman",
+    "town": "Fortress",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 5,
+    "defense": 6,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 14,
+    "speed": 4,
+    "growth": 9,
+    "aiValue": 126,
+    "cost": {
+      "gold": 110
+    },
+    "special": "Ranged (12 shots)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Lizardman",
+    "portraitUrl": "https://heroes.thelazy.net/images/b/b9/Mini_Portrait_Lizardman.png"
+  },
+  {
+    "name": "Lizard Warrior",
+    "town": "Fortress",
+    "level": 2,
+    "levelDisplay": "2+",
+    "upgraded": true,
+    "attack": 6,
+    "defense": 8,
+    "damage": {
+      "min": 2,
+      "max": 5
+    },
+    "health": 15,
+    "speed": 5,
+    "growth": 9,
+    "aiValue": 156,
+    "cost": {
+      "gold": 140
+    },
+    "special": "Ranged (24 shots)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Lizard_Warrior",
+    "portraitUrl": "https://heroes.thelazy.net/images/4/45/Mini_Portrait_Lizard_Warrior.png"
+  },
+  {
+    "name": "Serpent Fly",
+    "town": "Fortress",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 7,
+    "defense": 9,
+    "damage": {
+      "min": 2,
+      "max": 5
+    },
+    "health": 20,
+    "speed": 9,
+    "growth": 8,
+    "aiValue": 268,
+    "cost": {
+      "gold": 220
+    },
+    "special": "Flying, Dispels beneficial spells",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Serpent_Fly",
+    "portraitUrl": "https://heroes.thelazy.net/images/a/a9/Mini_Portrait_Serpent_Fly.png"
+  },
+  {
+    "name": "Dragon Fly",
+    "town": "Fortress",
+    "level": 3,
+    "levelDisplay": "3+",
+    "upgraded": true,
+    "attack": 8,
+    "defense": 10,
+    "damage": {
+      "min": 2,
+      "max": 5
+    },
+    "health": 20,
+    "speed": 13,
+    "growth": 8,
+    "aiValue": 312,
+    "cost": {
+      "gold": 240
+    },
+    "special": "Flying, Dispels beneficial spells, Weakness",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Dragon_Fly",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/81/Mini_Portrait_Dragon_Fly.png"
+  },
+  {
+    "name": "Basilisk",
+    "town": "Fortress",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 11,
+    "defense": 11,
+    "damage": {
+      "min": 6,
+      "max": 10
+    },
+    "health": 35,
+    "speed": 5,
+    "growth": 4,
+    "aiValue": 552,
+    "cost": {
+      "gold": 325
+    },
+    "special": "Petrifying attack",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Basilisk",
+    "portraitUrl": "https://heroes.thelazy.net/images/4/47/Mini_Portrait_Basilisk.png"
+  },
+  {
+    "name": "Greater Basilisk",
+    "town": "Fortress",
+    "level": 4,
+    "levelDisplay": "4+",
+    "upgraded": true,
+    "attack": 12,
+    "defense": 12,
+    "damage": {
+      "min": 6,
+      "max": 10
+    },
+    "health": 40,
+    "speed": 7,
+    "growth": 4,
+    "aiValue": 714,
+    "cost": {
+      "gold": 400
+    },
+    "special": "Petrifying attack",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Greater_Basilisk",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/77/Mini_Portrait_Greater_Basilisk.png"
+  },
+  {
+    "name": "Gorgon",
+    "town": "Fortress",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 10,
+    "defense": 14,
+    "damage": {
+      "min": 12,
+      "max": 16
+    },
+    "health": 70,
+    "speed": 5,
+    "growth": 3,
+    "aiValue": 890,
+    "cost": {
+      "gold": 525
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Gorgon",
+    "portraitUrl": "https://heroes.thelazy.net/images/5/59/Mini_Portrait_Gorgon.png"
+  },
+  {
+    "name": "Mighty Gorgon",
+    "town": "Fortress",
+    "level": 5,
+    "levelDisplay": "5+",
+    "upgraded": true,
+    "attack": 11,
+    "defense": 16,
+    "damage": {
+      "min": 12,
+      "max": 16
+    },
+    "health": 70,
+    "speed": 6,
+    "growth": 3,
+    "aiValue": 1028,
+    "cost": {
+      "gold": 600
+    },
+    "special": "Death stare (10% chance per unit)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Mighty_Gorgon",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/f8/Mini_Portrait_Mighty_Gorgon.png"
+  },
+  {
+    "name": "Wyvern",
+    "town": "Fortress",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 14,
+    "defense": 14,
+    "damage": {
+      "min": 14,
+      "max": 18
+    },
+    "health": 70,
+    "speed": 7,
+    "growth": 2,
+    "aiValue": 1350,
+    "cost": {
+      "gold": 800
+    },
+    "special": "Flying",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Wyvern",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/86/Mini_Portrait_Wyvern.png"
+  },
+  {
+    "name": "Wyvern Monarch",
+    "town": "Fortress",
+    "level": 6,
+    "levelDisplay": "6+",
+    "upgraded": true,
+    "attack": 14,
+    "defense": 14,
+    "damage": {
+      "min": 18,
+      "max": 22
+    },
+    "health": 70,
+    "speed": 11,
+    "growth": 2,
+    "aiValue": 1518,
+    "cost": {
+      "gold": 1100
+    },
+    "special": "Flying, Poisonous",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Wyvern_Monarch",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/fe/Mini_Portrait_Wyvern_Monarch.png"
+  },
+  {
+    "name": "Hydra",
+    "town": "Fortress",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 16,
+    "defense": 18,
+    "damage": {
+      "min": 25,
+      "max": 45
+    },
+    "health": 175,
+    "speed": 5,
+    "growth": 1,
+    "aiValue": 4120,
+    "cost": {
+      "gold": 2200
+    },
+    "special": "No enemy retaliation, Attacks all adjacent enemies",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Hydra",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/8a/Mini_Portrait_Hydra.png"
+  },
+  {
+    "name": "Chaos Hydra",
+    "town": "Fortress",
+    "level": 7,
+    "levelDisplay": "7+",
+    "upgraded": true,
+    "attack": 18,
+    "defense": 20,
+    "damage": {
+      "min": 25,
+      "max": 45
+    },
+    "health": 250,
+    "speed": 7,
+    "growth": 1,
+    "aiValue": 5931,
+    "cost": {
+      "gold": 3500,
+      "sulfur": 1
+    },
+    "special": "No enemy retaliation, Attacks all adjacent enemies",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Chaos_Hydra",
+    "portraitUrl": "https://heroes.thelazy.net/images/e/e1/Mini_Portrait_Chaos_Hydra.png"
+  },
+  {
+    "name": "Pixie",
+    "town": "Conflux",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 2,
+    "defense": 2,
+    "damage": {
+      "min": 1,
+      "max": 2
+    },
+    "health": 3,
+    "speed": 7,
+    "growth": 20,
+    "aiValue": 55,
+    "cost": {
+      "gold": 25
+    },
+    "special": "Flying",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pixie",
+    "portraitUrl": "https://heroes.thelazy.net/images/2/26/Mini_Portrait_Pixie_%28HotA%29.png"
+  },
+  {
+    "name": "Sprite",
+    "town": "Conflux",
+    "level": 1,
+    "levelDisplay": "1+",
+    "upgraded": true,
+    "attack": 2,
+    "defense": 2,
+    "damage": {
+      "min": 1,
+      "max": 3
+    },
+    "health": 3,
+    "speed": 9,
+    "growth": 20,
+    "aiValue": 95,
+    "cost": {
+      "gold": 30
+    },
+    "special": "Flying, No enemy retaliation",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sprite",
+    "portraitUrl": "https://heroes.thelazy.net/images/0/0a/Mini_Portrait_Sprite_%28HotA%29.png"
+  },
+  {
+    "name": "Air Elemental",
+    "town": "Conflux",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 9,
+    "defense": 9,
+    "damage": {
+      "min": 2,
+      "max": 8
+    },
+    "health": 25,
+    "speed": 7,
+    "growth": 6,
+    "aiValue": 356,
+    "cost": {
+      "gold": 250
+    },
+    "special": "Elemental, Immune to Meteor Shower, Vulnerable to Lightning Bolt, Chain Lightning, Titan's Lightning Bolt and Armageddon, +100% to basic damage to Earth and Magma Elementals",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Air_Elemental",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/6b/Mini_Portrait_Air_Elemental.png"
+  },
+  {
+    "name": "Storm Elemental",
+    "town": "Conflux",
+    "level": 2,
+    "levelDisplay": "2+",
+    "upgraded": true,
+    "attack": 9,
+    "defense": 9,
+    "damage": {
+      "min": 2,
+      "max": 8
+    },
+    "health": 25,
+    "speed": 8,
+    "growth": 6,
+    "aiValue": 486,
+    "cost": {
+      "gold": 275
+    },
+    "special": "Ranged (24 shots), Elemental, Immune to Meteor Shower, Vulnerable to Lightning Bolt, Chain Lightning, Titan's Lightning Bolt and Armageddon, +100% to basic damage to Earth and Magma Elementals, Spellcaster (Protection from Air)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Storm_Elemental",
+    "portraitUrl": "https://heroes.thelazy.net/images/0/00/Mini_Portrait_Storm_Elemental.png"
+  },
+  {
+    "name": "Water Elemental",
+    "town": "Conflux",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 8,
+    "defense": 10,
+    "damage": {
+      "min": 3,
+      "max": 7
+    },
+    "health": 30,
+    "speed": 5,
+    "growth": 6,
+    "aiValue": 315,
+    "cost": {
+      "gold": 300
+    },
+    "special": "Elemental, Immune to Ice Bolt and Frost Ring, Vulnerable to Fireball, Inferno and Armageddon, +100% to basic damage to Fire and Energy Elementals",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Water_Elemental",
+    "portraitUrl": "https://heroes.thelazy.net/images/e/ef/Mini_Portrait_Water_Elemental.png"
+  },
+  {
+    "name": "Ice Elemental",
+    "town": "Conflux",
+    "level": 3,
+    "levelDisplay": "3+",
+    "upgraded": true,
+    "attack": 8,
+    "defense": 10,
+    "damage": {
+      "min": 3,
+      "max": 7
+    },
+    "health": 30,
+    "speed": 6,
+    "growth": 6,
+    "aiValue": 380,
+    "cost": {
+      "gold": 375
+    },
+    "special": "Ranged (24 shots), Elemental, Immune to Ice Bolt and Frost Ring, Vulnerable to Fireball, Inferno and Armageddon, +100% to basic damage to Fire and Energy Elementals, Spellcaster (Protection from Water)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ice_Elemental",
+    "portraitUrl": "https://heroes.thelazy.net/images/5/56/Mini_Portrait_Ice_Elemental.png"
+  },
+  {
+    "name": "Fire Elemental",
+    "town": "Conflux",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 10,
+    "defense": 8,
+    "damage": {
+      "min": 4,
+      "max": 6
+    },
+    "health": 35,
+    "speed": 6,
+    "growth": 5,
+    "aiValue": 345,
+    "cost": {
+      "gold": 350
+    },
+    "special": "Elemental, Fire immunity, Vulnerable to Ice Bolt and Frost Ring, +100% to basic damage to Water and Ice Elementals",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Fire_Elemental",
+    "portraitUrl": "https://heroes.thelazy.net/images/1/10/Mini_Portrait_Fire_Elemental_%28HotA%29.png"
+  },
+  {
+    "name": "Energy Elemental",
+    "town": "Conflux",
+    "level": 4,
+    "levelDisplay": "4+",
+    "upgraded": true,
+    "attack": 12,
+    "defense": 8,
+    "damage": {
+      "min": 4,
+      "max": 6
+    },
+    "health": 35,
+    "speed": 8,
+    "growth": 5,
+    "aiValue": 470,
+    "cost": {
+      "gold": 400
+    },
+    "special": "Elemental, Flying, Fire immunity, Vulnerable to Ice Bolt and Frost Ring, +100% to basic damage to Water and Ice Elementals, Spellcaster (Protection from Fire)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Energy_Elemental",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/7a/Mini_Portrait_Energy_Elemental.png"
+  },
+  {
+    "name": "Earth Elemental",
+    "town": "Conflux",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 10,
+    "defense": 10,
+    "damage": {
+      "min": 4,
+      "max": 8
+    },
+    "health": 40,
+    "speed": 4,
+    "growth": 4,
+    "aiValue": 330,
+    "cost": {
+      "gold": 400
+    },
+    "special": "Elemental, Immune to Lightning Bolt, Chain Lightning, Titan's Lightning Bolt and Armageddon, Vulnerable to Meteor Shower, +100% to basic damage to Air and Storm Elementals",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Earth_Elemental",
+    "portraitUrl": "https://heroes.thelazy.net/images/1/1a/Mini_Portrait_Earth_Elemental.png"
+  },
+  {
+    "name": "Magma Elemental",
+    "town": "Conflux",
+    "level": 5,
+    "levelDisplay": "5+",
+    "upgraded": true,
+    "attack": 11,
+    "defense": 11,
+    "damage": {
+      "min": 6,
+      "max": 10
+    },
+    "health": 40,
+    "speed": 6,
+    "growth": 4,
+    "aiValue": 490,
+    "cost": {
+      "gold": 500
+    },
+    "special": "Elemental, Immune to Lightning Bolt, Chain Lightning, Titan's Lightning Bolt and Armageddon, Vulnerable to Meteor Shower, +100% to basic damage to Air and Storm Elementals, Spellcaster (Protection from Earth)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Magma_Elemental",
+    "portraitUrl": "https://heroes.thelazy.net/images/b/bc/Mini_Portrait_Magma_Elemental.png"
+  },
+  {
+    "name": "Psychic Elemental",
+    "town": "Conflux",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 15,
+    "defense": 13,
+    "damage": {
+      "min": 10,
+      "max": 20
+    },
+    "health": 75,
+    "speed": 7,
+    "growth": 2,
+    "aiValue": 1669,
+    "cost": {
+      "horn of the abyss": 950
+    },
+    "special": "Elemental, No enemy retaliation, Attacks all adjacent enemies, -50% damage to creatures with Mind spells immunity",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Psychic_Elemental",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/f7/Mini_Portrait_Psychic_Elemental.png"
+  },
+  {
+    "name": "Magic Elemental",
+    "town": "Conflux",
+    "level": 6,
+    "levelDisplay": "6+",
+    "upgraded": true,
+    "attack": 15,
+    "defense": 13,
+    "damage": {
+      "min": 15,
+      "max": 25
+    },
+    "health": 80,
+    "speed": 9,
+    "growth": 2,
+    "aiValue": 2012,
+    "cost": {
+      "horn of the abyss": 1200
+    },
+    "special": "Elemental, No enemy retaliation, Attacks all adjacent enemies, Magic immunity, -50% damage to creatures with Magic immunity",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Magic_Elemental",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/3e/Mini_Portrait_Magic_Elemental.png"
+  },
+  {
+    "name": "Firebird",
+    "town": "Conflux",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 18,
+    "defense": 18,
+    "damage": {
+      "min": 30,
+      "max": 40
+    },
+    "health": 150,
+    "speed": 15,
+    "growth": 1,
+    "aiValue": 4336,
+    "cost": {
+      "horn of the abyss": 2000
+    },
+    "special": "Flying, Breath attack, 50% Fire resistance Fire immunity",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Firebird",
+    "portraitUrl": "https://heroes.thelazy.net/images/d/d2/Mini_Portrait_Firebird.png"
+  },
+  {
+    "name": "Phoenix",
+    "town": "Conflux",
+    "level": 7,
+    "levelDisplay": "7+",
+    "upgraded": true,
+    "attack": 21,
+    "defense": 18,
+    "damage": {
+      "min": 30,
+      "max": 40
+    },
+    "health": 200,
+    "speed": 21,
+    "growth": 1,
+    "aiValue": 6721,
+    "cost": {
+      "horn of the abyss": 3000,
+      "mercury": 1
+    },
+    "special": "Flying, Breath attack, Fire immunity, Rebirth",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Phoenix",
+    "portraitUrl": "https://heroes.thelazy.net/images/2/28/Mini_Portrait_Phoenix.png"
+  },
+  {
+    "name": "Nymph",
+    "town": "Cove",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 5,
+    "defense": 2,
+    "damage": {
+      "min": 1,
+      "max": 2
+    },
+    "health": 4,
+    "speed": 6,
+    "growth": 16,
+    "aiValue": 57,
+    "cost": {
+      "gold": 35
+    },
+    "special": "Teleporting, Immune to Ice Bolt and Frost Ring",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Nymph",
+    "portraitUrl": "https://heroes.thelazy.net/images/5/57/Mini_Portrait_Nymph.png"
+  },
+  {
+    "name": "Oceanid",
+    "town": "Cove",
+    "level": 1,
+    "levelDisplay": "1+",
+    "upgraded": true,
+    "attack": 6,
+    "defense": 2,
+    "damage": {
+      "min": 1,
+      "max": 3
+    },
+    "health": 4,
+    "speed": 8,
+    "growth": 16,
+    "aiValue": 75,
+    "cost": {
+      "gold": 45
+    },
+    "special": "Teleporting, Immune to Ice Bolt and Frost Ring",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Oceanid",
+    "portraitUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Oceanid.png"
+  },
+  {
+    "name": "Crew Mate",
+    "town": "Cove",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 7,
+    "defense": 4,
+    "damage": {
+      "min": 2,
+      "max": 4
+    },
+    "health": 15,
+    "speed": 5,
+    "growth": 9,
+    "aiValue": 155,
+    "cost": {
+      "gold": 110
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Crew_Mate",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/70/Mini_Portrait_Crew_Mate.png"
+  },
+  {
+    "name": "Seaman",
+    "town": "Cove",
+    "level": 2,
+    "levelDisplay": "2+",
+    "upgraded": true,
+    "attack": 8,
+    "defense": 6,
+    "damage": {
+      "min": 3,
+      "max": 4
+    },
+    "health": 15,
+    "speed": 6,
+    "growth": 9,
+    "aiValue": 174,
+    "cost": {
+      "gold": 140
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Seaman",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/76/Mini_Portrait_Seaman.png"
+  },
+  {
+    "name": "Pirate",
+    "town": "Cove",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 8,
+    "defense": 6,
+    "damage": {
+      "min": 3,
+      "max": 7
+    },
+    "health": 15,
+    "speed": 6,
+    "growth": 7,
+    "aiValue": 312,
+    "cost": {
+      "gold": 225
+    },
+    "special": "Ranged (4 shots), No melee penalty",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pirate",
+    "portraitUrl": "https://heroes.thelazy.net/images/e/e8/Mini_Portrait_Pirate.png"
+  },
+  {
+    "name": "Corsair",
+    "town": "Cove",
+    "level": 3,
+    "levelDisplay": "3+",
+    "upgraded": true,
+    "attack": 10,
+    "defense": 8,
+    "damage": {
+      "min": 3,
+      "max": 7
+    },
+    "health": 15,
+    "speed": 7,
+    "growth": 7,
+    "aiValue": 407,
+    "cost": {
+      "gold": 275
+    },
+    "special": "Ranged (4 shots), No melee penalty, No enemy retaliation",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Corsair",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/89/Mini_Portrait_Corsair.png"
+  },
+  {
+    "name": "Sea Dog",
+    "town": "Cove",
+    "level": 3,
+    "levelDisplay": "3++",
+    "upgraded": true,
+    "attack": 12,
+    "defense": 11,
+    "damage": {
+      "min": 3,
+      "max": 7
+    },
+    "health": 15,
+    "speed": 8,
+    "growth": 7,
+    "aiValue": 602,
+    "cost": {
+      "gold": 375
+    },
+    "special": "Ranged (12 shots), No melee penalty, No enemy retaliation, Accurate shot",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Dog",
+    "portraitUrl": "https://heroes.thelazy.net/images/e/e9/Mini_Portrait_Sea_Dog.png"
+  },
+  {
+    "name": "Stormbird",
+    "town": "Cove",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 10,
+    "defense": 8,
+    "damage": {
+      "min": 6,
+      "max": 9
+    },
+    "health": 30,
+    "speed": 9,
+    "growth": 4,
+    "aiValue": 502,
+    "cost": {
+      "gold": 275
+    },
+    "special": "Flying",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Stormbird",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/6a/Mini_Portrait_Stormbird.png"
+  },
+  {
+    "name": "Ayssid",
+    "town": "Cove",
+    "level": 4,
+    "levelDisplay": "4+",
+    "upgraded": true,
+    "attack": 11,
+    "defense": 8,
+    "damage": {
+      "min": 6,
+      "max": 10
+    },
+    "health": 30,
+    "speed": 11,
+    "growth": 4,
+    "aiValue": 645,
+    "cost": {
+      "gold": 325
+    },
+    "special": "Flying, Ferocity",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ayssid",
+    "portraitUrl": "https://heroes.thelazy.net/images/a/a9/Mini_Portrait_Ayssid.png"
+  },
+  {
+    "name": "Sea Witch",
+    "town": "Cove",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 12,
+    "defense": 7,
+    "damage": {
+      "min": 10,
+      "max": 14
+    },
+    "health": 35,
+    "speed": 6,
+    "growth": 3,
+    "aiValue": 790,
+    "cost": {
+      "gold": 515
+    },
+    "special": "Ranged (12 shots), Spellcaster (after shot, Weakness / Disrupting Ray)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Witch",
+    "portraitUrl": "https://heroes.thelazy.net/images/5/5d/Mini_Portrait_Sea_Witch.png"
+  },
+  {
+    "name": "Sorceress",
+    "town": "Cove",
+    "level": 5,
+    "levelDisplay": "5+",
+    "upgraded": true,
+    "attack": 12,
+    "defense": 9,
+    "damage": {
+      "min": 10,
+      "max": 16
+    },
+    "health": 35,
+    "speed": 7,
+    "growth": 3,
+    "aiValue": 852,
+    "cost": {
+      "gold": 565
+    },
+    "special": "Ranged (12 shots), Spellcaster (after shot, Weakness / Disrupting Ray)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sorceress",
+    "portraitUrl": "https://heroes.thelazy.net/images/e/e2/Mini_Portrait_Sorceress.png"
+  },
+  {
+    "name": "Nix",
+    "town": "Cove",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 13,
+    "defense": 16,
+    "damage": {
+      "min": 18,
+      "max": 22
+    },
+    "health": 80,
+    "speed": 6,
+    "growth": 2,
+    "aiValue": 1415,
+    "cost": {
+      "gold": 1000
+    },
+    "special": "Ignores 30% of enemy attack value",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Nix",
+    "portraitUrl": "https://heroes.thelazy.net/images/e/eb/Mini_Portrait_Nix.png"
+  },
+  {
+    "name": "Nix Warrior",
+    "town": "Cove",
+    "level": 6,
+    "levelDisplay": "6+",
+    "upgraded": true,
+    "attack": 14,
+    "defense": 17,
+    "damage": {
+      "min": 18,
+      "max": 22
+    },
+    "health": 90,
+    "speed": 7,
+    "growth": 2,
+    "aiValue": 2116,
+    "cost": {
+      "gold": 1300
+    },
+    "special": "Ignores 60% of enemy attack value",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Nix_Warrior",
+    "portraitUrl": "https://heroes.thelazy.net/images/0/0d/Mini_Portrait_Nix_Warrior.png"
+  },
+  {
+    "name": "Sea Serpent",
+    "town": "Cove",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 22,
+    "defense": 16,
+    "damage": {
+      "min": 30,
+      "max": 55
+    },
+    "health": 180,
+    "speed": 9,
+    "growth": 1,
+    "aiValue": 3953,
+    "cost": {
+      "gold": 2200,
+      "sulfur": 1
+    },
+    "special": "Poisonous",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Serpent",
+    "portraitUrl": "https://heroes.thelazy.net/images/2/28/Mini_Portrait_Sea_Serpent.png"
+  },
+  {
+    "name": "Haspid",
+    "town": "Cove",
+    "level": 7,
+    "levelDisplay": "7+",
+    "upgraded": true,
+    "attack": 29,
+    "defense": 20,
+    "damage": {
+      "min": 30,
+      "max": 55
+    },
+    "health": 300,
+    "speed": 12,
+    "growth": 1,
+    "aiValue": 7220,
+    "cost": {
+      "gold": 4000,
+      "sulfur": 2
+    },
+    "special": "Poisonous, Revenge",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Haspid",
+    "portraitUrl": "https://heroes.thelazy.net/images/d/d1/Mini_Portrait_Haspid.png"
+  },
+  {
+    "name": "Halfling (Factory)",
+    "town": "Factory",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 4,
+    "defense": 2,
+    "damage": {
+      "min": 1,
+      "max": 3
+    },
+    "health": 4,
+    "speed": 5,
+    "growth": 15,
+    "aiValue": 75,
+    "cost": {
+      "gold": 40
+    },
+    "special": "Ranged (24 shots), Positive Luck",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Halfling_(Factory)",
+    "portraitUrl": "https://heroes.thelazy.net/images/0/08/Mini_Portrait_Halfling_%28Factory%29.png"
+  },
+  {
+    "name": "Halfling Grenadier",
+    "town": "Factory",
+    "level": 1,
+    "levelDisplay": "1+",
+    "upgraded": true,
+    "attack": 5,
+    "defense": 2,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 4,
+    "speed": 6,
+    "growth": 15,
+    "aiValue": 95,
+    "cost": {
+      "gold": 60
+    },
+    "special": "Ranged (24 shots), Positive Luck, Ranged attack ignores 20% of enemy's defense skill",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Halfling_Grenadier",
+    "portraitUrl": "https://heroes.thelazy.net/images/a/a3/Mini_Portrait_Halfling_Grenadier.png"
+  },
+  {
+    "name": "Mechanic",
+    "town": "Factory",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 6,
+    "defense": 5,
+    "damage": {
+      "min": 3,
+      "max": 4
+    },
+    "health": 14,
+    "speed": 6,
+    "growth": 8,
+    "aiValue": 186,
+    "cost": {
+      "gold": 140
+    },
+    "special": "Breath attack, Repairing (10 HP per unit)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Mechanic",
+    "portraitUrl": "https://heroes.thelazy.net/images/e/ed/Mini_Portrait_Mechanic.png"
+  },
+  {
+    "name": "Engineer",
+    "town": "Factory",
+    "level": 2,
+    "levelDisplay": "2+",
+    "upgraded": true,
+    "attack": 7,
+    "defense": 5,
+    "damage": {
+      "min": 3,
+      "max": 5
+    },
+    "health": 16,
+    "speed": 7,
+    "growth": 8,
+    "aiValue": 278,
+    "cost": {
+      "gold": 170
+    },
+    "special": "Breath attack, Repairing (20 HP per unit)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Engineer",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/ff/Mini_Portrait_Engineer.png"
+  },
+  {
+    "name": "Armadillo",
+    "town": "Factory",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 5,
+    "defense": 10,
+    "damage": {
+      "min": 3,
+      "max": 5
+    },
+    "health": 25,
+    "speed": 4,
+    "growth": 6,
+    "aiValue": 198,
+    "cost": {
+      "gold": 200
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Armadillo",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/39/Mini_Portrait_Armadillo.png"
+  },
+  {
+    "name": "Bellwether Armadillo",
+    "town": "Factory",
+    "level": 3,
+    "levelDisplay": "3+",
+    "upgraded": true,
+    "attack": 6,
+    "defense": 11,
+    "damage": {
+      "min": 3,
+      "max": 5
+    },
+    "health": 25,
+    "speed": 6,
+    "growth": 6,
+    "aiValue": 256,
+    "cost": {
+      "gold": 230
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Bellwether_Armadillo",
+    "portraitUrl": "https://heroes.thelazy.net/images/9/9b/Mini_Portrait_Bellwether_Armadillo.png"
+  },
+  {
+    "name": "Automaton",
+    "town": "Factory",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 12,
+    "defense": 10,
+    "damage": {
+      "min": 7,
+      "max": 7
+    },
+    "health": 30,
+    "speed": 8,
+    "growth": 5,
+    "aiValue": 669,
+    "cost": {
+      "gold": 350
+    },
+    "special": "Mechanical, Detonation",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Automaton",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/34/Mini_Portrait_Automaton.png"
+  },
+  {
+    "name": "Sentinel Automaton",
+    "town": "Factory",
+    "level": 4,
+    "levelDisplay": "4+",
+    "upgraded": true,
+    "attack": 12,
+    "defense": 10,
+    "damage": {
+      "min": 9,
+      "max": 9
+    },
+    "health": 30,
+    "speed": 9,
+    "growth": 5,
+    "aiValue": 947,
+    "cost": {
+      "gold": 450
+    },
+    "special": "Mechanical, Detonation, No enemy retaliation",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sentinel_Automaton",
+    "portraitUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Sentinel_Automaton.png"
+  },
+  {
+    "name": "Sandworm",
+    "town": "Factory",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 13,
+    "defense": 12,
+    "damage": {
+      "min": 12,
+      "max": 16
+    },
+    "health": 50,
+    "speed": 8,
+    "growth": 3,
+    "aiValue": 991,
+    "cost": {
+      "gold": 575
+    },
+    "special": "Burrowing, Immune to Blinding and Stone gaze",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sandworm",
+    "portraitUrl": "https://heroes.thelazy.net/images/4/4c/Mini_Portrait_Sandworm.png"
+  },
+  {
+    "name": "Olgoi-Khorkhoi",
+    "town": "Factory",
+    "level": 5,
+    "levelDisplay": "5+",
+    "upgraded": true,
+    "attack": 15,
+    "defense": 12,
+    "damage": {
+      "min": 12,
+      "max": 16
+    },
+    "health": 60,
+    "speed": 10,
+    "growth": 3,
+    "aiValue": 1220,
+    "cost": {
+      "gold": 650
+    },
+    "special": "Burrowing, Immune to Blinding and Stone gaze, Devours corpses",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Olgoi-Khorkhoi",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/3c/Mini_Portrait_Olgoi-Khorkhoi.png"
+  },
+  {
+    "name": "Gunslinger",
+    "town": "Factory",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 17,
+    "defense": 12,
+    "damage": {
+      "min": 14,
+      "max": 24
+    },
+    "health": 45,
+    "speed": 7,
+    "growth": 2,
+    "aiValue": 1351,
+    "cost": {
+      "gold": 800
+    },
+    "special": "Ranged (16 shots), Preemptive shot (once per round)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Gunslinger",
+    "portraitUrl": "https://heroes.thelazy.net/images/9/91/Mini_Portrait_Gunslinger.png"
+  },
+  {
+    "name": "Bounty Hunter",
+    "town": "Factory",
+    "level": 6,
+    "levelDisplay": "6+",
+    "upgraded": true,
+    "attack": 18,
+    "defense": 14,
+    "damage": {
+      "min": 14,
+      "max": 24
+    },
+    "health": 45,
+    "speed": 8,
+    "growth": 2,
+    "aiValue": 1454,
+    "cost": {
+      "gold": 1100
+    },
+    "special": "Ranged (24 shots), Preemptive shot (unlimited)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Bounty_Hunter",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/85/Mini_Portrait_Bounty_Hunter.png"
+  },
+  {
+    "name": "Couatl",
+    "town": "Factory",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 17,
+    "defense": 17,
+    "damage": {
+      "min": 25,
+      "max": 45
+    },
+    "health": 160,
+    "speed": 11,
+    "growth": 1,
+    "aiValue": 3574,
+    "cost": {
+      "gold": 2000
+    },
+    "special": "Flying, Meditation (skiping a turn)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Couatl",
+    "portraitUrl": "https://heroes.thelazy.net/images/2/27/Mini_Portrait_Couatl.png"
+  },
+  {
+    "name": "Crimson Couatl",
+    "town": "Factory",
+    "level": 7,
+    "levelDisplay": "7+",
+    "upgraded": true,
+    "attack": 21,
+    "defense": 21,
+    "damage": {
+      "min": 25,
+      "max": 45
+    },
+    "health": 200,
+    "speed": 15,
+    "growth": 1,
+    "aiValue": 5341,
+    "cost": {
+      "gold": 3500,
+      "crystal": 1
+    },
+    "special": "Flying, Meditation (without skipping a turn)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Crimson_Couatl",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/7b/Mini_Portrait_Crimson_Couatl.png"
+  },
+  {
+    "name": "Dreadnought",
+    "town": "Factory",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 18,
+    "defense": 20,
+    "damage": {
+      "min": 40,
+      "max": 50
+    },
+    "health": 200,
+    "speed": 6,
+    "growth": 1,
+    "aiValue": 3879,
+    "cost": {
+      "gold": 2200,
+      "crystal": 1
+    },
+    "special": "Mechanical, Heat stroke",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Dreadnought",
+    "portraitUrl": "https://heroes.thelazy.net/images/1/16/Mini_Portrait_Dreadnought.png"
+  },
+  {
+    "name": "Juggernaut",
+    "town": "Factory",
+    "level": 7,
+    "levelDisplay": "7+",
+    "upgraded": true,
+    "attack": 23,
+    "defense": 23,
+    "damage": {
+      "min": 40,
+      "max": 50
+    },
+    "health": 300,
+    "speed": 7,
+    "growth": 1,
+    "aiValue": 6433,
+    "cost": {
+      "gold": 3500,
+      "crystal": 2
+    },
+    "special": "Mechanical, Heat stroke",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Juggernaut",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/6b/Mini_Portrait_Juggernaut.png"
+  },
+  {
+    "name": "Kobold",
+    "town": "Bulwark",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 3,
+    "defense": 4,
+    "damage": {
+      "min": 1,
+      "max": 2
+    },
+    "health": 8,
+    "speed": 3,
+    "growth": 15,
+    "aiValue": 54,
+    "cost": {
+      "gold": 40
+    },
+    "special": "Generates 1 Gold per unit per day",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Kobold",
+    "portraitUrl": "https://heroes.thelazy.net/images/f/f0/Mini_Portrait_Kobold.png"
+  },
+  {
+    "name": "Kobold Foreman",
+    "town": "Bulwark",
+    "level": 1,
+    "levelDisplay": "1+",
+    "upgraded": true,
+    "attack": 5,
+    "defense": 6,
+    "damage": {
+      "min": 1,
+      "max": 2
+    },
+    "health": 8,
+    "speed": 5,
+    "growth": 15,
+    "aiValue": 84,
+    "cost": {
+      "gold": 60
+    },
+    "special": "Generates 1 Gold per unit per day",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Kobold_Foreman",
+    "portraitUrl": "https://heroes.thelazy.net/images/2/25/Mini_Portrait_Kobold_Foreman.png"
+  },
+  {
+    "name": "Mountain Ram",
+    "town": "Bulwark",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 7,
+    "defense": 6,
+    "damage": {
+      "min": 3,
+      "max": 4
+    },
+    "health": 18,
+    "speed": 7,
+    "growth": 9,
+    "aiValue": 228,
+    "cost": {
+      "gold": 135
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Mountain_Ram",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/70/Mini_Portrait_Mountain_Ram.png"
+  },
+  {
+    "name": "Argali",
+    "town": "Bulwark",
+    "level": 2,
+    "levelDisplay": "2+",
+    "upgraded": true,
+    "attack": 8,
+    "defense": 6,
+    "damage": {
+      "min": 3,
+      "max": 4
+    },
+    "health": 18,
+    "speed": 8,
+    "growth": 9,
+    "aiValue": 250,
+    "cost": {
+      "gold": 170
+    },
+    "special": "Immune to Ice Bolt and Frost Ring, Adjacent enemies receive +20% Spell Damage",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Argali",
+    "portraitUrl": "https://heroes.thelazy.net/images/b/ba/Mini_Portrait_Argali.png"
+  },
+  {
+    "name": "Snow Elf",
+    "town": "Bulwark",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 9,
+    "defense": 8,
+    "damage": {
+      "min": 4,
+      "max": 6
+    },
+    "health": 21,
+    "speed": 6,
+    "growth": 7,
+    "aiValue": 370,
+    "cost": {
+      "gold": 230
+    },
+    "special": "Ranged (4 shots), No melee penalty",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Snow_Elf",
+    "portraitUrl": "https://heroes.thelazy.net/images/e/e6/Mini_Portrait_Snow_Elf_%28HotA%29.png"
+  },
+  {
+    "name": "Steel Elf",
+    "town": "Bulwark",
+    "level": 3,
+    "levelDisplay": "3+",
+    "upgraded": true,
+    "attack": 9,
+    "defense": 10,
+    "damage": {
+      "min": 4,
+      "max": 6
+    },
+    "health": 24,
+    "speed": 7,
+    "growth": 7,
+    "aiValue": 526,
+    "cost": {
+      "gold": 260
+    },
+    "special": "Ranged (8 shots), No melee penalty, May shoot while adjacent to enemy creatures",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Steel_Elf",
+    "portraitUrl": "https://heroes.thelazy.net/images/1/15/Mini_Portrait_Steel_Elf.png"
+  },
+  {
+    "name": "Yeti",
+    "town": "Bulwark",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 10,
+    "defense": 8,
+    "damage": {
+      "min": 7,
+      "max": 9
+    },
+    "health": 40,
+    "speed": 6,
+    "growth": 4,
+    "aiValue": 504,
+    "cost": {
+      "gold": 325
+    },
+    "special": "Recovers from negative effects in one round of combat",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Yeti",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/7a/Mini_Portrait_Yeti.png"
+  },
+  {
+    "name": "Yeti Runemaster",
+    "town": "Bulwark",
+    "level": 4,
+    "levelDisplay": "4+",
+    "upgraded": true,
+    "attack": 11,
+    "defense": 9,
+    "damage": {
+      "min": 7,
+      "max": 9
+    },
+    "health": 45,
+    "speed": 7,
+    "growth": 4,
+    "aiValue": 751,
+    "cost": {
+      "gold": 400
+    },
+    "special": "Recovers from negative effects in one round of combat, Possesses Runes",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Yeti_Runemaster",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/85/Mini_Portrait_Yeti_Runemaster.png"
+  },
+  {
+    "name": "Shaman",
+    "town": "Bulwark",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 11,
+    "defense": 8,
+    "damage": {
+      "min": 11,
+      "max": 13
+    },
+    "health": 35,
+    "speed": 5,
+    "growth": 3,
+    "aiValue": 685,
+    "cost": {
+      "gold": 450
+    },
+    "special": "Ranged (12 shots), Spellcaster (Air Shield)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Shaman",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/39/Mini_Portrait_Shaman.png"
+  },
+  {
+    "name": "Great Shaman",
+    "town": "Bulwark",
+    "level": 5,
+    "levelDisplay": "5+",
+    "upgraded": true,
+    "attack": 12,
+    "defense": 11,
+    "damage": {
+      "min": 11,
+      "max": 13
+    },
+    "health": 35,
+    "speed": 6,
+    "growth": 3,
+    "aiValue": 818,
+    "cost": {
+      "gold": 600
+    },
+    "special": "Ranged (24 shots), Spellcaster (Air Shield), Freezing Shot",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Great_Shaman",
+    "portraitUrl": "https://heroes.thelazy.net/images/a/a7/Mini_Portrait_Great_Shaman.png"
+  },
+  {
+    "name": "Mammoth",
+    "town": "Bulwark",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 12,
+    "defense": 16,
+    "damage": {
+      "min": 14,
+      "max": 20
+    },
+    "health": 120,
+    "speed": 5,
+    "growth": 2,
+    "aiValue": 1359,
+    "cost": {
+      "gold": 850
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Mammoth",
+    "portraitUrl": "https://heroes.thelazy.net/images/b/bb/Mini_Portrait_Mammoth_%28HotA%29.png"
+  },
+  {
+    "name": "War Mammoth",
+    "town": "Bulwark",
+    "level": 6,
+    "levelDisplay": "6+",
+    "upgraded": true,
+    "attack": 14,
+    "defense": 18,
+    "damage": {
+      "min": 14,
+      "max": 20
+    },
+    "health": 135,
+    "speed": 6,
+    "growth": 2,
+    "aiValue": 1601,
+    "cost": {
+      "gold": 1000
+    },
+    "special": "Receives +100% Defense while defending in combat.",
+    "pageUrl": "https://heroes.thelazy.net/index.php/War_Mammoth",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/6a/Mini_Portrait_War_Mammoth.png"
+  },
+  {
+    "name": "Jotunn",
+    "town": "Bulwark",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 18,
+    "defense": 18,
+    "damage": {
+      "min": 40,
+      "max": 50
+    },
+    "health": 165,
+    "speed": 8,
+    "growth": 1,
+    "aiValue": 4180,
+    "cost": {
+      "gold": 2000
+    },
+    "special": "Teleports allies (once per combat), -1 enemy flying units' Speed",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Jotunn",
+    "portraitUrl": "https://heroes.thelazy.net/images/4/4b/Mini_Portrait_Jotunn.png"
+  },
+  {
+    "name": "Jotunn Warlord",
+    "town": "Bulwark",
+    "level": 7,
+    "levelDisplay": "7+",
+    "upgraded": true,
+    "attack": 20,
+    "defense": 20,
+    "damage": {
+      "min": 40,
+      "max": 50
+    },
+    "health": 300,
+    "speed": 10,
+    "growth": 1,
+    "aiValue": 6694,
+    "cost": {
+      "gold": 3500,
+      "gem": 1
+    },
+    "special": "Teleports allies (unlimited), -2 enemy flying units' Speed",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Jotunn_Warlord",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/8e/Mini_Portrait_Jotunn_Warlord.png"
+  },
+  {
+    "name": "Peasant",
+    "town": "Neutral",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 1,
+    "defense": 1,
+    "damage": {
+      "min": 1,
+      "max": 1
+    },
+    "health": 1,
+    "speed": 3,
+    "growth": 25,
+    "aiValue": 15,
+    "cost": {
+      "gold": 10
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Peasant",
+    "portraitUrl": "https://heroes.thelazy.net/images/1/19/Mini_Portrait_Peasant.png"
+  },
+  {
+    "name": "Halfling",
+    "town": "Neutral",
+    "level": 1,
+    "levelDisplay": "1",
+    "upgraded": false,
+    "attack": 4,
+    "defense": 2,
+    "damage": {
+      "min": 1,
+      "max": 3
+    },
+    "health": 4,
+    "speed": 5,
+    "growth": 15,
+    "aiValue": 75,
+    "cost": {
+      "gold": 40
+    },
+    "special": "Ranged (24 shots), Positive Luck",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Halfling",
+    "portraitUrl": "https://heroes.thelazy.net/images/5/56/Mini_Portrait_Halfling_%28HotA%29.png"
+  },
+  {
+    "name": "Boar",
+    "town": "Neutral",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 6,
+    "defense": 5,
+    "damage": {
+      "min": 2,
+      "max": 3
+    },
+    "health": 15,
+    "speed": 6,
+    "growth": 8,
+    "aiValue": 145,
+    "cost": {
+      "gold": 150
+    },
+    "special": "",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Boar",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Boar.png"
+  },
+  {
+    "name": "Rogue",
+    "town": "Neutral",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 8,
+    "defense": 3,
+    "damage": {
+      "min": 2,
+      "max": 4
+    },
+    "health": 10,
+    "speed": 6,
+    "growth": 8,
+    "aiValue": 135,
+    "cost": {
+      "gold": 100
+    },
+    "special": "Spying",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Rogue",
+    "portraitUrl": "https://heroes.thelazy.net/images/7/72/Mini_Portrait_Rogue.png"
+  },
+  {
+    "name": "Leprechaun",
+    "town": "Neutral",
+    "level": 2,
+    "levelDisplay": "2",
+    "upgraded": false,
+    "attack": 8,
+    "defense": 5,
+    "damage": {
+      "min": 3,
+      "max": 5
+    },
+    "health": 15,
+    "speed": 5,
+    "growth": 9,
+    "aiValue": 208,
+    "cost": {
+      "gold": 100
+    },
+    "special": "Doubles friendly units Luck chance, Spellcaster (Fortune)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Leprechaun",
+    "portraitUrl": "https://heroes.thelazy.net/images/5/52/Mini_Portrait_Leprechaun.png"
+  },
+  {
+    "name": "Mummy",
+    "town": "Neutral",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 7,
+    "defense": 7,
+    "damage": {
+      "min": 3,
+      "max": 5
+    },
+    "health": 30,
+    "speed": 5,
+    "growth": 7,
+    "aiValue": 270,
+    "cost": {
+      "gold": 300
+    },
+    "special": "Undead, Curse",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Mummy",
+    "portraitUrl": "https://heroes.thelazy.net/images/e/e6/Mini_Portrait_Mummy.png"
+  },
+  {
+    "name": "Nomad",
+    "town": "Neutral",
+    "level": 3,
+    "levelDisplay": "3",
+    "upgraded": false,
+    "attack": 9,
+    "defense": 8,
+    "damage": {
+      "min": 2,
+      "max": 6
+    },
+    "health": 30,
+    "speed": 7,
+    "growth": 7,
+    "aiValue": 345,
+    "cost": {
+      "gold": 200
+    },
+    "special": "Sandwalker",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Nomad",
+    "portraitUrl": "https://heroes.thelazy.net/images/2/28/Mini_Portrait_Nomad.png"
+  },
+  {
+    "name": "Sharpshooter",
+    "town": "Neutral",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 12,
+    "defense": 10,
+    "damage": {
+      "min": 8,
+      "max": 10
+    },
+    "health": 15,
+    "speed": 9,
+    "growth": 4,
+    "aiValue": 585,
+    "cost": {
+      "gold": 400
+    },
+    "special": "Ranged (32 shots), No range and obstacle penalty",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sharpshooter",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/3d/Mini_Portrait_Sharpshooter.png"
+  },
+  {
+    "name": "Satyr",
+    "town": "Neutral",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 10,
+    "defense": 11,
+    "damage": {
+      "min": 6,
+      "max": 10
+    },
+    "health": 35,
+    "speed": 7,
+    "growth": 4,
+    "aiValue": 518,
+    "cost": {
+      "gold": 300
+    },
+    "special": "Spellcaster (Mirth)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Satyr",
+    "portraitUrl": "https://heroes.thelazy.net/images/6/6f/Mini_Portrait_Satyr.png"
+  },
+  {
+    "name": "Steel Golem",
+    "town": "Neutral",
+    "level": 4,
+    "levelDisplay": "4",
+    "upgraded": false,
+    "attack": 10,
+    "defense": 11,
+    "damage": {
+      "min": 6,
+      "max": 8
+    },
+    "health": 45,
+    "speed": 6,
+    "growth": 4,
+    "aiValue": 597,
+    "cost": {
+      "gold": 400
+    },
+    "special": "Unliving, Spell damage resistance (+80%)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Steel_Golem",
+    "portraitUrl": "https://heroes.thelazy.net/images/5/50/Mini_Portrait_Steel_Golem.png"
+  },
+  {
+    "name": "Troll",
+    "town": "Neutral",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 14,
+    "defense": 7,
+    "damage": {
+      "min": 10,
+      "max": 15
+    },
+    "health": 40,
+    "speed": 7,
+    "growth": 3,
+    "aiValue": 1024,
+    "cost": {
+      "gold": 500
+    },
+    "special": "Regeneration",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Troll",
+    "portraitUrl": "https://heroes.thelazy.net/images/c/c1/Mini_Portrait_Troll_%28HotA%29.png"
+  },
+  {
+    "name": "Gold Golem",
+    "town": "Neutral",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 11,
+    "defense": 12,
+    "damage": {
+      "min": 8,
+      "max": 10
+    },
+    "health": 50,
+    "speed": 5,
+    "growth": 3,
+    "aiValue": 600,
+    "cost": {
+      "gold": 500
+    },
+    "special": "Unliving, Spell damage resistance (+85%)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Gold_Golem",
+    "portraitUrl": "https://heroes.thelazy.net/images/0/0c/Mini_Portrait_Gold_Golem.png"
+  },
+  {
+    "name": "Fangarm",
+    "town": "Neutral",
+    "level": 5,
+    "levelDisplay": "5",
+    "upgraded": false,
+    "attack": 12,
+    "defense": 12,
+    "damage": {
+      "min": 8,
+      "max": 12
+    },
+    "health": 50,
+    "speed": 6,
+    "growth": 3,
+    "aiValue": 929,
+    "cost": {
+      "gold": 600
+    },
+    "special": "Flying, Mind spells immunity, Unlimited retaliations, Hypnotizing attack",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Fangarm",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/3d/Mini_Portrait_Fangarm.png"
+  },
+  {
+    "name": "Diamond Golem",
+    "town": "Neutral",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 13,
+    "defense": 12,
+    "damage": {
+      "min": 10,
+      "max": 14
+    },
+    "health": 60,
+    "speed": 5,
+    "growth": 2,
+    "aiValue": 775,
+    "cost": {
+      "gold": 750
+    },
+    "special": "Unliving, Spell Damage Resistance (+95%)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Diamond_Golem",
+    "portraitUrl": "https://heroes.thelazy.net/images/8/82/Mini_Portrait_Diamond_Golem.png"
+  },
+  {
+    "name": "Enchanter",
+    "town": "Neutral",
+    "level": 6,
+    "levelDisplay": "6",
+    "upgraded": false,
+    "attack": 17,
+    "defense": 12,
+    "damage": {
+      "min": 14,
+      "max": 14
+    },
+    "health": 30,
+    "speed": 9,
+    "growth": 2,
+    "aiValue": 1210,
+    "cost": {
+      "gold": 750
+    },
+    "special": "Ranged (32 shots), No melee and obstacle penalty, Spellcaster",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
+    "portraitUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+  },
+  {
+    "name": "Faerie Dragon",
+    "town": "Neutral",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 20,
+    "defense": 20,
+    "damage": {
+      "min": 20,
+      "max": 30
+    },
+    "health": 500,
+    "speed": 15,
+    "growth": 1,
+    "aiValue": 30501,
+    "cost": {
+      "gold": 10000,
+      "gem": 8
+    },
+    "special": "Dragon, Flying, Spellcaster, Natural Magic Mirror",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
+    "portraitUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+  },
+  {
+    "name": "Rust Dragon",
+    "town": "Neutral",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 30,
+    "defense": 30,
+    "damage": {
+      "min": 50,
+      "max": 50
+    },
+    "health": 750,
+    "speed": 17,
+    "growth": 1,
+    "aiValue": 26433,
+    "cost": {
+      "gold": 15000,
+      "sulfur": 14
+    },
+    "special": "Dragon, Flying, Breath attack, Acid breath",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Rust_Dragon",
+    "portraitUrl": "https://heroes.thelazy.net/images/b/ba/Mini_Portrait_Rust_Dragon_%28HotA%29.png"
+  },
+  {
+    "name": "Crystal Dragon",
+    "town": "Neutral",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 40,
+    "defense": 40,
+    "damage": {
+      "min": 60,
+      "max": 75
+    },
+    "health": 800,
+    "speed": 16,
+    "growth": 1,
+    "aiValue": 39338,
+    "cost": {
+      "gold": 20000,
+      "crystal": 10
+    },
+    "special": "Dragon, Crystal generation, Magic resistance (+20%)",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Crystal_Dragon",
+    "portraitUrl": "https://heroes.thelazy.net/images/4/40/Mini_Portrait_Crystal_Dragon_%28HotA%29.png"
+  },
+  {
+    "name": "Azure Dragon",
+    "town": "Neutral",
+    "level": 7,
+    "levelDisplay": "7",
+    "upgraded": false,
+    "attack": 50,
+    "defense": 50,
+    "damage": {
+      "min": 70,
+      "max": 80
+    },
+    "health": 1000,
+    "speed": 19,
+    "growth": 1,
+    "aiValue": 78845,
+    "cost": {
+      "gold": 30000,
+      "mercury": 20
+    },
+    "special": "Dragon, Flying, Breath attack, Fear, Fearless, 1-3 lvl spells immunity",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Azure_Dragon",
+    "portraitUrl": "https://heroes.thelazy.net/images/0/0d/Mini_Portrait_Azure_Dragon_%28HotA%29.png"
+  }
+]
