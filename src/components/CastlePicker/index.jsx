@@ -47,6 +47,7 @@ export default function CastlePicker({
         <div className="castle-grid">
           {castles.map((castle) => {
             const isSelected = selectedCastle?.name === castle.name;
+            const icon = getCastleIcon(castle);
 
             return (
               <button
@@ -55,7 +56,7 @@ export default function CastlePicker({
                 type="button"
                 onClick={() => onSelect(castle)}
               >
-                <img src={getCastleIcon(castle)} alt="" />
+                {icon && <img src={icon} alt="" />}
                 <span>{castle.name}</span>
               </button>
             );

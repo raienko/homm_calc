@@ -12,6 +12,14 @@ const healthArtifacts = buildHealthArtifacts(artifacts);
 
 const demon = creatures.find((creature) => creature.name === "Demon");
 const pitLord = creatures.find((creature) => creature.name === "Pit Lord");
+const neutralCreature = creatures.find((creature) => creature.town === "Neutral");
+const castleOptions = [
+  ...castles,
+  {
+    name: "Neutral",
+    portraitUrl: neutralCreature?.portraitUrl,
+  },
+];
 const defaultCastle = castles.find((castle) => castle.name === "Inferno") || castles[0];
 
 export default function DemonFarming() {
@@ -170,7 +178,7 @@ export default function DemonFarming() {
       </div>
 
       <CastlePicker
-        castles={castles}
+        castles={castleOptions}
         open={isCastlePickerOpen}
         selectedCastle={selectedCastle}
         title="Pick castle for unit filter"
