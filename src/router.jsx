@@ -1,11 +1,27 @@
 import { useEffect, useState } from "react";
 
+const basePath = import.meta.env.BASE_URL.replace(/\/$/, "");
+
+function withBasePath(path) {
+  if (!basePath || path.startsWith(basePath)) {
+    return path;
+  }
+
+  return `${basePath}${path}`;
+}
+
 function getPath() {
-  return window.location.pathname.replace(/\/+$/, "") || "/";
+  const pathname = window.location.pathname.replace(/\/+$/, "") || "/";
+
+  if (basePath && pathname.startsWith(basePath)) {
+    return pathname.slice(basePath.length) || "/";
+  }
+
+  return pathname;
 }
 
 export function navigate(to) {
-  window.history.pushState({}, "", to);
+  window.history.pushState({}, "", withBasePath(to));
   window.dispatchEvent(new PopStateEvent("popstate"));
 }
 
@@ -40,7 +56,7 @@ export function Link({ children, to, ...props }) {
   }
 
   return (
-    <a href={to} onClick={handleClick} {...props}>
+    <a href={withBasePath(to)} onClick={handleClick} {...props}>
       {children}
     </a>
   );
