@@ -35,6 +35,16 @@ export function applyHealthArtifacts(baseHealth, selectedArtifactIds, healthArti
   };
 }
 
+export function calculateOptimalUnitCount({ demonHealth, effectiveUnitHealth, pitLords }) {
+  const targetDemons = Math.floor((pitLords * PIT_LORD_SUMMON_HEALTH) / demonHealth);
+
+  if (targetDemons <= 0 || effectiveUnitHealth <= 0) {
+    return 0;
+  }
+
+  return Math.max(targetDemons, Math.ceil((targetDemons * demonHealth) / effectiveUnitHealth));
+}
+
 export function calculateDemonFarming({
   demonHealth,
   healthArtifacts = [],
@@ -48,6 +58,11 @@ export function calculateDemonFarming({
   const effectiveHealth = applyHealthArtifacts(selectedCreature?.health || 0, selectedArtifactIds, healthArtifacts);
   const stackHealth = units * effectiveHealth.health;
   const pitLordHealthCapacity = pitLords * PIT_LORD_SUMMON_HEALTH;
+  const optimalUnitCount = calculateOptimalUnitCount({
+    demonHealth,
+    effectiveUnitHealth: effectiveHealth.health,
+    pitLords,
+  });
   const warning = isNonLivingCreature(selectedCreature)
     ? `${selectedCreature.name} is non-living and cannot be converted into Demons.`
     : "";
@@ -60,6 +75,7 @@ export function calculateDemonFarming({
       effectiveHealth,
       stackHealth,
       pitLordHealthCapacity,
+      optimalUnitCount: 0,
       usableHealth: 0,
       demons: 0,
       usedHealth: 0,
@@ -81,6 +97,7 @@ export function calculateDemonFarming({
     effectiveHealth,
     stackHealth,
     pitLordHealthCapacity,
+    optimalUnitCount,
     usableHealth,
     demons,
     usedHealth,

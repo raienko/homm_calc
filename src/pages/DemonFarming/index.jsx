@@ -146,6 +146,14 @@ export default function DemonFarming() {
               value={unitCount}
               onChange={setUnitCount}
             />
+            <button
+              className="optimal-count"
+              type="button"
+              disabled={!result.optimalUnitCount}
+              onClick={() => setUnitCount(result.optimalUnitCount)}
+            >
+              Optimal <strong>x{result.optimalUnitCount}</strong>
+            </button>
           </div>
         </section>
 

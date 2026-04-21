@@ -364,6 +364,32 @@ button {
   font-variant-numeric: tabular-nums;
 }
 
+.optimal-count {
+  width: 100%;
+  min-height: 2rem;
+  margin-top: 0.35rem;
+  border: 1px solid #5b4d34;
+  border-radius: 6px;
+  background: #17130e;
+  color: #d9c997;
+  cursor: pointer;
+}
+
+.optimal-count strong {
+  color: #fff5cb;
+  font-size: 1rem;
+}
+
+.optimal-count:disabled {
+  opacity: 0.48;
+  cursor: default;
+}
+
+.optimal-count:not(:disabled):hover {
+  border-color: #e0ca84;
+  background: #312819;
+}
+
 .artifact-picker {
   min-width: 0;
   margin: 0;

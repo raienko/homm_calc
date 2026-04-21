@@ -4,6 +4,7 @@ import test from "node:test";
 
 import {
   buildHealthArtifacts,
+  calculateOptimalUnitCount,
   calculateDemonFarming,
   isNonLivingCreature,
   PIT_LORD_SUMMON_HEALTH,
@@ -64,6 +65,32 @@ test("Pit Lord capacity caps raised Demons", () => {
   assert.equal(calculate({ health: 4, pitLordsCount: 6, unitCount: 88 }).demons, 8);
 });
 
+test("returns optimal unit count for the current setup", () => {
+  assert.equal(calculate({ health: 4, pitLordsCount: 7, unitCount: 1 }).optimalUnitCount, 88);
+  assert.equal(calculate({ health: 10, pitLordsCount: 1, unitCount: 1 }).optimalUnitCount, 4);
+  assert.equal(calculate({ health: 35, pitLordsCount: 7, unitCount: 1 }).optimalUnitCount, 10);
+  assert.equal(calculate({ health: 4, pitLordsCount: 3, unitCount: 1 }).optimalUnitCount, 35);
+});
+
+test("optimal unit count matches the table row for maximum Demons per Pit Lord count", () => {
+  for (let pitLordsCount = 1; pitLordsCount <= 20; pitLordsCount += 1) {
+    const targetDemons = Math.floor((pitLordsCount * PIT_LORD_SUMMON_HEALTH) / demon.health);
+
+    for (let health = 4; health <= 33; health += 1) {
+      const tableCreatureRequirement = Math.max(targetDemons, Math.ceil((targetDemons * demon.health) / health));
+
+      assert.equal(
+        calculateOptimalUnitCount({
+          demonHealth: demon.health,
+          effectiveUnitHealth: health,
+          pitLords: pitLordsCount,
+        }),
+        tableCreatureRequirement,
+      );
+    }
+  }
+});
+
 test("health artifacts alter source unit health", () => {
   const elixir = healthArtifacts.find((artifact) => artifact.name === "Elixir of Life");
 
@@ -101,6 +128,7 @@ test("non-living creatures cannot be converted into Demons", () => {
 
     assert.equal(isNonLivingCreature(creature), true);
     assert.equal(result.demons, 0);
+    assert.equal(result.optimalUnitCount, 0);
     assert.match(result.warning, /cannot be converted into Demons/);
   }
 
