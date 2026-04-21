@@ -117,6 +117,7 @@ export default function DemonFarming() {
           </div>
 
           <div className="field">
+            <span>Pit Lords</span>
             <AmountStepper
               iconUrl={pitLord?.portraitUrl}
               label="Pit Lords"
