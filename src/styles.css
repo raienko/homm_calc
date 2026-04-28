@@ -61,6 +61,31 @@ button {
   background: #ffffff;
 }
 
+.nav-link-feature {
+  min-width: min(100%, 320px);
+  min-height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0;
+  padding: 0.8rem 0.35rem;
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.nav-link-feature img {
+  width: 58px;
+  height: 58px;
+  flex: 0 0 auto;
+  object-fit: contain;
+}
+
+.nav-link-feature span {
+  flex: 1 1 auto;
+  text-align: center;
+  padding: 0 0.5rem;
+}
+
 .modal-shell {
   position: fixed;
   inset: 0;
