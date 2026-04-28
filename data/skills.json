@@ -1,0 +1,1951 @@
+[
+  {
+    "name": "Air Magic",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Air_Magic",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Air_Magic_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Air_Magic_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Air_Magic_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Air_Magic_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Air_Magic_large.png"
+    },
+    "effects": {
+      "basic": "allows your hero to cast air spells at reduced cost.",
+      "advanced": "allows your hero to cast air spells at reduced cost and increased effectiveness.",
+      "expert": "allows your hero to cast air spells at reduced cost and maximum effectiveness."
+    },
+    "startingHeroes": [
+      {
+        "name": "Brissa",
+        "className": "Elementalist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Brissa"
+      },
+      {
+        "name": "Aenain",
+        "className": "Elementalist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Aenain"
+      }
+    ]
+  },
+  {
+    "name": "Archery",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Archery",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Archery_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Archery_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Archery_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Archery_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Archery_large.png"
+    },
+    "effects": {
+      "basic": "increases the damage done by range attacking creatures by 10%.",
+      "advanced": "increases the damage done by range attacking creatures by 25%.",
+      "expert": "increases the damage done by range attacking creatures by 50%."
+    },
+    "startingHeroes": [
+      {
+        "name": "Valeska",
+        "className": "Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Valeska"
+      },
+      {
+        "name": "Jenova",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Jenova"
+      },
+      {
+        "name": "Ivor",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ivor"
+      },
+      {
+        "name": "Kyrre",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Kyrre"
+      },
+      {
+        "name": "Gelu",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gelu"
+      },
+      {
+        "name": "Calh",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Calh"
+      },
+      {
+        "name": "Jabarkas",
+        "className": "Barbarian",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Jabarkas"
+      },
+      {
+        "name": "Wystan",
+        "className": "Beastmaster",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Wystan"
+      },
+      {
+        "name": "Anabel",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Anabel"
+      },
+      {
+        "name": "Tancred",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Tancred"
+      },
+      {
+        "name": "Wynona",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Wynona"
+      },
+      {
+        "name": "Dhuin",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Dhuin"
+      },
+      {
+        "name": "Oidana",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Oidana"
+      },
+      {
+        "name": "Orrin",
+        "className": "Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Orrin"
+      },
+      {
+        "name": "Murdoch",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Murdoch"
+      },
+      {
+        "name": "Neia",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Neia"
+      }
+    ]
+  },
+  {
+    "name": "Armorer",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Armorer",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Armorer_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Armorer_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Armorer_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Armorer_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Armorer_large.png"
+    },
+    "effects": {
+      "basic": "reduces all damage inflicted against the hero's troops by 5%.",
+      "advanced": "reduces all damage inflicted against the hero's troops by 10%.",
+      "expert": "reduces all damage inflicted against the hero's troops by 15%."
+    },
+    "startingHeroes": [
+      {
+        "name": "Edric",
+        "className": "Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Edric"
+      },
+      {
+        "name": "Roland",
+        "className": "Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Roland"
+      },
+      {
+        "name": "Galthran",
+        "className": "Death Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Galthran"
+      },
+      {
+        "name": "Marius",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Marius"
+      },
+      {
+        "name": "Illor",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Illor"
+      },
+      {
+        "name": "Tark",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Tark"
+      },
+      {
+        "name": "Floribert",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Floribert"
+      },
+      {
+        "name": "Eikthurn",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Eikthurn"
+      },
+      {
+        "name": "Creyle",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Creyle"
+      },
+      {
+        "name": "Dalton",
+        "className": "Elder",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Dalton"
+      },
+      {
+        "name": "Mephala",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Mephala"
+      },
+      {
+        "name": "Neela",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Neela"
+      },
+      {
+        "name": "Tazar",
+        "className": "Beastmaster",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Tazar"
+      },
+      {
+        "name": "Dury",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Dury"
+      }
+    ]
+  },
+  {
+    "name": "Artillery",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Artillery",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Artillery_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Artillery_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Artillery_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Artillery_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Artillery_large.png"
+    },
+    "effects": {
+      "basic": "",
+      "advanced": "",
+      "expert": ""
+    },
+    "startingHeroes": [
+      {
+        "name": "Vokial",
+        "className": "Death Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Vokial"
+      },
+      {
+        "name": "Zubin",
+        "className": "Battle Mage",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Zubin"
+      },
+      {
+        "name": "Pasis",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Pasis"
+      },
+      {
+        "name": "Ignissa",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ignissa"
+      },
+      {
+        "name": "Torosar",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Torosar"
+      },
+      {
+        "name": "Christian",
+        "className": "Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Christian"
+      },
+      {
+        "name": "Pyre",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Pyre"
+      },
+      {
+        "name": "Ranloo",
+        "className": "Death Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ranloo"
+      },
+      {
+        "name": "Arlach",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Arlach"
+      },
+      {
+        "name": "Gurnisson",
+        "className": "Barbarian",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gurnisson"
+      },
+      {
+        "name": "Gerwulf",
+        "className": "Beastmaster",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gerwulf"
+      },
+      {
+        "name": "Morton",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morton"
+      },
+      {
+        "name": "Jeremy",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Jeremy"
+      }
+    ]
+  },
+  {
+    "name": "Ballistics",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Ballistics",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Ballistics_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Ballistics_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Ballistics_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Ballistics_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Ballistics_large.png"
+    },
+    "effects": {
+      "basic": "",
+      "advanced": "",
+      "expert": ""
+    },
+    "startingHeroes": [
+      {
+        "name": "Uland",
+        "className": "Druid",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Uland"
+      },
+      {
+        "name": "Theodorus",
+        "className": "Wizard",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Theodorus"
+      },
+      {
+        "name": "Olema",
+        "className": "Heretic",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Olema"
+      },
+      {
+        "name": "Yog",
+        "className": "Barbarian",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Yog"
+      },
+      {
+        "name": "Morton",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Morton"
+      }
+    ]
+  },
+  {
+    "name": "Diplomacy",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Diplomacy",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Diplomacy_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Diplomacy_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Diplomacy_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Diplomacy_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Diplomacy_large.png"
+    },
+    "effects": {
+      "basic": "Improves the chances that wandering monsters flee/negotiate/join, and reduces the cost of surrendering by 20%.",
+      "advanced": "Further improves the chances that wandering monsters flee/negotiate/join, and reduces the cost of surrendering by 40%.",
+      "expert": "Even further improves the chances that wandering monsters flee/negotiate/join, and reduces the cost of surrendering by 60%."
+    },
+    "startingHeroes": [
+      {
+        "name": "Adela",
+        "className": "Cleric",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Adela"
+      },
+      {
+        "name": "Ryland",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ryland"
+      },
+      {
+        "name": "Cyra",
+        "className": "Wizard",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Cyra"
+      },
+      {
+        "name": "Melchior",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Melchior"
+      },
+      {
+        "name": "Oidana",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Oidana"
+      }
+    ]
+  },
+  {
+    "name": "Eagle Eye",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Eagle_Eye",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Eagle_Eye_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Eagle_Eye_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Eagle_Eye_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Eagle_Eye_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Eagle_Eye_large.png"
+    },
+    "effects": {
+      "basic": "",
+      "advanced": "",
+      "expert": ""
+    },
+    "startingHeroes": [
+      {
+        "name": "Ash",
+        "className": "Heretic",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ash"
+      },
+      {
+        "name": "Vehr",
+        "className": "Elder",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Vehr"
+      },
+      {
+        "name": "Sanya",
+        "className": "Cleric",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sanya"
+      },
+      {
+        "name": "Malcom",
+        "className": "Druid",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Malcom"
+      },
+      {
+        "name": "Serena",
+        "className": "Wizard",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Serena"
+      },
+      {
+        "name": "Nimbus",
+        "className": "Necromancer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Nimbus"
+      },
+      {
+        "name": "Geon",
+        "className": "Warlock",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Geon"
+      },
+      {
+        "name": "Oris",
+        "className": "Battle Mage",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Oris"
+      },
+      {
+        "name": "Tiva",
+        "className": "Witch",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Tiva"
+      }
+    ]
+  },
+  {
+    "name": "Earth Magic",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Earth_Magic",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Earth_Magic_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Earth_Magic_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Earth_Magic_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Earth_Magic_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Earth_Magic_large.png"
+    },
+    "effects": {
+      "basic": "allows your hero to cast earth spells at reduced cost.",
+      "advanced": "allows your hero to cast earth spells at reduced cost and increased effectiveness.",
+      "expert": "allows your hero to cast earth spells at reduced cost and maximum effectiveness."
+    },
+    "startingHeroes": [
+      {
+        "name": "Labetha",
+        "className": "Elementalist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Labetha"
+      },
+      {
+        "name": "Grindan",
+        "className": "Elementalist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Grindan"
+      }
+    ]
+  },
+  {
+    "name": "Estates",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Estates",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Estates_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Estates_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Estates_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Estates_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Estates_large.png"
+    },
+    "effects": {
+      "basic": "a hero contributes gold per day to your cause.",
+      "advanced": "a hero contributes gold per day to your cause.",
+      "expert": "a hero contributes gold per day to your cause."
+    },
+    "startingHeroes": [
+      {
+        "name": "Cuthbert",
+        "className": "Cleric",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Cuthbert"
+      },
+      {
+        "name": "Mutare",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Mutare"
+      },
+      {
+        "name": "Mutare Drake",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Mutare_Drake"
+      },
+      {
+        "name": "Thunar",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Thunar"
+      },
+      {
+        "name": "Erdamon",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Erdamon"
+      },
+      {
+        "name": "Leena",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Leena"
+      },
+      {
+        "name": "Eanswythe",
+        "className": "Artificer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Eanswythe"
+      },
+      {
+        "name": "Kynr",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Kynr"
+      },
+      {
+        "name": "Lord Haart",
+        "className": "Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Lord_Haart"
+      }
+    ]
+  },
+  {
+    "name": "Fire Magic",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Fire_Magic",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Fire_Magic_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Fire_Magic_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Fire_Magic_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Fire_Magic_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Fire_Magic_large.png"
+    },
+    "effects": {
+      "basic": "allows your hero to cast fire spells at reduced cost.",
+      "advanced": "allows your hero to cast fire spells at reduced cost and increased effectiveness.",
+      "expert": "allows your hero to cast fire spells at reduced cost and maximum effectiveness."
+    },
+    "startingHeroes": [
+      {
+        "name": "Luna",
+        "className": "Elementalist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Luna"
+      },
+      {
+        "name": "Inteus",
+        "className": "Elementalist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Inteus"
+      },
+      {
+        "name": "Manfred",
+        "className": "Navigator",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Manfred"
+      },
+      {
+        "name": "Adrienne",
+        "className": "Witch",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Adrienne"
+      }
+    ]
+  },
+  {
+    "name": "First Aid",
+    "pageUrl": "https://heroes.thelazy.net/index.php/First_Aid",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_First_Aid_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_First_Aid_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_First_Aid_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_First_Aid_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_First_Aid_large.png"
+    },
+    "effects": {
+      "basic": "",
+      "advanced": "",
+      "expert": ""
+    },
+    "startingHeroes": [
+      {
+        "name": "Rion",
+        "className": "Cleric",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Rion"
+      },
+      {
+        "name": "Gem",
+        "className": "Druid",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gem"
+      },
+      {
+        "name": "Verdish",
+        "className": "Witch",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Verdish"
+      },
+      {
+        "name": "Floribert",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Floribert"
+      },
+      {
+        "name": "Biarma",
+        "className": "Elder",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Biarma"
+      }
+    ]
+  },
+  {
+    "name": "Intelligence",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Intelligence",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Intelligence_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Intelligence_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Intelligence_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Intelligence_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Intelligence_large.png"
+    },
+    "effects": {
+      "basic": "increases a hero's normal maximum spell points by .",
+      "advanced": "increases a hero's normal maximum spell points by .",
+      "expert": "increases a hero's normal maximum spell points by ."
+    },
+    "startingHeroes": [
+      {
+        "name": "Caitlin",
+        "className": "Cleric",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Caitlin"
+      },
+      {
+        "name": "Iona",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Iona"
+      },
+      {
+        "name": "Daremyth",
+        "className": "Wizard",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Daremyth"
+      },
+      {
+        "name": "Nagash",
+        "className": "Necromancer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Nagash"
+      },
+      {
+        "name": "Sephinroth",
+        "className": "Warlock",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sephinroth"
+      },
+      {
+        "name": "Eovacius",
+        "className": "Navigator",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Eovacius"
+      },
+      {
+        "name": "Wrathmont",
+        "className": "Artificer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Wrathmont"
+      },
+      {
+        "name": "Frederick",
+        "className": "Artificer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Frederick"
+      },
+      {
+        "name": "Sial",
+        "className": "Elder",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sial"
+      },
+      {
+        "name": "Ayden",
+        "className": "Heretic",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ayden"
+      },
+      {
+        "name": "Elleshar",
+        "className": "Druid",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Elleshar"
+      },
+      {
+        "name": "Andra",
+        "className": "Witch",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Andra"
+      }
+    ]
+  },
+  {
+    "name": "Interference",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Interference",
+    "hotaOnly": true,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Interference_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Interference_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Interference_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Interference_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Interference_large.png"
+    },
+    "effects": {
+      "basic": "lowers the power skill of the enemy hero by 10% in combat.",
+      "advanced": "lowers the power skill of the enemy hero by 20% in combat.",
+      "expert": "lowers the power skill of the enemy hero by 30% in combat."
+    },
+    "startingHeroes": [
+      {
+        "name": "Ufretin",
+        "className": "Ranger|image=Ufretin (HotA)",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ufretin"
+      },
+      {
+        "name": "Clancy",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Clancy"
+      },
+      {
+        "name": "Fafner",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Fafner"
+      },
+      {
+        "name": "Ignatius",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ignatius"
+      },
+      {
+        "name": "Straker",
+        "className": "Death Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Straker"
+      },
+      {
+        "name": "Ajit",
+        "className": "Overlord|image=Ajit (HotA)",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ajit"
+      },
+      {
+        "name": "Krellion",
+        "className": "Barbarian",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Krellion"
+      },
+      {
+        "name": "Saurug",
+        "className": "Battle Mage",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Saurug"
+      },
+      {
+        "name": "Bron",
+        "className": "Beastmaster|image=Bron (HotA)",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Bron"
+      },
+      {
+        "name": "Zilare",
+        "className": "Navigator",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Zilare"
+      },
+      {
+        "name": "Giselle",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Giselle"
+      }
+    ]
+  },
+  {
+    "name": "Leadership",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Leadership",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Leadership_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Leadership_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Leadership_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Leadership_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Leadership_large.png"
+    },
+    "effects": {
+      "basic": "increases your hero's troops' morale by 1.",
+      "advanced": "increases your hero's troops' morale by 2.",
+      "expert": "increases your hero's troops' morale by 3."
+    },
+    "startingHeroes": [
+      {
+        "name": "Sir Mullich",
+        "className": "Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sir_Mullich"
+      },
+      {
+        "name": "Mephala",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Mephala"
+      },
+      {
+        "name": "Ryland",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ryland"
+      },
+      {
+        "name": "Gelu",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gelu"
+      },
+      {
+        "name": "Xeron",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Xeron"
+      },
+      {
+        "name": "Xarfax",
+        "className": "Heretic",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Xarfax"
+      },
+      {
+        "name": "Lorelei",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Lorelei"
+      },
+      {
+        "name": "Ajit",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ajit"
+      },
+      {
+        "name": "Synca",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Synca"
+      },
+      {
+        "name": "Vey",
+        "className": "Battle Mage",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Vey"
+      },
+      {
+        "name": "Drakon",
+        "className": "Beastmaster",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Drakon"
+      },
+      {
+        "name": "Derek",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Derek"
+      },
+      {
+        "name": "Henrietta",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Henrietta"
+      },
+      {
+        "name": "Melchior",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Melchior"
+      },
+      {
+        "name": "Spadum",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spadum"
+      }
+    ]
+  },
+  {
+    "name": "Learning",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Learning",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Learning_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Learning_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Learning_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Learning_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Learning_large.png"
+    },
+    "effects": {
+      "basic": "increases the hero’s earned experience points by . .}}",
+      "advanced": "increases the hero’s earned experience points by . .}}",
+      "expert": "increases the hero’s earned experience points by . .}}"
+    },
+    "startingHeroes": [
+      {
+        "name": "Loynis",
+        "className": "Cleric",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Loynis"
+      },
+      {
+        "name": "Calid",
+        "className": "Heretic",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Calid"
+      },
+      {
+        "name": "Moandor",
+        "className": "Death Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Moandor"
+      },
+      {
+        "name": "Xsi",
+        "className": "Necromancer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Xsi"
+      },
+      {
+        "name": "Darkstorn",
+        "className": "Warlock",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Darkstorn"
+      },
+      {
+        "name": "Merist",
+        "className": "Witch",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Merist"
+      },
+      {
+        "name": "Kalt",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Kalt"
+      },
+      {
+        "name": "Victoria",
+        "className": "Artificer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Victoria"
+      },
+      {
+        "name": "Glacius",
+        "className": "Elder",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Glacius"
+      },
+      {
+        "name": "Kinkeria",
+        "className": "Witch",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Kinkeria"
+      }
+    ]
+  },
+  {
+    "name": "Logistics",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Logistics",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Logistics_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Logistics_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Logistics_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Logistics_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Logistics_large.png"
+    },
+    "effects": {
+      "basic": "increases your hero's movement points over land by .",
+      "advanced": "increases your hero's movement points over land by .",
+      "expert": "increases your hero's movement points over land by ."
+    },
+    "startingHeroes": [
+      {
+        "name": "Pyre",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Pyre"
+      },
+      {
+        "name": "Monere",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Monere"
+      },
+      {
+        "name": "Miriam",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Miriam"
+      },
+      {
+        "name": "Eikthurn",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Eikthurn"
+      },
+      {
+        "name": "Kyrre",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Kyrre"
+      },
+      {
+        "name": "Gunnar",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gunnar"
+      },
+      {
+        "name": "Dessa",
+        "className": "Battle Mage",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Dessa"
+      }
+    ]
+  },
+  {
+    "name": "Luck",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Luck_(secondary_skill)",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Luck_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Luck_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Luck_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Luck_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Luck_large.png"
+    },
+    "effects": {
+      "basic": "increases your hero's luck by 1.",
+      "advanced": "increases your hero's luck by 2.",
+      "expert": "increases your hero's luck by 3."
+    },
+    "startingHeroes": [
+      {
+        "name": "Ufretin",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ufretin"
+      },
+      {
+        "name": "Melodia",
+        "className": "Druid",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Melodia"
+      },
+      {
+        "name": "Astra",
+        "className": "Navigator",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Astra"
+      },
+      {
+        "name": "Henrietta",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Henrietta"
+      }
+    ]
+  },
+  {
+    "name": "Mysticism",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Mysticism",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Mysticism_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Mysticism_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Mysticism_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Mysticism_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Mysticism_large.png"
+    },
+    "effects": {
+      "basic": "",
+      "advanced": "",
+      "expert": ""
+    },
+    "startingHeroes": [
+      {
+        "name": "Ingham",
+        "className": "Cleric",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ingham"
+      },
+      {
+        "name": "Piquedram",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Piquedram"
+      },
+      {
+        "name": "Josephine",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Josephine"
+      },
+      {
+        "name": "Torosar",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Torosar"
+      },
+      {
+        "name": "Rissa",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Rissa"
+      },
+      {
+        "name": "Thant",
+        "className": "Necromancer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Thant"
+      },
+      {
+        "name": "Akka",
+        "className": "Elder",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Akka"
+      },
+      {
+        "name": "Halon",
+        "className": "Wizard",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Halon"
+      },
+      {
+        "name": "Axsis",
+        "className": "Heretic",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Axsis"
+      },
+      {
+        "name": "Jaegar",
+        "className": "Warlock",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Jaegar"
+      },
+      {
+        "name": "Rosic",
+        "className": "Witch",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Rosic"
+      }
+    ]
+  },
+  {
+    "name": "Navigation",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Navigation",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Navigation_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Navigation_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Navigation_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Navigation_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Navigation_large.png"
+    },
+    "effects": {
+      "basic": "increases your hero's movement points at sea by 50%.",
+      "advanced": "increases your hero's movement points at sea by 100%.",
+      "expert": "increases your hero's movement points at sea by 150%."
+    },
+    "startingHeroes": [
+      {
+        "name": "Sylvia",
+        "className": "Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sylvia"
+      },
+      {
+        "name": "Voy",
+        "className": "Witch",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Voy"
+      },
+      {
+        "name": "Elmore",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Elmore"
+      },
+      {
+        "name": "Haugir",
+        "className": "Elder",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Haugir"
+      }
+    ]
+  },
+  {
+    "name": "Necromancy",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Necromancy",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Necromancy_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Necromancy_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Necromancy_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Necromancy_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Necromancy_large.png"
+    },
+    "effects": {
+      "basic": "of enemy creatures killed are resurrected.",
+      "advanced": "of enemy creatures killed are resurrected.",
+      "expert": "of enemy creatures killed are resurrected."
+    },
+    "startingHeroes": [
+      {
+        "name": "Isra",
+        "className": "Death Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Isra"
+      },
+      {
+        "name": "Vidomina",
+        "className": "Necromancer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Vidomina"
+      }
+    ]
+  },
+  {
+    "name": "Offense",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Offense",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Offense_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Offense_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Offense_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Offense_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Offense_large.png"
+    },
+    "effects": {
+      "basic": "increases all hand-to-hand damage inflicted by the hero's troops by 10%.",
+      "advanced": "increases all hand-to-hand damage inflicted by the hero's troops by 20%.",
+      "expert": "increases all hand-to-hand damage inflicted by the hero's troops by 30%."
+    },
+    "startingHeroes": [
+      {
+        "name": "Sorsha",
+        "className": "Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sorsha"
+      },
+      {
+        "name": "Catherine",
+        "className": "Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Catherine"
+      },
+      {
+        "name": "Ivor",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ivor"
+      },
+      {
+        "name": "Rissa",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Rissa"
+      },
+      {
+        "name": "Octavia",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Octavia"
+      },
+      {
+        "name": "Nymus",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Nymus"
+      },
+      {
+        "name": "Tamika",
+        "className": "Death Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Tamika"
+      },
+      {
+        "name": "Clavius",
+        "className": "Death Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Clavius"
+      },
+      {
+        "name": "Arlach",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Arlach"
+      },
+      {
+        "name": "Dace",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Dace"
+      },
+      {
+        "name": "Damacon",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Damacon"
+      },
+      {
+        "name": "Shakti",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shakti"
+      },
+      {
+        "name": "Kilgor",
+        "className": "Barbarian",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Kilgor"
+      },
+      {
+        "name": "Alkin",
+        "className": "Beastmaster",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Alkin"
+      },
+      {
+        "name": "Pasis",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Pasis"
+      },
+      {
+        "name": "Ignissa",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ignissa"
+      },
+      {
+        "name": "Monere",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Monere"
+      },
+      {
+        "name": "Fiur",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Fiur"
+      },
+      {
+        "name": "Jeremy",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Jeremy"
+      },
+      {
+        "name": "Derek",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Derek"
+      },
+      {
+        "name": "Anabel",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Anabel"
+      },
+      {
+        "name": "Cassiopeia",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Cassiopeia"
+      },
+      {
+        "name": "Bidley",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Bidley"
+      },
+      {
+        "name": "Tark",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Tark"
+      },
+      {
+        "name": "Sam",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sam"
+      },
+      {
+        "name": "Dury",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Dury"
+      },
+      {
+        "name": "Crag Hack",
+        "className": "Barbarian",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Crag_Hack"
+      },
+      {
+        "name": "Gundula",
+        "className": "Battle Mage",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gundula"
+      },
+      {
+        "name": "Corkes",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Corkes"
+      },
+      {
+        "name": "Tavin",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Tavin"
+      }
+    ]
+  },
+  {
+    "name": "Pathfinding",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Pathfinding",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Pathfinding_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Pathfinding_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Pathfinding_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Pathfinding_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Pathfinding_large.png"
+    },
+    "effects": {
+      "basic": "reduces the movement penalty for rough terrain, reducing the cost of moving one tile by 25 movement points to a minimum of .",
+      "advanced": "reduces the movement penalty for rough terrain, reducing the cost of moving one tile by 50 movement points to a minimum of .",
+      "expert": "removes the movement penalty for rough terrain, reducing the cost of moving one tile by 75 movement points to a minimum of ."
+    },
+    "startingHeroes": [
+      {
+        "name": "Clancy",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Clancy"
+      },
+      {
+        "name": "Gretchin",
+        "className": "Barbarian",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gretchin"
+      },
+      {
+        "name": "Korbac",
+        "className": "Beastmaster",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Korbac"
+      },
+      {
+        "name": "Corkes",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Corkes"
+      },
+      {
+        "name": "Leena",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Leena"
+      },
+      {
+        "name": "Andal",
+        "className": "Navigator",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Andal"
+      },
+      {
+        "name": "Celestine",
+        "className": "Artificer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Celestine"
+      },
+      {
+        "name": "Dhuin",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Dhuin"
+      },
+      {
+        "name": "Spadum",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spadum"
+      },
+      {
+        "name": "Ergon",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ergon"
+      }
+    ]
+  },
+  {
+    "name": "Resistance",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Resistance",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Resistance_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Resistance_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Resistance_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Resistance_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Resistance_large.png"
+    },
+    "effects": {
+      "basic": "endows a hero's troops with 5% magic resistance.",
+      "advanced": "endows a hero's troops with 10% magic resistance.",
+      "expert": "endows a hero's troops with 20% magic resistance."
+    },
+    "startingHeroes": [
+      {
+        "name": "Ufretin",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ufretin"
+      },
+      {
+        "name": "Clancy",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Clancy"
+      },
+      {
+        "name": "Fafner",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Fafner"
+      },
+      {
+        "name": "Ignatius",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ignatius"
+      },
+      {
+        "name": "Straker",
+        "className": "Death Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Straker"
+      },
+      {
+        "name": "Ajit",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ajit"
+      },
+      {
+        "name": "Krellion",
+        "className": "Barbarian",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Krellion"
+      },
+      {
+        "name": "Saurug",
+        "className": "Battle Mage",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Saurug"
+      },
+      {
+        "name": "Bron",
+        "className": "Beastmaster",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Bron"
+      },
+      {
+        "name": "Thorgrim",
+        "className": "Ranger",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Thorgrim"
+      }
+    ]
+  },
+  {
+    "name": "Runes",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Runes",
+    "hotaOnly": true,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Runes_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Runes_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Runes_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Runes_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Runes_large.png"
+    },
+    "effects": {
+      "basic": "allows the hero's units to accumulate up to 3 Rune Levels in combat. Each Rune Level gives bonuses to their creatures' stats:<p>1: +2 Attack, 2: +2 Defense, 3: +1 Speed.",
+      "advanced": "allows the hero's units to accumulate up to 6 Rune Levels in combat. Each Rune Level gives bonuses to their creatures' stats:<p>1: +2 Attack, 2: +2 Defense, 3: +1 Speed.<p>4: +2 Attack, 5: +2 Defense, 6: +1 Speed.",
+      "expert": "allows the hero's units to accumulate up to 9 Rune Levels in combat. Each Rune Level gives bonuses to their creatures' stats:<p>1: +2 Attack, 2: +2 Defense, 3: +1 Speed.<p>4: +2 Attack, 5: +2 Defense, 6: +1 Speed.<p>7: +2 Attack, 8: +2 Defense, 9: +1 Speed."
+    },
+    "startingHeroes": []
+  },
+  {
+    "name": "Scholar",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Scholar",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Scholar_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Scholar_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Scholar_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Scholar_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Scholar_large.png"
+    },
+    "effects": {
+      "basic": "allows heroes to teach each other 1st and 2nd level spells, effectively trading spells between spell books.",
+      "advanced": "allows heroes to teach each other any spell up to 3rd level, effectively trading spells between spell books.",
+      "expert": "allows heroes to teach each other any spell up to 4th level, effectively trading spells between spell books."
+    },
+    "startingHeroes": [
+      {
+        "name": "Coronius",
+        "className": "Druid",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Coronius"
+      },
+      {
+        "name": "Thane",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Thane"
+      },
+      {
+        "name": "Neela",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Neela"
+      },
+      {
+        "name": "Fafner",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Fafner"
+      },
+      {
+        "name": "Iona",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Iona"
+      },
+      {
+        "name": "Aine",
+        "className": "Wizard",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Aine"
+      },
+      {
+        "name": "Rashka",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Rashka"
+      },
+      {
+        "name": "Octavia",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Octavia"
+      },
+      {
+        "name": "Xyron",
+        "className": "Heretic",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Xyron"
+      },
+      {
+        "name": "Septienna",
+        "className": "Necromancer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Septienna"
+      },
+      {
+        "name": "Synca",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Synca"
+      },
+      {
+        "name": "Alamar",
+        "className": "Warlock",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Alamar"
+      },
+      {
+        "name": "Bertram",
+        "className": "Artificer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Bertram"
+      }
+    ]
+  },
+  {
+    "name": "Scouting",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Scouting",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Scouting_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Scouting_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Scouting_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Scouting_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Scouting_large.png"
+    },
+    "effects": {
+      "basic": "allows your hero to see 1 square further into the shroud.",
+      "advanced": "allows your hero to see squares further into the shroud.",
+      "expert": "allows your hero to see squares further into the shroud."
+    },
+    "startingHeroes": [
+      {
+        "name": "Aeris",
+        "className": "Druid",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Aeris"
+      },
+      {
+        "name": "Piquedram",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Piquedram"
+      },
+      {
+        "name": "Fiona",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Fiona"
+      },
+      {
+        "name": "Calh",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Calh"
+      },
+      {
+        "name": "Lorelei",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Lorelei"
+      },
+      {
+        "name": "Deemer",
+        "className": "Warlock",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Deemer"
+      },
+      {
+        "name": "Shiva",
+        "className": "Barbarian",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shiva"
+      },
+      {
+        "name": "Broghild",
+        "className": "Beastmaster",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Broghild"
+      },
+      {
+        "name": "Tavin",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Tavin"
+      },
+      {
+        "name": "Ergon",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ergon"
+      },
+      {
+        "name": "Beatrice",
+        "className": "Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Beatrice"
+      },
+      {
+        "name": "Miriam",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Miriam"
+      },
+      {
+        "name": "Wynona",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Wynona"
+      }
+    ]
+  },
+  {
+    "name": "Sorcery",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Sorcery",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Sorcery_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Sorcery_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Sorcery_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Sorcery_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Sorcery_large.png"
+    },
+    "effects": {
+      "basic": "causes a hero's spells to inflict an additional damage in combat.",
+      "advanced": "causes a hero's spells to inflict an additional damage in combat.",
+      "expert": "causes a hero's spells to inflict an additional damage in combat."
+    },
+    "startingHeroes": [
+      {
+        "name": "Alagar",
+        "className": "Druid",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Alagar"
+      },
+      {
+        "name": "Josephine",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Josephine"
+      },
+      {
+        "name": "Solmyr",
+        "className": "Wizard",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Solmyr"
+      },
+      {
+        "name": "Ziph",
+        "className": "Artificer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ziph"
+      },
+      {
+        "name": "Gird",
+        "className": "Battle Mage",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gird"
+      },
+      {
+        "name": "Malekith",
+        "className": "Warlock",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Malekith"
+      },
+      {
+        "name": "Sandro",
+        "className": "Necromancer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sandro"
+      },
+      {
+        "name": "Styg",
+        "className": "Witch",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Styg"
+      },
+      {
+        "name": "Zydar",
+        "className": "Heretic",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Zydar"
+      },
+      {
+        "name": "Spint",
+        "className": "Navigator",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Spint"
+      },
+      {
+        "name": "Allora",
+        "className": "Elder",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Allora"
+      }
+    ]
+  },
+  {
+    "name": "Tactics",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Tactics",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Tactics_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Tactics_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Tactics_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Tactics_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Tactics_large.png"
+    },
+    "effects": {
+      "basic": "allows the hero to rearrange their troops within 3 rows of the commanding hero before combat. It negates one level of an enemy hero’s Tactics skill.",
+      "advanced": "allows the hero to rearrange their troops within 5 rows of the commanding hero before combat. It negates two levels of an enemy hero’s Tactics skill.",
+      "expert": "allows the hero to rearrange their troops within 7 rows of the commanding hero before combat. It negates three levels of an enemy hero’s Tactics skill."
+    },
+    "startingHeroes": [
+      {
+        "name": "Boragus",
+        "className": "Barbarian",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Boragus"
+      },
+      {
+        "name": "Charna",
+        "className": "Death Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Charna"
+      },
+      {
+        "name": "Dace",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Dace"
+      },
+      {
+        "name": "Erdamon",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Erdamon"
+      },
+      {
+        "name": "Gunnar",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gunnar"
+      },
+      {
+        "name": "Ignatius",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ignatius"
+      },
+      {
+        "name": "Kalt",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Kalt"
+      },
+      {
+        "name": "Lacus",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Lacus"
+      },
+      {
+        "name": "Mutare",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Mutare"
+      },
+      {
+        "name": "Mutare Drake",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Mutare_Drake"
+      },
+      {
+        "name": "Shakti",
+        "className": "Overlord",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Shakti"
+      },
+      {
+        "name": "Terek",
+        "className": "Battle Mage",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Terek"
+      },
+      {
+        "name": "Thunar",
+        "className": "Planeswalker",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Thunar"
+      },
+      {
+        "name": "Torosar",
+        "className": "Alchemist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Torosar"
+      },
+      {
+        "name": "Tyraxor",
+        "className": "Barbarian",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Tyraxor"
+      },
+      {
+        "name": "Tyris",
+        "className": "Knight",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Tyris"
+      },
+      {
+        "name": "Xeron",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Xeron"
+      },
+      {
+        "name": "Cassiopeia",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Cassiopeia"
+      },
+      {
+        "name": "Dargem",
+        "className": "Navigator",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Dargem"
+      },
+      {
+        "name": "Illor",
+        "className": "Captain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Illor"
+      },
+      {
+        "name": "Sam",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Sam"
+      },
+      {
+        "name": "Murdoch",
+        "className": "Mercenary",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Murdoch"
+      },
+      {
+        "name": "Todd",
+        "className": "Artificer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Todd"
+      },
+      {
+        "name": "Kynr",
+        "className": "Chieftain",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Kynr"
+      }
+    ]
+  },
+  {
+    "name": "Water Magic",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Water_Magic",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Water_Magic_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Water_Magic_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Water_Magic_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Water_Magic_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Water_Magic_large.png"
+    },
+    "effects": {
+      "basic": "allows your hero to cast water spells at reduced cost.",
+      "advanced": "allows your hero to cast water spells at reduced cost and increased effectiveness.",
+      "expert": "allows your hero to cast water spells at reduced cost and maximum effectiveness."
+    },
+    "startingHeroes": [
+      {
+        "name": "Ciele",
+        "className": "Elementalist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Ciele"
+      },
+      {
+        "name": "Gelare",
+        "className": "Elementalist",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Gelare"
+      },
+      {
+        "name": "Casmetra",
+        "className": "Navigator",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Casmetra"
+      }
+    ]
+  },
+  {
+    "name": "Wisdom",
+    "pageUrl": "https://heroes.thelazy.net/index.php/Wisdom",
+    "hotaOnly": false,
+    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Wisdom_small.png",
+    "iconUrls": {
+      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Wisdom_small.png",
+      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Wisdom_large.png",
+      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Wisdom_large.png",
+      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Wisdom_large.png"
+    },
+    "effects": {
+      "basic": "allows your hero to learn third level spells.",
+      "advanced": "allows your hero to learn fourth level spells.",
+      "expert": "allows your hero to learn fifth level spells."
+    },
+    "startingHeroes": [
+      {
+        "name": "Aislinn",
+        "className": "Necromancer",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Aislinn"
+      },
+      {
+        "name": "Rashka",
+        "className": "Demoniac",
+        "pageUrl": "https://heroes.thelazy.net/index.php/Rashka"
+      }
+    ]
+  }
+]
