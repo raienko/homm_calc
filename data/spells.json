@@ -3,7 +3,7 @@
     "name": "Magic Arrow",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Magic_Arrow",
-    "iconUrl": "https://heroes.thelazy.net/images/f/f5/Magic_Arrow_small.png",
+    "iconUrl": "game-assets/wiki/f/f5/Magic_Arrow_small.png",
     "school": {
       "name": "All"
     },
@@ -37,7 +37,7 @@
       {
         "name": "Faerie Dragon",
         "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
-        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+        "iconUrl": "game-assets/wiki/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
       }
     ]
   },
@@ -45,11 +45,11 @@
     "name": "Lightning Bolt",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Lightning_Bolt",
-    "iconUrl": "https://heroes.thelazy.net/images/8/8d/Lightning_Bolt_small.png",
+    "iconUrl": "game-assets/wiki/8/8d/Lightning_Bolt_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -81,12 +81,12 @@
       {
         "name": "Faerie Dragon",
         "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
-        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+        "iconUrl": "game-assets/wiki/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
       },
       {
         "name": "Thunderbird",
         "pageUrl": "https://heroes.thelazy.net/index.php/Thunderbird",
-        "iconUrl": "https://heroes.thelazy.net/images/7/7b/Mini_Portrait_Thunderbird.png"
+        "iconUrl": "game-assets/wiki/7/7b/Mini_Portrait_Thunderbird.png"
       }
     ]
   },
@@ -94,11 +94,11 @@
     "name": "Destroy Undead",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Destroy_Undead",
-    "iconUrl": "https://heroes.thelazy.net/images/6/6a/Destroy_Undead_small.png",
+    "iconUrl": "game-assets/wiki/6/6a/Destroy_Undead_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -139,11 +139,11 @@
     "name": "Chain Lightning",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Chain_Lightning",
-    "iconUrl": "https://heroes.thelazy.net/images/7/7e/Chain_Lightning_small.png",
+    "iconUrl": "game-assets/wiki/7/7e/Chain_Lightning_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -176,7 +176,7 @@
       {
         "name": "Faerie Dragon",
         "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
-        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+        "iconUrl": "game-assets/wiki/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
       }
     ]
   },
@@ -184,11 +184,11 @@
     "name": "Titan's Lightning Bolt",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Lightning_Bolt",
-    "iconUrl": "https://heroes.thelazy.net/images/8/87/Titan%27s_Lightning_Bolt_small.png",
+    "iconUrl": "game-assets/wiki/8/87/Titan%27s_Lightning_Bolt_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 5,
     "cost": {
@@ -228,11 +228,11 @@
     "name": "Death Ripple",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Death_Ripple",
-    "iconUrl": "https://heroes.thelazy.net/images/f/fe/Death_Ripple_small.png",
+    "iconUrl": "game-assets/wiki/f/fe/Death_Ripple_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -273,11 +273,11 @@
     "name": "Meteor Shower",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Meteor_Shower",
-    "iconUrl": "https://heroes.thelazy.net/images/5/58/Meteor_Shower_small.png",
+    "iconUrl": "game-assets/wiki/5/58/Meteor_Shower_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -309,7 +309,7 @@
       {
         "name": "Faerie Dragon",
         "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
-        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+        "iconUrl": "game-assets/wiki/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
       }
     ]
   },
@@ -317,11 +317,11 @@
     "name": "Implosion",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Implosion",
-    "iconUrl": "https://heroes.thelazy.net/images/5/56/Implosion_small.png",
+    "iconUrl": "game-assets/wiki/5/56/Implosion_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 5,
     "cost": {
@@ -355,11 +355,11 @@
     "name": "Fire Wall",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Fire_Wall",
-    "iconUrl": "https://heroes.thelazy.net/images/c/cc/Fire_Wall_small.png",
+    "iconUrl": "game-assets/wiki/c/cc/Fire_Wall_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -394,11 +394,11 @@
     "name": "Fireball",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Fireball",
-    "iconUrl": "https://heroes.thelazy.net/images/f/f0/Fireball_small.png",
+    "iconUrl": "game-assets/wiki/f/f0/Fireball_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -430,7 +430,7 @@
       {
         "name": "Faerie Dragon",
         "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
-        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+        "iconUrl": "game-assets/wiki/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
       }
     ]
   },
@@ -438,11 +438,11 @@
     "name": "Land Mine",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Land_Mine",
-    "iconUrl": "https://heroes.thelazy.net/images/6/68/Land_Mine_small.png",
+    "iconUrl": "game-assets/wiki/6/68/Land_Mine_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -477,11 +477,11 @@
     "name": "Armageddon",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Armageddon",
-    "iconUrl": "https://heroes.thelazy.net/images/1/1a/Armageddon_small.png",
+    "iconUrl": "game-assets/wiki/1/1a/Armageddon_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -516,11 +516,11 @@
     "name": "Inferno",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Inferno_(spell)",
-    "iconUrl": "https://heroes.thelazy.net/images/6/62/Inferno_small.png",
+    "iconUrl": "game-assets/wiki/6/62/Inferno_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -552,7 +552,7 @@
       {
         "name": "Faerie Dragon",
         "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
-        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+        "iconUrl": "game-assets/wiki/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
       }
     ]
   },
@@ -560,11 +560,11 @@
     "name": "Ice Bolt",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Ice_Bolt",
-    "iconUrl": "https://heroes.thelazy.net/images/a/a3/Ice_Bolt_small.png",
+    "iconUrl": "game-assets/wiki/a/a3/Ice_Bolt_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -596,7 +596,7 @@
       {
         "name": "Faerie Dragon",
         "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
-        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+        "iconUrl": "game-assets/wiki/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
       }
     ]
   },
@@ -604,11 +604,11 @@
     "name": "Frost Ring",
     "category": "Combat Damage Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Frost_Ring",
-    "iconUrl": "https://heroes.thelazy.net/images/f/f6/Frost_Ring_small.png",
+    "iconUrl": "game-assets/wiki/f/f6/Frost_Ring_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -641,7 +641,7 @@
       {
         "name": "Faerie Dragon",
         "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
-        "iconUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+        "iconUrl": "game-assets/wiki/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
       }
     ]
   },
@@ -649,11 +649,11 @@
     "name": "Haste",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Haste",
-    "iconUrl": "https://heroes.thelazy.net/images/b/b6/Haste_small.png",
+    "iconUrl": "game-assets/wiki/b/b6/Haste_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -675,24 +675,24 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       },
       {
         "name": "Enchanter",
         "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
-        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+        "iconUrl": "game-assets/wiki/d/d8/Mini_Portrait_Enchanter.png"
       }
     ],
     "artifactCasters": [
       {
         "name": "Ironfist of the Ogre",
         "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre",
-        "iconUrl": "https://heroes.thelazy.net/images/4/4f/Ironfist_of_the_Ogre_am-artif.gif"
+        "iconUrl": "game-assets/wiki/4/4f/Ironfist_of_the_Ogre_am-artif.gif"
       },
       {
         "name": "Horn of the Abyss",
         "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+        "iconUrl": "game-assets/wiki/c/ce/HotA.png"
       }
     ]
   },
@@ -700,11 +700,11 @@
     "name": "Disrupting Ray",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Disrupting_Ray",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d2/Disrupting_Ray_small.png",
+    "iconUrl": "game-assets/wiki/d/d2/Disrupting_Ray_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -726,17 +726,17 @@
       {
         "name": "Sea Witch",
         "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Witch_and_Sorceress",
-        "iconUrl": "https://heroes.thelazy.net/images/5/5d/Mini_Portrait_Sea_Witch.png"
+        "iconUrl": "game-assets/wiki/5/5d/Mini_Portrait_Sea_Witch.png"
       },
       {
         "name": "Sorceress",
         "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Witch_and_Sorceress",
-        "iconUrl": "https://heroes.thelazy.net/images/e/e2/Mini_Portrait_Sorceress.png"
+        "iconUrl": "game-assets/wiki/e/e2/Mini_Portrait_Sorceress.png"
       },
       {
         "name": "Horn of the Abyss",
         "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+        "iconUrl": "game-assets/wiki/c/ce/HotA.png"
       }
     ],
     "artifactCasters": []
@@ -745,11 +745,11 @@
     "name": "Fortune",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Fortune",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d3/Fortune_small.png",
+    "iconUrl": "game-assets/wiki/d/d3/Fortune_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -771,17 +771,17 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       },
       {
         "name": "Leprechaun",
         "pageUrl": "https://heroes.thelazy.net/index.php/Leprechaun",
-        "iconUrl": "https://heroes.thelazy.net/images/5/52/Mini_Portrait_Leprechaun.png"
+        "iconUrl": "game-assets/wiki/5/52/Mini_Portrait_Leprechaun.png"
       },
       {
         "name": "Horn of the Abyss",
         "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+        "iconUrl": "game-assets/wiki/c/ce/HotA.png"
       }
     ],
     "artifactCasters": []
@@ -790,11 +790,11 @@
     "name": "Precision",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Precision",
-    "iconUrl": "https://heroes.thelazy.net/images/a/a7/Precision_small.png",
+    "iconUrl": "game-assets/wiki/a/a7/Precision_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -816,7 +816,7 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       }
     ],
     "artifactCasters": []
@@ -825,11 +825,11 @@
     "name": "Protection from Air",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Protection_from_Air",
-    "iconUrl": "https://heroes.thelazy.net/images/1/11/Protection_from_Air_small.png",
+    "iconUrl": "game-assets/wiki/1/11/Protection_from_Air_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -855,12 +855,12 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       },
       {
         "name": "Storm Elemental",
         "pageUrl": "https://heroes.thelazy.net/index.php/Storm_Elemental",
-        "iconUrl": "https://heroes.thelazy.net/images/0/00/Mini_Portrait_Storm_Elemental.png"
+        "iconUrl": "game-assets/wiki/0/00/Mini_Portrait_Storm_Elemental.png"
       }
     ],
     "artifactCasters": []
@@ -869,11 +869,11 @@
     "name": "Air Shield",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Air_Shield",
-    "iconUrl": "https://heroes.thelazy.net/images/e/e1/Air_Shield_small.png",
+    "iconUrl": "game-assets/wiki/e/e1/Air_Shield_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -895,27 +895,27 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       },
       {
         "name": "Shaman",
         "pageUrl": "https://heroes.thelazy.net/index.php/Shaman_and_Great_Shaman",
-        "iconUrl": "https://heroes.thelazy.net/images/3/39/Mini_Portrait_Shaman.png"
+        "iconUrl": "game-assets/wiki/3/39/Mini_Portrait_Shaman.png"
       },
       {
         "name": "Great Shaman",
         "pageUrl": "https://heroes.thelazy.net/index.php/Shaman_and_Great_Shaman",
-        "iconUrl": "https://heroes.thelazy.net/images/a/a7/Mini_Portrait_Great_Shaman.png"
+        "iconUrl": "game-assets/wiki/a/a7/Mini_Portrait_Great_Shaman.png"
       },
       {
         "name": "Horn of the Abyss",
         "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+        "iconUrl": "game-assets/wiki/c/ce/HotA.png"
       },
       {
         "name": "Enchanter",
         "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
-        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+        "iconUrl": "game-assets/wiki/d/d8/Mini_Portrait_Enchanter.png"
       }
     ],
     "artifactCasters": []
@@ -924,11 +924,11 @@
     "name": "Hypnotize",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Hypnotize",
-    "iconUrl": "https://heroes.thelazy.net/images/7/75/Hypnotize_small.png",
+    "iconUrl": "game-assets/wiki/7/75/Hypnotize_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -944,12 +944,12 @@
       {
         "name": "Fangarm",
         "pageUrl": "https://heroes.thelazy.net/index.php/Fangarm",
-        "iconUrl": "https://heroes.thelazy.net/images/3/3d/Mini_Portrait_Fangarm.png"
+        "iconUrl": "game-assets/wiki/3/3d/Mini_Portrait_Fangarm.png"
       },
       {
         "name": "Horn of the Abyss",
         "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+        "iconUrl": "game-assets/wiki/c/ce/HotA.png"
       }
     ],
     "artifactCasters": []
@@ -958,11 +958,11 @@
     "name": "Counterstrike",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Counterstrike",
-    "iconUrl": "https://heroes.thelazy.net/images/5/53/Counterstrike_small.png",
+    "iconUrl": "game-assets/wiki/5/53/Counterstrike_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -984,19 +984,19 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       }
     ],
     "artifactCasters": [
       {
         "name": "Ironfist of the Ogre",
         "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre",
-        "iconUrl": "https://heroes.thelazy.net/images/4/4f/Ironfist_of_the_Ogre_am-artif.gif"
+        "iconUrl": "game-assets/wiki/4/4f/Ironfist_of_the_Ogre_am-artif.gif"
       },
       {
         "name": "Horn of the Abyss",
         "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+        "iconUrl": "game-assets/wiki/c/ce/HotA.png"
       }
     ]
   },
@@ -1004,11 +1004,11 @@
     "name": "Magic Mirror",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Magic_Mirror",
-    "iconUrl": "https://heroes.thelazy.net/images/1/10/Magic_Mirror_small.png",
+    "iconUrl": "game-assets/wiki/1/10/Magic_Mirror_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 5,
     "cost": {
@@ -1024,7 +1024,7 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       }
     ],
     "artifactCasters": []
@@ -1033,11 +1033,11 @@
     "name": "Summon Air Elemental",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Summon_Air_Elemental",
-    "iconUrl": "https://heroes.thelazy.net/images/a/a8/Summon_Air_Elemental_small.png",
+    "iconUrl": "game-assets/wiki/a/a8/Summon_Air_Elemental_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 5,
     "cost": {
@@ -1062,11 +1062,11 @@
     "name": "Shield",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Shield",
-    "iconUrl": "https://heroes.thelazy.net/images/b/b0/Shield_small.png",
+    "iconUrl": "game-assets/wiki/b/b0/Shield_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -1082,7 +1082,7 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       }
     ],
     "artifactCasters": []
@@ -1091,11 +1091,11 @@
     "name": "Slow",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Slow",
-    "iconUrl": "https://heroes.thelazy.net/images/2/2e/Slow_small.png",
+    "iconUrl": "game-assets/wiki/2/2e/Slow_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -1125,14 +1125,14 @@
       {
         "name": "Enchanter",
         "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
-        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+        "iconUrl": "game-assets/wiki/d/d8/Mini_Portrait_Enchanter.png"
       }
     ],
     "artifactCasters": [
       {
         "name": "Armor of the Damned",
         "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned",
-        "iconUrl": "https://heroes.thelazy.net/images/c/c4/Armor_of_the_Damned_am-artif.gif"
+        "iconUrl": "game-assets/wiki/c/c4/Armor_of_the_Damned_am-artif.gif"
       }
     ]
   },
@@ -1140,11 +1140,11 @@
     "name": "Stone Skin",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Stone_Skin",
-    "iconUrl": "https://heroes.thelazy.net/images/5/55/Stone_Skin_small.png",
+    "iconUrl": "game-assets/wiki/5/55/Stone_Skin_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -1166,12 +1166,12 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       },
       {
         "name": "Enchanter",
         "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
-        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+        "iconUrl": "game-assets/wiki/d/d8/Mini_Portrait_Enchanter.png"
       }
     ],
     "artifactCasters": []
@@ -1180,11 +1180,11 @@
     "name": "Quicksand",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Quicksand",
-    "iconUrl": "https://heroes.thelazy.net/images/3/32/Quicksand_small.png",
+    "iconUrl": "game-assets/wiki/3/32/Quicksand_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -1203,11 +1203,11 @@
     "name": "Animate Dead",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Animate_Dead",
-    "iconUrl": "https://heroes.thelazy.net/images/5/55/Animate_Dead_small.png",
+    "iconUrl": "game-assets/wiki/5/55/Animate_Dead_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -1232,11 +1232,11 @@
     "name": "Anti-Magic",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Anti-Magic",
-    "iconUrl": "https://heroes.thelazy.net/images/c/cd/Anti-Magic_small.png",
+    "iconUrl": "game-assets/wiki/c/cd/Anti-Magic_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -1252,7 +1252,7 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       }
     ],
     "artifactCasters": []
@@ -1261,11 +1261,11 @@
     "name": "Earthquake",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Earthquake",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d5/Earthquake_small.png",
+    "iconUrl": "game-assets/wiki/d/d5/Earthquake_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -1290,11 +1290,11 @@
     "name": "Force Field",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Force_Field",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d3/Force_Field_small.png",
+    "iconUrl": "game-assets/wiki/d/d3/Force_Field_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -1313,11 +1313,11 @@
     "name": "Protection from Earth",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Protection_from_Earth",
-    "iconUrl": "https://heroes.thelazy.net/images/9/97/Protection_from_Earth_small.png",
+    "iconUrl": "game-assets/wiki/9/97/Protection_from_Earth_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -1343,12 +1343,12 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       },
       {
         "name": "Magma Elemental",
         "pageUrl": "https://heroes.thelazy.net/index.php/Magma_Elemental",
-        "iconUrl": "https://heroes.thelazy.net/images/b/bc/Mini_Portrait_Magma_Elemental.png"
+        "iconUrl": "game-assets/wiki/b/bc/Mini_Portrait_Magma_Elemental.png"
       }
     ],
     "artifactCasters": []
@@ -1357,11 +1357,11 @@
     "name": "Resurrection",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Resurrection",
-    "iconUrl": "https://heroes.thelazy.net/images/a/aa/Resurrection_small.png",
+    "iconUrl": "game-assets/wiki/a/aa/Resurrection_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -1383,7 +1383,7 @@
       {
         "name": "Archangel",
         "pageUrl": "https://heroes.thelazy.net/index.php/Archangel",
-        "iconUrl": "https://heroes.thelazy.net/images/c/c2/Mini_Portrait_Archangel.png"
+        "iconUrl": "game-assets/wiki/c/c2/Mini_Portrait_Archangel.png"
       }
     ],
     "artifactCasters": []
@@ -1392,11 +1392,11 @@
     "name": "Sorrow",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Sorrow",
-    "iconUrl": "https://heroes.thelazy.net/images/f/f0/Sorrow_small.png",
+    "iconUrl": "game-assets/wiki/f/f0/Sorrow_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -1421,11 +1421,11 @@
     "name": "Summon Earth Elemental",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Summon_Earth_Elemental",
-    "iconUrl": "https://heroes.thelazy.net/images/6/6e/Summon_Earth_Elemental_small.png",
+    "iconUrl": "game-assets/wiki/6/6e/Summon_Earth_Elemental_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 5,
     "cost": {
@@ -1458,11 +1458,11 @@
     "name": "Bloodlust",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Bloodlust",
-    "iconUrl": "https://heroes.thelazy.net/images/2/21/Bloodlust_small.png",
+    "iconUrl": "game-assets/wiki/2/21/Bloodlust_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -1484,29 +1484,29 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       },
       {
         "name": "Ogre Mage",
         "pageUrl": "https://heroes.thelazy.net/index.php/Ogre_Mage",
-        "iconUrl": "https://heroes.thelazy.net/images/c/c1/Mini_Portrait_Ogre_Mage.png"
+        "iconUrl": "game-assets/wiki/c/c1/Mini_Portrait_Ogre_Mage.png"
       },
       {
         "name": "Enchanter",
         "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
-        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+        "iconUrl": "game-assets/wiki/d/d8/Mini_Portrait_Enchanter.png"
       }
     ],
     "artifactCasters": [
       {
         "name": "Ironfist of the Ogre",
         "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre",
-        "iconUrl": "https://heroes.thelazy.net/images/4/4f/Ironfist_of_the_Ogre_am-artif.gif"
+        "iconUrl": "game-assets/wiki/4/4f/Ironfist_of_the_Ogre_am-artif.gif"
       },
       {
         "name": "Horn of the Abyss",
         "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+        "iconUrl": "game-assets/wiki/c/ce/HotA.png"
       }
     ]
   },
@@ -1514,11 +1514,11 @@
     "name": "Curse",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Curse",
-    "iconUrl": "https://heroes.thelazy.net/images/c/ca/Curse_small.png",
+    "iconUrl": "game-assets/wiki/c/ca/Curse_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -1534,24 +1534,24 @@
       {
         "name": "Black Knight",
         "pageUrl": "https://heroes.thelazy.net/index.php/Black_Knight",
-        "iconUrl": "https://heroes.thelazy.net/images/8/84/Mini_Portrait_Black_Knight.png"
+        "iconUrl": "game-assets/wiki/8/84/Mini_Portrait_Black_Knight.png"
       },
       {
         "name": "Dread Knight",
         "pageUrl": "https://heroes.thelazy.net/index.php/Dread_Knight",
-        "iconUrl": "https://heroes.thelazy.net/images/d/d1/Mini_Portrait_Dread_Knight.png"
+        "iconUrl": "game-assets/wiki/d/d1/Mini_Portrait_Dread_Knight.png"
       },
       {
         "name": "Mummy",
         "pageUrl": "https://heroes.thelazy.net/index.php/Mummy",
-        "iconUrl": "https://heroes.thelazy.net/images/e/e6/Mini_Portrait_Mummy.png"
+        "iconUrl": "game-assets/wiki/e/e6/Mini_Portrait_Mummy.png"
       }
     ],
     "artifactCasters": [
       {
         "name": "Armor of the Damned",
         "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned",
-        "iconUrl": "https://heroes.thelazy.net/images/c/c4/Armor_of_the_Damned_am-artif.gif"
+        "iconUrl": "game-assets/wiki/c/c4/Armor_of_the_Damned_am-artif.gif"
       }
     ]
   },
@@ -1559,11 +1559,11 @@
     "name": "Protection from Fire",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Protection_from_Fire",
-    "iconUrl": "https://heroes.thelazy.net/images/f/fe/Protection_from_Fire_small.png",
+    "iconUrl": "game-assets/wiki/f/fe/Protection_from_Fire_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -1589,12 +1589,12 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       },
       {
         "name": "Energy Elemental",
         "pageUrl": "https://heroes.thelazy.net/index.php/Energy_Elemental",
-        "iconUrl": "https://heroes.thelazy.net/images/7/7a/Mini_Portrait_Energy_Elemental.png"
+        "iconUrl": "game-assets/wiki/7/7a/Mini_Portrait_Energy_Elemental.png"
       }
     ],
     "artifactCasters": []
@@ -1603,11 +1603,11 @@
     "name": "Blind",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Blind",
-    "iconUrl": "https://heroes.thelazy.net/images/c/c4/Blind_small.png",
+    "iconUrl": "game-assets/wiki/c/c4/Blind_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -1629,12 +1629,12 @@
       {
         "name": "Unicorn",
         "pageUrl": "https://heroes.thelazy.net/index.php/Unicorn",
-        "iconUrl": "https://heroes.thelazy.net/images/f/f1/Mini_Portrait_Unicorn.png"
+        "iconUrl": "game-assets/wiki/f/f1/Mini_Portrait_Unicorn.png"
       },
       {
         "name": "War Unicorn",
         "pageUrl": "https://heroes.thelazy.net/index.php/War_Unicorn",
-        "iconUrl": "https://heroes.thelazy.net/images/9/95/Mini_Portrait_War_Unicorn.png"
+        "iconUrl": "game-assets/wiki/9/95/Mini_Portrait_War_Unicorn.png"
       }
     ],
     "artifactCasters": []
@@ -1643,11 +1643,11 @@
     "name": "Misfortune",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Misfortune",
-    "iconUrl": "https://heroes.thelazy.net/images/8/8d/Misfortune_small.png",
+    "iconUrl": "game-assets/wiki/8/8d/Misfortune_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -1670,7 +1670,7 @@
       {
         "name": "Armor of the Damned",
         "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned",
-        "iconUrl": "https://heroes.thelazy.net/images/c/c4/Armor_of_the_Damned_am-artif.gif"
+        "iconUrl": "game-assets/wiki/c/c4/Armor_of_the_Damned_am-artif.gif"
       }
     ]
   },
@@ -1678,11 +1678,11 @@
     "name": "Berserk",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Berserk",
-    "iconUrl": "https://heroes.thelazy.net/images/0/04/Berserk_small.png",
+    "iconUrl": "game-assets/wiki/0/04/Berserk_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -1701,11 +1701,11 @@
     "name": "Fire Shield",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Fire_Shield",
-    "iconUrl": "https://heroes.thelazy.net/images/e/e0/Fire_Shield_small.png",
+    "iconUrl": "game-assets/wiki/e/e0/Fire_Shield_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -1721,19 +1721,19 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       }
     ],
     "artifactCasters": [
       {
         "name": "Ironfist of the Ogre",
         "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre",
-        "iconUrl": "https://heroes.thelazy.net/images/4/4f/Ironfist_of_the_Ogre_am-artif.gif"
+        "iconUrl": "game-assets/wiki/4/4f/Ironfist_of_the_Ogre_am-artif.gif"
       },
       {
         "name": "Horn of the Abyss",
         "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+        "iconUrl": "game-assets/wiki/c/ce/HotA.png"
       }
     ]
   },
@@ -1741,11 +1741,11 @@
     "name": "Frenzy",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Frenzy",
-    "iconUrl": "https://heroes.thelazy.net/images/4/4b/Frenzy_small.png",
+    "iconUrl": "game-assets/wiki/4/4b/Frenzy_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -1771,7 +1771,7 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       }
     ],
     "artifactCasters": []
@@ -1780,11 +1780,11 @@
     "name": "Slayer",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Slayer",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d5/Slayer_small.png",
+    "iconUrl": "game-assets/wiki/d/d5/Slayer_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -1810,7 +1810,7 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       }
     ],
     "artifactCasters": []
@@ -1819,11 +1819,11 @@
     "name": "Sacrifice",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Sacrifice",
-    "iconUrl": "https://heroes.thelazy.net/images/7/70/Sacrifice_small.png",
+    "iconUrl": "game-assets/wiki/7/70/Sacrifice_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 5,
     "cost": {
@@ -1848,11 +1848,11 @@
     "name": "Summon Fire Elemental",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Summon_Fire_Elemental",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d8/Summon_Fire_Elemental_small.png",
+    "iconUrl": "game-assets/wiki/d/d8/Summon_Fire_Elemental_small.png",
     "school": {
       "name": "Fire",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/9/9a/School_of_Fire_Magic.gif/71px-School_of_Fire_Magic.gif"
     },
     "level": 5,
     "cost": {
@@ -1885,11 +1885,11 @@
     "name": "Bless",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Bless",
-    "iconUrl": "https://heroes.thelazy.net/images/4/4e/Bless_small.png",
+    "iconUrl": "game-assets/wiki/4/4e/Bless_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -1905,12 +1905,12 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       },
       {
         "name": "Enchanter",
         "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
-        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+        "iconUrl": "game-assets/wiki/d/d8/Mini_Portrait_Enchanter.png"
       }
     ],
     "artifactCasters": []
@@ -1919,11 +1919,11 @@
     "name": "Cure",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Cure",
-    "iconUrl": "https://heroes.thelazy.net/images/4/4f/Cure_small.png",
+    "iconUrl": "game-assets/wiki/4/4f/Cure_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -1939,12 +1939,12 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       },
       {
         "name": "Enchanter",
         "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
-        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+        "iconUrl": "game-assets/wiki/d/d8/Mini_Portrait_Enchanter.png"
       }
     ],
     "artifactCasters": []
@@ -1953,11 +1953,11 @@
     "name": "Dispel",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Dispel",
-    "iconUrl": "https://heroes.thelazy.net/images/3/3d/Dispel_small.png",
+    "iconUrl": "game-assets/wiki/3/3d/Dispel_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -1976,11 +1976,11 @@
     "name": "Protection from Water",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Protection_from_Water",
-    "iconUrl": "https://heroes.thelazy.net/images/4/45/Protection_from_Water_small.png",
+    "iconUrl": "game-assets/wiki/4/45/Protection_from_Water_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -2006,12 +2006,12 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       },
       {
         "name": "Ice Elemental",
         "pageUrl": "https://heroes.thelazy.net/index.php/Ice_Elemental",
-        "iconUrl": "https://heroes.thelazy.net/images/5/56/Mini_Portrait_Ice_Elemental.png"
+        "iconUrl": "game-assets/wiki/5/56/Mini_Portrait_Ice_Elemental.png"
       }
     ],
     "artifactCasters": []
@@ -2020,11 +2020,11 @@
     "name": "Remove Obstacle",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Remove_Obstacle",
-    "iconUrl": "https://heroes.thelazy.net/images/0/00/Remove_Obstacle_small.png",
+    "iconUrl": "game-assets/wiki/0/00/Remove_Obstacle_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -2043,11 +2043,11 @@
     "name": "Weakness",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Weakness",
-    "iconUrl": "https://heroes.thelazy.net/images/2/2a/Weakness_small.png",
+    "iconUrl": "game-assets/wiki/2/2a/Weakness_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -2069,29 +2069,29 @@
       {
         "name": "Sea Witch",
         "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Witch_and_Sorceress",
-        "iconUrl": "https://heroes.thelazy.net/images/5/5d/Mini_Portrait_Sea_Witch.png"
+        "iconUrl": "game-assets/wiki/5/5d/Mini_Portrait_Sea_Witch.png"
       },
       {
         "name": "Sorceress",
         "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Witch_and_Sorceress",
-        "iconUrl": "https://heroes.thelazy.net/images/e/e2/Mini_Portrait_Sorceress.png"
+        "iconUrl": "game-assets/wiki/e/e2/Mini_Portrait_Sorceress.png"
       },
       {
         "name": "Horn of the Abyss",
         "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+        "iconUrl": "game-assets/wiki/c/ce/HotA.png"
       },
       {
         "name": "Enchanter",
         "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
-        "iconUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+        "iconUrl": "game-assets/wiki/d/d8/Mini_Portrait_Enchanter.png"
       }
     ],
     "artifactCasters": [
       {
         "name": "Armor of the Damned",
         "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned",
-        "iconUrl": "https://heroes.thelazy.net/images/c/c4/Armor_of_the_Damned_am-artif.gif"
+        "iconUrl": "game-assets/wiki/c/c4/Armor_of_the_Damned_am-artif.gif"
       }
     ]
   },
@@ -2099,11 +2099,11 @@
     "name": "Forgetfulness",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Forgetfulness",
-    "iconUrl": "https://heroes.thelazy.net/images/4/4c/Forgetfulness_small.png",
+    "iconUrl": "game-assets/wiki/4/4c/Forgetfulness_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -2122,11 +2122,11 @@
     "name": "Mirth",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Mirth",
-    "iconUrl": "https://heroes.thelazy.net/images/6/63/Mirth_small.png",
+    "iconUrl": "game-assets/wiki/6/63/Mirth_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -2148,17 +2148,17 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       },
       {
         "name": "Satyr",
         "pageUrl": "https://heroes.thelazy.net/index.php/Satyr",
-        "iconUrl": "https://heroes.thelazy.net/images/6/6f/Mini_Portrait_Satyr.png"
+        "iconUrl": "game-assets/wiki/6/6f/Mini_Portrait_Satyr.png"
       },
       {
         "name": "Horn of the Abyss",
         "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+        "iconUrl": "game-assets/wiki/c/ce/HotA.png"
       }
     ],
     "artifactCasters": []
@@ -2167,11 +2167,11 @@
     "name": "Teleport",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Teleport",
-    "iconUrl": "https://heroes.thelazy.net/images/9/9b/Teleport_small.png",
+    "iconUrl": "game-assets/wiki/9/9b/Teleport_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 3,
     "cost": {
@@ -2189,17 +2189,17 @@
       {
         "name": "Jotunn",
         "pageUrl": "https://heroes.thelazy.net/index.php/Jotunn_and_Jotunn_Warlord",
-        "iconUrl": "https://heroes.thelazy.net/images/4/4b/Mini_Portrait_Jotunn.png"
+        "iconUrl": "game-assets/wiki/4/4b/Mini_Portrait_Jotunn.png"
       },
       {
         "name": "Jotunn Warlord",
         "pageUrl": "https://heroes.thelazy.net/index.php/Jotunn_and_Jotunn_Warlord",
-        "iconUrl": "https://heroes.thelazy.net/images/8/8e/Mini_Portrait_Jotunn_Warlord.png"
+        "iconUrl": "game-assets/wiki/8/8e/Mini_Portrait_Jotunn_Warlord.png"
       },
       {
         "name": "Horn of the Abyss",
         "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-        "iconUrl": "https://heroes.thelazy.net/images/c/ce/HotA.png"
+        "iconUrl": "game-assets/wiki/c/ce/HotA.png"
       }
     ],
     "artifactCasters": []
@@ -2208,11 +2208,11 @@
     "name": "Clone",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Clone",
-    "iconUrl": "https://heroes.thelazy.net/images/a/a0/Clone_small.png",
+    "iconUrl": "game-assets/wiki/a/a0/Clone_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -2231,11 +2231,11 @@
     "name": "Prayer",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Prayer",
-    "iconUrl": "https://heroes.thelazy.net/images/f/f7/Prayer_small.png",
+    "iconUrl": "game-assets/wiki/f/f7/Prayer_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -2265,14 +2265,14 @@
       {
         "name": "Master Genie",
         "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-        "iconUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+        "iconUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
       }
     ],
     "artifactCasters": [
       {
         "name": "Angelic Alliance",
         "pageUrl": "https://heroes.thelazy.net/index.php/Angelic_Alliance",
-        "iconUrl": "https://heroes.thelazy.net/images/c/c3/Angelic_Alliance_am-artif.gif"
+        "iconUrl": "game-assets/wiki/c/c3/Angelic_Alliance_am-artif.gif"
       }
     ]
   },
@@ -2280,11 +2280,11 @@
     "name": "Summon Water Elemental",
     "category": "Combat Utility Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Summon_Water_Elemental",
-    "iconUrl": "https://heroes.thelazy.net/images/c/cf/Summon_Water_Elemental_small.png",
+    "iconUrl": "game-assets/wiki/c/cf/Summon_Water_Elemental_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 5,
     "cost": {
@@ -2309,7 +2309,7 @@
     "name": "Visions",
     "category": "Adventure Map Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Visions",
-    "iconUrl": "https://heroes.thelazy.net/images/b/b6/Visions_small.png",
+    "iconUrl": "game-assets/wiki/b/b6/Visions_small.png",
     "school": {
       "name": "All"
     },
@@ -2329,11 +2329,11 @@
     "name": "View Air",
     "category": "Adventure Map Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/View_Air",
-    "iconUrl": "https://heroes.thelazy.net/images/c/cd/View_Air_small.png",
+    "iconUrl": "game-assets/wiki/c/cd/View_Air_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -2351,11 +2351,11 @@
     "name": "Disguise",
     "category": "Adventure Map Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Disguise",
-    "iconUrl": "https://heroes.thelazy.net/images/a/ab/Disguise_small.png",
+    "iconUrl": "game-assets/wiki/a/ab/Disguise_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -2373,11 +2373,11 @@
     "name": "Dimension Door",
     "category": "Adventure Map Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Dimension_Door",
-    "iconUrl": "https://heroes.thelazy.net/images/9/96/Dimension_Door_small.png",
+    "iconUrl": "game-assets/wiki/9/96/Dimension_Door_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 5,
     "cost": {
@@ -2401,11 +2401,11 @@
     "name": "Fly",
     "category": "Adventure Map Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Fly",
-    "iconUrl": "https://heroes.thelazy.net/images/9/97/Fly_small.png",
+    "iconUrl": "game-assets/wiki/9/97/Fly_small.png",
     "school": {
       "name": "Air",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Air_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/3/3b/School_of_Air_Magic.gif/71px-School_of_Air_Magic.gif"
     },
     "level": 5,
     "cost": {
@@ -2423,11 +2423,11 @@
     "name": "View Earth",
     "category": "Adventure Map Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/View_Earth",
-    "iconUrl": "https://heroes.thelazy.net/images/c/c2/View_Earth_small.png",
+    "iconUrl": "game-assets/wiki/c/c2/View_Earth_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -2445,11 +2445,11 @@
     "name": "Town Portal",
     "category": "Adventure Map Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Town_Portal",
-    "iconUrl": "https://heroes.thelazy.net/images/0/0f/Town_Portal_small.png",
+    "iconUrl": "game-assets/wiki/0/0f/Town_Portal_small.png",
     "school": {
       "name": "Earth",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/5/55/School_of_Earth_Magic.gif/71px-School_of_Earth_Magic.gif"
     },
     "level": 4,
     "cost": {
@@ -2477,11 +2477,11 @@
     "name": "Summon Boat",
     "category": "Adventure Map Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Summon_Boat",
-    "iconUrl": "https://heroes.thelazy.net/images/3/36/Summon_Boat_small.png",
+    "iconUrl": "game-assets/wiki/3/36/Summon_Boat_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 1,
     "cost": {
@@ -2499,11 +2499,11 @@
     "name": "Scuttle Boat",
     "category": "Adventure Map Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Scuttle_Boat",
-    "iconUrl": "https://heroes.thelazy.net/images/a/a0/Scuttle_Boat_small.png",
+    "iconUrl": "game-assets/wiki/a/a0/Scuttle_Boat_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 2,
     "cost": {
@@ -2521,11 +2521,11 @@
     "name": "Water Walk",
     "category": "Adventure Map Spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Water_Walk",
-    "iconUrl": "https://heroes.thelazy.net/images/f/f2/Water_Walk_small.png",
+    "iconUrl": "game-assets/wiki/f/f2/Water_Walk_small.png",
     "school": {
       "name": "Water",
       "pageUrl": "https://heroes.thelazy.net/index.php/School_of_Water_Magic",
-      "iconUrl": "https://heroes.thelazy.net/images/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
+      "iconUrl": "game-assets/wiki/thumb/6/69/School_of_Water_Magic.gif/71px-School_of_Water_Magic.gif"
     },
     "level": 4,
     "cost": {

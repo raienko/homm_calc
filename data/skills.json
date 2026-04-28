@@ -3,12 +3,12 @@
     "name": "Air Magic",
     "pageUrl": "https://heroes.thelazy.net/index.php/Air_Magic",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Air_Magic_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Air_Magic_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Air_Magic_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Air_Magic_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Air_Magic_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Air_Magic_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Air_Magic_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Air_Magic_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Air_Magic_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Air_Magic_large.png"
     },
     "effects": {
       "basic": "allows your hero to cast air spells at reduced cost.",
@@ -32,12 +32,12 @@
     "name": "Archery",
     "pageUrl": "https://heroes.thelazy.net/index.php/Archery",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Archery_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Archery_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Archery_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Archery_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Archery_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Archery_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Archery_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Archery_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Archery_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Archery_large.png"
     },
     "effects": {
       "basic": "increases the damage done by range attacking creatures by 10%.",
@@ -131,12 +131,12 @@
     "name": "Armorer",
     "pageUrl": "https://heroes.thelazy.net/index.php/Armorer",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Armorer_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Armorer_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Armorer_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Armorer_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Armorer_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Armorer_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Armorer_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Armorer_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Armorer_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Armorer_large.png"
     },
     "effects": {
       "basic": "reduces all damage inflicted against the hero's troops by 5%.",
@@ -220,12 +220,12 @@
     "name": "Artillery",
     "pageUrl": "https://heroes.thelazy.net/index.php/Artillery",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Artillery_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Artillery_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Artillery_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Artillery_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Artillery_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Artillery_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Artillery_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Artillery_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Artillery_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Artillery_large.png"
     },
     "effects": {
       "basic": "",
@@ -304,12 +304,12 @@
     "name": "Ballistics",
     "pageUrl": "https://heroes.thelazy.net/index.php/Ballistics",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Ballistics_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Ballistics_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Ballistics_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Ballistics_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Ballistics_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Ballistics_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Ballistics_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Ballistics_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Ballistics_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Ballistics_large.png"
     },
     "effects": {
       "basic": "",
@@ -348,12 +348,12 @@
     "name": "Diplomacy",
     "pageUrl": "https://heroes.thelazy.net/index.php/Diplomacy",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Diplomacy_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Diplomacy_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Diplomacy_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Diplomacy_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Diplomacy_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Diplomacy_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Diplomacy_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Diplomacy_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Diplomacy_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Diplomacy_large.png"
     },
     "effects": {
       "basic": "Improves the chances that wandering monsters flee/negotiate/join, and reduces the cost of surrendering by 20%.",
@@ -392,12 +392,12 @@
     "name": "Eagle Eye",
     "pageUrl": "https://heroes.thelazy.net/index.php/Eagle_Eye",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Eagle_Eye_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Eagle_Eye_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Eagle_Eye_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Eagle_Eye_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Eagle_Eye_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Eagle_Eye_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Eagle_Eye_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Eagle_Eye_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Eagle_Eye_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Eagle_Eye_large.png"
     },
     "effects": {
       "basic": "",
@@ -456,12 +456,12 @@
     "name": "Earth Magic",
     "pageUrl": "https://heroes.thelazy.net/index.php/Earth_Magic",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Earth_Magic_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Earth_Magic_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Earth_Magic_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Earth_Magic_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Earth_Magic_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Earth_Magic_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Earth_Magic_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Earth_Magic_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Earth_Magic_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Earth_Magic_large.png"
     },
     "effects": {
       "basic": "allows your hero to cast earth spells at reduced cost.",
@@ -485,12 +485,12 @@
     "name": "Estates",
     "pageUrl": "https://heroes.thelazy.net/index.php/Estates",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Estates_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Estates_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Estates_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Estates_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Estates_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Estates_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Estates_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Estates_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Estates_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Estates_large.png"
     },
     "effects": {
       "basic": "a hero contributes gold per day to your cause.",
@@ -549,12 +549,12 @@
     "name": "Fire Magic",
     "pageUrl": "https://heroes.thelazy.net/index.php/Fire_Magic",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Fire_Magic_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Fire_Magic_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Fire_Magic_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Fire_Magic_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Fire_Magic_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Fire_Magic_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Fire_Magic_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Fire_Magic_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Fire_Magic_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Fire_Magic_large.png"
     },
     "effects": {
       "basic": "allows your hero to cast fire spells at reduced cost.",
@@ -588,12 +588,12 @@
     "name": "First Aid",
     "pageUrl": "https://heroes.thelazy.net/index.php/First_Aid",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_First_Aid_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_First_Aid_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_First_Aid_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_First_Aid_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_First_Aid_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_First_Aid_large.png"
+      "small": "game-assets/wiki/redirect/Expert_First_Aid_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_First_Aid_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_First_Aid_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_First_Aid_large.png"
     },
     "effects": {
       "basic": "",
@@ -632,12 +632,12 @@
     "name": "Intelligence",
     "pageUrl": "https://heroes.thelazy.net/index.php/Intelligence",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Intelligence_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Intelligence_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Intelligence_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Intelligence_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Intelligence_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Intelligence_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Intelligence_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Intelligence_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Intelligence_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Intelligence_large.png"
     },
     "effects": {
       "basic": "increases a hero's normal maximum spell points by .",
@@ -711,12 +711,12 @@
     "name": "Interference",
     "pageUrl": "https://heroes.thelazy.net/index.php/Interference",
     "hotaOnly": true,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Interference_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Interference_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Interference_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Interference_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Interference_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Interference_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Interference_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Interference_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Interference_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Interference_large.png"
     },
     "effects": {
       "basic": "lowers the power skill of the enemy hero by 10% in combat.",
@@ -785,12 +785,12 @@
     "name": "Leadership",
     "pageUrl": "https://heroes.thelazy.net/index.php/Leadership",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Leadership_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Leadership_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Leadership_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Leadership_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Leadership_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Leadership_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Leadership_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Leadership_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Leadership_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Leadership_large.png"
     },
     "effects": {
       "basic": "increases your hero's troops' morale by 1.",
@@ -879,12 +879,12 @@
     "name": "Learning",
     "pageUrl": "https://heroes.thelazy.net/index.php/Learning",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Learning_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Learning_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Learning_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Learning_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Learning_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Learning_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Learning_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Learning_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Learning_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Learning_large.png"
     },
     "effects": {
       "basic": "increases the hero’s earned experience points by . .}}",
@@ -948,12 +948,12 @@
     "name": "Logistics",
     "pageUrl": "https://heroes.thelazy.net/index.php/Logistics",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Logistics_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Logistics_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Logistics_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Logistics_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Logistics_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Logistics_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Logistics_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Logistics_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Logistics_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Logistics_large.png"
     },
     "effects": {
       "basic": "increases your hero's movement points over land by .",
@@ -1002,12 +1002,12 @@
     "name": "Luck",
     "pageUrl": "https://heroes.thelazy.net/index.php/Luck_(secondary_skill)",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Luck_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Luck_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Luck_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Luck_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Luck_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Luck_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Luck_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Luck_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Luck_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Luck_large.png"
     },
     "effects": {
       "basic": "increases your hero's luck by 1.",
@@ -1041,12 +1041,12 @@
     "name": "Mysticism",
     "pageUrl": "https://heroes.thelazy.net/index.php/Mysticism",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Mysticism_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Mysticism_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Mysticism_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Mysticism_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Mysticism_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Mysticism_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Mysticism_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Mysticism_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Mysticism_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Mysticism_large.png"
     },
     "effects": {
       "basic": "",
@@ -1115,12 +1115,12 @@
     "name": "Navigation",
     "pageUrl": "https://heroes.thelazy.net/index.php/Navigation",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Navigation_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Navigation_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Navigation_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Navigation_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Navigation_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Navigation_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Navigation_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Navigation_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Navigation_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Navigation_large.png"
     },
     "effects": {
       "basic": "increases your hero's movement points at sea by 50%.",
@@ -1154,12 +1154,12 @@
     "name": "Necromancy",
     "pageUrl": "https://heroes.thelazy.net/index.php/Necromancy",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Necromancy_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Necromancy_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Necromancy_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Necromancy_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Necromancy_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Necromancy_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Necromancy_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Necromancy_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Necromancy_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Necromancy_large.png"
     },
     "effects": {
       "basic": "of enemy creatures killed are resurrected.",
@@ -1183,12 +1183,12 @@
     "name": "Offense",
     "pageUrl": "https://heroes.thelazy.net/index.php/Offense",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Offense_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Offense_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Offense_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Offense_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Offense_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Offense_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Offense_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Offense_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Offense_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Offense_large.png"
     },
     "effects": {
       "basic": "increases all hand-to-hand damage inflicted by the hero's troops by 10%.",
@@ -1352,12 +1352,12 @@
     "name": "Pathfinding",
     "pageUrl": "https://heroes.thelazy.net/index.php/Pathfinding",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Pathfinding_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Pathfinding_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Pathfinding_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Pathfinding_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Pathfinding_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Pathfinding_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Pathfinding_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Pathfinding_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Pathfinding_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Pathfinding_large.png"
     },
     "effects": {
       "basic": "reduces the movement penalty for rough terrain, reducing the cost of moving one tile by 25 movement points to a minimum of .",
@@ -1421,12 +1421,12 @@
     "name": "Resistance",
     "pageUrl": "https://heroes.thelazy.net/index.php/Resistance",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Resistance_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Resistance_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Resistance_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Resistance_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Resistance_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Resistance_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Resistance_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Resistance_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Resistance_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Resistance_large.png"
     },
     "effects": {
       "basic": "endows a hero's troops with 5% magic resistance.",
@@ -1490,12 +1490,12 @@
     "name": "Runes",
     "pageUrl": "https://heroes.thelazy.net/index.php/Runes",
     "hotaOnly": true,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Runes_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Runes_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Runes_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Runes_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Runes_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Runes_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Runes_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Runes_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Runes_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Runes_large.png"
     },
     "effects": {
       "basic": "allows the hero's units to accumulate up to 3 Rune Levels in combat. Each Rune Level gives bonuses to their creatures' stats:<p>1: +2 Attack, 2: +2 Defense, 3: +1 Speed.",
@@ -1508,12 +1508,12 @@
     "name": "Scholar",
     "pageUrl": "https://heroes.thelazy.net/index.php/Scholar",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Scholar_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Scholar_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Scholar_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Scholar_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Scholar_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Scholar_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Scholar_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Scholar_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Scholar_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Scholar_large.png"
     },
     "effects": {
       "basic": "allows heroes to teach each other 1st and 2nd level spells, effectively trading spells between spell books.",
@@ -1592,12 +1592,12 @@
     "name": "Scouting",
     "pageUrl": "https://heroes.thelazy.net/index.php/Scouting",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Scouting_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Scouting_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Scouting_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Scouting_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Scouting_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Scouting_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Scouting_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Scouting_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Scouting_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Scouting_large.png"
     },
     "effects": {
       "basic": "allows your hero to see 1 square further into the shroud.",
@@ -1676,12 +1676,12 @@
     "name": "Sorcery",
     "pageUrl": "https://heroes.thelazy.net/index.php/Sorcery",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Sorcery_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Sorcery_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Sorcery_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Sorcery_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Sorcery_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Sorcery_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Sorcery_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Sorcery_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Sorcery_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Sorcery_large.png"
     },
     "effects": {
       "basic": "causes a hero's spells to inflict an additional damage in combat.",
@@ -1750,12 +1750,12 @@
     "name": "Tactics",
     "pageUrl": "https://heroes.thelazy.net/index.php/Tactics",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Tactics_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Tactics_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Tactics_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Tactics_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Tactics_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Tactics_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Tactics_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Tactics_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Tactics_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Tactics_large.png"
     },
     "effects": {
       "basic": "allows the hero to rearrange their troops within 3 rows of the commanding hero before combat. It negates one level of an enemy hero’s Tactics skill.",
@@ -1889,12 +1889,12 @@
     "name": "Water Magic",
     "pageUrl": "https://heroes.thelazy.net/index.php/Water_Magic",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Water_Magic_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Water_Magic_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Water_Magic_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Water_Magic_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Water_Magic_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Water_Magic_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Water_Magic_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Water_Magic_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Water_Magic_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Water_Magic_large.png"
     },
     "effects": {
       "basic": "allows your hero to cast water spells at reduced cost.",
@@ -1923,12 +1923,12 @@
     "name": "Wisdom",
     "pageUrl": "https://heroes.thelazy.net/index.php/Wisdom",
     "hotaOnly": false,
-    "iconUrl": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Wisdom_small.png",
+    "iconUrl": "game-assets/wiki/redirect/Expert_Wisdom_small.png",
     "iconUrls": {
-      "small": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Wisdom_small.png",
-      "basic": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Basic_Wisdom_large.png",
-      "advanced": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Advanced_Wisdom_large.png",
-      "expert": "https://heroes.thelazy.net/index.php?title=Special:Redirect/file/Expert_Wisdom_large.png"
+      "small": "game-assets/wiki/redirect/Expert_Wisdom_small.png",
+      "basic": "game-assets/wiki/redirect/Basic_Wisdom_large.png",
+      "advanced": "game-assets/wiki/redirect/Advanced_Wisdom_large.png",
+      "expert": "game-assets/wiki/redirect/Expert_Wisdom_large.png"
     },
     "effects": {
       "basic": "allows your hero to learn third level spells.",

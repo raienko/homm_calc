@@ -5,7 +5,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Weapon",
     "class": "Treasure",
@@ -22,7 +22,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Centaur%27s_Axe",
-    "iconUrl": "https://heroes.thelazy.net/images/3/36/Artifact_Centaur%27s_Axe.gif"
+    "iconUrl": "game-assets/wiki/3/36/Artifact_Centaur%27s_Axe.gif"
   },
   {
     "name": "Blackshard of the Dead Knight",
@@ -30,7 +30,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Weapon",
     "class": "Minor",
@@ -52,7 +52,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Blackshard_of_the_Dead_Knight",
-    "iconUrl": "https://heroes.thelazy.net/images/a/aa/Artifact_Blackshard_of_the_Dead_Knight.gif"
+    "iconUrl": "game-assets/wiki/a/aa/Artifact_Blackshard_of_the_Dead_Knight.gif"
   },
   {
     "name": "Greater Gnoll's Flail",
@@ -60,7 +60,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Weapon",
     "class": "Minor",
@@ -77,7 +77,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Greater_Gnoll%27s_Flail",
-    "iconUrl": "https://heroes.thelazy.net/images/f/f9/Artifact_Greater_Gnoll%27s_Flail.gif"
+    "iconUrl": "game-assets/wiki/f/f9/Artifact_Greater_Gnoll%27s_Flail.gif"
   },
   {
     "name": "Ogre's Club of Havoc",
@@ -85,7 +85,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Weapon",
     "class": "Major",
@@ -111,7 +111,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Ogre%27s_Club_of_Havoc",
-    "iconUrl": "https://heroes.thelazy.net/images/0/0d/Artifact_Ogre%27s_Club_of_Havoc.gif"
+    "iconUrl": "game-assets/wiki/0/0d/Artifact_Ogre%27s_Club_of_Havoc.gif"
   },
   {
     "name": "Sword of Hellfire",
@@ -119,7 +119,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Weapon",
     "class": "Major",
@@ -136,7 +136,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Sword_of_Hellfire",
-    "iconUrl": "https://heroes.thelazy.net/images/5/53/Artifact_Sword_of_Hellfire.gif"
+    "iconUrl": "game-assets/wiki/5/53/Artifact_Sword_of_Hellfire.gif"
   },
   {
     "name": "Trident of Dominion",
@@ -144,7 +144,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Weapon",
     "class": "Major",
@@ -161,7 +161,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Trident_of_Dominion",
-    "iconUrl": "https://heroes.thelazy.net/images/3/3b/Artifact_Trident_of_Dominion.gif"
+    "iconUrl": "game-assets/wiki/3/3b/Artifact_Trident_of_Dominion.gif"
   },
   {
     "name": "Red Dragon Flame Tongue",
@@ -169,7 +169,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Weapon",
     "class": "Minor",
@@ -195,7 +195,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Red_Dragon_Flame_Tongue",
-    "iconUrl": "https://heroes.thelazy.net/images/c/c9/Artifact_Red_Dragon_Flame_Tongue.gif"
+    "iconUrl": "game-assets/wiki/c/c9/Artifact_Red_Dragon_Flame_Tongue.gif"
   },
   {
     "name": "Titan's Gladius",
@@ -203,7 +203,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Weapon",
     "class": "Relic",
@@ -229,7 +229,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Gladius",
-    "iconUrl": "https://heroes.thelazy.net/images/e/e5/Artifact_Titan%27s_Gladius.gif"
+    "iconUrl": "game-assets/wiki/e/e5/Artifact_Titan%27s_Gladius.gif"
   },
   {
     "name": "Sword of Judgement",
@@ -237,7 +237,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Weapon",
     "class": "Relic",
@@ -271,7 +271,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Sword_of_Judgement",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d6/Artifact_Sword_of_Judgement.gif"
+    "iconUrl": "game-assets/wiki/d/d6/Artifact_Sword_of_Judgement.gif"
   },
   {
     "name": "Armageddon's Blade",
@@ -279,7 +279,7 @@
       "order": 2,
       "name": "Armageddon's Blade",
       "pageUrl": "https://heroes.thelazy.net/index.php/Armageddon%27s_Blade",
-      "iconUrl": "https://heroes.thelazy.net/images/c/ca/Armageddon%27s_Blade_map_icon.png"
+      "iconUrl": "game-assets/wiki/c/ca/Armageddon%27s_Blade_map_icon.png"
     },
     "slot": "Weapon",
     "class": "Relic",
@@ -312,7 +312,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Armageddon%27s_Blade",
-    "iconUrl": "https://heroes.thelazy.net/images/4/4d/Artifact_Armageddon%27s_Blade.gif"
+    "iconUrl": "game-assets/wiki/4/4d/Artifact_Armageddon%27s_Blade.gif"
   },
   {
     "name": "Ironfist of the Ogre",
@@ -320,7 +320,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -365,7 +365,7 @@
     "combination": "Weapon/Shield/Helm/Torso",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Ironfist_of_the_Ogre",
-    "iconUrl": "https://heroes.thelazy.net/images/a/ae/Artifact_Ironfist_of_the_Ogre.gif"
+    "iconUrl": "game-assets/wiki/a/ae/Artifact_Ironfist_of_the_Ogre.gif"
   },
   {
     "name": "Titan's Thunder",
@@ -373,7 +373,7 @@
       "order": 3,
       "name": "Shadow of Death",
       "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
-      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+      "iconUrl": "game-assets/wiki/1/12/Shadow_of_Death_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -410,7 +410,7 @@
     "combination": "Weapon/Helm/Torso/Shield",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Thunder",
-    "iconUrl": "https://heroes.thelazy.net/images/6/64/Artifact_Titan%27s_Thunder.gif"
+    "iconUrl": "game-assets/wiki/6/64/Artifact_Titan%27s_Thunder.gif"
   },
   {
     "name": "Angelic Alliance",
@@ -418,7 +418,7 @@
       "order": 3,
       "name": "Shadow of Death",
       "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
-      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+      "iconUrl": "game-assets/wiki/1/12/Shadow_of_Death_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -467,7 +467,7 @@
     "combination": "Weapon/Torso/Necklace/Helm/Shield/Feet",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Angelic_Alliance",
-    "iconUrl": "https://heroes.thelazy.net/images/9/98/Artifact_Angelic_Alliance.gif"
+    "iconUrl": "game-assets/wiki/9/98/Artifact_Angelic_Alliance.gif"
   },
   {
     "name": "Shield of the Dwarven Lords",
@@ -475,7 +475,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Shield",
     "class": "Treasure",
@@ -492,7 +492,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Shield_of_the_Dwarven_Lords",
-    "iconUrl": "https://heroes.thelazy.net/images/4/4c/Artifact_Shield_of_the_Dwarven_Lords.gif"
+    "iconUrl": "game-assets/wiki/4/4c/Artifact_Shield_of_the_Dwarven_Lords.gif"
   },
   {
     "name": "Shield of the Yawning Dead",
@@ -500,7 +500,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Shield",
     "class": "Minor",
@@ -522,7 +522,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Shield_of_the_Yawning_Dead",
-    "iconUrl": "https://heroes.thelazy.net/images/8/80/Artifact_Shield_of_the_Yawning_Dead.gif"
+    "iconUrl": "game-assets/wiki/8/80/Artifact_Shield_of_the_Yawning_Dead.gif"
   },
   {
     "name": "Buckler of the Gnoll King",
@@ -530,7 +530,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Shield",
     "class": "Minor",
@@ -547,7 +547,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Buckler_of_the_Gnoll_King",
-    "iconUrl": "https://heroes.thelazy.net/images/e/eb/Artifact_Buckler_of_the_Gnoll_King.gif"
+    "iconUrl": "game-assets/wiki/e/eb/Artifact_Buckler_of_the_Gnoll_King.gif"
   },
   {
     "name": "Targ of the Rampaging Ogre",
@@ -555,7 +555,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Shield",
     "class": "Major",
@@ -581,7 +581,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Targ_of_the_Rampaging_Ogre",
-    "iconUrl": "https://heroes.thelazy.net/images/b/b7/Artifact_Targ_of_the_Rampaging_Ogre.gif"
+    "iconUrl": "game-assets/wiki/b/b7/Artifact_Targ_of_the_Rampaging_Ogre.gif"
   },
   {
     "name": "Shield of the Damned",
@@ -589,7 +589,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Shield",
     "class": "Major",
@@ -606,7 +606,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Shield_of_the_Damned",
-    "iconUrl": "https://heroes.thelazy.net/images/b/b3/Artifact_Shield_of_the_Damned.gif"
+    "iconUrl": "game-assets/wiki/b/b3/Artifact_Shield_of_the_Damned.gif"
   },
   {
     "name": "Shield of Naval Glory",
@@ -614,7 +614,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Shield",
     "class": "Major",
@@ -631,7 +631,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Shield_of_Naval_Glory",
-    "iconUrl": "https://heroes.thelazy.net/images/b/b7/Artifact_Shield_of_Naval_Glory.gif"
+    "iconUrl": "game-assets/wiki/b/b7/Artifact_Shield_of_Naval_Glory.gif"
   },
   {
     "name": "Dragon Scale Shield",
@@ -639,7 +639,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Shield",
     "class": "Major",
@@ -665,7 +665,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Dragon_Scale_Shield",
-    "iconUrl": "https://heroes.thelazy.net/images/9/97/Artifact_Dragon_Scale_Shield.gif"
+    "iconUrl": "game-assets/wiki/9/97/Artifact_Dragon_Scale_Shield.gif"
   },
   {
     "name": "Lion's Shield of Courage",
@@ -673,7 +673,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Shield",
     "class": "Relic",
@@ -707,7 +707,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Lion%27s_Shield_of_Courage",
-    "iconUrl": "https://heroes.thelazy.net/images/3/31/Artifact_Lion%27s_Shield_of_Courage.gif"
+    "iconUrl": "game-assets/wiki/3/31/Artifact_Lion%27s_Shield_of_Courage.gif"
   },
   {
     "name": "Sentinel's Shield",
@@ -715,7 +715,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Shield",
     "class": "Relic",
@@ -741,7 +741,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Sentinel%27s_Shield",
-    "iconUrl": "https://heroes.thelazy.net/images/c/c0/Artifact_Sentinel%27s_Shield.gif"
+    "iconUrl": "game-assets/wiki/c/c0/Artifact_Sentinel%27s_Shield.gif"
   },
   {
     "name": "Breastplate of Petrified Wood",
@@ -749,7 +749,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Torso",
     "class": "Treasure",
@@ -766,7 +766,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Breastplate_of_Petrified_Wood",
-    "iconUrl": "https://heroes.thelazy.net/images/0/0d/Artifact_Breastplate_of_Petrified_Wood.gif"
+    "iconUrl": "game-assets/wiki/0/0d/Artifact_Breastplate_of_Petrified_Wood.gif"
   },
   {
     "name": "Rib Cage",
@@ -774,7 +774,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Torso",
     "class": "Minor",
@@ -796,7 +796,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Rib_Cage",
-    "iconUrl": "https://heroes.thelazy.net/images/2/2f/Artifact_Rib_Cage.gif"
+    "iconUrl": "game-assets/wiki/2/2f/Artifact_Rib_Cage.gif"
   },
   {
     "name": "Scales of the Greater Basilisk",
@@ -804,7 +804,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Torso",
     "class": "Minor",
@@ -821,7 +821,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Scales_of_the_Greater_Basilisk",
-    "iconUrl": "https://heroes.thelazy.net/images/0/0e/Artifact_Scales_of_the_Greater_Basilisk.gif"
+    "iconUrl": "game-assets/wiki/0/0e/Artifact_Scales_of_the_Greater_Basilisk.gif"
   },
   {
     "name": "Tunic of the Cyclops King",
@@ -829,7 +829,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Torso",
     "class": "Major",
@@ -855,7 +855,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Tunic_of_the_Cyclops_King",
-    "iconUrl": "https://heroes.thelazy.net/images/a/a4/Artifact_Tunic_of_the_Cyclops_King.gif"
+    "iconUrl": "game-assets/wiki/a/a4/Artifact_Tunic_of_the_Cyclops_King.gif"
   },
   {
     "name": "Breastplate of Brimstone",
@@ -863,7 +863,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Torso",
     "class": "Major",
@@ -880,7 +880,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Breastplate_of_Brimstone",
-    "iconUrl": "https://heroes.thelazy.net/images/f/fb/Artifact_Breastplate_of_Brimstone.gif"
+    "iconUrl": "game-assets/wiki/f/fb/Artifact_Breastplate_of_Brimstone.gif"
   },
   {
     "name": "Royal Armor of Nix",
@@ -888,7 +888,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Torso",
     "class": "Major",
@@ -905,7 +905,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Royal_Armor_of_Nix",
-    "iconUrl": "https://heroes.thelazy.net/images/5/54/Artifact_Royal_Armor_of_Nix.gif"
+    "iconUrl": "game-assets/wiki/5/54/Artifact_Royal_Armor_of_Nix.gif"
   },
   {
     "name": "Armor of Wonder",
@@ -913,7 +913,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Torso",
     "class": "Minor",
@@ -947,7 +947,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_Wonder",
-    "iconUrl": "https://heroes.thelazy.net/images/a/ab/Artifact_Armor_of_Wonder.gif"
+    "iconUrl": "game-assets/wiki/a/ab/Artifact_Armor_of_Wonder.gif"
   },
   {
     "name": "Plate of Dying Light",
@@ -955,7 +955,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Torso",
     "class": "Relic",
@@ -972,7 +972,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Plate_of_Dying_Light",
-    "iconUrl": "https://heroes.thelazy.net/images/5/5b/Artifact_Plate_of_Dying_Light.gif"
+    "iconUrl": "game-assets/wiki/5/5b/Artifact_Plate_of_Dying_Light.gif"
   },
   {
     "name": "Dragon Scale Armor",
@@ -980,7 +980,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Torso",
     "class": "Relic",
@@ -1006,7 +1006,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Dragon_Scale_Armor",
-    "iconUrl": "https://heroes.thelazy.net/images/b/b9/Artifact_Dragon_Scale_Armor.gif"
+    "iconUrl": "game-assets/wiki/b/b9/Artifact_Dragon_Scale_Armor.gif"
   },
   {
     "name": "Titan's Cuirass",
@@ -1014,7 +1014,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Torso",
     "class": "Relic",
@@ -1040,7 +1040,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Titan%27s_Cuirass",
-    "iconUrl": "https://heroes.thelazy.net/images/4/48/Artifact_Titan%27s_Cuirass.gif"
+    "iconUrl": "game-assets/wiki/4/48/Artifact_Titan%27s_Cuirass.gif"
   },
   {
     "name": "Armor of the Damned",
@@ -1048,7 +1048,7 @@
       "order": 3,
       "name": "Shadow of Death",
       "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
-      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+      "iconUrl": "game-assets/wiki/1/12/Shadow_of_Death_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -1093,7 +1093,7 @@
     "combination": "Torso/Weapon/Shield/Helmet",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Armor_of_the_Damned",
-    "iconUrl": "https://heroes.thelazy.net/images/1/1e/Artifact_Armor_of_the_Damned.gif"
+    "iconUrl": "game-assets/wiki/1/1e/Artifact_Armor_of_the_Damned.gif"
   },
   {
     "name": "Power of the Dragon Father",
@@ -1101,7 +1101,7 @@
       "order": 3,
       "name": "Shadow of Death",
       "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
-      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+      "iconUrl": "game-assets/wiki/1/12/Shadow_of_Death_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -1142,7 +1142,7 @@
     "combination": "Torso/All non-miscellaneous slots",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Power_of_the_Dragon_Father",
-    "iconUrl": "https://heroes.thelazy.net/images/c/c3/Artifact_Power_of_the_Dragon_Father.gif"
+    "iconUrl": "game-assets/wiki/c/c3/Artifact_Power_of_the_Dragon_Father.gif"
   },
   {
     "name": "Helm of the Alabaster Unicorn",
@@ -1150,7 +1150,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Helmet",
     "class": "Treasure",
@@ -1167,7 +1167,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Helm_of_the_Alabaster_Unicorn",
-    "iconUrl": "https://heroes.thelazy.net/images/8/87/Artifact_Helm_of_the_Alabaster_Unicorn.gif"
+    "iconUrl": "game-assets/wiki/8/87/Artifact_Helm_of_the_Alabaster_Unicorn.gif"
   },
   {
     "name": "Skull Helmet",
@@ -1175,7 +1175,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Helmet",
     "class": "Treasure",
@@ -1197,7 +1197,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Skull_Helmet",
-    "iconUrl": "https://heroes.thelazy.net/images/8/8d/Artifact_Skull_Helmet.gif"
+    "iconUrl": "game-assets/wiki/8/8d/Artifact_Skull_Helmet.gif"
   },
   {
     "name": "Helm of Chaos",
@@ -1205,7 +1205,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Helmet",
     "class": "Minor",
@@ -1222,7 +1222,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Helm_of_Chaos",
-    "iconUrl": "https://heroes.thelazy.net/images/0/0c/Artifact_Helm_of_Chaos.gif"
+    "iconUrl": "game-assets/wiki/0/0c/Artifact_Helm_of_Chaos.gif"
   },
   {
     "name": "Crown of the Supreme Magi",
@@ -1230,7 +1230,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Helmet",
     "class": "Minor",
@@ -1256,7 +1256,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Crown_of_the_Supreme_Magi",
-    "iconUrl": "https://heroes.thelazy.net/images/a/a3/Artifact_Crown_of_the_Supreme_Magi.gif"
+    "iconUrl": "game-assets/wiki/a/a3/Artifact_Crown_of_the_Supreme_Magi.gif"
   },
   {
     "name": "Hellstorm Helmet",
@@ -1264,7 +1264,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Helmet",
     "class": "Major",
@@ -1281,7 +1281,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Hellstorm_Helmet",
-    "iconUrl": "https://heroes.thelazy.net/images/c/c1/Artifact_Hellstorm_Helmet.gif"
+    "iconUrl": "game-assets/wiki/c/c1/Artifact_Hellstorm_Helmet.gif"
   },
   {
     "name": "Crown of the Five Seas",
@@ -1289,7 +1289,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Helmet",
     "class": "Major",
@@ -1306,7 +1306,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Crown_of_the_Five_Seas",
-    "iconUrl": "https://heroes.thelazy.net/images/d/da/Artifact_Crown_of_the_Five_Seas.gif"
+    "iconUrl": "game-assets/wiki/d/da/Artifact_Crown_of_the_Five_Seas.gif"
   },
   {
     "name": "Crown of Dragontooth",
@@ -1314,7 +1314,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Helmet",
     "class": "Relic",
@@ -1340,7 +1340,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Crown_of_Dragontooth",
-    "iconUrl": "https://heroes.thelazy.net/images/b/b7/Artifact_Crown_of_Dragontooth.gif"
+    "iconUrl": "game-assets/wiki/b/b7/Artifact_Crown_of_Dragontooth.gif"
   },
   {
     "name": "Thunder Helmet",
@@ -1348,7 +1348,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Helmet",
     "class": "Relic",
@@ -1374,7 +1374,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Thunder_Helmet",
-    "iconUrl": "https://heroes.thelazy.net/images/2/24/Artifact_Thunder_Helmet.gif"
+    "iconUrl": "game-assets/wiki/2/24/Artifact_Thunder_Helmet.gif"
   },
   {
     "name": "Sea Captain's Hat",
@@ -1382,7 +1382,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Helmet",
     "class": "Relic",
@@ -1416,7 +1416,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Captain%27s_Hat",
-    "iconUrl": "https://heroes.thelazy.net/images/1/1e/Artifact_Sea_Captain%27s_Hat.gif"
+    "iconUrl": "game-assets/wiki/1/1e/Artifact_Sea_Captain%27s_Hat.gif"
   },
   {
     "name": "Helm of Heavenly Enlightenment",
@@ -1424,7 +1424,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Helmet",
     "class": "Relic",
@@ -1458,7 +1458,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Helm_of_Heavenly_Enlightenment",
-    "iconUrl": "https://heroes.thelazy.net/images/a/a2/Artifact_Helm_of_Heavenly_Enlightenment.gif"
+    "iconUrl": "game-assets/wiki/a/a2/Artifact_Helm_of_Heavenly_Enlightenment.gif"
   },
   {
     "name": "Spellbinder's Hat",
@@ -1466,7 +1466,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Helmet",
     "class": "Relic",
@@ -1483,7 +1483,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Spellbinder%27s_Hat",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d1/Artifact_Spellbinder%27s_Hat.gif"
+    "iconUrl": "game-assets/wiki/d/d1/Artifact_Spellbinder%27s_Hat.gif"
   },
   {
     "name": "Admiral's Hat",
@@ -1491,7 +1491,7 @@
       "order": 3,
       "name": "Shadow of Death",
       "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
-      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+      "iconUrl": "game-assets/wiki/1/12/Shadow_of_Death_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -1524,7 +1524,7 @@
     "combination": "Helmet/Necklace",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Admiral%27s_Hat",
-    "iconUrl": "https://heroes.thelazy.net/images/6/66/Artifact_Admiral%27s_Hat.gif"
+    "iconUrl": "game-assets/wiki/6/66/Artifact_Admiral%27s_Hat.gif"
   },
   {
     "name": "Dragonbone Greaves",
@@ -1532,7 +1532,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Feet",
     "class": "Treasure",
@@ -1558,7 +1558,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Dragonbone_Greaves",
-    "iconUrl": "https://heroes.thelazy.net/images/f/fa/Artifact_Dragonbone_Greaves.gif"
+    "iconUrl": "game-assets/wiki/f/fa/Artifact_Dragonbone_Greaves.gif"
   },
   {
     "name": "Sandals of the Saint",
@@ -1566,7 +1566,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Feet",
     "class": "Relic",
@@ -1600,7 +1600,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Sandals_of_the_Saint",
-    "iconUrl": "https://heroes.thelazy.net/images/7/78/Artifact_Sandals_of_the_Saint.gif"
+    "iconUrl": "game-assets/wiki/7/78/Artifact_Sandals_of_the_Saint.gif"
   },
   {
     "name": "Boots of Speed",
@@ -1608,7 +1608,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Feet",
     "class": "Minor",
@@ -1633,7 +1633,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Boots_of_Speed",
-    "iconUrl": "https://heroes.thelazy.net/images/7/72/Artifact_Boots_of_Speed.gif"
+    "iconUrl": "game-assets/wiki/7/72/Artifact_Boots_of_Speed.gif"
   },
   {
     "name": "Wayfarer's Boots",
@@ -1641,7 +1641,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Feet",
     "class": "Major",
@@ -1658,7 +1658,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Wayfarer%27s_Boots",
-    "iconUrl": "https://heroes.thelazy.net/images/9/9f/Artifact_Wayfarer%27s_Boots.gif"
+    "iconUrl": "game-assets/wiki/9/9f/Artifact_Wayfarer%27s_Boots.gif"
   },
   {
     "name": "Dead Man's Boots",
@@ -1666,7 +1666,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Feet",
     "class": "Major",
@@ -1696,7 +1696,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Dead_Man%27s_Boots",
-    "iconUrl": "https://heroes.thelazy.net/images/4/4d/Artifact_Dead_Man%27s_Boots.gif"
+    "iconUrl": "game-assets/wiki/4/4d/Artifact_Dead_Man%27s_Boots.gif"
   },
   {
     "name": "Boots of Polarity",
@@ -1704,7 +1704,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Feet",
     "class": "Relic",
@@ -1730,7 +1730,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Boots_of_Polarity",
-    "iconUrl": "https://heroes.thelazy.net/images/7/71/Artifact_Boots_of_Polarity.gif"
+    "iconUrl": "game-assets/wiki/7/71/Artifact_Boots_of_Polarity.gif"
   },
   {
     "name": "Boots of Levitation",
@@ -1738,7 +1738,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Feet",
     "class": "Relic",
@@ -1755,7 +1755,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Boots_of_Levitation",
-    "iconUrl": "https://heroes.thelazy.net/images/5/50/Artifact_Boots_of_Levitation.gif"
+    "iconUrl": "game-assets/wiki/5/50/Artifact_Boots_of_Levitation.gif"
   },
   {
     "name": "Dragon Wing Tabard",
@@ -1763,7 +1763,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Cape",
     "class": "Minor",
@@ -1789,7 +1789,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Dragon_Wing_Tabard",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d1/Artifact_Dragon_Wing_Tabard.gif"
+    "iconUrl": "game-assets/wiki/d/d1/Artifact_Dragon_Wing_Tabard.gif"
   },
   {
     "name": "Cape of Conjuring",
@@ -1797,7 +1797,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Cape",
     "class": "Treasure",
@@ -1819,7 +1819,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Cape_of_Conjuring",
-    "iconUrl": "https://heroes.thelazy.net/images/f/fe/Artifact_Cape_of_Conjuring.gif"
+    "iconUrl": "game-assets/wiki/f/fe/Artifact_Cape_of_Conjuring.gif"
   },
   {
     "name": "Vampire's Cowl",
@@ -1827,7 +1827,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Cape",
     "class": "Minor",
@@ -1857,7 +1857,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Vampire%27s_Cowl",
-    "iconUrl": "https://heroes.thelazy.net/images/b/b3/Artifact_Vampire%27s_Cowl.gif"
+    "iconUrl": "game-assets/wiki/b/b3/Artifact_Vampire%27s_Cowl.gif"
   },
   {
     "name": "Surcoat of Counterpoise",
@@ -1865,7 +1865,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Cape",
     "class": "Major",
@@ -1891,7 +1891,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Surcoat_of_Counterpoise",
-    "iconUrl": "https://heroes.thelazy.net/images/b/b0/Artifact_Surcoat_of_Counterpoise.gif"
+    "iconUrl": "game-assets/wiki/b/b0/Artifact_Surcoat_of_Counterpoise.gif"
   },
   {
     "name": "Ambassador's Sash",
@@ -1899,7 +1899,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Cape",
     "class": "Major",
@@ -1925,7 +1925,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Ambassador%27s_Sash",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d0/Artifact_Ambassador%27s_Sash.gif"
+    "iconUrl": "game-assets/wiki/d/d0/Artifact_Ambassador%27s_Sash.gif"
   },
   {
     "name": "Everflowing Crystal Cloak",
@@ -1933,7 +1933,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Cape",
     "class": "Major",
@@ -1955,7 +1955,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Everflowing_Crystal_Cloak",
-    "iconUrl": "https://heroes.thelazy.net/images/2/21/Artifact_Everflowing_Crystal_Cloak.gif"
+    "iconUrl": "game-assets/wiki/2/21/Artifact_Everflowing_Crystal_Cloak.gif"
   },
   {
     "name": "Recanter's Cloak",
@@ -1963,7 +1963,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Cape",
     "class": "Major",
@@ -1980,7 +1980,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Recanter%27s_Cloak",
-    "iconUrl": "https://heroes.thelazy.net/images/3/36/Artifact_Recanter%27s_Cloak.gif"
+    "iconUrl": "game-assets/wiki/3/36/Artifact_Recanter%27s_Cloak.gif"
   },
   {
     "name": "Cape of Velocity",
@@ -1988,7 +1988,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Cape",
     "class": "Major",
@@ -2005,7 +2005,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Cape_of_Velocity",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d2/Artifact_Cape_of_Velocity.gif"
+    "iconUrl": "game-assets/wiki/d/d2/Artifact_Cape_of_Velocity.gif"
   },
   {
     "name": "Cape of Silence",
@@ -2013,7 +2013,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Cape",
     "class": "Major",
@@ -2025,7 +2025,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Cape_of_Silence",
-    "iconUrl": "https://heroes.thelazy.net/images/e/ec/Artifact_Cape_of_Silence.gif"
+    "iconUrl": "game-assets/wiki/e/ec/Artifact_Cape_of_Silence.gif"
   },
   {
     "name": "Angel Wings",
@@ -2033,7 +2033,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Cape",
     "class": "Relic",
@@ -2050,7 +2050,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Angel_Wings",
-    "iconUrl": "https://heroes.thelazy.net/images/3/3d/Artifact_Angel_Wings.gif"
+    "iconUrl": "game-assets/wiki/3/3d/Artifact_Angel_Wings.gif"
   },
   {
     "name": "Cloak of the Undead King",
@@ -2058,7 +2058,7 @@
       "order": 3,
       "name": "Shadow of Death",
       "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
-      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+      "iconUrl": "game-assets/wiki/1/12/Shadow_of_Death_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -2099,7 +2099,7 @@
     "combination": "Cape/Necklace/Feet",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Cloak_of_the_Undead_King",
-    "iconUrl": "https://heroes.thelazy.net/images/c/c4/Artifact_Cloak_of_the_Undead_King.gif"
+    "iconUrl": "game-assets/wiki/c/c4/Artifact_Cloak_of_the_Undead_King.gif"
   },
   {
     "name": "Diplomat's Cloak",
@@ -2107,7 +2107,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -2132,7 +2132,7 @@
     "combination": "Cape/Necklace/Ring",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Diplomat%27s_Cloak",
-    "iconUrl": "https://heroes.thelazy.net/images/b/bf/Artifact_Diplomat%27s_Cloak.gif"
+    "iconUrl": "game-assets/wiki/b/bf/Artifact_Diplomat%27s_Cloak.gif"
   },
   {
     "name": "Necklace of Dragonteeth",
@@ -2140,7 +2140,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Major",
@@ -2166,7 +2166,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Necklace_of_Dragonteeth",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d9/Artifact_Necklace_of_Dragonteeth.gif"
+    "iconUrl": "game-assets/wiki/d/d9/Artifact_Necklace_of_Dragonteeth.gif"
   },
   {
     "name": "Celestial Necklace of Bliss",
@@ -2174,7 +2174,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Relic",
@@ -2208,7 +2208,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Celestial_Necklace_of_Bliss",
-    "iconUrl": "https://heroes.thelazy.net/images/2/2d/Artifact_Celestial_Necklace_of_Bliss.gif"
+    "iconUrl": "game-assets/wiki/2/2d/Artifact_Celestial_Necklace_of_Bliss.gif"
   },
   {
     "name": "Collar of Conjuring",
@@ -2216,7 +2216,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Treasure",
@@ -2238,7 +2238,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Collar_of_Conjuring",
-    "iconUrl": "https://heroes.thelazy.net/images/5/56/Artifact_Collar_of_Conjuring.gif"
+    "iconUrl": "game-assets/wiki/5/56/Artifact_Collar_of_Conjuring.gif"
   },
   {
     "name": "Pendant of Dispassion",
@@ -2246,7 +2246,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Treasure",
@@ -2263,7 +2263,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Dispassion",
-    "iconUrl": "https://heroes.thelazy.net/images/6/6e/Artifact_Pendant_of_Dispassion.gif"
+    "iconUrl": "game-assets/wiki/6/6e/Artifact_Pendant_of_Dispassion.gif"
   },
   {
     "name": "Pendant of Free Will",
@@ -2271,7 +2271,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Treasure",
@@ -2288,7 +2288,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Free_Will",
-    "iconUrl": "https://heroes.thelazy.net/images/6/69/Artifact_Pendant_of_Free_Will.gif"
+    "iconUrl": "game-assets/wiki/6/69/Artifact_Pendant_of_Free_Will.gif"
   },
   {
     "name": "Pendant of Holiness",
@@ -2296,7 +2296,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Treasure",
@@ -2313,7 +2313,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Holiness",
-    "iconUrl": "https://heroes.thelazy.net/images/1/1f/Artifact_Pendant_of_Holiness.gif"
+    "iconUrl": "game-assets/wiki/1/1f/Artifact_Pendant_of_Holiness.gif"
   },
   {
     "name": "Amulet of the Undertaker",
@@ -2321,7 +2321,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Treasure",
@@ -2351,7 +2351,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Amulet_of_the_Undertaker",
-    "iconUrl": "https://heroes.thelazy.net/images/3/3f/Artifact_Amulet_of_the_Undertaker.gif"
+    "iconUrl": "game-assets/wiki/3/3f/Artifact_Amulet_of_the_Undertaker.gif"
   },
   {
     "name": "Pendant of Life",
@@ -2359,7 +2359,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Treasure",
@@ -2376,7 +2376,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Life",
-    "iconUrl": "https://heroes.thelazy.net/images/d/dc/Artifact_Pendant_of_Life.gif"
+    "iconUrl": "game-assets/wiki/d/dc/Artifact_Pendant_of_Life.gif"
   },
   {
     "name": "Pendant of Death",
@@ -2384,7 +2384,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Treasure",
@@ -2401,7 +2401,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Death",
-    "iconUrl": "https://heroes.thelazy.net/images/2/26/Artifact_Pendant_of_Death.gif"
+    "iconUrl": "game-assets/wiki/2/26/Artifact_Pendant_of_Death.gif"
   },
   {
     "name": "Pendant of Total Recall",
@@ -2409,7 +2409,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Treasure",
@@ -2426,7 +2426,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Total_Recall",
-    "iconUrl": "https://heroes.thelazy.net/images/1/11/Artifact_Pendant_of_Total_Recall.gif"
+    "iconUrl": "game-assets/wiki/1/11/Artifact_Pendant_of_Total_Recall.gif"
   },
   {
     "name": "Garniture of Interference",
@@ -2434,7 +2434,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Major",
@@ -2460,7 +2460,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Garniture_of_Interference",
-    "iconUrl": "https://heroes.thelazy.net/images/3/39/Artifact_Garniture_of_Interference.gif"
+    "iconUrl": "game-assets/wiki/3/39/Artifact_Garniture_of_Interference.gif"
   },
   {
     "name": "Pendant of Second Sight",
@@ -2468,7 +2468,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Major",
@@ -2485,7 +2485,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Second_Sight",
-    "iconUrl": "https://heroes.thelazy.net/images/c/cf/Artifact_Pendant_of_Second_Sight.gif"
+    "iconUrl": "game-assets/wiki/c/cf/Artifact_Pendant_of_Second_Sight.gif"
   },
   {
     "name": "Pendant of Negativity",
@@ -2493,7 +2493,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Major",
@@ -2514,7 +2514,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Negativity",
-    "iconUrl": "https://heroes.thelazy.net/images/a/a5/Artifact_Pendant_of_Negativity.gif"
+    "iconUrl": "game-assets/wiki/a/a5/Artifact_Pendant_of_Negativity.gif"
   },
   {
     "name": "Statesman's Medal",
@@ -2522,7 +2522,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Major",
@@ -2548,7 +2548,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Statesman%27s_Medal",
-    "iconUrl": "https://heroes.thelazy.net/images/9/99/Artifact_Statesman%27s_Medal.gif"
+    "iconUrl": "game-assets/wiki/9/99/Artifact_Statesman%27s_Medal.gif"
   },
   {
     "name": "Necklace of Swiftness",
@@ -2556,7 +2556,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Treasure",
@@ -2573,7 +2573,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Necklace_of_Swiftness",
-    "iconUrl": "https://heroes.thelazy.net/images/1/11/Artifact_Necklace_of_Swiftness.gif"
+    "iconUrl": "game-assets/wiki/1/11/Artifact_Necklace_of_Swiftness.gif"
   },
   {
     "name": "Pendant of Courage",
@@ -2581,7 +2581,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Major",
@@ -2602,7 +2602,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Courage",
-    "iconUrl": "https://heroes.thelazy.net/images/2/25/Artifact_Pendant_of_Courage.gif"
+    "iconUrl": "game-assets/wiki/2/25/Artifact_Pendant_of_Courage.gif"
   },
   {
     "name": "Pendant of Downfall",
@@ -2610,7 +2610,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Major",
@@ -2627,7 +2627,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Downfall",
-    "iconUrl": "https://heroes.thelazy.net/images/f/f1/Artifact_Pendant_of_Downfall.gif"
+    "iconUrl": "game-assets/wiki/f/f1/Artifact_Pendant_of_Downfall.gif"
   },
   {
     "name": "Necklace of Ocean Guidance",
@@ -2635,7 +2635,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Necklace",
     "class": "Major",
@@ -2657,7 +2657,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Necklace_of_Ocean_Guidance",
-    "iconUrl": "https://heroes.thelazy.net/images/d/db/Artifact_Necklace_of_Ocean_Guidance.gif"
+    "iconUrl": "game-assets/wiki/d/db/Artifact_Necklace_of_Ocean_Guidance.gif"
   },
   {
     "name": "Pendant of Reflection",
@@ -2665,7 +2665,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -2682,7 +2682,7 @@
     "combination": "Necklace/Cape/Feet",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Pendant_of_Reflection",
-    "iconUrl": "https://heroes.thelazy.net/images/a/ab/Artifact_Pendant_of_Reflection.gif"
+    "iconUrl": "game-assets/wiki/a/ab/Artifact_Pendant_of_Reflection.gif"
   },
   {
     "name": "Still Eye of the Dragon",
@@ -2690,7 +2690,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Ring",
     "class": "Treasure",
@@ -2716,7 +2716,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Still_Eye_of_the_Dragon",
-    "iconUrl": "https://heroes.thelazy.net/images/8/85/Artifact_Still_Eye_of_the_Dragon.gif"
+    "iconUrl": "game-assets/wiki/8/85/Artifact_Still_Eye_of_the_Dragon.gif"
   },
   {
     "name": "Quiet Eye of the Dragon",
@@ -2724,7 +2724,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Ring",
     "class": "Treasure",
@@ -2750,7 +2750,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Quiet_Eye_of_the_Dragon",
-    "iconUrl": "https://heroes.thelazy.net/images/8/86/Artifact_Quiet_Eye_of_the_Dragon.gif"
+    "iconUrl": "game-assets/wiki/8/86/Artifact_Quiet_Eye_of_the_Dragon.gif"
   },
   {
     "name": "Ring of Conjuring",
@@ -2758,7 +2758,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Ring",
     "class": "Treasure",
@@ -2780,7 +2780,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_Conjuring",
-    "iconUrl": "https://heroes.thelazy.net/images/c/c4/Artifact_Ring_of_Conjuring.gif"
+    "iconUrl": "game-assets/wiki/c/c4/Artifact_Ring_of_Conjuring.gif"
   },
   {
     "name": "Ring of Suppression",
@@ -2788,7 +2788,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Ring",
     "class": "Treasure",
@@ -2805,7 +2805,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_Suppression",
-    "iconUrl": "https://heroes.thelazy.net/images/1/16/Artifact_Ring_of_Suppression.gif"
+    "iconUrl": "game-assets/wiki/1/16/Artifact_Ring_of_Suppression.gif"
   },
   {
     "name": "Equestrian's Gloves",
@@ -2813,7 +2813,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Ring",
     "class": "Minor",
@@ -2838,7 +2838,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Equestrian%27s_Gloves",
-    "iconUrl": "https://heroes.thelazy.net/images/8/89/Artifact_Equestrian%27s_Gloves.gif"
+    "iconUrl": "game-assets/wiki/8/89/Artifact_Equestrian%27s_Gloves.gif"
   },
   {
     "name": "Seal of Sunset",
@@ -2846,7 +2846,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Ring",
     "class": "Minor",
@@ -2863,7 +2863,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Seal_of_Sunset",
-    "iconUrl": "https://heroes.thelazy.net/images/b/bf/Artifact_Seal_of_Sunset.gif"
+    "iconUrl": "game-assets/wiki/b/bf/Artifact_Seal_of_Sunset.gif"
   },
   {
     "name": "Diplomat's Ring",
@@ -2871,7 +2871,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Ring",
     "class": "Major",
@@ -2897,7 +2897,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Diplomat%27s_Ring",
-    "iconUrl": "https://heroes.thelazy.net/images/c/c5/Artifact_Diplomat%27s_Ring.gif"
+    "iconUrl": "game-assets/wiki/c/c5/Artifact_Diplomat%27s_Ring.gif"
   },
   {
     "name": "Ring of the Wayfarer",
@@ -2905,7 +2905,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Ring",
     "class": "Major",
@@ -2922,7 +2922,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_the_Wayfarer",
-    "iconUrl": "https://heroes.thelazy.net/images/f/fd/Artifact_Ring_of_the_Wayfarer.gif"
+    "iconUrl": "game-assets/wiki/f/fd/Artifact_Ring_of_the_Wayfarer.gif"
   },
   {
     "name": "Ring of Vitality",
@@ -2930,7 +2930,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Ring",
     "class": "Treasure",
@@ -2952,7 +2952,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_Vitality",
-    "iconUrl": "https://heroes.thelazy.net/images/0/08/Artifact_Ring_of_Vitality.gif"
+    "iconUrl": "game-assets/wiki/0/08/Artifact_Ring_of_Vitality.gif"
   },
   {
     "name": "Ring of Life",
@@ -2960,7 +2960,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Ring",
     "class": "Minor",
@@ -2982,7 +2982,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_Life",
-    "iconUrl": "https://heroes.thelazy.net/images/9/94/Artifact_Ring_of_Life.gif"
+    "iconUrl": "game-assets/wiki/9/94/Artifact_Ring_of_Life.gif"
   },
   {
     "name": "Ring of Infinite Gems",
@@ -2990,7 +2990,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Ring",
     "class": "Major",
@@ -3016,7 +3016,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_Infinite_Gems",
-    "iconUrl": "https://heroes.thelazy.net/images/e/e4/Artifact_Ring_of_Infinite_Gems.gif"
+    "iconUrl": "game-assets/wiki/e/e4/Artifact_Ring_of_Infinite_Gems.gif"
   },
   {
     "name": "Eversmoking Ring of Sulfur",
@@ -3024,7 +3024,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Ring",
     "class": "Major",
@@ -3046,7 +3046,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Eversmoking_Ring_of_Sulfur",
-    "iconUrl": "https://heroes.thelazy.net/images/f/fd/Artifact_Eversmoking_Ring_of_Sulfur.gif"
+    "iconUrl": "game-assets/wiki/f/fd/Artifact_Eversmoking_Ring_of_Sulfur.gif"
   },
   {
     "name": "Ring of Oblivion",
@@ -3054,7 +3054,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Ring",
     "class": "Major",
@@ -3066,7 +3066,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_Oblivion",
-    "iconUrl": "https://heroes.thelazy.net/images/4/47/Artifact_Ring_of_Oblivion.gif"
+    "iconUrl": "game-assets/wiki/4/47/Artifact_Ring_of_Oblivion.gif"
   },
   {
     "name": "Ring of the Magi",
@@ -3074,7 +3074,7 @@
       "order": 3,
       "name": "Shadow of Death",
       "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
-      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+      "iconUrl": "game-assets/wiki/1/12/Shadow_of_Death_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -3091,7 +3091,7 @@
     "combination": "Ring/Necklace/Cape",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Ring_of_the_Magi",
-    "iconUrl": "https://heroes.thelazy.net/images/e/e7/Artifact_Ring_of_the_Magi.gif"
+    "iconUrl": "game-assets/wiki/e/e7/Artifact_Ring_of_the_Magi.gif"
   },
   {
     "name": "Charm of Eclipse",
@@ -3099,7 +3099,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Misc",
     "class": "Minor",
@@ -3116,7 +3116,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Charm_of_Eclipse",
-    "iconUrl": "https://heroes.thelazy.net/images/7/75/Artifact_Charm_of_Eclipse.gif"
+    "iconUrl": "game-assets/wiki/7/75/Artifact_Charm_of_Eclipse.gif"
   },
   {
     "name": "Charm of Mana",
@@ -3124,7 +3124,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3146,7 +3146,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Charm_of_Mana",
-    "iconUrl": "https://heroes.thelazy.net/images/0/04/Artifact_Charm_of_Mana.gif"
+    "iconUrl": "game-assets/wiki/0/04/Artifact_Charm_of_Mana.gif"
   },
   {
     "name": "Talisman of Mana",
@@ -3154,7 +3154,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3176,7 +3176,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Talisman_of_Mana",
-    "iconUrl": "https://heroes.thelazy.net/images/9/98/Artifact_Talisman_of_Mana.gif"
+    "iconUrl": "game-assets/wiki/9/98/Artifact_Talisman_of_Mana.gif"
   },
   {
     "name": "Mystic Orb of Mana",
@@ -3184,7 +3184,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3206,7 +3206,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Mystic_Orb_of_Mana",
-    "iconUrl": "https://heroes.thelazy.net/images/f/fd/Artifact_Mystic_Orb_of_Mana.gif"
+    "iconUrl": "game-assets/wiki/f/fd/Artifact_Mystic_Orb_of_Mana.gif"
   },
   {
     "name": "Wizard's Well",
@@ -3214,7 +3214,7 @@
       "order": 3,
       "name": "Shadow of Death",
       "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
-      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+      "iconUrl": "game-assets/wiki/1/12/Shadow_of_Death_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -3231,7 +3231,7 @@
     "combination": "Misc/Misc/Misc",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Wizard%27s_Well",
-    "iconUrl": "https://heroes.thelazy.net/images/5/5e/Artifact_Wizard%27s_Well.gif"
+    "iconUrl": "game-assets/wiki/5/5e/Artifact_Wizard%27s_Well.gif"
   },
   {
     "name": "Orb of Silt",
@@ -3239,7 +3239,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -3256,7 +3256,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Orb_of_Silt",
-    "iconUrl": "https://heroes.thelazy.net/images/5/52/Artifact_Orb_of_Silt.gif"
+    "iconUrl": "game-assets/wiki/5/52/Artifact_Orb_of_Silt.gif"
   },
   {
     "name": "Orb of the Firmament",
@@ -3264,7 +3264,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -3281,7 +3281,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Orb_of_the_Firmament",
-    "iconUrl": "https://heroes.thelazy.net/images/1/1f/Artifact_Orb_of_the_Firmament.gif"
+    "iconUrl": "game-assets/wiki/1/1f/Artifact_Orb_of_the_Firmament.gif"
   },
   {
     "name": "Orb of Driving Rain",
@@ -3289,7 +3289,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -3306,7 +3306,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Orb_of_Driving_Rain",
-    "iconUrl": "https://heroes.thelazy.net/images/c/c4/Artifact_Orb_of_Driving_Rain.gif"
+    "iconUrl": "game-assets/wiki/c/c4/Artifact_Orb_of_Driving_Rain.gif"
   },
   {
     "name": "Orb of Tempestuous Fire",
@@ -3314,7 +3314,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -3331,7 +3331,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Orb_of_Tempestuous_Fire",
-    "iconUrl": "https://heroes.thelazy.net/images/3/3a/Artifact_Orb_of_Tempestuous_Fire.gif"
+    "iconUrl": "game-assets/wiki/3/3a/Artifact_Orb_of_Tempestuous_Fire.gif"
   },
   {
     "name": "Tome of Earth",
@@ -3339,7 +3339,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Relic",
@@ -3356,7 +3356,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Tome_of_Earth",
-    "iconUrl": "https://heroes.thelazy.net/images/2/23/Artifact_Tome_of_Earth_Magic.gif"
+    "iconUrl": "game-assets/wiki/2/23/Artifact_Tome_of_Earth_Magic.gif"
   },
   {
     "name": "Tome of Air",
@@ -3364,7 +3364,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Relic",
@@ -3381,7 +3381,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Tome_of_Air",
-    "iconUrl": "https://heroes.thelazy.net/images/c/cc/Artifact_Tome_of_Air_Magic.gif"
+    "iconUrl": "game-assets/wiki/c/cc/Artifact_Tome_of_Air_Magic.gif"
   },
   {
     "name": "Tome of Water",
@@ -3389,7 +3389,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Relic",
@@ -3406,7 +3406,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Tome_of_Water",
-    "iconUrl": "https://heroes.thelazy.net/images/b/b6/Artifact_Tome_of_Water_Magic.gif"
+    "iconUrl": "game-assets/wiki/b/b6/Artifact_Tome_of_Water_Magic.gif"
   },
   {
     "name": "Tome of Fire",
@@ -3414,7 +3414,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Relic",
@@ -3431,7 +3431,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Tome_of_Fire",
-    "iconUrl": "https://heroes.thelazy.net/images/2/21/Artifact_Tome_of_Fire_Magic.gif"
+    "iconUrl": "game-assets/wiki/2/21/Artifact_Tome_of_Fire_Magic.gif"
   },
   {
     "name": "Sphere of Permanence",
@@ -3439,7 +3439,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -3456,7 +3456,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Sphere_of_Permanence",
-    "iconUrl": "https://heroes.thelazy.net/images/0/00/Artifact_Sphere_of_Permanence.gif"
+    "iconUrl": "game-assets/wiki/0/00/Artifact_Sphere_of_Permanence.gif"
   },
   {
     "name": "Orb of Inhibition",
@@ -3464,7 +3464,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Relic",
@@ -3481,7 +3481,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Orb_of_Inhibition",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d6/Artifact_Orb_of_Inhibition.gif"
+    "iconUrl": "game-assets/wiki/d/d6/Artifact_Orb_of_Inhibition.gif"
   },
   {
     "name": "Orb of Vulnerability",
@@ -3489,7 +3489,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Relic",
@@ -3506,7 +3506,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Orb_of_Vulnerability",
-    "iconUrl": "https://heroes.thelazy.net/images/b/ba/Artifact_Orb_of_Vulnerability.gif"
+    "iconUrl": "game-assets/wiki/b/ba/Artifact_Orb_of_Vulnerability.gif"
   },
   {
     "name": "Bird of Perception",
@@ -3514,7 +3514,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3531,7 +3531,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Bird_of_Perception",
-    "iconUrl": "https://heroes.thelazy.net/images/6/68/Artifact_Bird_of_Perception.gif"
+    "iconUrl": "game-assets/wiki/6/68/Artifact_Bird_of_Perception.gif"
   },
   {
     "name": "Stoic Watchman",
@@ -3539,7 +3539,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3556,7 +3556,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Stoic_Watchman",
-    "iconUrl": "https://heroes.thelazy.net/images/9/9f/Artifact_Stoic_Watchman.gif"
+    "iconUrl": "game-assets/wiki/9/9f/Artifact_Stoic_Watchman.gif"
   },
   {
     "name": "Emblem of Cognizance",
@@ -3564,7 +3564,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Minor",
@@ -3581,7 +3581,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Emblem_of_Cognizance",
-    "iconUrl": "https://heroes.thelazy.net/images/a/ac/Artifact_Emblem_of_Cognizance.gif"
+    "iconUrl": "game-assets/wiki/a/ac/Artifact_Emblem_of_Cognizance.gif"
   },
   {
     "name": "Clover of Fortune",
@@ -3589,7 +3589,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3606,7 +3606,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Clover_of_Fortune",
-    "iconUrl": "https://heroes.thelazy.net/images/5/5f/Artifact_Clover_of_Fortune.gif"
+    "iconUrl": "game-assets/wiki/5/5f/Artifact_Clover_of_Fortune.gif"
   },
   {
     "name": "Ladybird of Luck",
@@ -3614,7 +3614,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3631,7 +3631,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Ladybird_of_Luck",
-    "iconUrl": "https://heroes.thelazy.net/images/4/43/Artifact_Ladybird_of_Luck.gif"
+    "iconUrl": "game-assets/wiki/4/43/Artifact_Ladybird_of_Luck.gif"
   },
   {
     "name": "Cards of Prophecy",
@@ -3639,7 +3639,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3656,7 +3656,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Cards_of_Prophecy",
-    "iconUrl": "https://heroes.thelazy.net/images/5/5d/Artifact_Cards_of_Prophecy.gif"
+    "iconUrl": "game-assets/wiki/5/5d/Artifact_Cards_of_Prophecy.gif"
   },
   {
     "name": "Hourglass of the Evil Hour",
@@ -3664,7 +3664,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3681,7 +3681,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Hourglass_of_the_Evil_Hour",
-    "iconUrl": "https://heroes.thelazy.net/images/7/70/Artifact_Hourglass_of_the_Evil_Hour.gif"
+    "iconUrl": "game-assets/wiki/7/70/Artifact_Hourglass_of_the_Evil_Hour.gif"
   },
   {
     "name": "Runes of Imminency",
@@ -3689,7 +3689,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3706,7 +3706,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Runes_of_Imminency",
-    "iconUrl": "https://heroes.thelazy.net/images/8/8a/Artifact_Runes_of_Imminency.gif"
+    "iconUrl": "game-assets/wiki/8/8a/Artifact_Runes_of_Imminency.gif"
   },
   {
     "name": "Demon's Horseshoe",
@@ -3714,7 +3714,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3731,7 +3731,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Demon%27s_Horseshoe",
-    "iconUrl": "https://heroes.thelazy.net/images/e/e7/Artifact_Demon%27s_Horseshoe.gif"
+    "iconUrl": "game-assets/wiki/e/e7/Artifact_Demon%27s_Horseshoe.gif"
   },
   {
     "name": "Shaman's Puppet",
@@ -3739,7 +3739,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Misc",
     "class": "Minor",
@@ -3756,7 +3756,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Shaman%27s_Puppet",
-    "iconUrl": "https://heroes.thelazy.net/images/9/9e/Artifact_Shaman%27s_Puppet.gif"
+    "iconUrl": "game-assets/wiki/9/9e/Artifact_Shaman%27s_Puppet.gif"
   },
   {
     "name": "Glyph of Gallantry",
@@ -3764,7 +3764,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3781,7 +3781,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Glyph_of_Gallantry",
-    "iconUrl": "https://heroes.thelazy.net/images/4/41/Artifact_Glyph_of_Gallantry.gif"
+    "iconUrl": "game-assets/wiki/4/41/Artifact_Glyph_of_Gallantry.gif"
   },
   {
     "name": "Crest of Valor",
@@ -3789,7 +3789,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3806,7 +3806,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Crest_of_Valor",
-    "iconUrl": "https://heroes.thelazy.net/images/5/5a/Artifact_Crest_of_Valor.gif"
+    "iconUrl": "game-assets/wiki/5/5a/Artifact_Crest_of_Valor.gif"
   },
   {
     "name": "Badge of Courage",
@@ -3814,7 +3814,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3843,7 +3843,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Badge_of_Courage",
-    "iconUrl": "https://heroes.thelazy.net/images/1/15/Artifact_Badge_of_Courage.gif"
+    "iconUrl": "game-assets/wiki/1/15/Artifact_Badge_of_Courage.gif"
   },
   {
     "name": "Spirit of Oppression",
@@ -3851,7 +3851,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3868,7 +3868,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Spirit_of_Oppression",
-    "iconUrl": "https://heroes.thelazy.net/images/d/d4/Artifact_Spirit_of_Oppression.gif"
+    "iconUrl": "game-assets/wiki/d/d4/Artifact_Spirit_of_Oppression.gif"
   },
   {
     "name": "Hideous Mask",
@@ -3876,7 +3876,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Misc",
     "class": "Minor",
@@ -3893,7 +3893,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Hideous_Mask",
-    "iconUrl": "https://heroes.thelazy.net/images/9/98/Artifact_Hideous_Mask.gif"
+    "iconUrl": "game-assets/wiki/9/98/Artifact_Hideous_Mask.gif"
   },
   {
     "name": "Spyglass",
@@ -3901,7 +3901,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3918,7 +3918,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Spyglass",
-    "iconUrl": "https://heroes.thelazy.net/images/5/51/Artifact_Spyglass.gif"
+    "iconUrl": "game-assets/wiki/5/51/Artifact_Spyglass.gif"
   },
   {
     "name": "Speculum",
@@ -3926,7 +3926,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -3943,7 +3943,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Speculum",
-    "iconUrl": "https://heroes.thelazy.net/images/0/0a/Artifact_Speculum.gif"
+    "iconUrl": "game-assets/wiki/0/0a/Artifact_Speculum.gif"
   },
   {
     "name": "Golden Bow",
@@ -3951,7 +3951,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -3972,7 +3972,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Golden_Bow",
-    "iconUrl": "https://heroes.thelazy.net/images/5/54/Artifact_Golden_Bow.gif"
+    "iconUrl": "game-assets/wiki/5/54/Artifact_Golden_Bow.gif"
   },
   {
     "name": "Bow of Elven Cherrywood",
@@ -3980,7 +3980,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -4002,7 +4002,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Bow_of_Elven_Cherrywood",
-    "iconUrl": "https://heroes.thelazy.net/images/2/2f/Artifact_Bow_of_Elven_Cherrywood.gif"
+    "iconUrl": "game-assets/wiki/2/2f/Artifact_Bow_of_Elven_Cherrywood.gif"
   },
   {
     "name": "Bowstring of the Unicorn's Mane",
@@ -4010,7 +4010,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Minor",
@@ -4032,7 +4032,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Bowstring_of_the_Unicorn%27s_Mane",
-    "iconUrl": "https://heroes.thelazy.net/images/2/24/Artifact_Bowstring_of_the_Unicorn%27s_Mane.gif"
+    "iconUrl": "game-assets/wiki/2/24/Artifact_Bowstring_of_the_Unicorn%27s_Mane.gif"
   },
   {
     "name": "Angel Feather Arrows",
@@ -4040,7 +4040,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -4062,7 +4062,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Angel_Feather_Arrows",
-    "iconUrl": "https://heroes.thelazy.net/images/6/61/Artifact_Angel_Feather_Arrows.gif"
+    "iconUrl": "game-assets/wiki/6/61/Artifact_Angel_Feather_Arrows.gif"
   },
   {
     "name": "Bow of the Sharpshooter",
@@ -4070,7 +4070,7 @@
       "order": 3,
       "name": "Shadow of Death",
       "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
-      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+      "iconUrl": "game-assets/wiki/1/12/Shadow_of_Death_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -4095,7 +4095,7 @@
     "combination": "Misc/Misc/Misc",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Bow_of_the_Sharpshooter",
-    "iconUrl": "https://heroes.thelazy.net/images/a/ac/Artifact_Bow_of_the_Sharpshooter.gif"
+    "iconUrl": "game-assets/wiki/a/ac/Artifact_Bow_of_the_Sharpshooter.gif"
   },
   {
     "name": "Vial of Lifeblood",
@@ -4103,7 +4103,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -4125,7 +4125,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Vial_of_Lifeblood",
-    "iconUrl": "https://heroes.thelazy.net/images/4/45/Artifact_Vial_of_Lifeblood.gif"
+    "iconUrl": "game-assets/wiki/4/45/Artifact_Vial_of_Lifeblood.gif"
   },
   {
     "name": "Elixir of Life",
@@ -4133,7 +4133,7 @@
       "order": 3,
       "name": "Shadow of Death",
       "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
-      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+      "iconUrl": "game-assets/wiki/1/12/Shadow_of_Death_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -4154,7 +4154,7 @@
     "combination": "Misc/Ring/Ring",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Elixir_of_Life",
-    "iconUrl": "https://heroes.thelazy.net/images/9/91/Artifact_Elixir_of_Life.gif"
+    "iconUrl": "game-assets/wiki/9/91/Artifact_Elixir_of_Life.gif"
   },
   {
     "name": "Endless Purse of Gold",
@@ -4162,7 +4162,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -4188,7 +4188,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Endless_Purse_of_Gold",
-    "iconUrl": "https://heroes.thelazy.net/images/3/3e/Artifact_Endless_Purse_of_Gold.gif"
+    "iconUrl": "game-assets/wiki/3/3e/Artifact_Endless_Purse_of_Gold.gif"
   },
   {
     "name": "Endless Bag of Gold",
@@ -4196,7 +4196,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -4222,7 +4222,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Endless_Bag_of_Gold",
-    "iconUrl": "https://heroes.thelazy.net/images/c/c1/Artifact_Endless_Bag_of_Gold.gif"
+    "iconUrl": "game-assets/wiki/c/c1/Artifact_Endless_Bag_of_Gold.gif"
   },
   {
     "name": "Endless Sack of Gold",
@@ -4230,7 +4230,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Relic",
@@ -4256,7 +4256,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Endless_Sack_of_Gold",
-    "iconUrl": "https://heroes.thelazy.net/images/3/35/Artifact_Endless_Sack_of_Gold.gif"
+    "iconUrl": "game-assets/wiki/3/35/Artifact_Endless_Sack_of_Gold.gif"
   },
   {
     "name": "Golden Goose",
@@ -4264,7 +4264,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -4281,7 +4281,7 @@
     "combination": "Misc/Misc/Misc",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Golden_Goose",
-    "iconUrl": "https://heroes.thelazy.net/images/8/8e/Artifact_Golden_Goose.gif"
+    "iconUrl": "game-assets/wiki/8/8e/Artifact_Golden_Goose.gif"
   },
   {
     "name": "Inexhaustible Cart of Lumber",
@@ -4289,7 +4289,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Minor",
@@ -4306,7 +4306,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Inexhaustible_Cart_of_Lumber",
-    "iconUrl": "https://heroes.thelazy.net/images/6/6a/Artifact_Inexhaustible_Cart_of_Lumber.gif"
+    "iconUrl": "game-assets/wiki/6/6a/Artifact_Inexhaustible_Cart_of_Lumber.gif"
   },
   {
     "name": "Inexhaustible Cart of Ore",
@@ -4314,7 +4314,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Minor",
@@ -4331,7 +4331,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Inexhaustible_Cart_of_Ore",
-    "iconUrl": "https://heroes.thelazy.net/images/b/ba/Artifact_Inexhaustible_Cart_of_Ore.gif"
+    "iconUrl": "game-assets/wiki/b/ba/Artifact_Inexhaustible_Cart_of_Ore.gif"
   },
   {
     "name": "Everpouring Vial of Mercury",
@@ -4339,7 +4339,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -4361,7 +4361,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Everpouring_Vial_of_Mercury",
-    "iconUrl": "https://heroes.thelazy.net/images/1/1f/Artifact_Everpouring_Vial_of_Mercury.gif"
+    "iconUrl": "game-assets/wiki/1/1f/Artifact_Everpouring_Vial_of_Mercury.gif"
   },
   {
     "name": "Cornucopia",
@@ -4369,7 +4369,7 @@
       "order": 3,
       "name": "Shadow of Death",
       "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
-      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+      "iconUrl": "game-assets/wiki/1/12/Shadow_of_Death_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -4402,7 +4402,7 @@
     "combination": "Misc/Cape/Ring/Ring",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Cornucopia",
-    "iconUrl": "https://heroes.thelazy.net/images/6/6a/Artifact_Cornucopia.gif"
+    "iconUrl": "game-assets/wiki/6/6a/Artifact_Cornucopia.gif"
   },
   {
     "name": "Legs of Legion",
@@ -4410,7 +4410,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Treasure",
@@ -4432,7 +4432,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Legs_of_Legion",
-    "iconUrl": "https://heroes.thelazy.net/images/f/fa/Artifact_Legs_of_Legion.gif"
+    "iconUrl": "game-assets/wiki/f/fa/Artifact_Legs_of_Legion.gif"
   },
   {
     "name": "Loins of Legion",
@@ -4440,7 +4440,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Minor",
@@ -4462,7 +4462,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Loins_of_Legion",
-    "iconUrl": "https://heroes.thelazy.net/images/1/1a/Artifact_Loins_of_Legion.gif"
+    "iconUrl": "game-assets/wiki/1/1a/Artifact_Loins_of_Legion.gif"
   },
   {
     "name": "Torso of Legion",
@@ -4470,7 +4470,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Minor",
@@ -4492,7 +4492,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Torso_of_Legion",
-    "iconUrl": "https://heroes.thelazy.net/images/8/8f/Artifact_Torso_of_Legion.gif"
+    "iconUrl": "game-assets/wiki/8/8f/Artifact_Torso_of_Legion.gif"
   },
   {
     "name": "Arms of Legion",
@@ -4500,7 +4500,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -4522,7 +4522,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Arms_of_Legion",
-    "iconUrl": "https://heroes.thelazy.net/images/3/32/Artifact_Arms_of_Legion.gif"
+    "iconUrl": "game-assets/wiki/3/32/Artifact_Arms_of_Legion.gif"
   },
   {
     "name": "Head of Legion",
@@ -4530,7 +4530,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -4552,7 +4552,7 @@
       }
     ],
     "pageUrl": "https://heroes.thelazy.net/index.php/Head_of_Legion",
-    "iconUrl": "https://heroes.thelazy.net/images/6/68/Artifact_Head_of_Legion.gif"
+    "iconUrl": "game-assets/wiki/6/68/Artifact_Head_of_Legion.gif"
   },
   {
     "name": "Statue of Legion",
@@ -4560,7 +4560,7 @@
       "order": 3,
       "name": "Shadow of Death",
       "pageUrl": "https://heroes.thelazy.net/index.php/Shadow_of_Death",
-      "iconUrl": "https://heroes.thelazy.net/images/1/12/Shadow_of_Death_map_icon.png"
+      "iconUrl": "game-assets/wiki/1/12/Shadow_of_Death_map_icon.png"
     },
     "slot": "Combo",
     "class": "Relic",
@@ -4577,7 +4577,7 @@
     "combination": "Misc/Misc/Misc/Misc/Misc",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Statue_of_Legion",
-    "iconUrl": "https://heroes.thelazy.net/images/6/66/Artifact_Statue_of_Legion.gif"
+    "iconUrl": "game-assets/wiki/6/66/Artifact_Statue_of_Legion.gif"
   },
   {
     "name": "Shackles of War",
@@ -4585,7 +4585,7 @@
       "order": 1,
       "name": "Restoration of Erathia",
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia",
-      "iconUrl": "https://heroes.thelazy.net/images/6/6d/Restoration_of_Erathia_map_icon.png"
+      "iconUrl": "game-assets/wiki/6/6d/Restoration_of_Erathia_map_icon.png"
     },
     "slot": "Misc",
     "class": "Major",
@@ -4606,7 +4606,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Shackles_of_War",
-    "iconUrl": "https://heroes.thelazy.net/images/2/2a/Artifact_Shackles_of_War.gif"
+    "iconUrl": "game-assets/wiki/2/2a/Artifact_Shackles_of_War.gif"
   },
   {
     "name": "Vial of Dragon Blood",
@@ -4614,7 +4614,7 @@
       "order": 2,
       "name": "Armageddon's Blade",
       "pageUrl": "https://heroes.thelazy.net/index.php/Armageddon%27s_Blade",
-      "iconUrl": "https://heroes.thelazy.net/images/c/ca/Armageddon%27s_Blade_map_icon.png"
+      "iconUrl": "game-assets/wiki/c/ca/Armageddon%27s_Blade_map_icon.png"
     },
     "slot": "Misc",
     "class": "Relic",
@@ -4639,7 +4639,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Vial_of_Dragon_Blood",
-    "iconUrl": "https://heroes.thelazy.net/images/5/5e/Artifact_Vial_of_Dragon_Blood.gif"
+    "iconUrl": "game-assets/wiki/5/5e/Artifact_Vial_of_Dragon_Blood.gif"
   },
   {
     "name": "Sleepkeeper",
@@ -4647,7 +4647,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Misc",
     "class": "Relic",
@@ -4664,7 +4664,7 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Sleepkeeper",
-    "iconUrl": "https://heroes.thelazy.net/images/3/39/Artifact_Sleepkeeper.gif"
+    "iconUrl": "game-assets/wiki/3/39/Artifact_Sleepkeeper.gif"
   },
   {
     "name": "Horn of the Abyss (artifact)",
@@ -4672,7 +4672,7 @@
       "order": 5,
       "name": "Horn of the Abyss",
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss",
-      "iconUrl": "https://heroes.thelazy.net/images/2/21/Horn_of_the_Abyss_map_icon.png"
+      "iconUrl": "game-assets/wiki/2/21/Horn_of_the_Abyss_map_icon.png"
     },
     "slot": "Misc",
     "class": "Relic",
@@ -4689,6 +4689,6 @@
     "combination": "",
     "combinationLinks": [],
     "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss_(artifact)",
-    "iconUrl": "https://heroes.thelazy.net/images/8/89/Artifact_Horn_of_the_Abyss.gif"
+    "iconUrl": "game-assets/wiki/8/89/Artifact_Horn_of_the_Abyss.gif"
   }
 ]

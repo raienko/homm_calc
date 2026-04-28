@@ -20,7 +20,7 @@
     },
     "special": "Immune to Jousting",
     "pageUrl": "https://heroes.thelazy.net/index.php/Pikeman",
-    "portraitUrl": "https://heroes.thelazy.net/images/9/95/Mini_Portrait_Pikeman_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/9/95/Mini_Portrait_Pikeman_%28HotA%29.png"
   },
   {
     "name": "Halberdier",
@@ -43,7 +43,7 @@
     },
     "special": "Immune to Jousting",
     "pageUrl": "https://heroes.thelazy.net/index.php/Halberdier",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/31/Mini_Portrait_Halberdier_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/3/31/Mini_Portrait_Halberdier_%28HotA%29.png"
   },
   {
     "name": "Archer",
@@ -66,7 +66,7 @@
     },
     "special": "Ranged (12 shots)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Archer",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/04/Mini_Portrait_Archer.png"
+    "portraitUrl": "game-assets/wiki/0/04/Mini_Portrait_Archer.png"
   },
   {
     "name": "Marksman",
@@ -89,7 +89,7 @@
     },
     "special": "Ranged (24 shots), Double attack",
     "pageUrl": "https://heroes.thelazy.net/index.php/Marksman",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/83/Mini_Portrait_Marksman.png"
+    "portraitUrl": "game-assets/wiki/8/83/Mini_Portrait_Marksman.png"
   },
   {
     "name": "Griffin",
@@ -112,7 +112,7 @@
     },
     "special": "Flying, Two retaliations",
     "pageUrl": "https://heroes.thelazy.net/index.php/Griffin",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/34/Mini_Portrait_Griffin_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/3/34/Mini_Portrait_Griffin_%28HotA%29.png"
   },
   {
     "name": "Royal Griffin",
@@ -135,7 +135,7 @@
     },
     "special": "Flying, Unlimited retaliations",
     "pageUrl": "https://heroes.thelazy.net/index.php/Royal_Griffin",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/6f/Mini_Portrait_Royal_Griffin_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/6/6f/Mini_Portrait_Royal_Griffin_%28HotA%29.png"
   },
   {
     "name": "Swordsman",
@@ -158,7 +158,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Swordsman",
-    "portraitUrl": "https://heroes.thelazy.net/images/4/4b/Mini_Portrait_Swordsman.png"
+    "portraitUrl": "game-assets/wiki/4/4b/Mini_Portrait_Swordsman.png"
   },
   {
     "name": "Crusader",
@@ -181,7 +181,7 @@
     },
     "special": "Double attack",
     "pageUrl": "https://heroes.thelazy.net/index.php/Crusader",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/73/Mini_Portrait_Crusader.png"
+    "portraitUrl": "game-assets/wiki/7/73/Mini_Portrait_Crusader.png"
   },
   {
     "name": "Monk",
@@ -204,7 +204,7 @@
     },
     "special": "Ranged (12 shots)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Monk",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/fc/Mini_Portrait_Monk.png"
+    "portraitUrl": "game-assets/wiki/f/fc/Mini_Portrait_Monk.png"
   },
   {
     "name": "Zealot",
@@ -227,7 +227,7 @@
     },
     "special": "Ranged (24 shots), No melee penalty",
     "pageUrl": "https://heroes.thelazy.net/index.php/Zealot",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/50/Mini_Portrait_Zealot.png"
+    "portraitUrl": "game-assets/wiki/5/50/Mini_Portrait_Zealot.png"
   },
   {
     "name": "Cavalier",
@@ -250,7 +250,7 @@
     },
     "special": "Jousting",
     "pageUrl": "https://heroes.thelazy.net/index.php/Cavalier",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/f1/Mini_Portrait_Cavalier.png"
+    "portraitUrl": "game-assets/wiki/f/f1/Mini_Portrait_Cavalier.png"
   },
   {
     "name": "Champion",
@@ -273,7 +273,7 @@
     },
     "special": "Jousting",
     "pageUrl": "https://heroes.thelazy.net/index.php/Champion",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/f7/Mini_Portrait_Champion.png"
+    "portraitUrl": "game-assets/wiki/f/f7/Mini_Portrait_Champion.png"
   },
   {
     "name": "Angel",
@@ -297,7 +297,7 @@
     },
     "special": "Flying, Hates Devils , Morale +1",
     "pageUrl": "https://heroes.thelazy.net/index.php/Angel",
-    "portraitUrl": "https://heroes.thelazy.net/images/2/29/Mini_Portrait_Angel.png"
+    "portraitUrl": "game-assets/wiki/2/29/Mini_Portrait_Angel.png"
   },
   {
     "name": "Archangel",
@@ -321,7 +321,7 @@
     },
     "special": "Flying, Hates Devils, Resurrection, Morale +1",
     "pageUrl": "https://heroes.thelazy.net/index.php/Archangel",
-    "portraitUrl": "https://heroes.thelazy.net/images/c/c2/Mini_Portrait_Archangel.png"
+    "portraitUrl": "game-assets/wiki/c/c2/Mini_Portrait_Archangel.png"
   },
   {
     "name": "Centaur",
@@ -344,7 +344,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Centaur",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/53/Mini_Portrait_Centaur.png"
+    "portraitUrl": "game-assets/wiki/5/53/Mini_Portrait_Centaur.png"
   },
   {
     "name": "Centaur Captain",
@@ -367,7 +367,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Centaur_Captain",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/75/Mini_Portrait_Centaur_Captain.png"
+    "portraitUrl": "game-assets/wiki/7/75/Mini_Portrait_Centaur_Captain.png"
   },
   {
     "name": "Dwarf",
@@ -390,7 +390,7 @@
     },
     "special": "Resistance (+20%)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Dwarf",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/80/Mini_Portrait_Dwarf.png"
+    "portraitUrl": "game-assets/wiki/8/80/Mini_Portrait_Dwarf.png"
   },
   {
     "name": "Battle Dwarf",
@@ -413,7 +413,7 @@
     },
     "special": "Resistance (+40%)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Battle_Dwarf",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/b2/Mini_Portrait_Battle_Dwarf.png"
+    "portraitUrl": "game-assets/wiki/b/b2/Mini_Portrait_Battle_Dwarf.png"
   },
   {
     "name": "Wood Elf",
@@ -436,7 +436,7 @@
     },
     "special": "Ranged (24 shots)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Wood_Elf",
-    "portraitUrl": "https://heroes.thelazy.net/images/e/e4/Mini_Portrait_Wood_Elf.png"
+    "portraitUrl": "game-assets/wiki/e/e4/Mini_Portrait_Wood_Elf.png"
   },
   {
     "name": "Grand Elf",
@@ -459,7 +459,7 @@
     },
     "special": "Ranged (24 shots), Double attack",
     "pageUrl": "https://heroes.thelazy.net/index.php/Grand_Elf",
-    "portraitUrl": "https://heroes.thelazy.net/images/a/a7/Mini_Portrait_Grand_Elf.png"
+    "portraitUrl": "game-assets/wiki/a/a7/Mini_Portrait_Grand_Elf.png"
   },
   {
     "name": "Pegasus",
@@ -482,7 +482,7 @@
     },
     "special": "Flying, Magic damper",
     "pageUrl": "https://heroes.thelazy.net/index.php/Pegasus",
-    "portraitUrl": "https://heroes.thelazy.net/images/e/ef/Mini_Portrait_Pegasus.png"
+    "portraitUrl": "game-assets/wiki/e/ef/Mini_Portrait_Pegasus.png"
   },
   {
     "name": "Silver Pegasus",
@@ -505,7 +505,7 @@
     },
     "special": "Flying, Magic damper",
     "pageUrl": "https://heroes.thelazy.net/index.php/Silver_Pegasus",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/0e/Mini_Portrait_Silver_Pegasus.png"
+    "portraitUrl": "game-assets/wiki/0/0e/Mini_Portrait_Silver_Pegasus.png"
   },
   {
     "name": "Dendroid Guard",
@@ -528,7 +528,7 @@
     },
     "special": "Binding",
     "pageUrl": "https://heroes.thelazy.net/index.php/Dendroid_Guard",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/6d/Mini_Portrait_Dendroid_Guard.png"
+    "portraitUrl": "game-assets/wiki/6/6d/Mini_Portrait_Dendroid_Guard.png"
   },
   {
     "name": "Dendroid Soldier",
@@ -551,7 +551,7 @@
     },
     "special": "Binding",
     "pageUrl": "https://heroes.thelazy.net/index.php/Dendroid_Soldier",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/b3/Mini_Portrait_Dendroid_Soldier_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/b/b3/Mini_Portrait_Dendroid_Soldier_%28HotA%29.png"
   },
   {
     "name": "Unicorn",
@@ -574,7 +574,7 @@
     },
     "special": "Blinding attack, Aura of Resistance (+20%)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Unicorn",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/f1/Mini_Portrait_Unicorn.png"
+    "portraitUrl": "game-assets/wiki/f/f1/Mini_Portrait_Unicorn.png"
   },
   {
     "name": "War Unicorn",
@@ -597,7 +597,7 @@
     },
     "special": "Blinding attack, Aura of Resistance (+20%)",
     "pageUrl": "https://heroes.thelazy.net/index.php/War_Unicorn",
-    "portraitUrl": "https://heroes.thelazy.net/images/9/95/Mini_Portrait_War_Unicorn.png"
+    "portraitUrl": "game-assets/wiki/9/95/Mini_Portrait_War_Unicorn.png"
   },
   {
     "name": "Green Dragon",
@@ -621,7 +621,7 @@
     },
     "special": "Dragon, Flying, Breath attack, 1-3 lvl spells immunity",
     "pageUrl": "https://heroes.thelazy.net/index.php/Green_Dragon",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/f4/Mini_Portrait_Green_Dragon.png"
+    "portraitUrl": "game-assets/wiki/f/f4/Mini_Portrait_Green_Dragon.png"
   },
   {
     "name": "Gold Dragon",
@@ -645,7 +645,7 @@
     },
     "special": "Dragon, Flying, Breath attack, 1-4 lvl spells immunity",
     "pageUrl": "https://heroes.thelazy.net/index.php/Gold_Dragon",
-    "portraitUrl": "https://heroes.thelazy.net/images/a/ad/Mini_Portrait_Gold_Dragon.png"
+    "portraitUrl": "game-assets/wiki/a/ad/Mini_Portrait_Gold_Dragon.png"
   },
   {
     "name": "Gremlin",
@@ -668,7 +668,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Gremlin",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/67/Mini_Portrait_Gremlin.png"
+    "portraitUrl": "game-assets/wiki/6/67/Mini_Portrait_Gremlin.png"
   },
   {
     "name": "Master Gremlin",
@@ -691,7 +691,7 @@
     },
     "special": "Ranged (8 shots)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Master_Gremlin",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/fa/Mini_Portrait_Master_Gremlin.png"
+    "portraitUrl": "game-assets/wiki/f/fa/Mini_Portrait_Master_Gremlin.png"
   },
   {
     "name": "Stone Gargoyle",
@@ -714,7 +714,7 @@
     },
     "special": "Bloodless Unliving , Flying",
     "pageUrl": "https://heroes.thelazy.net/index.php/Stone_Gargoyle",
-    "portraitUrl": "https://heroes.thelazy.net/images/2/21/Mini_Portrait_Stone_Gargoyle.png"
+    "portraitUrl": "game-assets/wiki/2/21/Mini_Portrait_Stone_Gargoyle.png"
   },
   {
     "name": "Obsidian Gargoyle",
@@ -737,7 +737,7 @@
     },
     "special": "Bloodless Unliving , Flying",
     "pageUrl": "https://heroes.thelazy.net/index.php/Obsidian_Gargoyle",
-    "portraitUrl": "https://heroes.thelazy.net/images/4/4e/Mini_Portrait_Obsidian_Gargoyle_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/4/4e/Mini_Portrait_Obsidian_Gargoyle_%28HotA%29.png"
   },
   {
     "name": "Stone Golem",
@@ -760,7 +760,7 @@
     },
     "special": "Unliving, Spell damage resistance +50%",
     "pageUrl": "https://heroes.thelazy.net/index.php/Stone_Golem",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/bc/Mini_Portrait_Stone_Golem.png"
+    "portraitUrl": "game-assets/wiki/b/bc/Mini_Portrait_Stone_Golem.png"
   },
   {
     "name": "Iron Golem",
@@ -783,7 +783,7 @@
     },
     "special": "Unliving, Spell damage resistance +75%",
     "pageUrl": "https://heroes.thelazy.net/index.php/Iron_Golem",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/b5/Mini_Portrait_Iron_Golem.png"
+    "portraitUrl": "game-assets/wiki/b/b5/Mini_Portrait_Iron_Golem.png"
   },
   {
     "name": "Mage",
@@ -806,7 +806,7 @@
     },
     "special": "Ranged (24 shots), No melee penalty, No obstacle penalty, Magic channeler",
     "pageUrl": "https://heroes.thelazy.net/index.php/Mage",
-    "portraitUrl": "https://heroes.thelazy.net/images/c/c6/Mini_Portrait_Mage.png"
+    "portraitUrl": "game-assets/wiki/c/c6/Mini_Portrait_Mage.png"
   },
   {
     "name": "Arch Mage",
@@ -829,7 +829,7 @@
     },
     "special": "Ranged (24 shots), No melee penalty, No obstacle penalty, Magic channeler",
     "pageUrl": "https://heroes.thelazy.net/index.php/Arch_Mage",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/53/Mini_Portrait_Arch_Mage.png"
+    "portraitUrl": "game-assets/wiki/5/53/Mini_Portrait_Arch_Mage.png"
   },
   {
     "name": "Genie",
@@ -852,7 +852,7 @@
     },
     "special": "Flying, Hates Efreet and Efreet Sultans",
     "pageUrl": "https://heroes.thelazy.net/index.php/Genie",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/60/Mini_Portrait_Genie.png"
+    "portraitUrl": "game-assets/wiki/6/60/Mini_Portrait_Genie.png"
   },
   {
     "name": "Master Genie",
@@ -875,7 +875,7 @@
     },
     "special": "Flying, Spellcaster, Hates Efreet and Efreet Sultans",
     "pageUrl": "https://heroes.thelazy.net/index.php/Master_Genie",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Master_Genie.png"
+    "portraitUrl": "game-assets/wiki/6/61/Mini_Portrait_Master_Genie.png"
   },
   {
     "name": "Naga",
@@ -898,7 +898,7 @@
     },
     "special": "No enemy retaliation",
     "pageUrl": "https://heroes.thelazy.net/index.php/Naga",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/b1/Mini_Portrait_Naga.png"
+    "portraitUrl": "game-assets/wiki/b/b1/Mini_Portrait_Naga.png"
   },
   {
     "name": "Naga Queen",
@@ -921,7 +921,7 @@
     },
     "special": "No enemy retaliation",
     "pageUrl": "https://heroes.thelazy.net/index.php/Naga_Queen",
-    "portraitUrl": "https://heroes.thelazy.net/images/1/1f/Mini_Portrait_Naga_Queen.png"
+    "portraitUrl": "game-assets/wiki/1/1f/Mini_Portrait_Naga_Queen.png"
   },
   {
     "name": "Giant",
@@ -945,7 +945,7 @@
     },
     "special": "Mind spells immunity",
     "pageUrl": "https://heroes.thelazy.net/index.php/Giant",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/89/Mini_Portrait_Giant.png"
+    "portraitUrl": "game-assets/wiki/8/89/Mini_Portrait_Giant.png"
   },
   {
     "name": "Titan",
@@ -969,7 +969,7 @@
     },
     "special": "Ranged (24 shots), No melee penalty, Mind spells immunity, Hates Black Dragons",
     "pageUrl": "https://heroes.thelazy.net/index.php/Titan",
-    "portraitUrl": "https://heroes.thelazy.net/images/1/18/Mini_Portrait_Titan.png"
+    "portraitUrl": "game-assets/wiki/1/18/Mini_Portrait_Titan.png"
   },
   {
     "name": "Imp",
@@ -992,7 +992,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Imp",
-    "portraitUrl": "https://heroes.thelazy.net/images/c/cf/Mini_Portrait_Imp.png"
+    "portraitUrl": "game-assets/wiki/c/cf/Mini_Portrait_Imp.png"
   },
   {
     "name": "Familiar",
@@ -1015,7 +1015,7 @@
     },
     "special": "Magic channel",
     "pageUrl": "https://heroes.thelazy.net/index.php/Familiar",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/7c/Mini_Portrait_Familiar.png"
+    "portraitUrl": "game-assets/wiki/7/7c/Mini_Portrait_Familiar.png"
   },
   {
     "name": "Gog",
@@ -1038,7 +1038,7 @@
     },
     "special": "Ranged (12 shots)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Gog",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/65/Mini_Portrait_Gog.png"
+    "portraitUrl": "game-assets/wiki/6/65/Mini_Portrait_Gog.png"
   },
   {
     "name": "Magog",
@@ -1061,7 +1061,7 @@
     },
     "special": "Ranged (24 shots), Fireball attack",
     "pageUrl": "https://heroes.thelazy.net/index.php/Magog",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/38/Mini_Portrait_Magog.png"
+    "portraitUrl": "game-assets/wiki/3/38/Mini_Portrait_Magog.png"
   },
   {
     "name": "Hell Hound",
@@ -1084,7 +1084,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Hell_Hound",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/60/Mini_Portrait_Hell_Hound.png"
+    "portraitUrl": "game-assets/wiki/6/60/Mini_Portrait_Hell_Hound.png"
   },
   {
     "name": "Cerberus",
@@ -1107,7 +1107,7 @@
     },
     "special": "No enemy retaliation, 3-headed attack",
     "pageUrl": "https://heroes.thelazy.net/index.php/Cerberus",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/7b/Mini_Portrait_Cerberus.png"
+    "portraitUrl": "game-assets/wiki/7/7b/Mini_Portrait_Cerberus.png"
   },
   {
     "name": "Demon",
@@ -1130,7 +1130,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Demon",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/0b/Mini_Portrait_Demon.png"
+    "portraitUrl": "game-assets/wiki/0/0b/Mini_Portrait_Demon.png"
   },
   {
     "name": "Horned Demon",
@@ -1153,7 +1153,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Horned_Demon",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/8b/Mini_Portrait_Horned_Demon.png"
+    "portraitUrl": "game-assets/wiki/8/8b/Mini_Portrait_Horned_Demon.png"
   },
   {
     "name": "Pit Fiend",
@@ -1176,7 +1176,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Pit_Fiend",
-    "portraitUrl": "https://heroes.thelazy.net/images/2/23/Mini_Portrait_Pit_Fiend.png"
+    "portraitUrl": "game-assets/wiki/2/23/Mini_Portrait_Pit_Fiend.png"
   },
   {
     "name": "Pit Lord",
@@ -1199,7 +1199,7 @@
     },
     "special": "Summon demons",
     "pageUrl": "https://heroes.thelazy.net/index.php/Pit_Lord",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/80/Mini_Portrait_Pit_Lord.png"
+    "portraitUrl": "game-assets/wiki/8/80/Mini_Portrait_Pit_Lord.png"
   },
   {
     "name": "Efreeti",
@@ -1222,7 +1222,7 @@
     },
     "special": "Flying, Fire immunity, Hates Genies",
     "pageUrl": "https://heroes.thelazy.net/index.php/Efreeti",
-    "portraitUrl": "https://heroes.thelazy.net/images/9/9b/Mini_Portrait_Efreeti.png"
+    "portraitUrl": "game-assets/wiki/9/9b/Mini_Portrait_Efreeti.png"
   },
   {
     "name": "Efreet Sultan",
@@ -1245,7 +1245,7 @@
     },
     "special": "Flying, Natural Fire Shield, Fire immunity, Hates Genies",
     "pageUrl": "https://heroes.thelazy.net/index.php/Efreet_Sultan",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/8b/Mini_Portrait_Efreet_Sultan.png"
+    "portraitUrl": "game-assets/wiki/8/8b/Mini_Portrait_Efreet_Sultan.png"
   },
   {
     "name": "Devil",
@@ -1269,7 +1269,7 @@
     },
     "special": "Teleporting, No enemy retaliation, Luck -1, Hates Angels",
     "pageUrl": "https://heroes.thelazy.net/index.php/Devil",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/75/Mini_Portrait_Devil.png"
+    "portraitUrl": "game-assets/wiki/7/75/Mini_Portrait_Devil.png"
   },
   {
     "name": "Arch Devil",
@@ -1293,7 +1293,7 @@
     },
     "special": "Teleporting, No enemy retaliation, Luck -2 1 , Hates Angels",
     "pageUrl": "https://heroes.thelazy.net/index.php/Arch_Devil",
-    "portraitUrl": "https://heroes.thelazy.net/images/d/dd/Mini_Portrait_Arch_Devil.png"
+    "portraitUrl": "game-assets/wiki/d/dd/Mini_Portrait_Arch_Devil.png"
   },
   {
     "name": "Skeleton",
@@ -1316,7 +1316,7 @@
     },
     "special": "Undead",
     "pageUrl": "https://heroes.thelazy.net/index.php/Skeleton",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/f8/Mini_Portrait_Skeleton.png"
+    "portraitUrl": "game-assets/wiki/f/f8/Mini_Portrait_Skeleton.png"
   },
   {
     "name": "Skeleton Warrior",
@@ -1339,7 +1339,7 @@
     },
     "special": "Undead",
     "pageUrl": "https://heroes.thelazy.net/index.php/Skeleton_Warrior",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/0e/Mini_Portrait_Skeleton_Warrior.png"
+    "portraitUrl": "game-assets/wiki/0/0e/Mini_Portrait_Skeleton_Warrior.png"
   },
   {
     "name": "Walking Dead",
@@ -1362,7 +1362,7 @@
     },
     "special": "Undead",
     "pageUrl": "https://heroes.thelazy.net/index.php/Walking_Dead",
-    "portraitUrl": "https://heroes.thelazy.net/images/9/9f/Mini_Portrait_Walking_Dead.png"
+    "portraitUrl": "game-assets/wiki/9/9f/Mini_Portrait_Walking_Dead.png"
   },
   {
     "name": "Zombie",
@@ -1385,7 +1385,7 @@
     },
     "special": "Undead, Disease",
     "pageUrl": "https://heroes.thelazy.net/index.php/Zombie",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/59/Mini_Portrait_Zombie.png"
+    "portraitUrl": "game-assets/wiki/5/59/Mini_Portrait_Zombie.png"
   },
   {
     "name": "Wight",
@@ -1408,7 +1408,7 @@
     },
     "special": "Undead, Flying, Regeneration",
     "pageUrl": "https://heroes.thelazy.net/index.php/Wight",
-    "portraitUrl": "https://heroes.thelazy.net/images/9/92/Mini_Portrait_Wight.png"
+    "portraitUrl": "game-assets/wiki/9/92/Mini_Portrait_Wight.png"
   },
   {
     "name": "Wraith",
@@ -1431,7 +1431,7 @@
     },
     "special": "Undead, Flying, Regeneration, Mana drain",
     "pageUrl": "https://heroes.thelazy.net/index.php/Wraith",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/30/Mini_Portrait_Wraith.png"
+    "portraitUrl": "game-assets/wiki/3/30/Mini_Portrait_Wraith.png"
   },
   {
     "name": "Vampire",
@@ -1454,7 +1454,7 @@
     },
     "special": "Undead, Flying, No enemy retaliation",
     "pageUrl": "https://heroes.thelazy.net/index.php/Vampire",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/3d/Mini_Portrait_Vampire.png"
+    "portraitUrl": "game-assets/wiki/3/3d/Mini_Portrait_Vampire.png"
   },
   {
     "name": "Vampire Lord",
@@ -1477,7 +1477,7 @@
     },
     "special": "Undead, Flying, No enemy retaliation, Life drain",
     "pageUrl": "https://heroes.thelazy.net/index.php/Vampire_Lord",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/3a/Mini_Portrait_Vampire_Lord.png"
+    "portraitUrl": "game-assets/wiki/3/3a/Mini_Portrait_Vampire_Lord.png"
   },
   {
     "name": "Lich",
@@ -1500,7 +1500,7 @@
     },
     "special": "Ranged (12 shots), Undead, Death cloud",
     "pageUrl": "https://heroes.thelazy.net/index.php/Lich",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/b6/Mini_Portrait_Lich.png"
+    "portraitUrl": "game-assets/wiki/b/b6/Mini_Portrait_Lich.png"
   },
   {
     "name": "Power Lich",
@@ -1523,7 +1523,7 @@
     },
     "special": "Ranged (24 shots), Undead, Death cloud",
     "pageUrl": "https://heroes.thelazy.net/index.php/Power_Lich",
-    "portraitUrl": "https://heroes.thelazy.net/images/d/d9/Mini_Portrait_Power_Lich.png"
+    "portraitUrl": "game-assets/wiki/d/d9/Mini_Portrait_Power_Lich.png"
   },
   {
     "name": "Black Knight",
@@ -1546,7 +1546,7 @@
     },
     "special": "Undead, Curse",
     "pageUrl": "https://heroes.thelazy.net/index.php/Black_Knight",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/84/Mini_Portrait_Black_Knight.png"
+    "portraitUrl": "game-assets/wiki/8/84/Mini_Portrait_Black_Knight.png"
   },
   {
     "name": "Dread Knight",
@@ -1569,7 +1569,7 @@
     },
     "special": "Undead, Curse, Death blow",
     "pageUrl": "https://heroes.thelazy.net/index.php/Dread_Knight",
-    "portraitUrl": "https://heroes.thelazy.net/images/d/d1/Mini_Portrait_Dread_Knight.png"
+    "portraitUrl": "game-assets/wiki/d/d1/Mini_Portrait_Dread_Knight.png"
   },
   {
     "name": "Bone Dragon",
@@ -1592,7 +1592,7 @@
     },
     "special": "Dragon, Undead, Flying, Morale -1",
     "pageUrl": "https://heroes.thelazy.net/index.php/Bone_Dragon",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/fd/Mini_Portrait_Bone_Dragon.png"
+    "portraitUrl": "game-assets/wiki/f/fd/Mini_Portrait_Bone_Dragon.png"
   },
   {
     "name": "Ghost Dragon",
@@ -1616,7 +1616,7 @@
     },
     "special": "Dragon, Undead, Flying, Morale -1, Aging",
     "pageUrl": "https://heroes.thelazy.net/index.php/Ghost_Dragon",
-    "portraitUrl": "https://heroes.thelazy.net/images/2/24/Mini_Portrait_Ghost_Dragon.png"
+    "portraitUrl": "game-assets/wiki/2/24/Mini_Portrait_Ghost_Dragon.png"
   },
   {
     "name": "Troglodyte",
@@ -1639,7 +1639,7 @@
     },
     "special": "Immune to Blinding and Stone gaze",
     "pageUrl": "https://heroes.thelazy.net/index.php/Troglodyte",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/fa/Mini_Portrait_Troglodyte.png"
+    "portraitUrl": "game-assets/wiki/f/fa/Mini_Portrait_Troglodyte.png"
   },
   {
     "name": "Infernal Troglodyte",
@@ -1662,7 +1662,7 @@
     },
     "special": "Immune to Blinding and Stone gaze",
     "pageUrl": "https://heroes.thelazy.net/index.php/Infernal_Troglodyte",
-    "portraitUrl": "https://heroes.thelazy.net/images/2/2d/Mini_Portrait_Infernal_Troglodyte.png"
+    "portraitUrl": "game-assets/wiki/2/2d/Mini_Portrait_Infernal_Troglodyte.png"
   },
   {
     "name": "Harpy",
@@ -1685,7 +1685,7 @@
     },
     "special": "Flying, Strike and return",
     "pageUrl": "https://heroes.thelazy.net/index.php/Harpy",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/8a/Mini_Portrait_Harpy.png"
+    "portraitUrl": "game-assets/wiki/8/8a/Mini_Portrait_Harpy.png"
   },
   {
     "name": "Harpy Hag",
@@ -1708,7 +1708,7 @@
     },
     "special": "Flying, Strike and return, No enemy retaliation",
     "pageUrl": "https://heroes.thelazy.net/index.php/Harpy_Hag",
-    "portraitUrl": "https://heroes.thelazy.net/images/2/21/Mini_Portrait_Harpy_Hag.png"
+    "portraitUrl": "game-assets/wiki/2/21/Mini_Portrait_Harpy_Hag.png"
   },
   {
     "name": "Beholder",
@@ -1731,7 +1731,7 @@
     },
     "special": "Ranged (12 shots), No melee penalty",
     "pageUrl": "https://heroes.thelazy.net/index.php/Beholder",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/82/Mini_Portrait_Beholder.png"
+    "portraitUrl": "game-assets/wiki/8/82/Mini_Portrait_Beholder.png"
   },
   {
     "name": "Evil Eye",
@@ -1754,7 +1754,7 @@
     },
     "special": "Ranged (24 shots), No melee penalty",
     "pageUrl": "https://heroes.thelazy.net/index.php/Evil_Eye",
-    "portraitUrl": "https://heroes.thelazy.net/images/9/92/Mini_Portrait_Evil_Eye.png"
+    "portraitUrl": "game-assets/wiki/9/92/Mini_Portrait_Evil_Eye.png"
   },
   {
     "name": "Medusa",
@@ -1777,7 +1777,7 @@
     },
     "special": "Ranged (4 shots), No melee penalty, Petrifying attack",
     "pageUrl": "https://heroes.thelazy.net/index.php/Medusa",
-    "portraitUrl": "https://heroes.thelazy.net/images/a/a5/Mini_Portrait_Medusa.png"
+    "portraitUrl": "game-assets/wiki/a/a5/Mini_Portrait_Medusa.png"
   },
   {
     "name": "Medusa Queen",
@@ -1800,7 +1800,7 @@
     },
     "special": "Ranged (8 shots), No melee penalty, Petrifying attack",
     "pageUrl": "https://heroes.thelazy.net/index.php/Medusa_Queen",
-    "portraitUrl": "https://heroes.thelazy.net/images/4/4c/Mini_Portrait_Medusa_Queen.png"
+    "portraitUrl": "game-assets/wiki/4/4c/Mini_Portrait_Medusa_Queen.png"
   },
   {
     "name": "Minotaur",
@@ -1823,7 +1823,7 @@
     },
     "special": "Positive Morale",
     "pageUrl": "https://heroes.thelazy.net/index.php/Minotaur",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/0b/Mini_Portrait_Minotaur.png"
+    "portraitUrl": "game-assets/wiki/0/0b/Mini_Portrait_Minotaur.png"
   },
   {
     "name": "Minotaur King",
@@ -1846,7 +1846,7 @@
     },
     "special": "Positive Morale",
     "pageUrl": "https://heroes.thelazy.net/index.php/Minotaur_King",
-    "portraitUrl": "https://heroes.thelazy.net/images/c/ce/Mini_Portrait_Minotaur_King.png"
+    "portraitUrl": "game-assets/wiki/c/ce/Mini_Portrait_Minotaur_King.png"
   },
   {
     "name": "Manticore",
@@ -1869,7 +1869,7 @@
     },
     "special": "Flying",
     "pageUrl": "https://heroes.thelazy.net/index.php/Manticore",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/5d/Mini_Portrait_Manticore.png"
+    "portraitUrl": "game-assets/wiki/5/5d/Mini_Portrait_Manticore.png"
   },
   {
     "name": "Scorpicore",
@@ -1892,7 +1892,7 @@
     },
     "special": "Flying, Paralyzing venom",
     "pageUrl": "https://heroes.thelazy.net/index.php/Scorpicore",
-    "portraitUrl": "https://heroes.thelazy.net/images/4/43/Mini_Portrait_Scorpicore.png"
+    "portraitUrl": "game-assets/wiki/4/43/Mini_Portrait_Scorpicore.png"
   },
   {
     "name": "Red Dragon",
@@ -1916,7 +1916,7 @@
     },
     "special": "Dragon, Flying, Breath attack, 1-3 lvl spells immunity",
     "pageUrl": "https://heroes.thelazy.net/index.php/Red_Dragon",
-    "portraitUrl": "https://heroes.thelazy.net/images/1/16/Mini_Portrait_Red_Dragon.png"
+    "portraitUrl": "game-assets/wiki/1/16/Mini_Portrait_Red_Dragon.png"
   },
   {
     "name": "Black Dragon",
@@ -1940,7 +1940,7 @@
     },
     "special": "Dragon, Flying, Breath attack, Magic immunity, Hates Titans",
     "pageUrl": "https://heroes.thelazy.net/index.php/Black_Dragon",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/5a/Mini_Portrait_Black_Dragon.png"
+    "portraitUrl": "game-assets/wiki/5/5a/Mini_Portrait_Black_Dragon.png"
   },
   {
     "name": "Goblin",
@@ -1963,7 +1963,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Goblin",
-    "portraitUrl": "https://heroes.thelazy.net/images/c/ce/Mini_Portrait_Goblin.png"
+    "portraitUrl": "game-assets/wiki/c/ce/Mini_Portrait_Goblin.png"
   },
   {
     "name": "Hobgoblin",
@@ -1986,7 +1986,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Hobgoblin",
-    "portraitUrl": "https://heroes.thelazy.net/images/4/46/Mini_Portrait_Hobgoblin.png"
+    "portraitUrl": "game-assets/wiki/4/46/Mini_Portrait_Hobgoblin.png"
   },
   {
     "name": "Wolf Rider",
@@ -2009,7 +2009,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Wolf_Rider",
-    "portraitUrl": "https://heroes.thelazy.net/images/2/29/Mini_Portrait_Wolf_Rider.png"
+    "portraitUrl": "game-assets/wiki/2/29/Mini_Portrait_Wolf_Rider.png"
   },
   {
     "name": "Wolf Raider",
@@ -2032,7 +2032,7 @@
     },
     "special": "Double attack",
     "pageUrl": "https://heroes.thelazy.net/index.php/Wolf_Raider",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/6c/Mini_Portrait_Wolf_Raider.png"
+    "portraitUrl": "game-assets/wiki/6/6c/Mini_Portrait_Wolf_Raider.png"
   },
   {
     "name": "Orc",
@@ -2055,7 +2055,7 @@
     },
     "special": "Ranged (12 shots)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Orc",
-    "portraitUrl": "https://heroes.thelazy.net/images/c/c8/Mini_Portrait_Orc_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/c/c8/Mini_Portrait_Orc_%28HotA%29.png"
   },
   {
     "name": "Orc Chieftain",
@@ -2078,7 +2078,7 @@
     },
     "special": "Ranged (24 shots)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Orc_Chieftain",
-    "portraitUrl": "https://heroes.thelazy.net/images/a/a5/Mini_Portrait_Orc_Chieftain_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/a/a5/Mini_Portrait_Orc_Chieftain_%28HotA%29.png"
   },
   {
     "name": "Ogre",
@@ -2101,7 +2101,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Ogre",
-    "portraitUrl": "https://heroes.thelazy.net/images/a/a2/Mini_Portrait_Ogre.png"
+    "portraitUrl": "game-assets/wiki/a/a2/Mini_Portrait_Ogre.png"
   },
   {
     "name": "Ogre Mage",
@@ -2124,7 +2124,7 @@
     },
     "special": "Spellcaster (Bloodlust)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Ogre_Mage",
-    "portraitUrl": "https://heroes.thelazy.net/images/c/c1/Mini_Portrait_Ogre_Mage.png"
+    "portraitUrl": "game-assets/wiki/c/c1/Mini_Portrait_Ogre_Mage.png"
   },
   {
     "name": "Roc",
@@ -2147,7 +2147,7 @@
     },
     "special": "Flying",
     "pageUrl": "https://heroes.thelazy.net/index.php/Roc",
-    "portraitUrl": "https://heroes.thelazy.net/images/c/cc/Mini_Portrait_Roc.png"
+    "portraitUrl": "game-assets/wiki/c/cc/Mini_Portrait_Roc.png"
   },
   {
     "name": "Thunderbird",
@@ -2170,7 +2170,7 @@
     },
     "special": "Flying, Lightning strike",
     "pageUrl": "https://heroes.thelazy.net/index.php/Thunderbird",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/7b/Mini_Portrait_Thunderbird.png"
+    "portraitUrl": "game-assets/wiki/7/7b/Mini_Portrait_Thunderbird.png"
   },
   {
     "name": "Cyclops",
@@ -2193,7 +2193,7 @@
     },
     "special": "Ranged (16 shots), Can attack siege walls",
     "pageUrl": "https://heroes.thelazy.net/index.php/Cyclops",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/06/Mini_Portrait_Cyclops.png"
+    "portraitUrl": "game-assets/wiki/0/06/Mini_Portrait_Cyclops.png"
   },
   {
     "name": "Cyclops King",
@@ -2216,7 +2216,7 @@
     },
     "special": "Ranged (24 shots), Can attack siege walls",
     "pageUrl": "https://heroes.thelazy.net/index.php/Cyclops_King",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/6e/Mini_Portrait_Cyclops_King.png"
+    "portraitUrl": "game-assets/wiki/6/6e/Mini_Portrait_Cyclops_King.png"
   },
   {
     "name": "Behemoth",
@@ -2239,7 +2239,7 @@
     },
     "special": "Ignores 40% of enemy defense value",
     "pageUrl": "https://heroes.thelazy.net/index.php/Behemoth",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/35/Mini_Portrait_Behemoth.png"
+    "portraitUrl": "game-assets/wiki/3/35/Mini_Portrait_Behemoth.png"
   },
   {
     "name": "Ancient Behemoth",
@@ -2263,7 +2263,7 @@
     },
     "special": "Ignores 80% of enemy defense value",
     "pageUrl": "https://heroes.thelazy.net/index.php/Ancient_Behemoth",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/34/Mini_Portrait_Ancient_Behemoth.png"
+    "portraitUrl": "game-assets/wiki/3/34/Mini_Portrait_Ancient_Behemoth.png"
   },
   {
     "name": "Gnoll",
@@ -2286,7 +2286,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Gnoll",
-    "portraitUrl": "https://heroes.thelazy.net/images/4/49/Mini_Portrait_Gnoll.png"
+    "portraitUrl": "game-assets/wiki/4/49/Mini_Portrait_Gnoll.png"
   },
   {
     "name": "Gnoll Marauder",
@@ -2309,7 +2309,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Gnoll_Marauder",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/71/Mini_Portrait_Gnoll_Marauder.png"
+    "portraitUrl": "game-assets/wiki/7/71/Mini_Portrait_Gnoll_Marauder.png"
   },
   {
     "name": "Lizardman",
@@ -2332,7 +2332,7 @@
     },
     "special": "Ranged (12 shots)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Lizardman",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/b9/Mini_Portrait_Lizardman.png"
+    "portraitUrl": "game-assets/wiki/b/b9/Mini_Portrait_Lizardman.png"
   },
   {
     "name": "Lizard Warrior",
@@ -2355,7 +2355,7 @@
     },
     "special": "Ranged (24 shots)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Lizard_Warrior",
-    "portraitUrl": "https://heroes.thelazy.net/images/4/45/Mini_Portrait_Lizard_Warrior.png"
+    "portraitUrl": "game-assets/wiki/4/45/Mini_Portrait_Lizard_Warrior.png"
   },
   {
     "name": "Serpent Fly",
@@ -2378,7 +2378,7 @@
     },
     "special": "Flying, Dispels beneficial spells",
     "pageUrl": "https://heroes.thelazy.net/index.php/Serpent_Fly",
-    "portraitUrl": "https://heroes.thelazy.net/images/a/a9/Mini_Portrait_Serpent_Fly.png"
+    "portraitUrl": "game-assets/wiki/a/a9/Mini_Portrait_Serpent_Fly.png"
   },
   {
     "name": "Dragon Fly",
@@ -2401,7 +2401,7 @@
     },
     "special": "Flying, Dispels beneficial spells, Weakness",
     "pageUrl": "https://heroes.thelazy.net/index.php/Dragon_Fly",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/81/Mini_Portrait_Dragon_Fly.png"
+    "portraitUrl": "game-assets/wiki/8/81/Mini_Portrait_Dragon_Fly.png"
   },
   {
     "name": "Basilisk",
@@ -2424,7 +2424,7 @@
     },
     "special": "Petrifying attack",
     "pageUrl": "https://heroes.thelazy.net/index.php/Basilisk",
-    "portraitUrl": "https://heroes.thelazy.net/images/4/47/Mini_Portrait_Basilisk.png"
+    "portraitUrl": "game-assets/wiki/4/47/Mini_Portrait_Basilisk.png"
   },
   {
     "name": "Greater Basilisk",
@@ -2447,7 +2447,7 @@
     },
     "special": "Petrifying attack",
     "pageUrl": "https://heroes.thelazy.net/index.php/Greater_Basilisk",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/77/Mini_Portrait_Greater_Basilisk.png"
+    "portraitUrl": "game-assets/wiki/7/77/Mini_Portrait_Greater_Basilisk.png"
   },
   {
     "name": "Gorgon",
@@ -2470,7 +2470,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Gorgon",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/59/Mini_Portrait_Gorgon.png"
+    "portraitUrl": "game-assets/wiki/5/59/Mini_Portrait_Gorgon.png"
   },
   {
     "name": "Mighty Gorgon",
@@ -2493,7 +2493,7 @@
     },
     "special": "Death stare (10% chance per unit)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Mighty_Gorgon",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/f8/Mini_Portrait_Mighty_Gorgon.png"
+    "portraitUrl": "game-assets/wiki/f/f8/Mini_Portrait_Mighty_Gorgon.png"
   },
   {
     "name": "Wyvern",
@@ -2516,7 +2516,7 @@
     },
     "special": "Flying",
     "pageUrl": "https://heroes.thelazy.net/index.php/Wyvern",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/86/Mini_Portrait_Wyvern.png"
+    "portraitUrl": "game-assets/wiki/8/86/Mini_Portrait_Wyvern.png"
   },
   {
     "name": "Wyvern Monarch",
@@ -2539,7 +2539,7 @@
     },
     "special": "Flying, Poisonous",
     "pageUrl": "https://heroes.thelazy.net/index.php/Wyvern_Monarch",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/fe/Mini_Portrait_Wyvern_Monarch.png"
+    "portraitUrl": "game-assets/wiki/f/fe/Mini_Portrait_Wyvern_Monarch.png"
   },
   {
     "name": "Hydra",
@@ -2562,7 +2562,7 @@
     },
     "special": "No enemy retaliation, Attacks all adjacent enemies",
     "pageUrl": "https://heroes.thelazy.net/index.php/Hydra",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/8a/Mini_Portrait_Hydra.png"
+    "portraitUrl": "game-assets/wiki/8/8a/Mini_Portrait_Hydra.png"
   },
   {
     "name": "Chaos Hydra",
@@ -2586,7 +2586,7 @@
     },
     "special": "No enemy retaliation, Attacks all adjacent enemies",
     "pageUrl": "https://heroes.thelazy.net/index.php/Chaos_Hydra",
-    "portraitUrl": "https://heroes.thelazy.net/images/e/e1/Mini_Portrait_Chaos_Hydra.png"
+    "portraitUrl": "game-assets/wiki/e/e1/Mini_Portrait_Chaos_Hydra.png"
   },
   {
     "name": "Pixie",
@@ -2609,7 +2609,7 @@
     },
     "special": "Flying",
     "pageUrl": "https://heroes.thelazy.net/index.php/Pixie",
-    "portraitUrl": "https://heroes.thelazy.net/images/2/26/Mini_Portrait_Pixie_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/2/26/Mini_Portrait_Pixie_%28HotA%29.png"
   },
   {
     "name": "Sprite",
@@ -2632,7 +2632,7 @@
     },
     "special": "Flying, No enemy retaliation",
     "pageUrl": "https://heroes.thelazy.net/index.php/Sprite",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/0a/Mini_Portrait_Sprite_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/0/0a/Mini_Portrait_Sprite_%28HotA%29.png"
   },
   {
     "name": "Air Elemental",
@@ -2655,7 +2655,7 @@
     },
     "special": "Elemental, Immune to Meteor Shower, Vulnerable to Lightning Bolt, Chain Lightning, Titan's Lightning Bolt and Armageddon, +100% to basic damage to Earth and Magma Elementals",
     "pageUrl": "https://heroes.thelazy.net/index.php/Air_Elemental",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/6b/Mini_Portrait_Air_Elemental.png"
+    "portraitUrl": "game-assets/wiki/6/6b/Mini_Portrait_Air_Elemental.png"
   },
   {
     "name": "Storm Elemental",
@@ -2678,7 +2678,7 @@
     },
     "special": "Ranged (24 shots), Elemental, Immune to Meteor Shower, Vulnerable to Lightning Bolt, Chain Lightning, Titan's Lightning Bolt and Armageddon, +100% to basic damage to Earth and Magma Elementals, Spellcaster (Protection from Air)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Storm_Elemental",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/00/Mini_Portrait_Storm_Elemental.png"
+    "portraitUrl": "game-assets/wiki/0/00/Mini_Portrait_Storm_Elemental.png"
   },
   {
     "name": "Water Elemental",
@@ -2701,7 +2701,7 @@
     },
     "special": "Elemental, Immune to Ice Bolt and Frost Ring, Vulnerable to Fireball, Inferno and Armageddon, +100% to basic damage to Fire and Energy Elementals",
     "pageUrl": "https://heroes.thelazy.net/index.php/Water_Elemental",
-    "portraitUrl": "https://heroes.thelazy.net/images/e/ef/Mini_Portrait_Water_Elemental.png"
+    "portraitUrl": "game-assets/wiki/e/ef/Mini_Portrait_Water_Elemental.png"
   },
   {
     "name": "Ice Elemental",
@@ -2724,7 +2724,7 @@
     },
     "special": "Ranged (24 shots), Elemental, Immune to Ice Bolt and Frost Ring, Vulnerable to Fireball, Inferno and Armageddon, +100% to basic damage to Fire and Energy Elementals, Spellcaster (Protection from Water)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Ice_Elemental",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/56/Mini_Portrait_Ice_Elemental.png"
+    "portraitUrl": "game-assets/wiki/5/56/Mini_Portrait_Ice_Elemental.png"
   },
   {
     "name": "Fire Elemental",
@@ -2747,7 +2747,7 @@
     },
     "special": "Elemental, Fire immunity, Vulnerable to Ice Bolt and Frost Ring, +100% to basic damage to Water and Ice Elementals",
     "pageUrl": "https://heroes.thelazy.net/index.php/Fire_Elemental",
-    "portraitUrl": "https://heroes.thelazy.net/images/1/10/Mini_Portrait_Fire_Elemental_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/1/10/Mini_Portrait_Fire_Elemental_%28HotA%29.png"
   },
   {
     "name": "Energy Elemental",
@@ -2770,7 +2770,7 @@
     },
     "special": "Elemental, Flying, Fire immunity, Vulnerable to Ice Bolt and Frost Ring, +100% to basic damage to Water and Ice Elementals, Spellcaster (Protection from Fire)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Energy_Elemental",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/7a/Mini_Portrait_Energy_Elemental.png"
+    "portraitUrl": "game-assets/wiki/7/7a/Mini_Portrait_Energy_Elemental.png"
   },
   {
     "name": "Earth Elemental",
@@ -2793,7 +2793,7 @@
     },
     "special": "Elemental, Immune to Lightning Bolt, Chain Lightning, Titan's Lightning Bolt and Armageddon, Vulnerable to Meteor Shower, +100% to basic damage to Air and Storm Elementals",
     "pageUrl": "https://heroes.thelazy.net/index.php/Earth_Elemental",
-    "portraitUrl": "https://heroes.thelazy.net/images/1/1a/Mini_Portrait_Earth_Elemental.png"
+    "portraitUrl": "game-assets/wiki/1/1a/Mini_Portrait_Earth_Elemental.png"
   },
   {
     "name": "Magma Elemental",
@@ -2816,7 +2816,7 @@
     },
     "special": "Elemental, Immune to Lightning Bolt, Chain Lightning, Titan's Lightning Bolt and Armageddon, Vulnerable to Meteor Shower, +100% to basic damage to Air and Storm Elementals, Spellcaster (Protection from Earth)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Magma_Elemental",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/bc/Mini_Portrait_Magma_Elemental.png"
+    "portraitUrl": "game-assets/wiki/b/bc/Mini_Portrait_Magma_Elemental.png"
   },
   {
     "name": "Psychic Elemental",
@@ -2839,7 +2839,7 @@
     },
     "special": "Elemental, No enemy retaliation, Attacks all adjacent enemies, -50% damage to creatures with Mind spells immunity",
     "pageUrl": "https://heroes.thelazy.net/index.php/Psychic_Elemental",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/f7/Mini_Portrait_Psychic_Elemental.png"
+    "portraitUrl": "game-assets/wiki/f/f7/Mini_Portrait_Psychic_Elemental.png"
   },
   {
     "name": "Magic Elemental",
@@ -2862,7 +2862,7 @@
     },
     "special": "Elemental, No enemy retaliation, Attacks all adjacent enemies, Magic immunity, -50% damage to creatures with Magic immunity",
     "pageUrl": "https://heroes.thelazy.net/index.php/Magic_Elemental",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/3e/Mini_Portrait_Magic_Elemental.png"
+    "portraitUrl": "game-assets/wiki/3/3e/Mini_Portrait_Magic_Elemental.png"
   },
   {
     "name": "Firebird",
@@ -2885,7 +2885,7 @@
     },
     "special": "Flying, Breath attack, 50% Fire resistance Fire immunity",
     "pageUrl": "https://heroes.thelazy.net/index.php/Firebird",
-    "portraitUrl": "https://heroes.thelazy.net/images/d/d2/Mini_Portrait_Firebird.png"
+    "portraitUrl": "game-assets/wiki/d/d2/Mini_Portrait_Firebird.png"
   },
   {
     "name": "Phoenix",
@@ -2909,7 +2909,7 @@
     },
     "special": "Flying, Breath attack, Fire immunity, Rebirth",
     "pageUrl": "https://heroes.thelazy.net/index.php/Phoenix",
-    "portraitUrl": "https://heroes.thelazy.net/images/2/28/Mini_Portrait_Phoenix.png"
+    "portraitUrl": "game-assets/wiki/2/28/Mini_Portrait_Phoenix.png"
   },
   {
     "name": "Nymph",
@@ -2932,7 +2932,7 @@
     },
     "special": "Teleporting, Immune to Ice Bolt and Frost Ring",
     "pageUrl": "https://heroes.thelazy.net/index.php/Nymph",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/57/Mini_Portrait_Nymph.png"
+    "portraitUrl": "game-assets/wiki/5/57/Mini_Portrait_Nymph.png"
   },
   {
     "name": "Oceanid",
@@ -2955,7 +2955,7 @@
     },
     "special": "Teleporting, Immune to Ice Bolt and Frost Ring",
     "pageUrl": "https://heroes.thelazy.net/index.php/Oceanid",
-    "portraitUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Oceanid.png"
+    "portraitUrl": "game-assets/wiki/d/d8/Mini_Portrait_Oceanid.png"
   },
   {
     "name": "Crew Mate",
@@ -2978,7 +2978,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Crew_Mate",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/70/Mini_Portrait_Crew_Mate.png"
+    "portraitUrl": "game-assets/wiki/7/70/Mini_Portrait_Crew_Mate.png"
   },
   {
     "name": "Seaman",
@@ -3001,7 +3001,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Seaman",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/76/Mini_Portrait_Seaman.png"
+    "portraitUrl": "game-assets/wiki/7/76/Mini_Portrait_Seaman.png"
   },
   {
     "name": "Pirate",
@@ -3024,7 +3024,7 @@
     },
     "special": "Ranged (4 shots), No melee penalty",
     "pageUrl": "https://heroes.thelazy.net/index.php/Pirate",
-    "portraitUrl": "https://heroes.thelazy.net/images/e/e8/Mini_Portrait_Pirate.png"
+    "portraitUrl": "game-assets/wiki/e/e8/Mini_Portrait_Pirate.png"
   },
   {
     "name": "Corsair",
@@ -3047,7 +3047,7 @@
     },
     "special": "Ranged (4 shots), No melee penalty, No enemy retaliation",
     "pageUrl": "https://heroes.thelazy.net/index.php/Corsair",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/89/Mini_Portrait_Corsair.png"
+    "portraitUrl": "game-assets/wiki/8/89/Mini_Portrait_Corsair.png"
   },
   {
     "name": "Sea Dog",
@@ -3070,7 +3070,7 @@
     },
     "special": "Ranged (12 shots), No melee penalty, No enemy retaliation, Accurate shot",
     "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Dog",
-    "portraitUrl": "https://heroes.thelazy.net/images/e/e9/Mini_Portrait_Sea_Dog.png"
+    "portraitUrl": "game-assets/wiki/e/e9/Mini_Portrait_Sea_Dog.png"
   },
   {
     "name": "Stormbird",
@@ -3093,7 +3093,7 @@
     },
     "special": "Flying",
     "pageUrl": "https://heroes.thelazy.net/index.php/Stormbird",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/6a/Mini_Portrait_Stormbird.png"
+    "portraitUrl": "game-assets/wiki/6/6a/Mini_Portrait_Stormbird.png"
   },
   {
     "name": "Ayssid",
@@ -3116,7 +3116,7 @@
     },
     "special": "Flying, Ferocity",
     "pageUrl": "https://heroes.thelazy.net/index.php/Ayssid",
-    "portraitUrl": "https://heroes.thelazy.net/images/a/a9/Mini_Portrait_Ayssid.png"
+    "portraitUrl": "game-assets/wiki/a/a9/Mini_Portrait_Ayssid.png"
   },
   {
     "name": "Sea Witch",
@@ -3139,7 +3139,7 @@
     },
     "special": "Ranged (12 shots), Spellcaster (after shot, Weakness / Disrupting Ray)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Witch",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/5d/Mini_Portrait_Sea_Witch.png"
+    "portraitUrl": "game-assets/wiki/5/5d/Mini_Portrait_Sea_Witch.png"
   },
   {
     "name": "Sorceress",
@@ -3162,7 +3162,7 @@
     },
     "special": "Ranged (12 shots), Spellcaster (after shot, Weakness / Disrupting Ray)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Sorceress",
-    "portraitUrl": "https://heroes.thelazy.net/images/e/e2/Mini_Portrait_Sorceress.png"
+    "portraitUrl": "game-assets/wiki/e/e2/Mini_Portrait_Sorceress.png"
   },
   {
     "name": "Nix",
@@ -3185,7 +3185,7 @@
     },
     "special": "Ignores 30% of enemy attack value",
     "pageUrl": "https://heroes.thelazy.net/index.php/Nix",
-    "portraitUrl": "https://heroes.thelazy.net/images/e/eb/Mini_Portrait_Nix.png"
+    "portraitUrl": "game-assets/wiki/e/eb/Mini_Portrait_Nix.png"
   },
   {
     "name": "Nix Warrior",
@@ -3208,7 +3208,7 @@
     },
     "special": "Ignores 60% of enemy attack value",
     "pageUrl": "https://heroes.thelazy.net/index.php/Nix_Warrior",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/0d/Mini_Portrait_Nix_Warrior.png"
+    "portraitUrl": "game-assets/wiki/0/0d/Mini_Portrait_Nix_Warrior.png"
   },
   {
     "name": "Sea Serpent",
@@ -3232,7 +3232,7 @@
     },
     "special": "Poisonous",
     "pageUrl": "https://heroes.thelazy.net/index.php/Sea_Serpent",
-    "portraitUrl": "https://heroes.thelazy.net/images/2/28/Mini_Portrait_Sea_Serpent.png"
+    "portraitUrl": "game-assets/wiki/2/28/Mini_Portrait_Sea_Serpent.png"
   },
   {
     "name": "Haspid",
@@ -3256,7 +3256,7 @@
     },
     "special": "Poisonous, Revenge",
     "pageUrl": "https://heroes.thelazy.net/index.php/Haspid",
-    "portraitUrl": "https://heroes.thelazy.net/images/d/d1/Mini_Portrait_Haspid.png"
+    "portraitUrl": "game-assets/wiki/d/d1/Mini_Portrait_Haspid.png"
   },
   {
     "name": "Halfling (Factory)",
@@ -3279,7 +3279,7 @@
     },
     "special": "Ranged (24 shots), Positive Luck",
     "pageUrl": "https://heroes.thelazy.net/index.php/Halfling_(Factory)",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/08/Mini_Portrait_Halfling_%28Factory%29.png"
+    "portraitUrl": "game-assets/wiki/0/08/Mini_Portrait_Halfling_%28Factory%29.png"
   },
   {
     "name": "Halfling Grenadier",
@@ -3302,7 +3302,7 @@
     },
     "special": "Ranged (24 shots), Positive Luck, Ranged attack ignores 20% of enemy's defense skill",
     "pageUrl": "https://heroes.thelazy.net/index.php/Halfling_Grenadier",
-    "portraitUrl": "https://heroes.thelazy.net/images/a/a3/Mini_Portrait_Halfling_Grenadier.png"
+    "portraitUrl": "game-assets/wiki/a/a3/Mini_Portrait_Halfling_Grenadier.png"
   },
   {
     "name": "Mechanic",
@@ -3325,7 +3325,7 @@
     },
     "special": "Breath attack, Repairing (10 HP per unit)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Mechanic",
-    "portraitUrl": "https://heroes.thelazy.net/images/e/ed/Mini_Portrait_Mechanic.png"
+    "portraitUrl": "game-assets/wiki/e/ed/Mini_Portrait_Mechanic.png"
   },
   {
     "name": "Engineer",
@@ -3348,7 +3348,7 @@
     },
     "special": "Breath attack, Repairing (20 HP per unit)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Engineer",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/ff/Mini_Portrait_Engineer.png"
+    "portraitUrl": "game-assets/wiki/f/ff/Mini_Portrait_Engineer.png"
   },
   {
     "name": "Armadillo",
@@ -3371,7 +3371,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Armadillo",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/39/Mini_Portrait_Armadillo.png"
+    "portraitUrl": "game-assets/wiki/3/39/Mini_Portrait_Armadillo.png"
   },
   {
     "name": "Bellwether Armadillo",
@@ -3394,7 +3394,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Bellwether_Armadillo",
-    "portraitUrl": "https://heroes.thelazy.net/images/9/9b/Mini_Portrait_Bellwether_Armadillo.png"
+    "portraitUrl": "game-assets/wiki/9/9b/Mini_Portrait_Bellwether_Armadillo.png"
   },
   {
     "name": "Automaton",
@@ -3417,7 +3417,7 @@
     },
     "special": "Mechanical, Detonation",
     "pageUrl": "https://heroes.thelazy.net/index.php/Automaton",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/34/Mini_Portrait_Automaton.png"
+    "portraitUrl": "game-assets/wiki/3/34/Mini_Portrait_Automaton.png"
   },
   {
     "name": "Sentinel Automaton",
@@ -3440,7 +3440,7 @@
     },
     "special": "Mechanical, Detonation, No enemy retaliation",
     "pageUrl": "https://heroes.thelazy.net/index.php/Sentinel_Automaton",
-    "portraitUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Sentinel_Automaton.png"
+    "portraitUrl": "game-assets/wiki/d/d8/Mini_Portrait_Sentinel_Automaton.png"
   },
   {
     "name": "Sandworm",
@@ -3463,7 +3463,7 @@
     },
     "special": "Burrowing, Immune to Blinding and Stone gaze",
     "pageUrl": "https://heroes.thelazy.net/index.php/Sandworm",
-    "portraitUrl": "https://heroes.thelazy.net/images/4/4c/Mini_Portrait_Sandworm.png"
+    "portraitUrl": "game-assets/wiki/4/4c/Mini_Portrait_Sandworm.png"
   },
   {
     "name": "Olgoi-Khorkhoi",
@@ -3486,7 +3486,7 @@
     },
     "special": "Burrowing, Immune to Blinding and Stone gaze, Devours corpses",
     "pageUrl": "https://heroes.thelazy.net/index.php/Olgoi-Khorkhoi",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/3c/Mini_Portrait_Olgoi-Khorkhoi.png"
+    "portraitUrl": "game-assets/wiki/3/3c/Mini_Portrait_Olgoi-Khorkhoi.png"
   },
   {
     "name": "Gunslinger",
@@ -3509,7 +3509,7 @@
     },
     "special": "Ranged (16 shots), Preemptive shot (once per round)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Gunslinger",
-    "portraitUrl": "https://heroes.thelazy.net/images/9/91/Mini_Portrait_Gunslinger.png"
+    "portraitUrl": "game-assets/wiki/9/91/Mini_Portrait_Gunslinger.png"
   },
   {
     "name": "Bounty Hunter",
@@ -3532,7 +3532,7 @@
     },
     "special": "Ranged (24 shots), Preemptive shot (unlimited)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Bounty_Hunter",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/85/Mini_Portrait_Bounty_Hunter.png"
+    "portraitUrl": "game-assets/wiki/8/85/Mini_Portrait_Bounty_Hunter.png"
   },
   {
     "name": "Couatl",
@@ -3555,7 +3555,7 @@
     },
     "special": "Flying, Meditation (skiping a turn)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Couatl",
-    "portraitUrl": "https://heroes.thelazy.net/images/2/27/Mini_Portrait_Couatl.png"
+    "portraitUrl": "game-assets/wiki/2/27/Mini_Portrait_Couatl.png"
   },
   {
     "name": "Crimson Couatl",
@@ -3579,7 +3579,7 @@
     },
     "special": "Flying, Meditation (without skipping a turn)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Crimson_Couatl",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/7b/Mini_Portrait_Crimson_Couatl.png"
+    "portraitUrl": "game-assets/wiki/7/7b/Mini_Portrait_Crimson_Couatl.png"
   },
   {
     "name": "Dreadnought",
@@ -3603,7 +3603,7 @@
     },
     "special": "Mechanical, Heat stroke",
     "pageUrl": "https://heroes.thelazy.net/index.php/Dreadnought",
-    "portraitUrl": "https://heroes.thelazy.net/images/1/16/Mini_Portrait_Dreadnought.png"
+    "portraitUrl": "game-assets/wiki/1/16/Mini_Portrait_Dreadnought.png"
   },
   {
     "name": "Juggernaut",
@@ -3627,7 +3627,7 @@
     },
     "special": "Mechanical, Heat stroke",
     "pageUrl": "https://heroes.thelazy.net/index.php/Juggernaut",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/6b/Mini_Portrait_Juggernaut.png"
+    "portraitUrl": "game-assets/wiki/6/6b/Mini_Portrait_Juggernaut.png"
   },
   {
     "name": "Kobold",
@@ -3650,7 +3650,7 @@
     },
     "special": "Generates 1 Gold per unit per day",
     "pageUrl": "https://heroes.thelazy.net/index.php/Kobold",
-    "portraitUrl": "https://heroes.thelazy.net/images/f/f0/Mini_Portrait_Kobold.png"
+    "portraitUrl": "game-assets/wiki/f/f0/Mini_Portrait_Kobold.png"
   },
   {
     "name": "Kobold Foreman",
@@ -3673,7 +3673,7 @@
     },
     "special": "Generates 1 Gold per unit per day",
     "pageUrl": "https://heroes.thelazy.net/index.php/Kobold_Foreman",
-    "portraitUrl": "https://heroes.thelazy.net/images/2/25/Mini_Portrait_Kobold_Foreman.png"
+    "portraitUrl": "game-assets/wiki/2/25/Mini_Portrait_Kobold_Foreman.png"
   },
   {
     "name": "Mountain Ram",
@@ -3696,7 +3696,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Mountain_Ram",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/70/Mini_Portrait_Mountain_Ram.png"
+    "portraitUrl": "game-assets/wiki/7/70/Mini_Portrait_Mountain_Ram.png"
   },
   {
     "name": "Argali",
@@ -3719,7 +3719,7 @@
     },
     "special": "Immune to Ice Bolt and Frost Ring, Adjacent enemies receive +20% Spell Damage",
     "pageUrl": "https://heroes.thelazy.net/index.php/Argali",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/ba/Mini_Portrait_Argali.png"
+    "portraitUrl": "game-assets/wiki/b/ba/Mini_Portrait_Argali.png"
   },
   {
     "name": "Snow Elf",
@@ -3742,7 +3742,7 @@
     },
     "special": "Ranged (4 shots), No melee penalty",
     "pageUrl": "https://heroes.thelazy.net/index.php/Snow_Elf",
-    "portraitUrl": "https://heroes.thelazy.net/images/e/e6/Mini_Portrait_Snow_Elf_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/e/e6/Mini_Portrait_Snow_Elf_%28HotA%29.png"
   },
   {
     "name": "Steel Elf",
@@ -3765,7 +3765,7 @@
     },
     "special": "Ranged (8 shots), No melee penalty, May shoot while adjacent to enemy creatures",
     "pageUrl": "https://heroes.thelazy.net/index.php/Steel_Elf",
-    "portraitUrl": "https://heroes.thelazy.net/images/1/15/Mini_Portrait_Steel_Elf.png"
+    "portraitUrl": "game-assets/wiki/1/15/Mini_Portrait_Steel_Elf.png"
   },
   {
     "name": "Yeti",
@@ -3788,7 +3788,7 @@
     },
     "special": "Recovers from negative effects in one round of combat",
     "pageUrl": "https://heroes.thelazy.net/index.php/Yeti",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/7a/Mini_Portrait_Yeti.png"
+    "portraitUrl": "game-assets/wiki/7/7a/Mini_Portrait_Yeti.png"
   },
   {
     "name": "Yeti Runemaster",
@@ -3811,7 +3811,7 @@
     },
     "special": "Recovers from negative effects in one round of combat, Possesses Runes",
     "pageUrl": "https://heroes.thelazy.net/index.php/Yeti_Runemaster",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/85/Mini_Portrait_Yeti_Runemaster.png"
+    "portraitUrl": "game-assets/wiki/8/85/Mini_Portrait_Yeti_Runemaster.png"
   },
   {
     "name": "Shaman",
@@ -3834,7 +3834,7 @@
     },
     "special": "Ranged (12 shots), Spellcaster (Air Shield)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Shaman",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/39/Mini_Portrait_Shaman.png"
+    "portraitUrl": "game-assets/wiki/3/39/Mini_Portrait_Shaman.png"
   },
   {
     "name": "Great Shaman",
@@ -3857,7 +3857,7 @@
     },
     "special": "Ranged (24 shots), Spellcaster (Air Shield), Freezing Shot",
     "pageUrl": "https://heroes.thelazy.net/index.php/Great_Shaman",
-    "portraitUrl": "https://heroes.thelazy.net/images/a/a7/Mini_Portrait_Great_Shaman.png"
+    "portraitUrl": "game-assets/wiki/a/a7/Mini_Portrait_Great_Shaman.png"
   },
   {
     "name": "Mammoth",
@@ -3880,7 +3880,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Mammoth",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/bb/Mini_Portrait_Mammoth_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/b/bb/Mini_Portrait_Mammoth_%28HotA%29.png"
   },
   {
     "name": "War Mammoth",
@@ -3903,7 +3903,7 @@
     },
     "special": "Receives +100% Defense while defending in combat.",
     "pageUrl": "https://heroes.thelazy.net/index.php/War_Mammoth",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/6a/Mini_Portrait_War_Mammoth.png"
+    "portraitUrl": "game-assets/wiki/6/6a/Mini_Portrait_War_Mammoth.png"
   },
   {
     "name": "Jotunn",
@@ -3926,7 +3926,7 @@
     },
     "special": "Teleports allies (once per combat), -1 enemy flying units' Speed",
     "pageUrl": "https://heroes.thelazy.net/index.php/Jotunn",
-    "portraitUrl": "https://heroes.thelazy.net/images/4/4b/Mini_Portrait_Jotunn.png"
+    "portraitUrl": "game-assets/wiki/4/4b/Mini_Portrait_Jotunn.png"
   },
   {
     "name": "Jotunn Warlord",
@@ -3950,7 +3950,7 @@
     },
     "special": "Teleports allies (unlimited), -2 enemy flying units' Speed",
     "pageUrl": "https://heroes.thelazy.net/index.php/Jotunn_Warlord",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/8e/Mini_Portrait_Jotunn_Warlord.png"
+    "portraitUrl": "game-assets/wiki/8/8e/Mini_Portrait_Jotunn_Warlord.png"
   },
   {
     "name": "Peasant",
@@ -3973,7 +3973,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Peasant",
-    "portraitUrl": "https://heroes.thelazy.net/images/1/19/Mini_Portrait_Peasant.png"
+    "portraitUrl": "game-assets/wiki/1/19/Mini_Portrait_Peasant.png"
   },
   {
     "name": "Halfling",
@@ -3996,7 +3996,7 @@
     },
     "special": "Ranged (24 shots), Positive Luck",
     "pageUrl": "https://heroes.thelazy.net/index.php/Halfling",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/56/Mini_Portrait_Halfling_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/5/56/Mini_Portrait_Halfling_%28HotA%29.png"
   },
   {
     "name": "Boar",
@@ -4019,7 +4019,7 @@
     },
     "special": "",
     "pageUrl": "https://heroes.thelazy.net/index.php/Boar",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/61/Mini_Portrait_Boar.png"
+    "portraitUrl": "game-assets/wiki/6/61/Mini_Portrait_Boar.png"
   },
   {
     "name": "Rogue",
@@ -4042,7 +4042,7 @@
     },
     "special": "Spying",
     "pageUrl": "https://heroes.thelazy.net/index.php/Rogue",
-    "portraitUrl": "https://heroes.thelazy.net/images/7/72/Mini_Portrait_Rogue.png"
+    "portraitUrl": "game-assets/wiki/7/72/Mini_Portrait_Rogue.png"
   },
   {
     "name": "Leprechaun",
@@ -4065,7 +4065,7 @@
     },
     "special": "Doubles friendly units Luck chance, Spellcaster (Fortune)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Leprechaun",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/52/Mini_Portrait_Leprechaun.png"
+    "portraitUrl": "game-assets/wiki/5/52/Mini_Portrait_Leprechaun.png"
   },
   {
     "name": "Mummy",
@@ -4088,7 +4088,7 @@
     },
     "special": "Undead, Curse",
     "pageUrl": "https://heroes.thelazy.net/index.php/Mummy",
-    "portraitUrl": "https://heroes.thelazy.net/images/e/e6/Mini_Portrait_Mummy.png"
+    "portraitUrl": "game-assets/wiki/e/e6/Mini_Portrait_Mummy.png"
   },
   {
     "name": "Nomad",
@@ -4111,7 +4111,7 @@
     },
     "special": "Sandwalker",
     "pageUrl": "https://heroes.thelazy.net/index.php/Nomad",
-    "portraitUrl": "https://heroes.thelazy.net/images/2/28/Mini_Portrait_Nomad.png"
+    "portraitUrl": "game-assets/wiki/2/28/Mini_Portrait_Nomad.png"
   },
   {
     "name": "Sharpshooter",
@@ -4134,7 +4134,7 @@
     },
     "special": "Ranged (32 shots), No range and obstacle penalty",
     "pageUrl": "https://heroes.thelazy.net/index.php/Sharpshooter",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/3d/Mini_Portrait_Sharpshooter.png"
+    "portraitUrl": "game-assets/wiki/3/3d/Mini_Portrait_Sharpshooter.png"
   },
   {
     "name": "Satyr",
@@ -4157,7 +4157,7 @@
     },
     "special": "Spellcaster (Mirth)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Satyr",
-    "portraitUrl": "https://heroes.thelazy.net/images/6/6f/Mini_Portrait_Satyr.png"
+    "portraitUrl": "game-assets/wiki/6/6f/Mini_Portrait_Satyr.png"
   },
   {
     "name": "Steel Golem",
@@ -4180,7 +4180,7 @@
     },
     "special": "Unliving, Spell damage resistance (+80%)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Steel_Golem",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/50/Mini_Portrait_Steel_Golem.png"
+    "portraitUrl": "game-assets/wiki/5/50/Mini_Portrait_Steel_Golem.png"
   },
   {
     "name": "Troll",
@@ -4203,7 +4203,7 @@
     },
     "special": "Regeneration",
     "pageUrl": "https://heroes.thelazy.net/index.php/Troll",
-    "portraitUrl": "https://heroes.thelazy.net/images/c/c1/Mini_Portrait_Troll_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/c/c1/Mini_Portrait_Troll_%28HotA%29.png"
   },
   {
     "name": "Gold Golem",
@@ -4226,7 +4226,7 @@
     },
     "special": "Unliving, Spell damage resistance (+85%)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Gold_Golem",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/0c/Mini_Portrait_Gold_Golem.png"
+    "portraitUrl": "game-assets/wiki/0/0c/Mini_Portrait_Gold_Golem.png"
   },
   {
     "name": "Fangarm",
@@ -4249,7 +4249,7 @@
     },
     "special": "Flying, Mind spells immunity, Unlimited retaliations, Hypnotizing attack",
     "pageUrl": "https://heroes.thelazy.net/index.php/Fangarm",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/3d/Mini_Portrait_Fangarm.png"
+    "portraitUrl": "game-assets/wiki/3/3d/Mini_Portrait_Fangarm.png"
   },
   {
     "name": "Diamond Golem",
@@ -4272,7 +4272,7 @@
     },
     "special": "Unliving, Spell Damage Resistance (+95%)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Diamond_Golem",
-    "portraitUrl": "https://heroes.thelazy.net/images/8/82/Mini_Portrait_Diamond_Golem.png"
+    "portraitUrl": "game-assets/wiki/8/82/Mini_Portrait_Diamond_Golem.png"
   },
   {
     "name": "Enchanter",
@@ -4295,7 +4295,7 @@
     },
     "special": "Ranged (32 shots), No melee and obstacle penalty, Spellcaster",
     "pageUrl": "https://heroes.thelazy.net/index.php/Enchanter",
-    "portraitUrl": "https://heroes.thelazy.net/images/d/d8/Mini_Portrait_Enchanter.png"
+    "portraitUrl": "game-assets/wiki/d/d8/Mini_Portrait_Enchanter.png"
   },
   {
     "name": "Faerie Dragon",
@@ -4319,7 +4319,7 @@
     },
     "special": "Dragon, Flying, Spellcaster, Natural Magic Mirror",
     "pageUrl": "https://heroes.thelazy.net/index.php/Faerie_Dragon",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/3/3b/Mini_Portrait_Faerie_Dragon_%28HotA%29.png"
   },
   {
     "name": "Rust Dragon",
@@ -4343,7 +4343,7 @@
     },
     "special": "Dragon, Flying, Breath attack, Acid breath",
     "pageUrl": "https://heroes.thelazy.net/index.php/Rust_Dragon",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/ba/Mini_Portrait_Rust_Dragon_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/b/ba/Mini_Portrait_Rust_Dragon_%28HotA%29.png"
   },
   {
     "name": "Crystal Dragon",
@@ -4367,7 +4367,7 @@
     },
     "special": "Dragon, Crystal generation, Magic resistance (+20%)",
     "pageUrl": "https://heroes.thelazy.net/index.php/Crystal_Dragon",
-    "portraitUrl": "https://heroes.thelazy.net/images/4/40/Mini_Portrait_Crystal_Dragon_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/4/40/Mini_Portrait_Crystal_Dragon_%28HotA%29.png"
   },
   {
     "name": "Azure Dragon",
@@ -4391,6 +4391,6 @@
     },
     "special": "Dragon, Flying, Breath attack, Fear, Fearless, 1-3 lvl spells immunity",
     "pageUrl": "https://heroes.thelazy.net/index.php/Azure_Dragon",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/0d/Mini_Portrait_Azure_Dragon_%28HotA%29.png"
+    "portraitUrl": "game-assets/wiki/0/0d/Mini_Portrait_Azure_Dragon_%28HotA%29.png"
   }
 ]

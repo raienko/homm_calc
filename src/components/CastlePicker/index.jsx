@@ -1,4 +1,5 @@
 import { useEffect } from "react";
+import { resolveAssetUrl } from "../../lib/assetUrl.js";
 
 function getCastleIcon(castle) {
   return castle.portraitUrl || castle.villagePortraitUrl;
@@ -9,7 +10,7 @@ export default function CastlePicker({
   open,
   selectedCastle,
   title = "Pick castle",
-  description = "Choose a castle first. The next step can filter heroes, units, or other items by that castle.",
+  description = "",
   onClose = () => {},
   onSelect = () => {},
 }) {
@@ -34,10 +35,10 @@ export default function CastlePicker({
     <div className="modal-shell" role="presentation">
       <button className="modal-backdrop" type="button" aria-label="Close castle picker" onClick={onClose} />
       <section className="castle-picker" role="dialog" aria-modal="true" aria-labelledby="castle-picker-title">
-        <header className="castle-picker-header">
+        <header className={`castle-picker-header ${description ? "has-description" : ""}`.trim()}>
           <div>
             <h2 id="castle-picker-title">{title}</h2>
-            <p>{description}</p>
+            {description ? <p>{description}</p> : null}
           </div>
           <button className="icon-button" type="button" aria-label="Close castle picker" onClick={onClose}>
             x
@@ -56,7 +57,7 @@ export default function CastlePicker({
                 type="button"
                 onClick={() => onSelect(castle)}
               >
-                {icon && <img src={icon} alt="" />}
+                {icon && <img src={resolveAssetUrl(icon)} alt="" />}
                 <span>{castle.name}</span>
               </button>
             );

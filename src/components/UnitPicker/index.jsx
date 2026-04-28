@@ -1,4 +1,5 @@
 import { useEffect } from "react";
+import { resolveAssetUrl } from "../../lib/assetUrl.js";
 
 export default function UnitPicker({
   open,
@@ -52,7 +53,7 @@ export default function UnitPicker({
                 type="button"
                 onClick={() => onSelect(unit)}
               >
-                <img src={unit.portraitUrl} alt="" />
+                <img src={resolveAssetUrl(unit.portraitUrl)} alt="" />
                 <span>{unit.name}</span>
                 <small>
                   Level {unit.levelDisplay} - {unit.health} HP

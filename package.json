@@ -4,9 +4,11 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "audit:assets": "node scripts/audit-assets.mjs",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "localize:assets": "node scripts/localize-assets.mjs",
     "scrape:skills": "node scripts/scrape-skills.mjs",
     "test": "node --test",
     "self-check": "npm run test && npm run build"

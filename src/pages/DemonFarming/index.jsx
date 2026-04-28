@@ -5,6 +5,7 @@ import creatures from "../../../data/creatures.json";
 import AmountStepper from "../../components/AmountStepper";
 import CastlePicker from "../../components/CastlePicker";
 import UnitPicker from "../../components/UnitPicker";
+import { resolveAssetUrl } from "../../lib/assetUrl.js";
 import { Link } from "../../router.jsx";
 import { buildHealthArtifacts, calculateDemonFarming, isNonLivingCreature } from "./demonFarmingMath";
 
@@ -114,7 +115,7 @@ export default function DemonFarming() {
                     type="button"
                     onClick={() => toggleArtifact(artifact.id)}
                   >
-                    <img src={artifact.iconUrl} alt="" />
+                    <img src={resolveAssetUrl(artifact.iconUrl)} alt="" />
                     <span>{artifact.name}</span>
                     <small>{artifact.effect}</small>
                   </button>
@@ -137,7 +138,7 @@ export default function DemonFarming() {
           <div className="field">
             <span>Unit to convert</span>
             <button className="select-button selected-unit-button" type="button" onClick={openUnitFlow}>
-              {selectedCreature?.portraitUrl && <img src={selectedCreature.portraitUrl} alt="" />}
+              {selectedCreature?.portraitUrl && <img src={resolveAssetUrl(selectedCreature.portraitUrl)} alt="" />}
               <span>
                 <strong>{selectedCreature?.name || "Pick unit"}</strong>
                 <small>
@@ -168,7 +169,7 @@ export default function DemonFarming() {
 
         <section className="calculator-card result-card">
           <div className="demon-result">
-            {demon?.portraitUrl && <img src={demon.portraitUrl} alt="" />}
+            {demon?.portraitUrl && <img src={resolveAssetUrl(demon.portraitUrl)} alt="" />}
             <div>
               <strong>{result.demons}</strong>
               <span>Demons raised</span>

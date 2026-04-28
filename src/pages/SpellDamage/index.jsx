@@ -6,7 +6,9 @@ import skills from "../../../data/skills.json";
 import spells from "../../../data/spells.json";
 import AmountStepper from "../../components/AmountStepper";
 import CastlePicker from "../../components/CastlePicker";
+import SpellSummaryCard from "../../components/SpellSummaryCard";
 import UnitPicker from "../../components/UnitPicker";
+import { resolveAssetUrl } from "../../lib/assetUrl.js";
 import { Link } from "../../router.jsx";
 import { applyHealthArtifacts, buildHealthArtifacts } from "../DemonFarming/demonFarmingMath";
 
@@ -16,10 +18,11 @@ const ARTIFACT_SLOT_COUNT = 5;
 const MAGIC_SCHOOLS = ["Air", "Earth", "Fire", "Water"];
 const OFFENDER_SKILL_NAMES = ["Sorcery", "Air Magic", "Earth Magic", "Fire Magic", "Water Magic"];
 const DEFENDER_SKILL_NAMES = ["Resistance"];
-const POWER_SKILL_ICON_URL = "https://heroes.thelazy.net/images/e/e0/Power_skill.png";
+const POWER_SKILL_ICON_URL = "game-assets/wiki/e/e0/Power_skill.png";
 const PROTECTION_SPELL_NAMES = ["Anti-Magic", "Protection from Air", "Protection from Earth", "Protection from Fire", "Protection from Water"];
 const healthArtifacts = buildHealthArtifacts(artifacts);
 const secondarySkills = skills;
+const SPELL_NAMES_BY_LENGTH = [...new Set(spells.map((spell) => spell.name))].sort((left, right) => right.length - left.length);
 const offenderSecondarySkills = secondarySkills.filter((skill) => OFFENDER_SKILL_NAMES.includes(skill.name));
 const defenderSecondarySkills = secondarySkills.filter((skill) => DEFENDER_SKILL_NAMES.includes(skill.name));
 const damageSpells = spells
@@ -55,13 +58,19 @@ const resistanceArtifacts = artifacts
 const resistanceArtifactIds = new Set(resistanceArtifacts.map((artifact) => artifact.id));
 const healthArtifactIds = new Set(healthArtifacts.map((artifact) => artifact.id));
 const spellImmunityArtifacts = artifacts
-  .filter((artifact) => /Immune to (.+)/.test(artifact.effect || ""))
-  .map((artifact) => ({
-    id: artifact.pageUrl || artifact.name,
-    name: artifact.name,
-    iconUrl: artifact.iconUrl,
-    effect: artifact.effect || "",
-  }));
+  .map((artifact) => {
+    const effect = artifact.effect || "";
+
+    return {
+      id: artifact.pageUrl || artifact.name,
+      name: artifact.name,
+      iconUrl: artifact.iconUrl,
+      effect,
+      specificSpellNames: extractSpellNamesFromText(extractImmunityClauses(effect).join("; ")),
+      spellLevelCap: Number((effect.match(/Immun(?:e|ity)\s+to\s+lvl\s+1-(\d+)\s+spells/i) || [])[1] || 0),
+    };
+  })
+  .filter((artifact) => artifact.specificSpellNames.length > 0 || artifact.spellLevelCap > 0);
 const spellImmunityArtifactIds = new Set(spellImmunityArtifacts.map((artifact) => artifact.id));
 
 const neutralCreature = creatures.find((creature) => creature.town === "Neutral");
@@ -114,6 +123,22 @@ const antiMagicLevels = [
   { id: "expert", label: "L1-5", short: "5", level: 5 },
 ];
 
+const FRIENDLY_TARGETABLE_DAMAGE_SPELLS = new Set([
+  "Magic Arrow",
+  "Lightning Bolt",
+  "Destroy Undead",
+  "Chain Lightning",
+  "Titan's Lightning Bolt",
+  "Death Ripple",
+  "Meteor Shower",
+  "Implosion",
+  "Fireball",
+  "Armageddon",
+  "Inferno",
+  "Ice Bolt",
+  "Frost Ring",
+]);
+
 let nextStackId = 1;
 let nextSkillSlotId = 1;
 let nextArtifactSlotId = 1;
@@ -159,6 +184,14 @@ function getCreaturesForCastle(castleName) {
 function getSpellTierValue(spell, masteryValue) {
   const equation = spell?.damage?.equation || "";
   const match = equation.match(/(\d+)\/(\d+)\/(\d+)\s+\+\s+\(power × (\d+)\)/);
+  const flatMatch = equation.match(/^(\d+)$/);
+
+  if (flatMatch) {
+    return {
+      base: Number(flatMatch[1]),
+      perPower: 0,
+    };
+  }
 
   if (!match) {
     return { base: 0, perPower: 0 };
@@ -188,6 +221,20 @@ function getSpellDamage({ spell, power, schoolMasteryId, sorceryId, damageArtifa
   return Math.floor((spellTier.base + power * spellTier.perPower) * (1 + sorcery.bonus) * orbMultiplier);
 }
 
+function getSpellManaCost(spell, schoolMasteryId) {
+  const values = spell?.cost?.values || [];
+
+  if (values.length === 0) {
+    return 0;
+  }
+
+  if (values.length === 1) {
+    return values[0];
+  }
+
+  return schoolMasteryId === "none" ? values[0] : values[1];
+}
+
 function cycleOption(currentId, options) {
   const currentIndex = Math.max(
     0,
@@ -197,15 +244,46 @@ function cycleOption(currentId, options) {
   return options[(currentIndex + 1) % options.length]?.id || options[0]?.id;
 }
 
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function extractImmunityClauses(text) {
+  return Array.from(
+    String(text || "").matchAll(
+      /Immun(?:e|ity)\s+to\s+(.+?)(?=;\s*|•|\.\s*|,\s*Vulnerable to|,\s*Adjacent enemies|,\s*Spellcaster|,\s*\+\d+%|$)/gi,
+    ),
+  ).map((match) => match[1].trim());
+}
+
+function extractSpellNamesFromText(text) {
+  let remaining = String(text || "");
+  const foundSpellNames = [];
+
+  for (const spellName of SPELL_NAMES_BY_LENGTH) {
+    const spellPattern = new RegExp(escapeRegExp(spellName), "gi");
+
+    if (!spellPattern.test(remaining)) {
+      continue;
+    }
+
+    foundSpellNames.push(spellName);
+    remaining = remaining.replace(spellPattern, " ");
+  }
+
+  return foundSpellNames;
+}
+
 function getImmunityArtifactsForSpell(spell) {
-  const spellName = spell?.name || "";
-  return artifacts
-    .filter((artifact) => (artifact.effect || "").includes(`Immune to ${spellName}`))
-    .map((artifact) => ({
-      id: artifact.pageUrl || artifact.name,
-      name: artifact.name,
-      iconUrl: artifact.iconUrl,
-    }));
+  if (!spell) {
+    return [];
+  }
+
+  const spellLevel = Number(spell.level || 0);
+
+  return spellImmunityArtifacts.filter(
+    (artifact) => artifact.specificSpellNames.includes(spell.name) || (artifact.spellLevelCap > 0 && spellLevel <= artifact.spellLevelCap),
+  );
 }
 
 function getStackCreature(stack) {
@@ -223,7 +301,6 @@ function getCreatureSpellMitigation(creature, spell, ignoreImmunity = false) {
 
   const special = creature.special || "";
   const specialLower = special.toLowerCase();
-  const spellNameLower = spell.name.toLowerCase();
   const spellLevel = Number(spell.level || 0);
 
   if (!ignoreImmunity && specialLower.includes("magic immunity")) {
@@ -240,8 +317,8 @@ function getCreatureSpellMitigation(creature, spell, ignoreImmunity = false) {
     return { immune: true, multiplier: 0, badge: "Immune" };
   }
 
-  const immuneSegments = Array.from(special.matchAll(/Immune to ([^.]+)/gi)).map((match) => match[1].toLowerCase());
-  if (!ignoreImmunity && immuneSegments.some((segment) => segment.includes(spellNameLower))) {
+  const immuneSpellNames = extractSpellNamesFromText(extractImmunityClauses(special).join("; "));
+  if (!ignoreImmunity && immuneSpellNames.includes(spell.name)) {
     return { immune: true, multiplier: 0, badge: "Immune" };
   }
 
@@ -272,6 +349,25 @@ function formatDamage(value) {
 
 function spellHitsOwnArmy(spell) {
   return spell?.name === "Armageddon";
+}
+
+function spellCanHitFriendlyUnits(spell) {
+  return FRIENDLY_TARGETABLE_DAMAGE_SPELLS.has(spell?.name);
+}
+
+function getAppliedProtection(levelId) {
+  return protectionLevels.find((level) => {
+    if (levelId === "basic") {
+      return level.id === "minor";
+    }
+    if (levelId === "advanced") {
+      return level.id === "major";
+    }
+    if (levelId === "expert") {
+      return level.id === "max";
+    }
+    return level.id === "none";
+  }) || protectionLevels[0];
 }
 
 function getSkillByName(skillName) {
@@ -314,7 +410,7 @@ function ArmyRow({ label, stacks, onPickUnit, onClearSlot }) {
           return (
             <div className={`army-slot ${isFilled ? "is-filled" : ""}`} key={stack.id}>
               <button className="army-slot-button" type="button" onClick={() => onPickUnit(stack.id)}>
-                {creature?.portraitUrl ? <img src={creature.portraitUrl} alt="" /> : <span className="army-slot-plus">+</span>}
+                {creature?.portraitUrl ? <img src={resolveAssetUrl(creature.portraitUrl)} alt="" /> : <span className="army-slot-plus">+</span>}
                 <span>{creature?.name || `Slot ${index + 1}`}</span>
               </button>
               {isFilled && (
@@ -344,7 +440,7 @@ function SecondarySkillRow({ label, slots, onPickSlot, onClearSlot }) {
           return (
             <div className={`secondary-skill-slot ${isFilled ? "is-filled" : ""}`} key={slot.id}>
               <button className="secondary-skill-slot-button" type="button" onClick={() => onPickSlot(slot.id)}>
-                {iconUrl ? <img src={iconUrl} alt="" /> : <span className="army-slot-plus">+</span>}
+                {iconUrl ? <img src={resolveAssetUrl(iconUrl)} alt="" /> : <span className="army-slot-plus">+</span>}
                 <span>{skill?.name || `Skill ${index + 1}`}</span>
                 <small>{level?.label || "Pick level"}</small>
               </button>
@@ -373,7 +469,7 @@ function ArtifactSlotRow({ label, slots, artifactOptions, onPickSlot, onClearSlo
           return (
             <div className={`secondary-skill-slot ${isFilled ? "is-filled" : ""}`} key={slot.id}>
               <button className="secondary-skill-slot-button" type="button" onClick={() => onPickSlot(slot.id)}>
-                {artifact?.iconUrl ? <img src={artifact.iconUrl} alt="" /> : <span className="army-slot-plus">+</span>}
+                {artifact?.iconUrl ? <img src={resolveAssetUrl(artifact.iconUrl)} alt="" /> : <span className="army-slot-plus">+</span>}
                 <span>{artifact?.name || `Artifact ${index + 1}`}</span>
                 <small>{artifact?.effect || "Pick artifact"}</small>
               </button>
@@ -403,7 +499,7 @@ function ProtectionSpellRow({ label, slots, onPickSlot, onClearSlot, className =
           return (
             <div className={`secondary-skill-slot ${isFilled ? "is-filled" : ""}`} key={slot.id}>
               <button className="secondary-skill-slot-button" type="button" onClick={() => onPickSlot(slot.id)}>
-                {spell?.iconUrl ? <img src={spell.iconUrl} alt="" /> : <span className="army-slot-plus">+</span>}
+                {spell?.iconUrl ? <img src={resolveAssetUrl(spell.iconUrl)} alt="" /> : <span className="army-slot-plus">+</span>}
                 <span>{spell?.name || `Spell ${index + 1}`}</span>
                 <small>{level?.label || "Pick level"}</small>
               </button>
@@ -437,7 +533,7 @@ function CompactStateRow({ label, slots, onCycle }) {
   );
 }
 
-function ResultList({ entries, title, emptyText }) {
+function ResultList({ entries, title, sideClassName = "" }) {
   const visibleEntries = entries.filter((entry) => entry.creature);
 
   if (visibleEntries.length === 0) {
@@ -445,12 +541,12 @@ function ResultList({ entries, title, emptyText }) {
   }
 
   return (
-    <section className="result-group">
+    <section className={`result-group ${sideClassName}`.trim()}>
       <h3>{title}</h3>
       <div className="result-chip-list">
         {visibleEntries.map((entry) => (
           <article className="result-chip" key={entry.stack.id}>
-            {entry.creature?.portraitUrl && <img src={entry.creature.portraitUrl} alt="" />}
+            {entry.creature?.portraitUrl && <img src={resolveAssetUrl(entry.creature.portraitUrl)} alt="" />}
             <div>
               <strong>{entry.creature?.name}</strong>
               <span>x{entry.kills}</span>
@@ -463,7 +559,7 @@ function ResultList({ entries, title, emptyText }) {
   );
 }
 
-function SkillPickerModal({ open, onClose, onClear, onSelect, selectedSlot, availableSkills }) {
+function SkillPickerModal({ open, onClose, onSelect, selectedSlot, availableSkills }) {
   if (!open) {
     return null;
   }
@@ -481,6 +577,12 @@ function SkillPickerModal({ open, onClose, onClear, onSelect, selectedSlot, avai
           </button>
         </div>
 
+        <div className="picker-level-header" aria-hidden="true">
+          {skillLevels.map((level) => (
+            <span key={level.id}>{level.label}</span>
+          ))}
+        </div>
+
         <div className="skill-picker-grid">
           {availableSkills.map((skill) => (
             skillLevels.map((level) => {
@@ -495,7 +597,7 @@ function SkillPickerModal({ open, onClose, onClear, onSelect, selectedSlot, avai
                   aria-label={`${level.label} ${skill.name}`}
                   onClick={() => onSelect(skill.name, level.id)}
                 >
-                  {skill.iconUrls[level.id] && <img src={skill.iconUrls[level.id]} alt="" />}
+                  {skill.iconUrls[level.id] && <img src={resolveAssetUrl(skill.iconUrls[level.id])} alt="" />}
                 </button>
               );
             })
@@ -538,7 +640,7 @@ function SpellPickerModal({ open, spells, selectedSpellName, onClose, onSelect }
                   type="button"
                   onClick={() => onSelect(spell.name)}
                 >
-                  {spell.iconUrl && <img src={spell.iconUrl} alt="" />}
+                  {spell.iconUrl && <img src={resolveAssetUrl(spell.iconUrl)} alt="" />}
                   <span>
                     <strong>{spell.name}</strong>
                     <small>
@@ -555,7 +657,7 @@ function SpellPickerModal({ open, spells, selectedSpellName, onClose, onSelect }
   );
 }
 
-function ArtifactPickerModal({ open, onClose, onClear, onSelect, selectedSlot, availableArtifacts, title }) {
+function ArtifactPickerModal({ open, onClose, onSelect, selectedSlot, availableArtifacts, title }) {
   if (!open) {
     return null;
   }
@@ -568,12 +670,9 @@ function ArtifactPickerModal({ open, onClose, onClear, onSelect, selectedSlot, a
           <div>
             <h2>{title}</h2>
           </div>
-          <div className="skill-picker-actions">
-            {selectedSlot?.artifactId && <button className="icon-button" type="button" onClick={onClear}>×</button>}
-            <button className="icon-button" type="button" onClick={onClose}>
-              ×
-            </button>
-          </div>
+          <button className="icon-button" type="button" onClick={onClose}>
+            ×
+          </button>
         </div>
 
         <div className="artifact-picker-grid">
@@ -589,7 +688,7 @@ function ArtifactPickerModal({ open, onClose, onClear, onSelect, selectedSlot, a
                 aria-label={artifact.name}
                 onClick={() => onSelect(artifact.id)}
               >
-                <img src={artifact.iconUrl} alt="" />
+                <img src={resolveAssetUrl(artifact.iconUrl)} alt="" />
                 <span>{artifact.name}</span>
               </button>
             );
@@ -600,7 +699,7 @@ function ArtifactPickerModal({ open, onClose, onClear, onSelect, selectedSlot, a
   );
 }
 
-function ProtectionPickerModal({ open, onClose, onClear, onSelect, selectedSlot }) {
+function ProtectionPickerModal({ open, onClose, onSelect, selectedSlot }) {
   if (!open) {
     return null;
   }
@@ -613,12 +712,15 @@ function ProtectionPickerModal({ open, onClose, onClear, onSelect, selectedSlot 
           <div>
             <h2>Pick protection</h2>
           </div>
-          <div className="skill-picker-actions">
-            {selectedSlot?.spellName && <button className="icon-button" type="button" onClick={onClear}>×</button>}
-            <button className="icon-button" type="button" onClick={onClose}>
-              ×
-            </button>
-          </div>
+          <button className="icon-button" type="button" onClick={onClose}>
+            ×
+          </button>
+        </div>
+
+        <div className="picker-level-header" aria-hidden="true">
+          {skillLevels.map((level) => (
+            <span key={level.id}>{level.label}</span>
+          ))}
         </div>
 
         <div className="skill-picker-grid">
@@ -635,7 +737,7 @@ function ProtectionPickerModal({ open, onClose, onClear, onSelect, selectedSlot 
                   aria-label={`${level.label} ${spell.name}`}
                   onClick={() => onSelect(spell.name, level.id)}
                 >
-                  {spell.iconUrl && <img src={spell.iconUrl} alt="" />}
+                  {spell.iconUrl && <img src={resolveAssetUrl(spell.iconUrl)} alt="" />}
                 </button>
               );
             })
@@ -649,12 +751,13 @@ function ProtectionPickerModal({ open, onClose, onClear, onSelect, selectedSlot 
 export default function SpellDamage() {
   const [selectedSpellName, setSelectedSpellName] = useState("Armageddon");
   const [isSpellPickerOpen, setSpellPickerOpen] = useState(false);
-  const [power, setPower] = useState(10);
+  const [power, setPower] = useState(1);
   const [offenderArtifactSlots, setOffenderArtifactSlots] = useState(() => createArtifactSlots("offender"));
 
   const [offenderSkills, setOffenderSkills] = useState(() => createSkillSlots("offender"));
   const [defenderSkills, setDefenderSkills] = useState(() => createSkillSlots("defender"));
   const [defenderArtifactSlots, setDefenderArtifactSlots] = useState(() => createArtifactSlots("defender"));
+  const [offenderProtectionSlots, setOffenderProtectionSlots] = useState(() => createProtectionSlots("offender"));
   const [defenderProtectionSlots, setDefenderProtectionSlots] = useState(() => createProtectionSlots("defender"));
 
   const [offenderStacks, setOffenderStacks] = useState(() => createEmptyArmy("offender"));
@@ -673,25 +776,21 @@ export default function SpellDamage() {
   const resistanceLevelId = getHighestSkillLevelId(defenderSkills, "Resistance");
   const immunityArtifacts = useMemo(() => getImmunityArtifactsForSpell(selectedSpell), [selectedSpell]);
   const selectedProtectionSpellName = spellSchoolName && MAGIC_SCHOOLS.includes(spellSchoolName) ? `Protection from ${spellSchoolName}` : "";
-  const selectedProtectionLevelId = selectedProtectionSpellName ? getHighestProtectionLevelId(defenderProtectionSlots, selectedProtectionSpellName) : "none";
-  const selectedProtection = protectionLevels.find((level) => {
-    if (selectedProtectionLevelId === "basic") {
-      return level.id === "minor";
-    }
-    if (selectedProtectionLevelId === "advanced") {
-      return level.id === "major";
-    }
-    if (selectedProtectionLevelId === "expert") {
-      return level.id === "max";
-    }
-    return level.id === "none";
-  }) || protectionLevels[0];
+  const attackerProtectionLevelId = selectedProtectionSpellName ? getHighestProtectionLevelId(offenderProtectionSlots, selectedProtectionSpellName) : "none";
+  const defenderProtectionLevelId = selectedProtectionSpellName ? getHighestProtectionLevelId(defenderProtectionSlots, selectedProtectionSpellName) : "none";
+  const attackerProtection = getAppliedProtection(attackerProtectionLevelId);
+  const defenderProtection = getAppliedProtection(defenderProtectionLevelId);
   const selectedResistance = resistanceLevels.find((level) => level.id === resistanceLevelId) || resistanceLevels[0];
-  const antiMagicLevelId = getHighestProtectionLevelId(defenderProtectionSlots, "Anti-Magic");
-  const selectedAntiMagic = antiMagicLevels.find((level) => level.id === antiMagicLevelId) || antiMagicLevels[0];
+  const attackerAntiMagicLevelId = getHighestProtectionLevelId(offenderProtectionSlots, "Anti-Magic");
+  const defenderAntiMagicLevelId = getHighestProtectionLevelId(defenderProtectionSlots, "Anti-Magic");
+  const attackerAntiMagic = antiMagicLevels.find((level) => level.id === attackerAntiMagicLevelId) || antiMagicLevels[0];
+  const defenderAntiMagic = antiMagicLevels.find((level) => level.id === defenderAntiMagicLevelId) || antiMagicLevels[0];
   const offenderArtifactIds = offenderArtifactSlots.map((slot) => slot.artifactId).filter(Boolean);
   const defenderArtifactIds = defenderArtifactSlots.map((slot) => slot.artifactId).filter(Boolean);
   const damageArtifactId = damageArtifacts.find((artifact) => offenderArtifactIds.includes(artifact.id) && artifact.school === selectedSpell?.school?.name)?.id || "";
+  const attackerHealthArtifactIds = offenderArtifactIds.filter((artifactId) => healthArtifactIds.has(artifactId));
+  const attackerResistanceArtifactIds = offenderArtifactIds.filter((artifactId) => resistanceArtifactIds.has(artifactId));
+  const attackerImmunityArtifactIds = offenderArtifactIds.filter((artifactId) => spellImmunityArtifactIds.has(artifactId));
   const defenderHealthArtifactIds = defenderArtifactIds.filter((artifactId) => healthArtifactIds.has(artifactId));
   const defenderResistanceArtifactIds = defenderArtifactIds.filter((artifactId) => resistanceArtifactIds.has(artifactId));
   const defenderImmunityArtifactIds = defenderArtifactIds.filter((artifactId) => spellImmunityArtifactIds.has(artifactId));
@@ -703,8 +802,16 @@ export default function SpellDamage() {
     sorceryId,
     damageArtifactId,
   });
+  const manaCost = getSpellManaCost(selectedSpell, schoolMasteryId);
 
-  const totalResistanceChance = Math.min(
+  const attackerResistanceChance = Math.min(
+    0.9,
+    resistanceArtifacts
+      .filter((artifact) => attackerResistanceArtifactIds.includes(artifact.id))
+      .reduce((total, artifact) => total + artifact.chance, 0),
+  );
+
+  const defenderResistanceChance = Math.min(
     0.9,
     selectedResistance.chance +
       resistanceArtifacts
@@ -712,19 +819,23 @@ export default function SpellDamage() {
         .reduce((total, artifact) => total + artifact.chance, 0),
   );
 
-  const ownArmyAffected = spellHitsOwnArmy(selectedSpell);
+  const ownArmyAffected = spellHitsOwnArmy(selectedSpell) || spellCanHitFriendlyUnits(selectedSpell);
 
   const offenderResults = offenderStacks.map((stack) => {
     const creature = getStackCreature(stack);
-    const mitigation = getCreatureSpellMitigation(creature, selectedSpell, ignoresCreatureSpellImmunity);
-    const effectiveDamage = creature && ownArmyAffected ? baseDamage * mitigation.multiplier : 0;
-    const kills = creature && ownArmyAffected && !mitigation.immune ? calculateMaxKills(effectiveDamage, creature.health || 0) : 0;
+    const effectiveHealth = applyHealthArtifacts(creature?.health || 0, attackerHealthArtifactIds, healthArtifacts);
+    const hasImmunityArtifact = immunityArtifacts.some((artifact) => attackerImmunityArtifactIds.includes(artifact.id));
+    const creatureMitigation = getCreatureSpellMitigation(creature, selectedSpell, ignoresCreatureSpellImmunity);
+    const isFullyProtected = (selectedSpell.level || 0) <= attackerAntiMagic.level || hasImmunityArtifact || creatureMitigation.immune;
+    const afterProtection = creature && ownArmyAffected && !isFullyProtected ? baseDamage * (1 - attackerProtection.reduction) : 0;
+    const effectiveDamage = afterProtection * (1 - attackerResistanceChance) * creatureMitigation.multiplier;
+    const kills = creature && ownArmyAffected && !isFullyProtected ? calculateMaxKills(effectiveDamage, effectiveHealth.health) : 0;
 
     return {
       stack,
       creature,
       kills,
-      badge: mitigation.badge,
+      badge: hasImmunityArtifact ? "Immune" : isFullyProtected ? "Immune" : creatureMitigation.badge,
     };
   });
 
@@ -733,9 +844,9 @@ export default function SpellDamage() {
     const effectiveHealth = applyHealthArtifacts(creature?.health || 0, defenderHealthArtifactIds, healthArtifacts);
     const hasImmunityArtifact = immunityArtifacts.some((artifact) => defenderImmunityArtifactIds.includes(artifact.id));
     const creatureMitigation = getCreatureSpellMitigation(creature, selectedSpell, ignoresCreatureSpellImmunity);
-    const isFullyProtected = (selectedSpell.level || 0) <= selectedAntiMagic.level || hasImmunityArtifact || creatureMitigation.immune;
-    const afterProtection = isFullyProtected ? 0 : baseDamage * (1 - selectedProtection.reduction);
-    const effectiveDamage = afterProtection * (1 - totalResistanceChance) * creatureMitigation.multiplier;
+    const isFullyProtected = (selectedSpell.level || 0) <= defenderAntiMagic.level || hasImmunityArtifact || creatureMitigation.immune;
+    const afterProtection = isFullyProtected ? 0 : baseDamage * (1 - defenderProtection.reduction);
+    const effectiveDamage = afterProtection * (1 - defenderResistanceChance) * creatureMitigation.multiplier;
     const badge = hasImmunityArtifact ? "Immune" : isFullyProtected ? "Immune" : creatureMitigation.badge;
 
     return {
@@ -765,6 +876,16 @@ export default function SpellDamage() {
   const selectedSkillSlots = skillPickerState?.side === "offender" ? offenderSkills : defenderSkills;
   const selectedSkillSlot = skillPickerState ? selectedSkillSlots.find((slot) => slot.id === skillPickerState.slotId) || null : null;
   const availableSkillChoices = skillPickerState?.side === "offender" ? offenderSecondarySkills : defenderSecondarySkills;
+  const attackerArtifactOptions = useMemo(() => {
+    const seen = new Set();
+    return [...damageArtifacts, ...healthArtifacts, ...resistanceArtifacts, ...immunityArtifacts].filter((artifact) => {
+      if (seen.has(artifact.id)) {
+        return false;
+      }
+      seen.add(artifact.id);
+      return true;
+    });
+  }, [immunityArtifacts]);
   const defenderArtifactOptions = useMemo(() => {
     const seen = new Set();
     return [...healthArtifacts, ...resistanceArtifacts, ...immunityArtifacts].filter((artifact) => {
@@ -775,10 +896,11 @@ export default function SpellDamage() {
       return true;
     });
   }, [immunityArtifacts]);
-  const availableArtifactChoices = artifactPickerState?.side === "offender" ? damageArtifacts : defenderArtifactOptions;
+  const availableArtifactChoices = artifactPickerState?.side === "offender" ? attackerArtifactOptions : defenderArtifactOptions;
   const selectedArtifactSlots = artifactPickerState?.side === "offender" ? offenderArtifactSlots : defenderArtifactSlots;
   const selectedArtifactSlot = artifactPickerState ? selectedArtifactSlots.find((slot) => slot.id === artifactPickerState.slotId) || null : null;
-  const selectedProtectionSlot = protectionPickerState ? defenderProtectionSlots.find((slot) => slot.id === protectionPickerState.slotId) || null : null;
+  const selectedProtectionSlots = protectionPickerState?.side === "offender" ? offenderProtectionSlots : defenderProtectionSlots;
+  const selectedProtectionSlot = protectionPickerState ? selectedProtectionSlots.find((slot) => slot.id === protectionPickerState.slotId) || null : null;
 
   function updateStacks(side, updater) {
     const setState = side === "offender" ? setOffenderStacks : setDefenderStacks;
@@ -795,8 +917,9 @@ export default function SpellDamage() {
     setState((current) => updater(current));
   }
 
-  function updateProtectionSlots(updater) {
-    setDefenderProtectionSlots((current) => updater(current));
+  function updateProtectionSlots(side, updater) {
+    const setState = side === "offender" ? setOffenderProtectionSlots : setDefenderProtectionSlots;
+    setState((current) => updater(current));
   }
 
   function openPicker(side, stackId) {
@@ -831,8 +954,8 @@ export default function SpellDamage() {
     setArtifactPickerState(null);
   }
 
-  function openProtectionPicker(slotId) {
-    setProtectionPickerState({ slotId });
+  function openProtectionPicker(side, slotId) {
+    setProtectionPickerState({ side, slotId });
   }
 
   function closeProtectionPicker() {
@@ -912,8 +1035,8 @@ export default function SpellDamage() {
     );
   }
 
-  function clearProtectionSlot(slotId) {
-    updateProtectionSlots((current) =>
+  function clearProtectionSlot(side, slotId) {
+    updateProtectionSlots(side, (current) =>
       current.map((slot) =>
         slot.id === slotId
           ? {
@@ -960,8 +1083,8 @@ export default function SpellDamage() {
     closeArtifactPicker();
   }
 
-  function assignProtectionToSlot(slotId, spellName, levelId) {
-    updateProtectionSlots((current) =>
+  function assignProtectionToSlot(side, slotId, spellName, levelId) {
+    updateProtectionSlots(side, (current) =>
       current.map((slot) => {
         if (slot.id === slotId) {
           return { ...slot, spellName, levelId };
@@ -989,14 +1112,12 @@ export default function SpellDamage() {
       </div>
 
       <div className="spell-layout">
-        <section className="spell-panel">
-          <div className="section-heading">
-            <h2>Offender</h2>
-          </div>
-          <div className="modifier-grid">
-            <div className="field">
+        <section className="spell-panel spell-panel-main spell-panel-offender">
+          <div className="section-heading section-heading-with-control">
+            <h2>Attacker</h2>
+            <div className="section-heading-control">
               <span>Power</span>
-              <AmountStepper iconUrl={POWER_SKILL_ICON_URL} label="Power" value={power} onChange={setPower} />
+              <AmountStepper iconUrl={POWER_SKILL_ICON_URL} label="Power" value={power} onChange={setPower} prefix="" />
             </div>
           </div>
 
@@ -1010,7 +1131,7 @@ export default function SpellDamage() {
           <ArtifactSlotRow
             label="Artifacts"
             slots={offenderArtifactSlots}
-            artifactOptions={damageArtifacts}
+            artifactOptions={attackerArtifactOptions}
             onPickSlot={(slotId) => openArtifactPicker("offender", slotId)}
             onClearSlot={(slotId) => clearArtifactSlot("offender", slotId)}
           />
@@ -1021,11 +1142,20 @@ export default function SpellDamage() {
             onPickUnit={(stackId) => openPicker("offender", stackId)}
             onClearSlot={(stackId) => clearArmySlot("offender", stackId)}
           />
+
+          <ProtectionSpellRow
+            className="protection-row"
+            label="Protection"
+            slots={offenderProtectionSlots}
+            onPickSlot={(slotId) => openProtectionPicker("offender", slotId)}
+            onClearSlot={(slotId) => clearProtectionSlot("offender", slotId)}
+          />
         </section>
 
-        <section className="spell-panel">
-          <div className="section-heading">
+        <section className="spell-panel spell-panel-main spell-panel-defender">
+          <div className="section-heading section-heading-with-control">
             <h2>Defender</h2>
+            <div className="section-heading-control section-heading-control-placeholder" aria-hidden="true" />
           </div>
 
           <SecondarySkillRow
@@ -1054,48 +1184,33 @@ export default function SpellDamage() {
             className="protection-row"
             label="Protection"
             slots={defenderProtectionSlots}
-            onPickSlot={openProtectionPicker}
-            onClearSlot={clearProtectionSlot}
+            onPickSlot={(slotId) => openProtectionPicker("defender", slotId)}
+            onClearSlot={(slotId) => clearProtectionSlot("defender", slotId)}
           />
         </section>
 
         <section className="spell-panel spell-panel-wide">
-          <div className="section-heading">
-            <h2>Spell</h2>
-          </div>
-          <button className="spell-meta spell-picker-button" type="button" onClick={() => setSpellPickerOpen(true)}>
-            {selectedSpell?.iconUrl && <img src={selectedSpell.iconUrl} alt="" />}
-            <div>
-              <strong>{selectedSpell?.name}</strong>
-              <small>
-                {selectedSpell?.school?.name} - Level {selectedSpell?.level}
-              </small>
-            </div>
-          </button>
+          <SpellSummaryCard
+            damage={formatDamage(baseDamage)}
+            manaCost={manaCost}
+            spell={selectedSpell}
+            onClick={() => setSpellPickerOpen(true)}
+          />
         </section>
 
-        <section className="spell-panel spell-panel-result">
-          <div className="section-heading">
-            <h2>Result</h2>
+        <section className="spell-panel spell-panel-wide spell-panel-result">
+          <div className="result-layout">
+            <ResultList
+              entries={offenderResults}
+              title="Attacker losses"
+              sideClassName="result-group-offender"
+            />
+            <ResultList
+              entries={defenderResults}
+              title="Defender losses"
+              sideClassName="result-group-defender"
+            />
           </div>
-          <div className="demon-result spell-result">
-            {selectedSpell?.iconUrl && <img src={selectedSpell.iconUrl} alt="" />}
-            <div>
-              <strong>{formatDamage(baseDamage)}</strong>
-              <span>{selectedSpell?.name} damage</span>
-            </div>
-          </div>
-
-          <ResultList
-            entries={offenderResults}
-            title="Our army"
-            emptyText="Pick offender units to see self-damage."
-          />
-          <ResultList
-            entries={defenderResults}
-            title="Enemy army"
-            emptyText="Pick defender units to see max kills."
-          />
         </section>
       </div>
 
@@ -1125,14 +1240,6 @@ export default function SpellDamage() {
         availableSkills={availableSkillChoices}
         selectedSlot={selectedSkillSlot}
         onClose={closeSkillPicker}
-        onClear={() => {
-          if (!skillPickerState) {
-            return;
-          }
-
-          clearSkillSlot(skillPickerState.side, skillPickerState.slotId);
-          closeSkillPicker();
-        }}
         onSelect={(skillName, levelId) => {
           if (!skillPickerState) {
             return;
@@ -1157,14 +1264,6 @@ export default function SpellDamage() {
         availableArtifacts={availableArtifactChoices}
         selectedSlot={selectedArtifactSlot}
         onClose={closeArtifactPicker}
-        onClear={() => {
-          if (!artifactPickerState) {
-            return;
-          }
-
-          clearArtifactSlot(artifactPickerState.side, artifactPickerState.slotId);
-          closeArtifactPicker();
-        }}
         onSelect={(artifactId) => {
           if (!artifactPickerState) {
             return;
@@ -1177,20 +1276,12 @@ export default function SpellDamage() {
         open={Boolean(protectionPickerState)}
         selectedSlot={selectedProtectionSlot}
         onClose={closeProtectionPicker}
-        onClear={() => {
-          if (!protectionPickerState) {
-            return;
-          }
-
-          clearProtectionSlot(protectionPickerState.slotId);
-          closeProtectionPicker();
-        }}
         onSelect={(spellName, levelId) => {
           if (!protectionPickerState) {
             return;
           }
 
-          assignProtectionToSlot(protectionPickerState.slotId, spellName, levelId);
+          assignProtectionToSlot(protectionPickerState.side, protectionPickerState.slotId, spellName, levelId);
         }}
       />
     </section>

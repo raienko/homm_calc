@@ -6,15 +6,15 @@
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia"
     },
     "pageUrl": "https://heroes.thelazy.net/index.php/Castle",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/bf/Town_portrait_Castle_small.png",
-    "villagePortraitUrl": "https://heroes.thelazy.net/images/0/09/Town_portrait_Castle_village_small.png",
+    "portraitUrl": "game-assets/wiki/b/bf/Town_portrait_Castle_small.png",
+    "villagePortraitUrl": "game-assets/wiki/0/09/Town_portrait_Castle_village_small.png",
     "adventureMap": {
       "village": [
         {
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Castle_village.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/b/b5/Adventure_Map_Castle_village.webp/182px-Adventure_Map_Castle_village.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/b/b5/Adventure_Map_Castle_village.webp/182px-Adventure_Map_Castle_village.webp.png",
           "width": 182,
           "height": 150
         }
@@ -24,7 +24,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Castle_fort_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/4/49/Adventure_Map_Castle_fort_%28HotA%29.webp/174px-Adventure_Map_Castle_fort_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/4/49/Adventure_Map_Castle_fort_%28HotA%29.webp/174px-Adventure_Map_Castle_fort_%28HotA%29.webp.png",
           "width": 174,
           "height": 137
         },
@@ -32,7 +32,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Castle_fort.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/6/69/Adventure_Map_Castle_fort.webp/175px-Adventure_Map_Castle_fort.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/6/69/Adventure_Map_Castle_fort.webp/175px-Adventure_Map_Castle_fort.webp.png",
           "width": 175,
           "height": 142
         }
@@ -42,7 +42,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Castle_citadel_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/c/cc/Adventure_Map_Castle_citadel_%28HotA%29.webp/174px-Adventure_Map_Castle_citadel_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/c/cc/Adventure_Map_Castle_citadel_%28HotA%29.webp/174px-Adventure_Map_Castle_citadel_%28HotA%29.webp.png",
           "width": 174,
           "height": 137
         }
@@ -52,7 +52,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Castle_castle_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/d/dd/Adventure_Map_Castle_castle_%28HotA%29.webp/174px-Adventure_Map_Castle_castle_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/d/dd/Adventure_Map_Castle_castle_%28HotA%29.webp/174px-Adventure_Map_Castle_castle_%28HotA%29.webp.png",
           "width": 174,
           "height": 137
         }
@@ -62,7 +62,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Castle_capitol_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/9/90/Adventure_Map_Castle_capitol_%28HotA%29.webp/174px-Adventure_Map_Castle_capitol_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/9/90/Adventure_Map_Castle_capitol_%28HotA%29.webp/174px-Adventure_Map_Castle_capitol_%28HotA%29.webp.png",
           "width": 174,
           "height": 137
         },
@@ -70,7 +70,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Castle_capitol.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/d/d0/Adventure_Map_Castle_capitol.webp/175px-Adventure_Map_Castle_capitol.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/d/d0/Adventure_Map_Castle_capitol.webp/175px-Adventure_Map_Castle_capitol.webp.png",
           "width": 175,
           "height": 148
         }
@@ -84,15 +84,15 @@
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia"
     },
     "pageUrl": "https://heroes.thelazy.net/index.php/Rampart",
-    "portraitUrl": "https://heroes.thelazy.net/images/3/30/Town_portrait_Rampart_small.png",
-    "villagePortraitUrl": "https://heroes.thelazy.net/images/0/0c/Town_portrait_Rampart_village_small.png",
+    "portraitUrl": "game-assets/wiki/3/30/Town_portrait_Rampart_small.png",
+    "villagePortraitUrl": "game-assets/wiki/0/0c/Town_portrait_Rampart_village_small.png",
     "adventureMap": {
       "village": [
         {
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Rampart_village.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/e/e3/Adventure_Map_Rampart_village.webp/162px-Adventure_Map_Rampart_village.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/e/e3/Adventure_Map_Rampart_village.webp/162px-Adventure_Map_Rampart_village.webp.png",
           "width": 162,
           "height": 147
         }
@@ -102,7 +102,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Rampart_fort_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/d/d9/Adventure_Map_Rampart_fort_%28HotA%29.webp/166px-Adventure_Map_Rampart_fort_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/d/d9/Adventure_Map_Rampart_fort_%28HotA%29.webp/166px-Adventure_Map_Rampart_fort_%28HotA%29.webp.png",
           "width": 166,
           "height": 158
         },
@@ -110,7 +110,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Rampart_fort.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/5/51/Adventure_Map_Rampart_fort.webp/166px-Adventure_Map_Rampart_fort.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/5/51/Adventure_Map_Rampart_fort.webp/166px-Adventure_Map_Rampart_fort.webp.png",
           "width": 166,
           "height": 165
         }
@@ -120,7 +120,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Rampart_citadel_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/5/5c/Adventure_Map_Rampart_citadel_%28HotA%29.webp/166px-Adventure_Map_Rampart_citadel_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/5/5c/Adventure_Map_Rampart_citadel_%28HotA%29.webp/166px-Adventure_Map_Rampart_citadel_%28HotA%29.webp.png",
           "width": 166,
           "height": 165
         }
@@ -130,7 +130,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Rampart_castle_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/a/ac/Adventure_Map_Rampart_castle_%28HotA%29.webp/166px-Adventure_Map_Rampart_castle_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/a/ac/Adventure_Map_Rampart_castle_%28HotA%29.webp/166px-Adventure_Map_Rampart_castle_%28HotA%29.webp.png",
           "width": 166,
           "height": 165
         }
@@ -140,7 +140,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Rampart_capitol_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/7/76/Adventure_Map_Rampart_capitol_%28HotA%29.webp/166px-Adventure_Map_Rampart_capitol_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/7/76/Adventure_Map_Rampart_capitol_%28HotA%29.webp/166px-Adventure_Map_Rampart_capitol_%28HotA%29.webp.png",
           "width": 166,
           "height": 176
         },
@@ -148,7 +148,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Rampart_capitol.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/1/1d/Adventure_Map_Rampart_capitol.webp/166px-Adventure_Map_Rampart_capitol.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/1/1d/Adventure_Map_Rampart_capitol.webp/166px-Adventure_Map_Rampart_capitol.webp.png",
           "width": 166,
           "height": 169
         }
@@ -162,15 +162,15 @@
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia"
     },
     "pageUrl": "https://heroes.thelazy.net/index.php/Tower",
-    "portraitUrl": "https://heroes.thelazy.net/images/1/1d/Town_portrait_Tower_small.png",
-    "villagePortraitUrl": "https://heroes.thelazy.net/images/3/31/Town_portrait_Tower_village_small.png",
+    "portraitUrl": "game-assets/wiki/1/1d/Town_portrait_Tower_small.png",
+    "villagePortraitUrl": "game-assets/wiki/3/31/Town_portrait_Tower_village_small.png",
     "adventureMap": {
       "village": [
         {
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Tower_village.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/b/bf/Adventure_Map_Tower_village.webp/147px-Adventure_Map_Tower_village.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/b/bf/Adventure_Map_Tower_village.webp/147px-Adventure_Map_Tower_village.webp.png",
           "width": 147,
           "height": 155
         }
@@ -180,7 +180,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Tower_fort_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/9/90/Adventure_Map_Tower_fort_%28HotA%29.webp/160px-Adventure_Map_Tower_fort_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/9/90/Adventure_Map_Tower_fort_%28HotA%29.webp/160px-Adventure_Map_Tower_fort_%28HotA%29.webp.png",
           "width": 160,
           "height": 191
         },
@@ -188,7 +188,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Tower_fort.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/3/38/Adventure_Map_Tower_fort.webp/171px-Adventure_Map_Tower_fort.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/3/38/Adventure_Map_Tower_fort.webp/171px-Adventure_Map_Tower_fort.webp.png",
           "width": 171,
           "height": 191
         }
@@ -198,7 +198,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Tower_citadel_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/e/ec/Adventure_Map_Tower_citadel_%28HotA%29.webp/160px-Adventure_Map_Tower_citadel_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/e/ec/Adventure_Map_Tower_citadel_%28HotA%29.webp/160px-Adventure_Map_Tower_citadel_%28HotA%29.webp.png",
           "width": 160,
           "height": 191
         }
@@ -208,7 +208,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Tower_castle_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/0/01/Adventure_Map_Tower_castle_%28HotA%29.webp/160px-Adventure_Map_Tower_castle_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/0/01/Adventure_Map_Tower_castle_%28HotA%29.webp/160px-Adventure_Map_Tower_castle_%28HotA%29.webp.png",
           "width": 160,
           "height": 191
         }
@@ -218,7 +218,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Tower_capitol_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/1/1a/Adventure_Map_Tower_capitol_%28HotA%29.webp/160px-Adventure_Map_Tower_capitol_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/1/1a/Adventure_Map_Tower_capitol_%28HotA%29.webp/160px-Adventure_Map_Tower_capitol_%28HotA%29.webp.png",
           "width": 160,
           "height": 191
         },
@@ -226,7 +226,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Tower_capitol.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/5/5a/Adventure_Map_Tower_capitol.webp/171px-Adventure_Map_Tower_capitol.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/5/5a/Adventure_Map_Tower_capitol.webp/171px-Adventure_Map_Tower_capitol.webp.png",
           "width": 171,
           "height": 191
         }
@@ -240,15 +240,15 @@
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia"
     },
     "pageUrl": "https://heroes.thelazy.net/index.php/Inferno",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/05/Town_portrait_Inferno_small.png",
-    "villagePortraitUrl": "https://heroes.thelazy.net/images/9/97/Town_portrait_Inferno_village_small.png",
+    "portraitUrl": "game-assets/wiki/0/05/Town_portrait_Inferno_small.png",
+    "villagePortraitUrl": "game-assets/wiki/9/97/Town_portrait_Inferno_village_small.png",
     "adventureMap": {
       "village": [
         {
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Inferno_village_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/3/3f/Adventure_Map_Inferno_village_%28HotA%29.webp/164px-Adventure_Map_Inferno_village_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/3/3f/Adventure_Map_Inferno_village_%28HotA%29.webp/164px-Adventure_Map_Inferno_village_%28HotA%29.webp.png",
           "width": 164,
           "height": 111
         }
@@ -258,7 +258,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Inferno_fort_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/a/af/Adventure_Map_Inferno_fort_%28HotA%29.webp/171px-Adventure_Map_Inferno_fort_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/a/af/Adventure_Map_Inferno_fort_%28HotA%29.webp/171px-Adventure_Map_Inferno_fort_%28HotA%29.webp.png",
           "width": 171,
           "height": 172
         },
@@ -266,7 +266,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Inferno_fort.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/f/f9/Adventure_Map_Inferno_fort.webp/189px-Adventure_Map_Inferno_fort.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/f/f9/Adventure_Map_Inferno_fort.webp/189px-Adventure_Map_Inferno_fort.webp.png",
           "width": 189,
           "height": 172
         }
@@ -275,8 +275,8 @@
         {
           "title": "Adventure Map Inferno citadel (HotA).webp",
           "pageUrl": null,
-          "mediaUrl": "https://heroes.thelazy.net/images/d/d8/Adventure_Map_Inferno_citadel_%28HotA%29.webp",
-          "imageUrl": "https://heroes.thelazy.net/images/d/d8/Adventure_Map_Inferno_citadel_%28HotA%29.webp",
+          "mediaUrl": "game-assets/wiki/d/d8/Adventure_Map_Inferno_citadel_%28HotA%29.webp",
+          "imageUrl": "game-assets/wiki/d/d8/Adventure_Map_Inferno_citadel_%28HotA%29.webp",
           "width": null,
           "height": null
         }
@@ -285,8 +285,8 @@
         {
           "title": "Adventure Map Inferno castle (HotA).webp",
           "pageUrl": null,
-          "mediaUrl": "https://heroes.thelazy.net/images/a/a5/Adventure_Map_Inferno_castle_%28HotA%29.webp",
-          "imageUrl": "https://heroes.thelazy.net/images/a/a5/Adventure_Map_Inferno_castle_%28HotA%29.webp",
+          "mediaUrl": "game-assets/wiki/a/a5/Adventure_Map_Inferno_castle_%28HotA%29.webp",
+          "imageUrl": "game-assets/wiki/a/a5/Adventure_Map_Inferno_castle_%28HotA%29.webp",
           "width": null,
           "height": null
         }
@@ -295,16 +295,16 @@
         {
           "title": "Adventure Map Inferno capitol (HotA).webp",
           "pageUrl": null,
-          "mediaUrl": "https://heroes.thelazy.net/images/7/74/Adventure_Map_Inferno_capitol_%28HotA%29.webp",
-          "imageUrl": "https://heroes.thelazy.net/images/7/74/Adventure_Map_Inferno_capitol_%28HotA%29.webp",
+          "mediaUrl": "game-assets/wiki/7/74/Adventure_Map_Inferno_capitol_%28HotA%29.webp",
+          "imageUrl": "game-assets/wiki/7/74/Adventure_Map_Inferno_capitol_%28HotA%29.webp",
           "width": null,
           "height": null
         },
         {
           "title": "Adventure Map Inferno capitol.webp",
           "pageUrl": null,
-          "mediaUrl": "https://heroes.thelazy.net/images/0/01/Adventure_Map_Inferno_capitol.webp",
-          "imageUrl": "https://heroes.thelazy.net/images/0/01/Adventure_Map_Inferno_capitol.webp",
+          "mediaUrl": "game-assets/wiki/0/01/Adventure_Map_Inferno_capitol.webp",
+          "imageUrl": "game-assets/wiki/0/01/Adventure_Map_Inferno_capitol.webp",
           "width": null,
           "height": null
         }
@@ -318,15 +318,15 @@
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia"
     },
     "pageUrl": "https://heroes.thelazy.net/index.php/Necropolis",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/56/Town_portrait_Necropolis_small.png",
-    "villagePortraitUrl": "https://heroes.thelazy.net/images/3/32/Town_portrait_Necropolis_village_small.png",
+    "portraitUrl": "game-assets/wiki/5/56/Town_portrait_Necropolis_small.png",
+    "villagePortraitUrl": "game-assets/wiki/3/32/Town_portrait_Necropolis_village_small.png",
     "adventureMap": {
       "village": [
         {
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Necropolis_village.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/6/68/Adventure_Map_Necropolis_village.webp/154px-Adventure_Map_Necropolis_village.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/6/68/Adventure_Map_Necropolis_village.webp/154px-Adventure_Map_Necropolis_village.webp.png",
           "width": 154,
           "height": 153
         }
@@ -336,7 +336,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Necropolis_fort_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/f/f2/Adventure_Map_Necropolis_fort_%28HotA%29.webp/134px-Adventure_Map_Necropolis_fort_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/f/f2/Adventure_Map_Necropolis_fort_%28HotA%29.webp/134px-Adventure_Map_Necropolis_fort_%28HotA%29.webp.png",
           "width": 134,
           "height": 145
         },
@@ -344,7 +344,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Necropolis_fort.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/0/07/Adventure_Map_Necropolis_fort.webp/154px-Adventure_Map_Necropolis_fort.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/0/07/Adventure_Map_Necropolis_fort.webp/154px-Adventure_Map_Necropolis_fort.webp.png",
           "width": 154,
           "height": 179
         }
@@ -354,7 +354,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Necropolis_citadel_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/4/4d/Adventure_Map_Necropolis_citadel_%28HotA%29.webp/134px-Adventure_Map_Necropolis_citadel_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/4/4d/Adventure_Map_Necropolis_citadel_%28HotA%29.webp/134px-Adventure_Map_Necropolis_citadel_%28HotA%29.webp.png",
           "width": 134,
           "height": 154
         }
@@ -364,7 +364,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Necropolis_castle_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/d/de/Adventure_Map_Necropolis_castle_%28HotA%29.webp/134px-Adventure_Map_Necropolis_castle_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/d/de/Adventure_Map_Necropolis_castle_%28HotA%29.webp/134px-Adventure_Map_Necropolis_castle_%28HotA%29.webp.png",
           "width": 134,
           "height": 178
         }
@@ -374,7 +374,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Necropolis_capitol_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/0/0c/Adventure_Map_Necropolis_capitol_%28HotA%29.webp/142px-Adventure_Map_Necropolis_capitol_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/0/0c/Adventure_Map_Necropolis_capitol_%28HotA%29.webp/142px-Adventure_Map_Necropolis_capitol_%28HotA%29.webp.png",
           "width": 142,
           "height": 189
         },
@@ -382,7 +382,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Necropolis_capitol.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/c/c8/Adventure_Map_Necropolis_capitol.webp/162px-Adventure_Map_Necropolis_capitol.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/c/c8/Adventure_Map_Necropolis_capitol.webp/162px-Adventure_Map_Necropolis_capitol.webp.png",
           "width": 162,
           "height": 189
         }
@@ -396,15 +396,15 @@
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia"
     },
     "pageUrl": "https://heroes.thelazy.net/index.php/Dungeon",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/b3/Town_portrait_Dungeon_small.png",
-    "villagePortraitUrl": "https://heroes.thelazy.net/images/c/c7/Town_portrait_Dungeon_village_small.png",
+    "portraitUrl": "game-assets/wiki/b/b3/Town_portrait_Dungeon_small.png",
+    "villagePortraitUrl": "game-assets/wiki/c/c7/Town_portrait_Dungeon_village_small.png",
     "adventureMap": {
       "village": [
         {
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Dungeon_village.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/6/62/Adventure_Map_Dungeon_village.webp/161px-Adventure_Map_Dungeon_village.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/6/62/Adventure_Map_Dungeon_village.webp/161px-Adventure_Map_Dungeon_village.webp.png",
           "width": 161,
           "height": 124
         }
@@ -414,7 +414,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Dungeon_fort_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/7/73/Adventure_Map_Dungeon_fort_%28HotA%29.webp/162px-Adventure_Map_Dungeon_fort_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/7/73/Adventure_Map_Dungeon_fort_%28HotA%29.webp/162px-Adventure_Map_Dungeon_fort_%28HotA%29.webp.png",
           "width": 162,
           "height": 165
         },
@@ -422,7 +422,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Dungeon_fort.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/d/d5/Adventure_Map_Dungeon_fort.webp/166px-Adventure_Map_Dungeon_fort.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/d/d5/Adventure_Map_Dungeon_fort.webp/166px-Adventure_Map_Dungeon_fort.webp.png",
           "width": 166,
           "height": 165
         }
@@ -432,7 +432,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Dungeon_citadel_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/5/57/Adventure_Map_Dungeon_citadel_%28HotA%29.webp/162px-Adventure_Map_Dungeon_citadel_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/5/57/Adventure_Map_Dungeon_citadel_%28HotA%29.webp/162px-Adventure_Map_Dungeon_citadel_%28HotA%29.webp.png",
           "width": 162,
           "height": 165
         }
@@ -442,7 +442,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Dungeon_castle_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/6/6d/Adventure_Map_Dungeon_castle_%28HotA%29.webp/162px-Adventure_Map_Dungeon_castle_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/6/6d/Adventure_Map_Dungeon_castle_%28HotA%29.webp/162px-Adventure_Map_Dungeon_castle_%28HotA%29.webp.png",
           "width": 162,
           "height": 165
         }
@@ -452,7 +452,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Dungeon_capitol_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/e/e4/Adventure_Map_Dungeon_capitol_%28HotA%29.webp/162px-Adventure_Map_Dungeon_capitol_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/e/e4/Adventure_Map_Dungeon_capitol_%28HotA%29.webp/162px-Adventure_Map_Dungeon_capitol_%28HotA%29.webp.png",
           "width": 162,
           "height": 165
         },
@@ -460,7 +460,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Dungeon_capitol.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/8/8d/Adventure_Map_Dungeon_capitol.webp/166px-Adventure_Map_Dungeon_capitol.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/8/8d/Adventure_Map_Dungeon_capitol.webp/166px-Adventure_Map_Dungeon_capitol.webp.png",
           "width": 166,
           "height": 165
         }
@@ -474,15 +474,15 @@
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia"
     },
     "pageUrl": "https://heroes.thelazy.net/index.php/Stronghold",
-    "portraitUrl": "https://heroes.thelazy.net/images/1/1c/Town_portrait_Stronghold_small.png",
-    "villagePortraitUrl": "https://heroes.thelazy.net/images/d/da/Town_portrait_Stronghold_village_small.png",
+    "portraitUrl": "game-assets/wiki/1/1c/Town_portrait_Stronghold_small.png",
+    "villagePortraitUrl": "game-assets/wiki/d/da/Town_portrait_Stronghold_village_small.png",
     "adventureMap": {
       "village": [
         {
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Stronghold_village.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/6/6d/Adventure_Map_Stronghold_village.webp/187px-Adventure_Map_Stronghold_village.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/6/6d/Adventure_Map_Stronghold_village.webp/187px-Adventure_Map_Stronghold_village.webp.png",
           "width": 187,
           "height": 151
         }
@@ -492,7 +492,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Stronghold_fort_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/1/11/Adventure_Map_Stronghold_fort_%28HotA%29.webp/171px-Adventure_Map_Stronghold_fort_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/1/11/Adventure_Map_Stronghold_fort_%28HotA%29.webp/171px-Adventure_Map_Stronghold_fort_%28HotA%29.webp.png",
           "width": 171,
           "height": 127
         },
@@ -500,7 +500,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Stronghold_fort.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/4/44/Adventure_Map_Stronghold_fort.webp/182px-Adventure_Map_Stronghold_fort.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/4/44/Adventure_Map_Stronghold_fort.webp/182px-Adventure_Map_Stronghold_fort.webp.png",
           "width": 182,
           "height": 140
         }
@@ -510,7 +510,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Stronghold_citadel_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/8/8a/Adventure_Map_Stronghold_citadel_%28HotA%29.webp/171px-Adventure_Map_Stronghold_citadel_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/8/8a/Adventure_Map_Stronghold_citadel_%28HotA%29.webp/171px-Adventure_Map_Stronghold_citadel_%28HotA%29.webp.png",
           "width": 171,
           "height": 136
         }
@@ -520,7 +520,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Stronghold_castle_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/9/9e/Adventure_Map_Stronghold_castle_%28HotA%29.webp/171px-Adventure_Map_Stronghold_castle_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/9/9e/Adventure_Map_Stronghold_castle_%28HotA%29.webp/171px-Adventure_Map_Stronghold_castle_%28HotA%29.webp.png",
           "width": 171,
           "height": 136
         }
@@ -530,7 +530,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Stronghold_capitol_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/7/7c/Adventure_Map_Stronghold_capitol_%28HotA%29.webp/171px-Adventure_Map_Stronghold_capitol_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/7/7c/Adventure_Map_Stronghold_capitol_%28HotA%29.webp/171px-Adventure_Map_Stronghold_capitol_%28HotA%29.webp.png",
           "width": 171,
           "height": 136
         },
@@ -538,7 +538,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Stronghold_capitol.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/9/98/Adventure_Map_Stronghold_capitol.webp/182px-Adventure_Map_Stronghold_capitol.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/9/98/Adventure_Map_Stronghold_capitol.webp/182px-Adventure_Map_Stronghold_capitol.webp.png",
           "width": 182,
           "height": 140
         }
@@ -552,15 +552,15 @@
       "pageUrl": "https://heroes.thelazy.net/index.php/Restoration_of_Erathia"
     },
     "pageUrl": "https://heroes.thelazy.net/index.php/Fortress",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/05/Town_portrait_Fortress_small.png",
-    "villagePortraitUrl": "https://heroes.thelazy.net/images/b/bc/Town_portrait_Fortress_village_small.png",
+    "portraitUrl": "game-assets/wiki/0/05/Town_portrait_Fortress_small.png",
+    "villagePortraitUrl": "game-assets/wiki/b/bc/Town_portrait_Fortress_village_small.png",
     "adventureMap": {
       "village": [
         {
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Fortress_village.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/e/e4/Adventure_Map_Fortress_village.webp/152px-Adventure_Map_Fortress_village.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/e/e4/Adventure_Map_Fortress_village.webp/152px-Adventure_Map_Fortress_village.webp.png",
           "width": 152,
           "height": 167
         }
@@ -570,7 +570,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Fortress_fort_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/d/de/Adventure_Map_Fortress_fort_%28HotA%29.webp/159px-Adventure_Map_Fortress_fort_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/d/de/Adventure_Map_Fortress_fort_%28HotA%29.webp/159px-Adventure_Map_Fortress_fort_%28HotA%29.webp.png",
           "width": 159,
           "height": 130
         },
@@ -578,7 +578,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Fortress_fort.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/7/71/Adventure_Map_Fortress_fort.webp/150px-Adventure_Map_Fortress_fort.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/7/71/Adventure_Map_Fortress_fort.webp/150px-Adventure_Map_Fortress_fort.webp.png",
           "width": 150,
           "height": 148
         }
@@ -588,7 +588,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Fortress_citadel_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/5/54/Adventure_Map_Fortress_citadel_%28HotA%29.webp/159px-Adventure_Map_Fortress_citadel_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/5/54/Adventure_Map_Fortress_citadel_%28HotA%29.webp/159px-Adventure_Map_Fortress_citadel_%28HotA%29.webp.png",
           "width": 159,
           "height": 139
         }
@@ -597,8 +597,8 @@
         {
           "title": "Adventure Map Fortress castle (HotA).webp",
           "pageUrl": null,
-          "mediaUrl": "https://heroes.thelazy.net/images/6/61/Adventure_Map_Fortress_castle_%28HotA%29.webp",
-          "imageUrl": "https://heroes.thelazy.net/images/6/61/Adventure_Map_Fortress_castle_%28HotA%29.webp",
+          "mediaUrl": "game-assets/wiki/6/61/Adventure_Map_Fortress_castle_%28HotA%29.webp",
+          "imageUrl": "game-assets/wiki/6/61/Adventure_Map_Fortress_castle_%28HotA%29.webp",
           "width": null,
           "height": null
         }
@@ -607,16 +607,16 @@
         {
           "title": "Adventure Map Fortress capitol (HotA).webp",
           "pageUrl": null,
-          "mediaUrl": "https://heroes.thelazy.net/images/b/b1/Adventure_Map_Fortress_capitol_%28HotA%29.webp",
-          "imageUrl": "https://heroes.thelazy.net/images/b/b1/Adventure_Map_Fortress_capitol_%28HotA%29.webp",
+          "mediaUrl": "game-assets/wiki/b/b1/Adventure_Map_Fortress_capitol_%28HotA%29.webp",
+          "imageUrl": "game-assets/wiki/b/b1/Adventure_Map_Fortress_capitol_%28HotA%29.webp",
           "width": null,
           "height": null
         },
         {
           "title": "Adventure Map Fortress capitol.webp",
           "pageUrl": null,
-          "mediaUrl": "https://heroes.thelazy.net/images/8/82/Adventure_Map_Fortress_capitol.webp",
-          "imageUrl": "https://heroes.thelazy.net/images/8/82/Adventure_Map_Fortress_capitol.webp",
+          "mediaUrl": "game-assets/wiki/8/82/Adventure_Map_Fortress_capitol.webp",
+          "imageUrl": "game-assets/wiki/8/82/Adventure_Map_Fortress_capitol.webp",
           "width": null,
           "height": null
         }
@@ -630,15 +630,15 @@
       "pageUrl": "https://heroes.thelazy.net/index.php/Armageddon%27s_Blade"
     },
     "pageUrl": "https://heroes.thelazy.net/index.php/Conflux",
-    "portraitUrl": "https://heroes.thelazy.net/images/0/07/Town_portrait_Conflux_small.png",
-    "villagePortraitUrl": "https://heroes.thelazy.net/images/7/75/Town_portrait_Conflux_village_small.png",
+    "portraitUrl": "game-assets/wiki/0/07/Town_portrait_Conflux_small.png",
+    "villagePortraitUrl": "game-assets/wiki/7/75/Town_portrait_Conflux_village_small.png",
     "adventureMap": {
       "village": [
         {
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Conflux_village_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/c/c5/Adventure_Map_Conflux_village_%28HotA%29.webp/170px-Adventure_Map_Conflux_village_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/c/c5/Adventure_Map_Conflux_village_%28HotA%29.webp/170px-Adventure_Map_Conflux_village_%28HotA%29.webp.png",
           "width": 170,
           "height": 153
         },
@@ -646,7 +646,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Conflux_village.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/c/c5/Adventure_Map_Conflux_village.webp/165px-Adventure_Map_Conflux_village.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/c/c5/Adventure_Map_Conflux_village.webp/165px-Adventure_Map_Conflux_village.webp.png",
           "width": 165,
           "height": 153
         }
@@ -656,7 +656,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Conflux_fort_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/4/46/Adventure_Map_Conflux_fort_%28HotA%29.webp/182px-Adventure_Map_Conflux_fort_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/4/46/Adventure_Map_Conflux_fort_%28HotA%29.webp/182px-Adventure_Map_Conflux_fort_%28HotA%29.webp.png",
           "width": 182,
           "height": 150
         },
@@ -664,7 +664,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Conflux_fort.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/e/e8/Adventure_Map_Conflux_fort.webp/184px-Adventure_Map_Conflux_fort.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/e/e8/Adventure_Map_Conflux_fort.webp/184px-Adventure_Map_Conflux_fort.webp.png",
           "width": 184,
           "height": 182
         }
@@ -674,7 +674,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Conflux_citadel_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/3/3d/Adventure_Map_Conflux_citadel_%28HotA%29.webp/182px-Adventure_Map_Conflux_citadel_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/3/3d/Adventure_Map_Conflux_citadel_%28HotA%29.webp/182px-Adventure_Map_Conflux_citadel_%28HotA%29.webp.png",
           "width": 182,
           "height": 192
         }
@@ -684,7 +684,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Conflux_castle_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/a/ab/Adventure_Map_Conflux_castle_%28HotA%29.webp/189px-Adventure_Map_Conflux_castle_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/a/ab/Adventure_Map_Conflux_castle_%28HotA%29.webp/189px-Adventure_Map_Conflux_castle_%28HotA%29.webp.png",
           "width": 189,
           "height": 192
         }
@@ -694,7 +694,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Conflux_capitol_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/7/71/Adventure_Map_Conflux_capitol_%28HotA%29.webp/189px-Adventure_Map_Conflux_capitol_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/7/71/Adventure_Map_Conflux_capitol_%28HotA%29.webp/189px-Adventure_Map_Conflux_capitol_%28HotA%29.webp.png",
           "width": 189,
           "height": 192
         },
@@ -702,7 +702,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Conflux_capitol.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/e/ea/Adventure_Map_Conflux_capitol.webp/184px-Adventure_Map_Conflux_capitol.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/e/ea/Adventure_Map_Conflux_capitol.webp/184px-Adventure_Map_Conflux_capitol.webp.png",
           "width": 184,
           "height": 192
         }
@@ -716,15 +716,15 @@
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
     },
     "pageUrl": "https://heroes.thelazy.net/index.php/Cove",
-    "portraitUrl": "https://heroes.thelazy.net/images/5/5d/Town_portrait_Cove_small.png",
-    "villagePortraitUrl": "https://heroes.thelazy.net/images/0/04/Town_portrait_Cove_village_small.png",
+    "portraitUrl": "game-assets/wiki/5/5d/Town_portrait_Cove_small.png",
+    "villagePortraitUrl": "game-assets/wiki/0/04/Town_portrait_Cove_village_small.png",
     "adventureMap": {
       "village": [
         {
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Cove_village_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/f/f4/Adventure_Map_Cove_village_%28HotA%29.webp/168px-Adventure_Map_Cove_village_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/f/f4/Adventure_Map_Cove_village_%28HotA%29.webp/168px-Adventure_Map_Cove_village_%28HotA%29.webp.png",
           "width": 168,
           "height": 147
         }
@@ -734,7 +734,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Cove_fort_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/7/73/Adventure_Map_Cove_fort_%28HotA%29.webp/166px-Adventure_Map_Cove_fort_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/7/73/Adventure_Map_Cove_fort_%28HotA%29.webp/166px-Adventure_Map_Cove_fort_%28HotA%29.webp.png",
           "width": 166,
           "height": 129
         }
@@ -744,7 +744,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Cove_citadel_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/5/5d/Adventure_Map_Cove_citadel_%28HotA%29.webp/166px-Adventure_Map_Cove_citadel_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/5/5d/Adventure_Map_Cove_citadel_%28HotA%29.webp/166px-Adventure_Map_Cove_citadel_%28HotA%29.webp.png",
           "width": 166,
           "height": 152
         }
@@ -754,7 +754,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Cove_castle_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/e/eb/Adventure_Map_Cove_castle_%28HotA%29.webp/176px-Adventure_Map_Cove_castle_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/e/eb/Adventure_Map_Cove_castle_%28HotA%29.webp/176px-Adventure_Map_Cove_castle_%28HotA%29.webp.png",
           "width": 176,
           "height": 152
         }
@@ -764,7 +764,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Cove_capitol_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/9/97/Adventure_Map_Cove_capitol_%28HotA%29.webp/176px-Adventure_Map_Cove_capitol_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/9/97/Adventure_Map_Cove_capitol_%28HotA%29.webp/176px-Adventure_Map_Cove_capitol_%28HotA%29.webp.png",
           "width": 176,
           "height": 158
         }
@@ -778,15 +778,15 @@
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
     },
     "pageUrl": "https://heroes.thelazy.net/index.php/Factory",
-    "portraitUrl": "https://heroes.thelazy.net/images/b/b8/Town_portrait_Factory_small.png",
-    "villagePortraitUrl": "https://heroes.thelazy.net/images/8/80/Town_portrait_Factory_village_small.png",
+    "portraitUrl": "game-assets/wiki/b/b8/Town_portrait_Factory_small.png",
+    "villagePortraitUrl": "game-assets/wiki/8/80/Town_portrait_Factory_village_small.png",
     "adventureMap": {
       "village": [
         {
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Factory_village_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/c/cb/Adventure_Map_Factory_village_%28HotA%29.webp/173px-Adventure_Map_Factory_village_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/c/cb/Adventure_Map_Factory_village_%28HotA%29.webp/173px-Adventure_Map_Factory_village_%28HotA%29.webp.png",
           "width": 173,
           "height": 167
         }
@@ -796,7 +796,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Factory_fort_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/8/84/Adventure_Map_Factory_fort_%28HotA%29.webp/170px-Adventure_Map_Factory_fort_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/8/84/Adventure_Map_Factory_fort_%28HotA%29.webp/170px-Adventure_Map_Factory_fort_%28HotA%29.webp.png",
           "width": 170,
           "height": 124
         }
@@ -806,7 +806,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Factory_citadel_(HotA).webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/5/5d/Adventure_Map_Factory_citadel_%28HotA%29.webp/189px-Adventure_Map_Factory_citadel_%28HotA%29.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/5/5d/Adventure_Map_Factory_citadel_%28HotA%29.webp/189px-Adventure_Map_Factory_citadel_%28HotA%29.webp.png",
           "width": 189,
           "height": 154
         }
@@ -815,8 +815,8 @@
         {
           "title": "Adventure Map Factory castle (HotA).webp",
           "pageUrl": null,
-          "mediaUrl": "https://heroes.thelazy.net/images/b/bd/Adventure_Map_Factory_castle_%28HotA%29.webp",
-          "imageUrl": "https://heroes.thelazy.net/images/b/bd/Adventure_Map_Factory_castle_%28HotA%29.webp",
+          "mediaUrl": "game-assets/wiki/b/bd/Adventure_Map_Factory_castle_%28HotA%29.webp",
+          "imageUrl": "game-assets/wiki/b/bd/Adventure_Map_Factory_castle_%28HotA%29.webp",
           "width": null,
           "height": null
         }
@@ -825,8 +825,8 @@
         {
           "title": "Adventure Map Factory capitol (HotA).webp",
           "pageUrl": null,
-          "mediaUrl": "https://heroes.thelazy.net/images/7/7e/Adventure_Map_Factory_capitol_%28HotA%29.webp",
-          "imageUrl": "https://heroes.thelazy.net/images/7/7e/Adventure_Map_Factory_capitol_%28HotA%29.webp",
+          "mediaUrl": "game-assets/wiki/7/7e/Adventure_Map_Factory_capitol_%28HotA%29.webp",
+          "imageUrl": "game-assets/wiki/7/7e/Adventure_Map_Factory_capitol_%28HotA%29.webp",
           "width": null,
           "height": null
         }
@@ -840,15 +840,15 @@
       "pageUrl": "https://heroes.thelazy.net/index.php/Horn_of_the_Abyss"
     },
     "pageUrl": "https://heroes.thelazy.net/index.php/Bulwark",
-    "portraitUrl": "https://heroes.thelazy.net/images/4/42/Town_portrait_Bulwark_small.png",
-    "villagePortraitUrl": "https://heroes.thelazy.net/images/0/00/Town_portrait_Bulwark_village_small.png",
+    "portraitUrl": "game-assets/wiki/4/42/Town_portrait_Bulwark_small.png",
+    "villagePortraitUrl": "game-assets/wiki/0/00/Town_portrait_Bulwark_village_small.png",
     "adventureMap": {
       "village": [
         {
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Bulwark_village.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/0/08/Adventure_Map_Bulwark_village.webp/192px-Adventure_Map_Bulwark_village.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/0/08/Adventure_Map_Bulwark_village.webp/192px-Adventure_Map_Bulwark_village.webp.png",
           "width": 192,
           "height": 192
         }
@@ -858,7 +858,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Bulwark_fort.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/9/91/Adventure_Map_Bulwark_fort.webp/192px-Adventure_Map_Bulwark_fort.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/9/91/Adventure_Map_Bulwark_fort.webp/192px-Adventure_Map_Bulwark_fort.webp.png",
           "width": 192,
           "height": 192
         }
@@ -868,7 +868,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Bulwark_citadel.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/5/50/Adventure_Map_Bulwark_citadel.webp/192px-Adventure_Map_Bulwark_citadel.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/5/50/Adventure_Map_Bulwark_citadel.webp/192px-Adventure_Map_Bulwark_citadel.webp.png",
           "width": 192,
           "height": 192
         }
@@ -878,7 +878,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Bulwark_castle.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/1/18/Adventure_Map_Bulwark_castle.webp/192px-Adventure_Map_Bulwark_castle.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/1/18/Adventure_Map_Bulwark_castle.webp/192px-Adventure_Map_Bulwark_castle.webp.png",
           "width": 192,
           "height": 192
         }
@@ -888,7 +888,7 @@
           "title": null,
           "pageUrl": "https://heroes.thelazy.net/index.php/File:Adventure_Map_Bulwark_capitol.webp",
           "mediaUrl": null,
-          "imageUrl": "https://heroes.thelazy.net/images/thumb/8/89/Adventure_Map_Bulwark_capitol.webp/192px-Adventure_Map_Bulwark_capitol.webp.png",
+          "imageUrl": "game-assets/wiki/thumb/8/89/Adventure_Map_Bulwark_capitol.webp/192px-Adventure_Map_Bulwark_capitol.webp.png",
           "width": 192,
           "height": 192
         }
